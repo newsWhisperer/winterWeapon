@@ -7,18 +7,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.516
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,1,0.50125
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,1,0.501
-'Winter',de,Klima,#2d8f29,#5bba3d,2,0.5
+'Winter',de,Wetter,#2d8f29,#5bba3d,2,0.5
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.5
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.5
 'Erdgasbedarf',de,Other,#545557,#6b6c6e,3,0.5
-'Winter Gas',de,Klima,#2d8f29,#318c15,2,0.5
+'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.5
 'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.5
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.5
-'kalter Winter',de,Klima,#2d8f29,#186b15,2,0.5
-'milder Winter',de,Klima,#2d8f29,#4ea64b,2,0.5
+'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.5
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.5
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.5
 'Blackout',de,Other,#545557,#6b6c6e,2,0.5
-'Wintermonate',de,Klima,#2d8f29,#28ba23,2,0.5
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.5
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.5
 'Gas-Pipelines',de,Other,#545557,#6b6c6e,2,0.5
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.5
@@ -49,12 +49,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.5
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.5
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.5
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.5
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.5
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.5
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.5
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.5
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.5
-'Ukraine Klimawandel',de,Russland,#a6190f,#87130b,2,0.5
+'Ukraine Klimawandel',de,Klimawandel,#578223,#588213,2,0.5
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.5
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.5
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,2,0.5
@@ -63,4 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.5
 'Gaslieferstop',de,Russland,#a6190f,#9c3d1a,2,0.5
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.5
-'Gas Klimawandel',de,Klima,#2d8f29,#217c25,1,0.475
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.475
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.5
+
