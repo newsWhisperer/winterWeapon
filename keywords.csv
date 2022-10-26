@@ -1,0 +1,66 @@
+keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.54575
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,1,0.525
+'Nordstream',de,Russland,#a6190f,#8c2d0a,1,0.525
+'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.525
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.525
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,1,0.50125
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,1,0.501
+'Wintermonate',de,Klima,#2d8f29,#28ba23,2,0.5
+'Blackout',de,Other,#545557,#6b6c6e,2,0.5
+'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.5
+'milder Winter',de,Klima,#2d8f29,#4ea64b,2,0.5
+'kalter Winter',de,Klima,#2d8f29,#186b15,2,0.5
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.5
+'Winter',de,Klima,#2d8f29,#5bba3d,2,0.5
+'Winter Gas',de,Klima,#2d8f29,#318c15,2,0.5
+'Erdgasbedarf',de,Other,#545557,#6b6c6e,3,0.5
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.5
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.5
+'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.5
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,3,0.5
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.5
+'Gasabschaltung',de,Politik,#1f2dc4,#4670e3,2,0.5
+'Gas-Pipelines',de,Other,#545557,#6b6c6e,2,0.5
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.5
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.5
+'Gasstopp',de,Russland,#a6190f,#a02b20,3,0.5
+'Gasstreit',de,Other,#545557,#6b6c7e,3,0.5
+'Gaskrise',de,Other,#545557,#6b7c6e,3,0.5
+'Gaskrieg',de,Other,#545557,#7b6c6e,3,0.5
+'Nord Stream',de,Other,#545557,#6b6c6e,3,0.5
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.5
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.5
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,3,0.5
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.5
+'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.5
+'Heizungsabsenkung',de,Gesellschaft,#6023a6,#7d4ead,2,0.5
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.5
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.5
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.5
+'Gas Putin',de,Russland,#a6190f,#a31223,2,0.5
+'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.5
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.5
+'Netzagentur',de,Politik,#1f2dc4,#1925a6,2,0.5
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.5
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.5
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,3,0.5
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.5
+'Gas Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,2,0.5
+'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.5
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.5
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.5
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.5
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.5
+'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.5
+'Ukraine Klimawandel',de,Russland,#a6190f,#87130b,2,0.5
+'russisches Gas',de,Russland,#a6190f,#b32319,2,0.5
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.5
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,2,0.5
+'Gas-Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,2,0.5
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.5
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.5
+'Gaslieferstop',de,Russland,#a6190f,#9c3d1a,2,0.5
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.5
+'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.5
+'Gas Klimawandel',de,Klima,#2d8f29,#217c25,1,0.475
