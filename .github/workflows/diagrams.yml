@@ -28,6 +28,8 @@ jobs:
           chown -R $(id -u):$(id -g) $PWD
 #        with:
 #          ref: main
+      - name: Install libraries
+        run: (pip3 install nltk HanTa textblob_de sklearn)
       - name: cd /cre/python/
         run: (cd /cre/python/)
       - name: Run diagrams
