@@ -36,5 +36,5 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
 #          pull: '--rebase --autostash ...'
-          add: 'img/*.png'
+          add: 'img/*.png csv/words_bayes_topic_*.csv'
           tag_push: '--force'
