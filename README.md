@@ -1,5 +1,5 @@
-# bioDiversity
-Collects news for biodiversity related topics
+# winterWeapon
+Collects news for energy crisis in winter
 
 
 
