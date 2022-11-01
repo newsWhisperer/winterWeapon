@@ -29,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.51
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,1,0.5093874999999999
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,1,0.509
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.507
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.507
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.503
 'Winter Gas',de,Wetter,#2d8f29,#318c15,1,0.503
@@ -39,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.5
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.5
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.5
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,3,0.5
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.5
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.5
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.5
