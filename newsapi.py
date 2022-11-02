@@ -1,12 +1,13 @@
 import mysecrets
 import os
 import sys
+import math
 
-#pip3 install newsapi-python
 import pandas as pd
 
 from pathlib import Path
 import os.path
+import glob
 
 import aiohttp
 import asyncio
@@ -20,6 +21,7 @@ import hashlib
 import glob
 
 import datetime
+#from datetime import timezone
 from dateutil import parser
 
 DATA_PATH = Path.cwd()
@@ -32,6 +34,45 @@ keywordsDF['crc'] = keywordsDF['uniqueString'].apply(
         hashlib.sha256(x.encode()).hexdigest()
 )
 
+def getNewsFiles():
+    fileName = './csv/news_????_??.csv'
+    files = glob.glob(fileName)
+    return files  
+
+def getNewsDFbyList(files):    
+    newsDF = pd.DataFrame(None)
+    for file in files:
+        df = pd.read_csv(file, delimiter=',')
+        if(newsDF.empty):
+            newsDF = df
+        else:
+            newsDF = pd.concat([newsDF, df])
+    newsDF = newsDF.sort_values(by=['published'], ascending=True)        
+    return newsDF 
+
+def getNewsDF():
+    files = getNewsFiles()
+    newsDF = getNewsDFbyList(files)
+    return newsDF     
+
+newsDf = getNewsDF()
+keywordsNewsDF = newsDf.groupby('keyword').count()
+keywordsNewsDF = keywordsNewsDF.drop(columns = ['language'])
+
+'''
+newsDf['age'] = newsDf['published'].apply(
+    lambda x: 
+        datetime.datetime.now(datetime.timezone.utc) - parser.parse(x)
+)
+'''
+keywordsNewsDF2 = pd.merge(keywordsDF, keywordsNewsDF, how='left', left_on=['keyword'], right_on=['keyword'])
+keywordsNewsDF2['index'] = keywordsNewsDF2['index'].fillna(0)
+keywordsNewsDF2 = keywordsNewsDF2.sort_values(by=['index'], ascending=True)  
+
+rows20 = int(math.ceil(keywordsNewsDF2.shape[0]/5))
+keywordsNewsDF2 = keywordsNewsDF2.head(rows20)
+
+print(keywordsNewsDF2)   
 
 
 searchWords = dict(zip(keywordsDF.keyword.values, keywordsDF.language.values))
@@ -252,6 +293,8 @@ def inqRandomNews():
 
 
     rndKey = keywordsDF.sample()
+    if(random.random()>0.75):
+        rndKey = keywordsNewsDF2.sample()
     #if FoundAny: newLimit = minimum(currPage+1,limitPage)
     #if foundNothing:  newLimit = maximum(1,random.choice(range(currPage-1,limitPage-1)))
 
@@ -360,4 +403,5 @@ if(age>60*60*5*0):
 #keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
 keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)
 keywordsDF.to_csv(DATA_PATH / 'keywords.csv', columns=keywordsFields,index=False)  
+
     
