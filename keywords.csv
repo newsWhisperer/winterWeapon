@@ -17,10 +17,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,1,0.518
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.517
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.5166666666666666
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.516
 'Netzagentur',de,Politik,#1f2dc4,#1925a6,1,0.516
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.516
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.51505
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.51505
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.515
 'russisches Gas',de,Russland,#a6190f,#b32319,1,0.512
 'Gas Putin',de,Russland,#a6190f,#a31223,1,0.51185
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.5118425
@@ -35,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,1,0.5024
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,1,0.50125
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.5
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.5
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.5
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.5
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.5
