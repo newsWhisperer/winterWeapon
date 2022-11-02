@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.519
 'Blackout',de,Other,#545557,#6b6c6e,1,0.519
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.517
-'Netzagentur',de,Politik,#1f2dc4,#1925a6,1,0.516
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.516
+'Netzagentur',de,Politik,#1f2dc4,#1925a6,1,0.516
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.51505
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.51505
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.515
@@ -35,10 +35,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.503
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,1,0.5024
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,1,0.50125
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.5
 'Gaskrieg',de,Other,#545557,#7b6c6e,3,0.5
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.5
-'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.5
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.5
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,2,0.5
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.5
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.5
@@ -51,19 +50,20 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Other,#545557,#6b6c6e,1,0.4922499999999999
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.492
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.4919642857142856
+'Russland Gas',de,Russland,#a6190f,#b01b10,1,0.491
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.4908333333333332
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,1,0.4895525
 'Gas-Pipelines',de,Other,#545557,#6b6c6e,1,0.489
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.4869642857142857
-'Gas Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,1,0.475
-'Gasabschaltung',de,Politik,#1f2dc4,#4670e3,1,0.475
-'Gas-Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.475
-'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.475
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.475
-'Erdgasbedarf',de,Other,#545557,#6b6c6e,2,0.475
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.475
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.475
-'Gaslieferstop',de,Russland,#a6190f,#9c3d1a,1,0.475
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.475
 'Gasstreit',de,Other,#545557,#6b6c7e,2,0.475
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.475
+'Gaslieferstop',de,Russland,#a6190f,#9c3d1a,1,0.475
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.475
+'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.475
+'Erdgasbedarf',de,Other,#545557,#6b6c6e,2,0.475
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.475
+'Gas-Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.475
+'Gasabschaltung',de,Politik,#1f2dc4,#4670e3,1,0.475
+'Gas Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,1,0.475
 'Heizungsabsenkung',de,Gesellschaft,#6023a6,#7d4ead,1,0.3675459453124998
