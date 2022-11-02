@@ -9,16 +9,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Klimawandel,#578223,#588213,1,0.525
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.5234
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.5222
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.522
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.522
 'Winter',de,Wetter,#2d8f29,#5bba3d,1,0.52
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.51965
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.519
 'Blackout',de,Other,#545557,#6b6c6e,1,0.519
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.517
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.516
 'Netzagentur',de,Politik,#1f2dc4,#1925a6,1,0.516
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.51505
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.516
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.51505
+'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.51505
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.515
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.51485
 'russisches Gas',de,Russland,#a6190f,#b32319,1,0.512
@@ -34,9 +35,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.503
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,1,0.5024
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,1,0.50125
-'Gaskrieg',de,Other,#545557,#7b6c6e,3,0.5
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.5
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.5
+'Gaskrieg',de,Other,#545557,#7b6c6e,3,0.5
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.5
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.5
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,2,0.5
