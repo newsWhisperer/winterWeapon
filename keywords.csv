@@ -2,13 +2,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.54575
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,1,0.544
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,1,0.53995
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.53985
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.5384125
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,1,0.53375
 'Gasstopp',de,Russland,#a6190f,#a02b20,2,0.525
 'Ukraine Klimawandel',de,Klimawandel,#578223,#588213,1,0.525
 'Gas Putin',de,Russland,#a6190f,#a31223,1,0.523
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.523
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.523
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.5222
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.522
 'Winter',de,Wetter,#2d8f29,#5bba3d,1,0.52
@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.5
 'Gas Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,2,0.5
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.5
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.49874999999999997
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.4987499999999999
 'Nordstream',de,Russland,#a6190f,#8c2d0a,1,0.4963418749999999
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.49305
 'Nord Stream',de,Other,#545557,#6b6c6e,1,0.4922499999999999
