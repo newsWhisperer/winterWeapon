@@ -7,8 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,1,0.53375
 'Gasstopp',de,Russland,#a6190f,#a02b20,2,0.525
 'Ukraine Klimawandel',de,Klimawandel,#578223,#588213,1,0.525
-'Gas Putin',de,Russland,#a6190f,#a31223,1,0.523
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.5234
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.523
+'Gas Putin',de,Russland,#a6190f,#a31223,1,0.523
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.5222
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.522
 'Winter',de,Wetter,#2d8f29,#5bba3d,1,0.52
@@ -21,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#1925a6,1,0.516
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.51505
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.51505
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.512
 'russisches Gas',de,Russland,#a6190f,#b32319,1,0.512
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.5118425
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.511
