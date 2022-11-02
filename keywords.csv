@@ -28,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,1,0.5093874999999999
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,1,0.509
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.507
+'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,2,0.5
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.507
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.503
 'Winter Gas',de,Wetter,#2d8f29,#318c15,1,0.503
