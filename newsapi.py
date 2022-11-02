@@ -67,6 +67,7 @@ newsDf['age'] = newsDf['published'].apply(
 '''
 keywordsNewsDF2 = pd.merge(keywordsDF, keywordsNewsDF, how='left', left_on=['keyword'], right_on=['keyword'])
 keywordsNewsDF2['index'] = keywordsNewsDF2['index'].fillna(0)
+keywordsNewsDF2['index'] = keywordsNewsDF2['index'] + keywordsNewsDF2['ratioNew']
 keywordsNewsDF2 = keywordsNewsDF2.sort_values(by=['index'], ascending=True)  
 
 rows20 = int(math.ceil(keywordsNewsDF2.shape[0]/5))
