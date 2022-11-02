@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.53985
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.5384125
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,1,0.53375
-'Gasstopp',de,Russland,#a6190f,#a02b20,2,0.525
 'Ukraine Klimawandel',de,Klimawandel,#578223,#588213,1,0.525
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.5234
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.523
@@ -35,18 +34,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.503
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,1,0.5024
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,1,0.50125
+'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.5
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.5
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.5
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.5
 'Gas Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,2,0.5
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.5
 'Gaskrieg',de,Other,#545557,#7b6c6e,3,0.5
-'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.5
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.5
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.5
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.5
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.5
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.5
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.5
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.49874999999999997
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.4987499999999999
 'Nordstream',de,Russland,#a6190f,#8c2d0a,1,0.4963418749999999
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.49305
