@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.519
 'Blackout',de,Other,#545557,#6b6c6e,1,0.519
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.517
-'Netzagentur',de,Politik,#1f2dc4,#1925a6,1,0.516
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.516
+'Netzagentur',de,Politik,#1f2dc4,#1925a6,1,0.516
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.51505
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.51505
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.515
@@ -59,11 +59,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgasbedarf',de,Other,#545557,#6b6c6e,2,0.475
 'Gas Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,1,0.475
 'Gasabschaltung',de,Politik,#1f2dc4,#4670e3,1,0.475
-'Gas-Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.475
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.475
 'Gaslieferstop',de,Russland,#a6190f,#9c3d1a,1,0.475
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.475
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.475
 'Gasstreit',de,Other,#545557,#6b6c7e,2,0.475
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.475
+'Gas-Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.46791666666666665
 'Heizungsabsenkung',de,Gesellschaft,#6023a6,#7d4ead,1,0.3675459453124998
