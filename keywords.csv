@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,1,0.53995
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.53985
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.5384125
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,1,0.53375
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,1,0.5370625
 'Energiesicherheit',de,Other,#545557,#6b6c6e,1,0.5311
 'Ukraine Klimawandel',de,Klimawandel,#578223,#588213,1,0.525
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.5234
@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.519
 'Blackout',de,Other,#545557,#6b6c6e,1,0.519
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.517
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.516
 'Netzagentur',de,Politik,#1f2dc4,#1925a6,1,0.516
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.516
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.51505
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.51505
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.515
@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.4987499999999999
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.4987499999999999
 'Nordstream',de,Russland,#a6190f,#8c2d0a,1,0.4963418749999999
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.49410714285714286
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.4941071428571428
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.49305
 'Nord Stream',de,Other,#545557,#6b6c6e,1,0.4922499999999999
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.492
