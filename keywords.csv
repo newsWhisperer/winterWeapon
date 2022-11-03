@@ -28,11 +28,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.51
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,1,0.5093874999999999
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,1,0.509
-'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.5083333333333333
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.507
+'Winter Gas',de,Wetter,#2d8f29,#318c15,1,0.503
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.503
 'LNG',de,Quelle,#3d9a9c,#14c7a3,1,0.503
-'Winter Gas',de,Wetter,#2d8f29,#318c15,1,0.503
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,1,0.5024
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,1,0.50125
 'russisches Gas',de,Russland,#a6190f,#b32319,1,0.5004
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas-Pipelines',de,Other,#545557,#6b6c6e,1,0.489
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.4869642857142857
 'Erdgas Russland',de,Russland,#a6190f,#b32233,1,0.483
+'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.4829166666666666
 'Erdgasbedarf',de,Other,#545557,#6b6c6e,2,0.475
 'Gas Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,1,0.475
 'Gasabschaltung',de,Politik,#1f2dc4,#4670e3,1,0.475
