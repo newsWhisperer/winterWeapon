@@ -3,8 +3,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,1,0.544
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.53985
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.5384125
+'Gaskrieg',de,Russland,#a6190f,#b22305,3,0.5
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,1,0.5370625
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,1,0.5369525
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,3,0.5
 'Energiesicherheit',de,Other,#545557,#6b6c6e,1,0.5311
 'Ukraine Klimawandel',de,Klimawandel,#578223,#588213,1,0.525
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.5234
@@ -13,12 +15,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.522
 'Winter',de,Wetter,#2d8f29,#5bba3d,1,0.52
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.51965
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,3,0.5
+'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,3,0.5
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.519
 'Blackout',de,Other,#545557,#6b6c6e,1,0.519
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.517
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.5
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.516
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.51505
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.51505
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,3,0.5
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.515
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.51485
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.51485
@@ -28,14 +34,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.51
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,1,0.5093874999999999
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.509375
+'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.5
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,1,0.509
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.507
 'LNG',de,Quelle,#3d9a9c,#14c7a3,1,0.503
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.5
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.503
+'Dämmstoffe Gasverbrauch',de,Gesellschaft,#6023a6,#7132cb,3,0.5
 'Winter Gas',de,Wetter,#2d8f29,#318c15,1,0.503
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,1,0.5024
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,1,0.50125
 'russisches Gas',de,Russland,#a6190f,#b32319,1,0.5004
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.5
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.5
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.5
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.5
@@ -46,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,3,0.5
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.5
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.5
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.5
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,3,0.5
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.5
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.5
