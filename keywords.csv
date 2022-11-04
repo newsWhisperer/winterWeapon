@@ -45,17 +45,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.4987499999999999
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.4987499999999999
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,1,0.497
-'Nordstream',de,Russland,#a6190f,#8c2d0a,1,0.4963418749999999
+'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.4963418749999999
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.4953676470588235
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.4941071428571428
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.49305
-'Nord Stream',de,Other,#545557,#6b6c6e,1,0.4922499999999999
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,1,0.4922499999999999
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.492
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.4919642857142856
 'Russland Gas',de,Russland,#a6190f,#b01b10,1,0.491
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.4908333333333332
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,1,0.4895525
-'Gas-Pipelines',de,Other,#545557,#6b6c6e,1,0.489
+'Gas-Pipelines',de,Sabotage,#8723a6,#9723b6,1,0.489
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.4869642857142857
 'Erdgas Russland',de,Russland,#a6190f,#b32233,1,0.483
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.4829166666666666
@@ -69,3 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgasbedarf',de,Other,#545557,#6b6c6e,1,0.45125
 'Gaslieferstop',de,Russland,#a6190f,#9c3d1a,1,0.45125
 'Heizungsabsenkung',de,Gesellschaft,#6023a6,#7d4ead,1,0.3675459453124998
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.5
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,3,0.5
+'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,3,0.5
