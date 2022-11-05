@@ -338,6 +338,7 @@ def inqRandomNews():
             jsonData = json.loads(response.text)
             if (('ok'==jsonData['status']) and (jsonData['totalResults']>0)):
               if(len(jsonData['articles']) > 0):
+                currRatio = jsonData['totalResults']/1E9+jsonData['articles']/1E4
                 deltaLimit = 0
                 #newLimit = limitPages
                 if(len(jsonData['articles']) > 30):
@@ -347,7 +348,7 @@ def inqRandomNews():
                 print("archive first")
                 newArticles = filterNewAndArchive(jsonData['articles'], language, keyWord)
                 print('#new Articles: '+str(len(newArticles)))
-                currRatio = len(newArticles)/len(jsonData['articles'])
+                currRatio += len(newArticles)/len(jsonData['articles'])
                 if(currRatio>0.5):
                     deltaLimit += 1
                     #newLimit = max(currPage+2,limitPages)
