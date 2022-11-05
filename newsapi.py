@@ -338,7 +338,7 @@ def inqRandomNews():
             jsonData = json.loads(response.text)
             if (('ok'==jsonData['status']) and (jsonData['totalResults']>0)):
               if(len(jsonData['articles']) > 0):
-                currRatio = jsonData['totalResults']/1E9+jsonData['articles']/1E4
+                currRatio = jsonData['totalResults']/1E9+len(jsonData['articles'])/1E4
                 deltaLimit = 0
                 #newLimit = limitPages
                 if(len(jsonData['articles']) > 30):
