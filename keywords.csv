@@ -18,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.517
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.516
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.51505
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.51505
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.515
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.51485
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.51485
@@ -57,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.5
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,3,0.5
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.5
+'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.5
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.5
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,3,0.5
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.499
