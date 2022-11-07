@@ -12,7 +12,7 @@ on:
 #    daily,every 6 hours #m h d/m m d/w 
 #    - cron:  '00 */6 * * *'
 #    every 2 hour, but run only, when last collection > 5h
-    - cron:  '20 */2 * * *'
+    - cron:  '20 */4 * * *'
    
 jobs:
   docker-run-action:
