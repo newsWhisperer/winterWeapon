@@ -3,16 +3,17 @@
 name: harvest:0.0
 
 on:
-  push:
-    branches:
-      - 'main'
+#  push:
+#    branches:
+#      - 'main'
   workflow_dispatch:
   schedule:
     # * is a special character in YAML so you have to quote this string : 
 #    daily,every 6 hours #m h d/m m d/w 
 #    - cron:  '00 */6 * * *'
 #    every 2 hour, but run only, when last collection > 5h
-    - cron:  '20 */4 * * *'
+#    - cron:  '20 */4 * * *'
+    - cron:  '20 */4 * 1 *'
    
 jobs:
   docker-run-action:
