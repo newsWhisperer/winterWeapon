@@ -262,7 +262,7 @@ def filterNewAndArchive(articles, language, keyWord):
             if(not data['url'] in collectedNews[fileDate]):
                 data = archiveUrl(data)
                 newArticles.append(data)
-        if((time.time() - startTime) > 60*20):
+        if((time.time() - startTime) > 60*10):
             return newArticles        
     return newArticles
 
