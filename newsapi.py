@@ -33,6 +33,8 @@ keywordsDF['crc'] = keywordsDF['uniqueString'].apply(
     lambda x: 
         hashlib.sha256(x.encode()).hexdigest()
 )
+keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)  
+
 
 def getNewsFiles():
     fileName = './csv/news_????_??.csv'
@@ -72,8 +74,11 @@ keywordsNewsDF2 = keywordsNewsDF2.sort_values(by=['index'], ascending=True)
 
 rows20 = int(math.ceil(keywordsNewsDF2.shape[0]/5))
 keywordsNewsDF2 = keywordsNewsDF2.head(rows20)
-
 print(keywordsNewsDF2)   
+
+rows20 = int(math.ceil(keywordsDF.shape[0]/5))
+keywordsDF3 = keywordsDF.head(rows20)
+print(keywordsDF3)
 
 
 searchWords = dict(zip(keywordsDF.keyword.values, keywordsDF.language.values))
@@ -294,10 +299,20 @@ def inqRandomNews():
 
 
     rndKey = keywordsDF.sample()
-    if(random.random()>0.25):
+    randomNumber = random.random()
+    print(['randomNumber: ',randomNumber])
+    if(random.random()>0.7):
         rndKey = keywordsNewsDF2.sample()
+    if(randomNumber<0.2): 
+        print("DF3")
+        rndKey = keywordsDF3.sample()
     #if FoundAny: newLimit = minimum(currPage+1,limitPage)
     #if foundNothing:  newLimit = maximum(1,random.choice(range(currPage-1,limitPage-1)))
+
+    ## cheat for now!
+    ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'Wintereinbruch'"]
+    ### rndKey = keywordEmptyDF.sample()
+    ## rm in final version
 
     #keyWord = random.choice(searchWords)
     #language = 'de'
@@ -352,7 +367,8 @@ def inqRandomNews():
                 if(currRatio>0.5):
                     deltaLimit += 1
                     #newLimit = max(currPage+2,limitPages)
-                newlimit =  max(currPage+deltaLimit,limitPages)   
+                newLimit =  max(currPage+deltaLimit,limitPages)
+                print(['currRatio',currRatio,'currPage: ',currPage,' limitPages: ',limitPages,' deltaLimit: ',deltaLimit,' new Limit: ', newLimit])   
                 if(len(newArticles) in [1,2]):     
                     print("sleep")   
                     time.sleep(60)
@@ -406,4 +422,16 @@ if(age>60*60*5*0):
 keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)
 keywordsDF.to_csv(DATA_PATH / 'keywords.csv', columns=keywordsFields,index=False)  
 
-    
+'''
+i=1
+while True:
+###while (i<50):    
+  print(i)  
+  inqRandomNews()
+  i += 1
+  #time.sleep(200) # unless drop none-french
+  #time.sleep(20)
+  keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)
+  keywordsDF.to_csv(DATA_PATH / 'keywords.csv', columns=keywordsFields,index=False) 
+  time.sleep(1000)
+'''    
