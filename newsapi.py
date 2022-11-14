@@ -19,6 +19,8 @@ import smtplib
 import random
 import hashlib
 import glob
+from difflib import SequenceMatcher
+
 
 import datetime
 #from datetime import timezone
@@ -90,7 +92,8 @@ searchWords = dict(zip(keywordsDF.keyword.values, keywordsDF.language.values))
 
 stopDomains = ["www.mydealz.de", "www.techstage.de", "www.nachdenkseiten.de", "www.amazon.de", "www.4players.de", "www.netzwelt.de", "www.nextpit.de",
                "www.mein-deal.com", "www.sparbote.de", "www.xda-developers.com" "www.pcgames.de", "blog.google", "www.ingame.de", "playstation.com",
-               "www.pcgameshardware.de", "9to5mac.com", "roanoke.com", "billingsgazette.com", "richmond.com", "www.rawstory.com", "slate.com"
+               "www.pcgameshardware.de", "9to5mac.com", "roanoke.com", "billingsgazette.com", "richmond.com", "www.rawstory.com", "slate.com",
+               "www.computerbild.de", "www.giga.de", "www.heise.de"
                 ]
 
 
@@ -131,6 +134,7 @@ def storeCollection():
     cols = ['url','valid','domain','title','description','image','published','archive','content','quote','language','keyword']
     for dateFile in collectedNews:
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
+        df = removeDuplicates(df)
         #df.to_csv(DATA_PATH / dateFile, index=True) 
         if(not os.path.exists(DATA_PATH / 'csv')):
             os.mkdir(DATA_PATH / 'csv')
@@ -164,6 +168,46 @@ def findArchives(articles):
         data = extractData(article, language, keyWord) 
         if (dataIsNotBlocked(data)):
             a=1
+
+def similar(a, b):
+    return SequenceMatcher(None, a, b).ratio()
+
+def removeDuplicates(df1):
+    df1['md5'] = ''
+    df1['group'] = ''
+    df1['similarity'] = 0.0
+    df1 = df1.sort_values(by=['published'], ascending=True)
+
+    for index, column in df1.iterrows():
+        quote = str(column['domain']) + ' ' + str(column['title']) + ' ' + str(column['description'])
+        md5 = hashlib.md5(quote.encode('utf-8')).hexdigest()
+        df1.loc[index,'md5'] = md5
+        day = '1970-01-01'
+        if(len(str(column['published']))>5):
+          pubDate = parser.parse(column['published'])
+          day = pubDate.strftime('%Y-%m-%d')
+         
+        groupTxt = str(column['domain']) +  ' ' + day
+        group = hashlib.md5(groupTxt.encode('utf-8')).hexdigest()  
+        df1.loc[index,'group'] = group
+
+    df1 = df1[~df1.md5.duplicated(keep='first')]  
+
+    for index1, column1 in df1.iterrows():
+        quote1 = str(column1['title']) + ' ' + str(column1['description']) 
+        df2 = df1[df1['group']==column1['group']]
+        for index2, column2 in df2.iterrows():
+            if(column1['md5']>column2['md5']):
+                quote2 = str(column2['title']) + ' ' + str(column2['description'])
+                similarity = similar(quote1,quote2)
+                if(similarity > df1.loc[index1,'similarity']):
+                    df1.loc[index1,'similarity'] = similarity
+
+    df3 = df1[df1['similarity']<0.8]
+    df3 = df3.drop(columns=['md5', 'group', 'similarity'])
+    return df3
+
+
 
 def archiveUrl(data):
     #timetravelDate = datetime.datetime.strptime(data['published'], '%Y-%m-%d %H:%M:%S').strftime('%Y%m%d')
@@ -249,6 +293,28 @@ def extractData(article, language, keyWord):
             'image':image, 'content':content, 'quote':'', 'language': language, 'keyword':keyWord}
     return data  
 
+def checkArticlesForKeywords(articles, keywordsDF):
+    foundArticles = []
+    for article in articles:
+
+      searchQuote = article['title'] + " " + article['description']
+      foundKeywords = []
+      found = False
+      for index2, column2 in keywordsDF.iterrows(): 
+         keyword = column2['keyword']
+         allFound = True
+         keywords = keyword.strip("'").split(" ")
+         for keyw in keywords:
+            allFound = allFound and (keyw in searchQuote)
+         if(allFound):
+             foundKeywords.append(keyword) 
+             found = True
+      if(found):
+        article['keyword'] = random.choice(foundKeywords)
+        foundArticles.append(article)
+
+    return foundArticles
+
 def filterNewAndArchive(articles, language, keyWord):
     global collectedNews
     newArticles = []
@@ -301,7 +367,7 @@ def inqRandomNews():
     rndKey = keywordsDF.sample()
     randomNumber = random.random()
     print(['randomNumber: ',randomNumber])
-    if(random.random()>0.7):
+    if(randomNumber>0.7):
         rndKey = keywordsNewsDF2.sample()
     if(randomNumber<0.2): 
         print("DF3")
@@ -310,7 +376,7 @@ def inqRandomNews():
     #if foundNothing:  newLimit = maximum(1,random.choice(range(currPage-1,limitPage-1)))
 
     ## cheat for now!
-    ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'Stromerzeugung Gaskraftwerk'"]
+    ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'Wärmepumpe'"]
     ### rndKey = keywordEmptyDF.sample()
     ## rm in final version
 
@@ -363,17 +429,22 @@ def inqRandomNews():
                 print("archive first")
                 newArticles = filterNewAndArchive(jsonData['articles'], language, keyWord)
                 print('#new Articles: '+str(len(newArticles)))
-                currRatio += len(newArticles)/len(jsonData['articles'])
-                if(currRatio>0.5):
-                    deltaLimit += 1
-                    #newLimit = max(currPage+2,limitPages)
-                newLimit =  max(currPage+deltaLimit,limitPages)
-                print(['currRatio',currRatio,'currPage: ',currPage,' limitPages: ',limitPages,' deltaLimit: ',deltaLimit,' new Limit: ', newLimit])   
+                 
                 if(len(newArticles) in [1,2]):     
                     print("sleep")   
                     time.sleep(60)
                 print("add to collection")
-                for data in newArticles:
+                checkedArticles = checkArticlesForKeywords(newArticles, keywordsDF)
+                print('#checked Articles: '+str(len(checkedArticles)))
+
+                currRatio += len(checkedArticles)/len(jsonData['articles'])
+                if(currRatio>0.5):
+                    deltaLimit += 1
+                    #newLimit = max(currPage+2,limitPages)
+                newLimit =  max(currPage+deltaLimit,limitPages)
+                print(['currRatio',currRatio,'currPage: ',currPage,' limitPages: ',limitPages,' deltaLimit: ',deltaLimit,' new Limit: ', newLimit])  
+
+                for data in checkedArticles:
                     if (dataIsNotBlocked(data)):                    
                         #print(str(keyWord)+': '+str(title)+' '+str(url))
                         print(["addNewsToCollection: ",data])
