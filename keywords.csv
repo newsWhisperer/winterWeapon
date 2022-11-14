@@ -1,24 +1,25 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.6000250002499999
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.5800500005
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.5425481224517499
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.5320821361963414
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.52501500015
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.5224634220026315
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.519
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.5182502667
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.517550859659625
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,4,0.51456816206475
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,2,0.5139338893388888
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.5132500771999999
+'Energieversorgung',de,Other,#545557,#6b6c7e,4,0.5127009493052017
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.5122500035499999
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.5118684238559655
 'Blackout',de,Other,#545557,#6b6c6e,3,0.50864752775
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.5082500085
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.50725000665
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.50725000395
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.506673948318421
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.50525000505
 'Gasknappheit',de,Other,#545557,#4b7c7e,3,0.5052500047499999
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.504280029371
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.5036324819002124
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,3,0.5033000060999999
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.50325005475
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.5032500033
@@ -26,7 +27,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.5012500172
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.499250003
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,2,0.4987792502925
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.4964002515024999
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.4962500105999999
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.4952375094474999
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,4,0.4949400218749999
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.4949000320999999
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.4936674999999999
@@ -58,17 +61,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.4761875123024999
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,1,0.4761874999999999
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.4752375120175
-'Erdgasröhrengeschäft',de,Politik,#1f2dc4,#5b2c9a,1,0.475
-'Erdgasröhrenvertrag',de,Politik,#1f2dc4,#4b2c7a,1,0.475
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.4745300247724999
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.473700066
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.4733375090724999
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.4725000067
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.4715247812499998
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.4707436255976494
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.47045766385375
 'Krieg Gas',de,Russland,#a6190f,#b33329,2,0.4701574976420561
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.4693375536649999
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.4680909761874999
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.46793750585
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.4678678863453748
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.4674
@@ -82,7 +83,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.4626160714285713
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.4622617051985506
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.4621459021226061
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.4619378562499999
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.4603959096409091
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.4596850369799999
 'LNG',de,Quelle,#3d9a9c,#14c7a3,1,0.4579950194275
@@ -92,7 +92,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.455221007806625
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.4550461889848984
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.4547524726338316
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.45125
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.4539206413188749
+'Erdgasröhrenvertrag',de,Politik,#1f2dc4,#4b2c7a,1,0.45125
+'Erdgasröhrengeschäft',de,Politik,#1f2dc4,#5b2c9a,1,0.45125
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.4511282209323748
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.4510327154713492
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,1,0.4485424999999999
@@ -100,24 +102,25 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.4477762438037738
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.4459316964285713
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.4441902312131577
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.4422529552199998
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.4415831253499999
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.4411508235156818
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.4402646978371738
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.4393903498089997
 'Erdgas Russland',de,Russland,#a6190f,#b32233,1,0.4389950276925
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.4341161144768748
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.4340656338999999
+'Gasstopp',de,Russland,#a6190f,#a02b20,2,0.4312449922874998
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,2,0.4297598517460186
-'Lieferreduzierung Gas',de,Russland,#a6190f,#932233,1,0.4286874999999999
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.4286874999999999
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.4286874999999999
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.4286543740272499
 'Gas Ukraine',de,Russland,#a6190f,#b23325,1,0.4277714956250747
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.4276157812499999
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.4273839853824999
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.4252269813018656
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.4227200206392582
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.4186555401194499
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.4116785578906817
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.4072531249999999
+'Lieferreduzierung Gas',de,Russland,#a6190f,#932233,1,0.4072531249999999
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.4062349921874998
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.4050081569268748
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.404441050927817
@@ -126,11 +129,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.3676040853567067
 'Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,1,0.3602542174074294
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.3592515420577595
-'Dämmstoffe Gasverbrauch',de,Gesellschaft,#6023a6,#7132cb,1,0.3491686480468748
-'Gas-Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.3440305635868549
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.3436574549304808
-'Gaskrieg',de,Russland,#a6190f,#b22305,1,0.3151419089702811
-'Erdgasbedarf',de,Other,#545557,#6b6c6e,1,0.3151247048623044
-'Gasabschaltung',de,Politik,#1f2dc4,#4670e3,1,0.3151247048623044
+'Dämmstoffe Gasverbrauch',de,Gesellschaft,#6023a6,#7132cb,1,0.331710215644531
+'Gas-Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.3268340354575121
+'Gaskrieg',de,Russland,#a6190f,#b22305,1,0.299389813571767
+'Erdgasbedarf',de,Other,#545557,#6b6c6e,1,0.2993684696191891
+'Gasabschaltung',de,Politik,#1f2dc4,#4670e3,1,0.2993684696191891
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.2870160278083705
-'Heizungsabsenkung',de,Gesellschaft,#6023a6,#7d4ead,1,0.2844000461382296
+'Heizungsabsenkung',de,Gesellschaft,#6023a6,#7d4ead,1,0.2701800438313181
