@@ -22,8 +22,8 @@ nlp = de_core_news_md.load()
 
 
 DATA_PATH = Path.cwd()
-if(not os.path.exists(DATA_PATH / 'img')):
-    os.mkdir(DATA_PATH / 'img')
+if(not os.path.exists(DATA_PATH / 'csv')):
+    os.mkdir(DATA_PATH / 'csv')
 
 def getNewsFiles():
     fileName = './csv/news_????_??.csv'
@@ -76,13 +76,6 @@ for index, column in newsDf.iterrows():
     newsDf.loc[newsDf['url'] == column['url'], 'week'] = pubDate.strftime('%Y-%W')
     newsDf.loc[newsDf['url'] == column['url'], 'day'] = pubDate.strftime('%Y-%m-%d')
 
-    #if(not column['domain'] in dictDomains):
-    #    dictDomains[column['domain']] = emptyDict.copy()
-    #dictDomains[column['domain']]['subjectivity'] += blob.sentiment.subjectivity
-    #dictDomains[column['domain']]['sentiment'] += blob.sentiment.sentiment
-    #dictDomains[column['domain']]['count'] += 1
-    doc = nlp(quote)
-
 ##keywordsNewsDF = newsDf.groupby('keyword').mean()
 
 def groupSentiments(df, aggColumn):
@@ -101,7 +94,7 @@ domainDF.loc[domainDF['counting'] < 2, 'sentiment_mean'] = 0.0
 domainDF.loc[domainDF['counting'] < 2, 'subjectivity_mean'] = 0.0
 print(domainDF)
 cols = ['domain','sentiment_mean','sentiment_std','subjectivity_mean','subjectivity_std','counting']
-domainDF.to_csv(DATA_PATH / 'csv' / 'domains.csv', columns=cols,index=False) 
+domainDF.to_csv(DATA_PATH / 'csv' / 'sentiments_domains.csv', columns=cols,index=False) 
 
 objNewsDF = pd.merge(newsDf, domainDF, how='left', left_on=['domain'], right_on=['domain'])
 objNewsDF['subjectivity'] = (objNewsDF['subjectivity'] - objNewsDF['subjectivity_mean'])/objNewsDF['subjectivity_std']
@@ -110,15 +103,15 @@ print(objNewsDF)
 
 weeksDF =  groupSentiments(objNewsDF, 'week')
 weeksDF = weeksDF.sort_values(by=['week'], ascending=True)
-weeksDF.to_csv(DATA_PATH / 'csv' / 'weeks_sentiments.csv',index=False) 
+weeksDF.to_csv(DATA_PATH / 'csv' / 'sentiments_weeks.csv',index=False) 
 
 daysDF =  groupSentiments(objNewsDF, 'day')
 daysDF = daysDF.sort_values(by=['day'], ascending=True)
-daysDF.to_csv(DATA_PATH / 'csv' / 'days_sentiments.csv',index=False) 
+daysDF.to_csv(DATA_PATH / 'csv' / 'sentiments_days.csv',index=False) 
 
 keywordsSentimentDF =  groupSentiments(objNewsDF, 'keyword')
 keywordsSentimentDF = keywordsSentimentDF.sort_values(by=['keyword'], ascending=True)
-keywordsSentimentDF.to_csv(DATA_PATH / 'csv' / 'keywords_sentiments.csv',index=False) 
+keywordsSentimentDF.to_csv(DATA_PATH / 'csv' / 'sentiments_keywords.csv',index=False) 
 
 
 print(list(newsDf.columns))
@@ -128,7 +121,7 @@ topicNewsDF = pd.merge(objNewsDF, keywordsDF, how='left', left_on=['keyword'], r
 print(list(topicNewsDF.columns))
 topicsDF =  groupSentiments(topicNewsDF, 'topic')
 topicsDF = topicsDF.sort_values(by=['topic'], ascending=True)
-topicsDF.to_csv(DATA_PATH / 'csv' / 'topics_sentiments.csv',index=False) 
+topicsDF.to_csv(DATA_PATH / 'csv' / 'sentiments_topics.csv',index=False) 
 
 
 emptyDict = {'count':0,'sentiment':0,'subjectivity':0}
@@ -199,49 +192,31 @@ indexLocationsDF = pd.DataFrame.from_dict(indexLocations, orient='index', column
 indexLocationsDF['sentiment'] = indexLocationsDF['sentiment']/indexLocationsDF['count']
 indexLocationsDF['subjectivity'] = indexLocationsDF['subjectivity']/indexLocationsDF['count']
 indexLocationsDF = indexLocationsDF.sort_values(by=['count'], ascending=False)
-indexLocationsDF.to_csv(DATA_PATH / 'csv' / "entities_locations_sentiments.csv", index=True)   
+indexLocationsDF.to_csv(DATA_PATH / 'csv' / "sentiments_locations.csv", index=True)   
  
 indexPersonsDF = pd.DataFrame.from_dict(indexPersons, orient='index', columns=colSent)
 indexPersonsDF['sentiment'] = indexPersonsDF['sentiment']/indexPersonsDF['count']
 indexPersonsDF['subjectivity'] = indexPersonsDF['subjectivity']/indexPersonsDF['count']
 indexPersonsDF = indexPersonsDF.sort_values(by=['count'], ascending=False)
-indexPersonsDF.to_csv(DATA_PATH / 'csv' / "entities_persons_sentiments.csv", index=True)
+indexPersonsDF.to_csv(DATA_PATH / 'csv' / "sentiments_persons.csv", index=True)
 
 indexOrganizationsDF = pd.DataFrame.from_dict(indexOrganizations, orient='index', columns=colSent)
 indexOrganizationsDF['sentiment'] = indexOrganizationsDF['sentiment']/indexOrganizationsDF['count']
 indexOrganizationsDF['subjectivity'] = indexOrganizationsDF['subjectivity']/indexOrganizationsDF['count']
 indexOrganizationsDF = indexOrganizationsDF.sort_values(by=['count'], ascending=False)
-indexOrganizationsDF.to_csv(DATA_PATH / 'csv' / "entities_organizations_sentiments.csv", index=True)
+indexOrganizationsDF.to_csv(DATA_PATH / 'csv' / "sentiments_organizations.csv", index=True)
 
 indexMiscDF = pd.DataFrame.from_dict(indexMisc, orient='index', columns=colSent)
 indexMiscDF['sentiment'] = indexMiscDF['sentiment']/indexLocationsDF['count']
 indexMiscDF['subjectivity'] = indexMiscDF['subjectivity']/indexLocationsDF['count']
 indexMiscDF = indexMiscDF.sort_values(by=['count'], ascending=False)
-indexMiscDF.to_csv(DATA_PATH / 'csv' / "entities_misc_sentiments.csv", index=True)
+indexMiscDF.to_csv(DATA_PATH / 'csv' / "sentiments_misc.csv", index=True)
 
 indexMissingDF = pd.DataFrame.from_dict(indexMissing, orient='index', columns=colSent)
 indexMissingDF['sentiment'] = indexMissingDF['sentiment']/indexLocationsDF['count']
 indexMissingDF['subjectivity'] = indexMissingDF['subjectivity']/indexLocationsDF['count']
 indexMissingDF = indexMissingDF.sort_values(by=['count'], ascending=False)
-indexMissingDF.to_csv(DATA_PATH / 'csv' / "entities_missing_sentiments.csv", index=True)
-
-
-
-'''
-text = 'In Erftstadt-Blessem (Rheinland-Pfalz) besucht Angela Merkel (CDU) heute zusammen mit Armin Laschet (NRW) die Flutopfer der Ahr-Katastrophe.'
-doc = nlp(text)
-print([(X.text, X.label_) for X in doc.ents])
-
-blob = TextBlobDE(text)
-for sentence in blob.sentences:
-    print(sentence)
-    print(sentence.sentiment.polarity)
-    doc = nlp(str(sentence))
-    print([(X.text, X.label_) for X in doc.ents])
-print(blob.sentiment)
-'''
-
-
+indexMissingDF.to_csv(DATA_PATH / 'csv' / "sentiments_missing.csv", index=True)
 
 
 

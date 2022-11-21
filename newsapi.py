@@ -93,7 +93,7 @@ searchWords = dict(zip(keywordsDF.keyword.values, keywordsDF.language.values))
 stopDomains = ["www.mydealz.de", "www.techstage.de", "www.nachdenkseiten.de", "www.amazon.de", "www.4players.de", "www.netzwelt.de", "www.nextpit.de",
                "www.mein-deal.com", "www.sparbote.de", "www.xda-developers.com" "www.pcgames.de", "blog.google", "www.ingame.de", "playstation.com",
                "www.pcgameshardware.de", "9to5mac.com", "roanoke.com", "billingsgazette.com", "richmond.com", "www.rawstory.com", "slate.com",
-               "www.computerbild.de", "www.giga.de", "www.heise.de"
+               "www.computerbild.de", "www.giga.de", "www.heise.de", "www.chip.de"
                 ]
 
 
@@ -205,6 +205,7 @@ def removeDuplicates(df1):
 
     df3 = df1[df1['similarity']<0.8]
     df3 = df3.drop(columns=['md5', 'group', 'similarity'])
+    df3 = df3.sort_values(by=['published'], ascending=True)
     return df3
 
 
@@ -293,14 +294,25 @@ def extractData(article, language, keyWord):
             'image':image, 'content':content, 'quote':'', 'language': language, 'keyword':keyWord}
     return data  
 
-def checkArticlesForKeywords(articles, keywordsDF):
+def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
+    keywordsLangDF = keywordsDF[keywordsDF['language']==language]
     foundArticles = []
     for article in articles:
-
-      searchQuote = article['title'] + " " + article['description']
+      data = extractData(article, language, keyWord)
+      searchQuote = str(data['title']) + " " + str(data['description'])
       foundKeywords = []
       found = False
-      for index2, column2 in keywordsDF.iterrows(): 
+      for index2, column2 in keywordsLangDF.iterrows(): 
+         keyword = column2['keyword']
+         allFound = True
+         keywords = keyword.strip("'").split(" ")
+         for keyw in keywords:
+            allFound = allFound and (keyw in searchQuote)
+         if(allFound):
+             foundKeywords.append(keyword) 
+             found = True
+      # add seldom keywords twice if
+      for index2, column2 in seldomDF.iterrows(): 
          keyword = column2['keyword']
          allFound = True
          keywords = keyword.strip("'").split(" ")
@@ -310,8 +322,9 @@ def checkArticlesForKeywords(articles, keywordsDF):
              foundKeywords.append(keyword) 
              found = True
       if(found):
-        article['keyword'] = random.choice(foundKeywords)
-        foundArticles.append(article)
+        foundKeywords.append(keyWord) 
+        data['keyword'] = random.choice(foundKeywords)
+        foundArticles.append(data)
 
     return foundArticles
 
@@ -319,8 +332,8 @@ def filterNewAndArchive(articles, language, keyWord):
     global collectedNews
     newArticles = []
     startTime = time.time()
-    for article in articles:
-        data = extractData(article, language, keyWord) 
+    for data in articles:
+        ##data = extractData(article, language, keyWord) 
         if (dataIsNotBlocked(data)):
             pubDate = parser.parse(data['published'])
             fileDate = 'news_'+pubDate.strftime('%Y_%m')+'.csv'
@@ -367,16 +380,17 @@ def inqRandomNews():
     rndKey = keywordsDF.sample()
     randomNumber = random.random()
     print(['randomNumber: ',randomNumber])
-    if(randomNumber>0.7):
+    if(randomNumber>0.8):
+        print("DF2 seldoms")
         rndKey = keywordsNewsDF2.sample()
-    if(randomNumber<0.2): 
-        print("DF3")
+    if(randomNumber<0.4): 
+        print("DF3 successors")
         rndKey = keywordsDF3.sample()
     #if FoundAny: newLimit = minimum(currPage+1,limitPage)
     #if foundNothing:  newLimit = maximum(1,random.choice(range(currPage-1,limitPage-1)))
 
-    ## cheat for now!
-    ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'Wärmepumpe'"]
+    ## cheat for now!     
+    ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'Erneuerbare Energie'"]
     ### rndKey = keywordEmptyDF.sample()
     ## rm in final version
 
@@ -391,12 +405,12 @@ def inqRandomNews():
     ratioNew = rndKey['ratioNew'].iloc[0]
     currPage = random.choice(range(1,limitPages+1))  
     newLimit = max(1,random.choice(range(currPage-1,limitPages)))
-    currRatio = 0.0
+    currRatio = ratioNew
           
     print([keyWord, language])
     if(not 'xx'==language):
         sort = random.choice(['relevancy', 'popularity', 'publishedAt'])
-        pageSize = 50
+        pageSize = 33
         print('keyword: '+keyWord+'; Page: '+str(currPage))
         # https://newsapi.org/docs/endpoints/everything
         url = ('https://newsapi.org/v2/everything?'+
@@ -413,38 +427,42 @@ def inqRandomNews():
             # sortBy=relevancy   : relevancy, popularity, publishedAt
         response = requests.get(url)
         response.encoding = response.apparent_encoding
-        #print(response.text)
+        
         foundNew = False
         if(response.text):
             jsonData = json.loads(response.text)
-            if (('ok'==jsonData['status']) and (jsonData['totalResults']>0)):
+            if ('ok'==jsonData['status']):
+             currRatio = 0
+             if(jsonData['totalResults']>0):
+              currRatio = jsonData['totalResults']/1E7
               if(len(jsonData['articles']) > 0):
-                currRatio = jsonData['totalResults']/1E9+len(jsonData['articles'])/1E4
+                currRatio += len(jsonData['articles'])/1E3
                 deltaLimit = 0
                 #newLimit = limitPages
-                if(len(jsonData['articles']) > 30):
+                if(len(jsonData['articles']) > 20):
                   deltaLimit += 1  
                   #newLimit = max(currPage+1,limitPages)                
                 print('#found Articles: '+str(len(jsonData['articles'])))
+                checkedArticles = checkArticlesForKeywords(jsonData['articles'], keywordsDF, keywordsNewsDF2,language, keyWord)
+                print('#checked Articles: '+str(len(checkedArticles)))
                 print("archive first")
-                newArticles = filterNewAndArchive(jsonData['articles'], language, keyWord)
+                newArticles = filterNewAndArchive(checkedArticles, language, keyWord)
                 print('#new Articles: '+str(len(newArticles)))
                  
                 if(len(newArticles) in [1,2]):     
                     print("sleep")   
                     time.sleep(60)
                 print("add to collection")
-                checkedArticles = checkArticlesForKeywords(newArticles, keywordsDF)
-                print('#checked Articles: '+str(len(checkedArticles)))
 
-                currRatio += len(checkedArticles)/len(jsonData['articles'])
+
+                currRatio += len(newArticles)/len(jsonData['articles'])
                 if(currRatio>0.5):
                     deltaLimit += 1
                     #newLimit = max(currPage+2,limitPages)
                 newLimit =  max(currPage+deltaLimit,limitPages)
                 print(['currRatio',currRatio,'currPage: ',currPage,' limitPages: ',limitPages,' deltaLimit: ',deltaLimit,' new Limit: ', newLimit])  
 
-                for data in checkedArticles:
+                for data in newArticles:
                     if (dataIsNotBlocked(data)):                    
                         #print(str(keyWord)+': '+str(title)+' '+str(url))
                         print(["addNewsToCollection: ",data])
@@ -456,10 +474,16 @@ def inqRandomNews():
                 #print(["collectedNews: ",collectedNews])            
                 if(foundNew):         
                     storeCollection()
+            else:
+              print(response.text)
+              if(jsonData['code'] == 'maximumResultsReached'):
+                deltaLimit = -1
+                newLimit =  min(1,currPage+deltaLimit)
+              # {"status":"error","code":"maximumResultsReached","message":"You have requested too many results. Developer accounts are limited to a max of 100 results. You are trying to request results 100 to 150. Please upgrade to a paid plan if you need more results."}
     #print(rndKey.index)
     #keywordsDF.at[rndKey.index, 'limitPages'] = newLimit    
     keywordsDF.loc[keywordsDF['crc'] == crc, 'limitPages'] = newLimit 
-    keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'] = currRatio*0.05+ratioNew*0.95
+    keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'] = currRatio*0.15+ratioNew*0.85
         
       
 
@@ -484,11 +508,14 @@ while True:
   #time.sleep(200) # unless drop none-french
   #time.sleep(20)
   time.sleep(1000)
-'''
+
 age = getLatestFileAge()
 print(age)
 if(age>60*60*5*0):
     inqRandomNews()
+'''
+inqRandomNews()
+
 #keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
 keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)
 keywordsDF.to_csv(DATA_PATH / 'keywords.csv', columns=keywordsFields,index=False)  

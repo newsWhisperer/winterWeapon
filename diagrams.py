@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 from pathlib import Path
 import os.path
@@ -8,9 +9,18 @@ import glob
 
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
 import matplotlib.gridspec as gridspec
 from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.cm as cm
+
+from nltk.corpus import stopwords
+from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
+from sklearn.decomposition import NMF, LatentDirichletAllocation
+
+import nltk
+nltk.download("stopwords")
+german_stop_words = set(stopwords.words('german'))
 
 DATA_PATH = Path.cwd()
 if(not os.path.exists(DATA_PATH / 'img')):
@@ -41,13 +51,20 @@ keywordsColorsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')
 topicsColorsDF = keywordsColorsDF.drop_duplicates(subset=['topic'])
 
 newsDf = getNewsDF()
-print(newsDf)   
+newsDf['title'] = newsDf['title'].fillna('')
+newsDf['description'] = newsDf['description'].fillna('')
+newsDf['quote'] = newsDf['quote'].fillna('')
+newsDf['text'] = newsDf['title'] + ' ' + newsDf['description'] 
+print(newsDf)  
 
-# Domains  (floods diagrams)
 
+'''
+
+# Topics & Keywords
 fig = plt.figure(figsize=(12, 6), constrained_layout=True)
 gs = gridspec.GridSpec(1, 2, figure=fig)
 
+# Topics 
 newsDf2 = pd.merge(newsDf, keywordsColorsDF, how='left', left_on=['keyword'], right_on=['keyword'])
 topicsDF = newsDf2.groupby('topic').count()
 topicsDF = topicsDF.drop(columns = ['topicColor'])
@@ -58,7 +75,7 @@ axTopics.set_title("Topics", fontsize=24)
 plot = topicsDF.plot.pie(y='index', ax=axTopics, colors=topicsDF['topicColor'], labels=topicsDF['topic'],legend=False,ylabel='')
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
 
-
+# Keywords
 keywordsDF = newsDf.groupby('keyword').count()
 keywordsDF = pd.merge(keywordsDF, keywordsColorsDF, how='left', left_on=['keyword'], right_on=['keyword'])
 keywordsDF = keywordsDF.sort_values('index', ascending=False)
@@ -72,195 +89,247 @@ plt.savefig(DATA_PATH / 'img' / 'keywords_pie_all.png', dpi=300)
 plt.close('all')
 
 
+#
+bayesDF = pd.DataFrame(None) 
+if(os.path.exists(DATA_PATH / 'csv' / 'words_bayes_topic_all.csv')):
+    bayesDF = pd.read_csv(DATA_PATH / 'csv' / 'words_bayes_topic_all.csv', delimiter=',',index_col='word')
+print(bayesDF)
 
-## Bayes for Topics
 
-import nltk
-from nltk.corpus import stopwords
-from HanTa import HanoverTagger as ht
-from textblob_de import TextBlobDE
-import math
-import re
-import random
+#TFIDF
+n_features = 16000
+n_components = 19
+n_top_words = 20
+weighted = False
+#lowercase = True
+lowercase = False
 
-if(not os.path.exists(DATA_PATH / 'csv')):
-    os.mkdir(DATA_PATH / 'csv')
+bayesDF2 = pd.DataFrame(None) 
+bayesDict = {}
+if(not bayesDF.empty):
+    bayesDF2 = bayesDF
+    if(lowercase):
+       bayesDF2.index = bayesDF2.index.str.lower()
+    bayesDF2 = bayesDF2[~bayesDF2.index.duplicated(keep='first')]
+    bayesDF2 = bayesDF2[bayesDF2.index.notnull()]
+    bayesDict = bayesDF2.to_dict('index')
 
-language = 'ger'
-nltk.download('punkt')
-nltk.download('stopwords')
-tagger = ht.HanoverTagger('morphmodel_'+language+'.pgz')
-german_stop_words = set(stopwords.words('german'))
+if(not bayesDF2.empty):
+  fig, axes = plt.subplots(4, 5, figsize=(17, 12), sharex=True)
+  axes = axes.flatten()
+  plt.rcParams.update({'font.size': 6 })
+  topic_idx = -1
+  ##for topic in reversed(colorsTopics.keys()):
 
-def generateTokensWithPosition(quote):
-    sentences = nltk.sent_tokenize(quote,language='german')   
-    for sentence in sentences:
-        positionSentence = quote.find(sentence)
-        lastWord = None
-        tokens = nltk.tokenize.word_tokenize(sentence,language='german') 
-        lemmata = tagger.tag_sent(tokens,taglevel = 2)
-        for (orig,lemma,gramma) in lemmata:
-         if(len(orig)>2):
-          if(not orig in german_stop_words):
-            positionWord = sentence.find(orig)
-            yield [orig, positionSentence+positionWord]
-            if(lastWord):
-                yield [(lastWord+' '+lemma), positionSentence+positionWord]
-            lastWord = lemma 
-
-#newsDf 
-#keywordsColorsDF 
-
-#emptyTopics = {'summary':0, 'other':0}
-emptyTopics = {'summary':0}
-for index2, column2 in keywordsColorsDF.iterrows():     
+  for index2, column2 in topicsColorsDF.iterrows():
     topic = column2['topic']
-    emptyTopics[topic] = 0
-
-i=0
-topicWordsAbs = {'summaryOfAllWords': emptyTopics.copy()}
-for index, column in newsDf.iterrows():
-    i += 1
-    if(i % 50 == 0):
-        print(i)
-
-    quote = str(column.title)+' ' +str(column.description)+' '+str(column.content)
-    #quote = str(column.title)+' ' +str(column.description)
-    for tokenAndPosition in generateTokensWithPosition(quote):
-        token = tokenAndPosition[0]
-        tokenPosition = tokenAndPosition[1]
-        if(not token in topicWordsAbs):
-            topicWordsAbs[token] = emptyTopics.copy()  
-        for index2, column2 in keywordsColorsDF.iterrows(): 
-            found = 0.0
-            if(column2['keyword'] == column['keyword']):
-               found = 0.05
-            keywords = column2['keyword'].strip("'").split(" ")
-            topic = column2['topic']
-            for keyword in keywords:
-                if(keyword in quote):
-                    for keyPosition in [m.start() for m in re.finditer(keyword, quote)]:
-                        distance = abs(tokenPosition - keyPosition)
-                        factor = math.sqrt(1/(1+distance*0.25))/len(keywords)
-                        if(factor>found):
-                            found = factor  
-            topicWordsAbs[token][topic] += found
-            topicWordsAbs[token]['summary'] += found
-            topicWordsAbs['summaryOfAllWords'][topic] += found
-            topicWordsAbs['summaryOfAllWords']['summary'] += found
-
-overallProbability = emptyTopics.copy()
-for topic in overallProbability:
-    if(not topic == 'summary'):
-        if(topicWordsAbs['summaryOfAllWords']['summary'] > 0):
-            overallProbability[topic] = float(topicWordsAbs['summaryOfAllWords'][topic])/float(topicWordsAbs['summaryOfAllWords']['summary']) 
-
-## now increase all counting by sqrt(n), but minimum of overall probability
-for word in topicWordsAbs:
-    if(word != 'summaryOfAllWords'):
-        data = topicWordsAbs[word]
-        for topic in overallProbability:   
-            if(not topic == 'summary'):
-                frac = overallProbability[topic]
-                delta = math.sqrt(frac+topicWordsAbs[word][topic])
-                topicWordsAbs[word][topic] += delta
-                topicWordsAbs['summaryOfAllWords'][topic] += delta
-                topicWordsAbs[word]['summary'] += delta
-                topicWordsAbs['summaryOfAllWords']['summary'] += delta  
-
-emptyCol = emptyTopics.copy()
-emptyCol['word'] = 'oneWord'
-topicWordsRel = {}  
-for word in topicWordsAbs:
-    if(word == 'summaryOfAllWords'):  
-        relData = topicWordsAbs[word].copy()
-    else:    
-        data = topicWordsAbs[word]
-        relData = emptyCol.copy()
-        relData['word'] = word
-        relData['summary'] = topicWordsAbs[word]['summary']
-        for topic in data:
-            if(not topic in ['word','summary']):
-                if(not topicWordsAbs['summaryOfAllWords'][topic] == 0): 
-                    if(topicWordsAbs['summaryOfAllWords'][topic]*topicWordsAbs[word]['summary'] > 0): 
-                      relValue = topicWordsAbs[word][topic]*topicWordsAbs['summaryOfAllWords']['summary']/(topicWordsAbs['summaryOfAllWords'][topic]*topicWordsAbs[word]['summary'])   #Bayes
-                      relData[topic] = math.log(relValue)
-    topicWordsRel[word] = relData 
-topicWordsRelDF = pd.DataFrame.from_dict(topicWordsRel, orient='index', columns=emptyCol.keys()) 
-topicWordsRelDF.to_csv(DATA_PATH / 'csv' / "words_bayes_topic_all.csv", index=True) 
+    topic_idx += 1
+    topicWords = {}  
+    topicColor = column2['topicColor']
+    topicColors = []
+    bayesDF2 = bayesDF2.sort_values(by=[topic], ascending=False)
+    for index, column in bayesDF2.iterrows():    
+        if(len(topicWords) < n_top_words):
+            if(index and (type(index) == str) and (column[topic]<100)):    
+              #don't use 2grams  
+              if(not ' ' in index):      
+                topicWords[index] = column[topic]
+                topicColors.append(topicColor)
+        else:
+            break        
 
 
-#PCA
-from sklearn.decomposition import PCA
+    top_features = list(topicWords.keys())
+    weights = np.array(list(topicWords.values()))
+    bayesColors = topicColor ##extractColors(topicWords)
+    bayesTopic = topic ## bayesColors['topic']
 
-numberComponents = 5  #0.5*len(topics), minimum: 4
-dfn = topicWordsRelDF.drop(columns = ['word'])
+    ax = axes[topic_idx]
+    ax.barh(top_features, weights, height=0.7, color=topicColors)
+    #ax.set_xscale('log')
+    ax.set_title((topic + " ("+bayesTopic+")"), fontdict={"fontsize": 9, "horizontalalignment":"right", "color":topicColor})
+    ax.invert_yaxis()
+    ax.tick_params(axis="both", which="major", labelsize=6)
+    for i in "top right left".split():
+        ax.spines[i].set_visible(False)
+    fig.suptitle("Bayes Topics", fontsize=9)
 
-dfn['const0'] = 1.0
-pca = PCA(n_components=numberComponents)
-pca.fit(dfn)
-apca = pca.fit_transform(dfn)
-dfpca = pd.DataFrame(apca)
-dfpca['word'] = topicWordsRelDF.index
-dfpca['summary'] = topicWordsRelDF['summary'].values
-dfpca.to_csv(DATA_PATH / "csv" /"words_bayes_topic_pca.csv", index=False)
+  plt.subplots_adjust(top=0.90, bottom=0.05, wspace=0.90, hspace=0.3)
+  plt.savefig(DATA_PATH / "img" / ("topics_bayes" + ".png"), dpi=300)
+  plt.close('all')
 
-def combine_hex_values(d):
-  d_items = sorted(d.items())
-  tot_weight = sum(d.values())
-  red = int(sum([int(k[:2], 16)*v for k, v in d_items])/tot_weight)
-  green = int(sum([int(k[2:4], 16)*v for k, v in d_items])/tot_weight)
-  blue = int(sum([int(k[4:6], 16)*v for k, v in d_items])/tot_weight)
-  zpad = lambda x: x if len(x)==2 else '0' + x
-  return zpad(hex(red)[2:]) + zpad(hex(green)[2:]) + zpad(hex(blue)[2:])
 
-plt.figure( figsize=(20,15) )
-plt.xlim([-4, 4])
-plt.ylim([-4, 4])
-i=0
-for index, column in dfpca.iterrows():
-  i += 1
-  if(i % 50 == 0):
-     print(i)    
-  if(not " " in str(column['word'])): 
-    maxColor = '#000000'
-    nxtColor = '#555555'
-    maxprobabiliyty = -15  #log!
-    nxtprobabiliyty = -15  
-
+def extractColors(words):
+    summary = {}
+    wordColors = []
+    maxTopicValue = -1E20 
+    maxTopicColor = '#000000'
+    maxTopicName = 'None'
+    #for topic in colorsTopics:
     for index2, column2 in topicsColorsDF.iterrows():
-        topic = column2['topic']    
-        if(str(column['word']) in topicWordsRelDF[topic]):
-            if(topicWordsRelDF[topic][str(column['word'])]> maxprobabiliyty):
-                maxprobabiliyty = topicWordsRelDF[topic][str(column['word'])]
-                maxColor = column2['topicColor']
+        topic = column2['topic']
+        summary[topic] = 0.0
+    for word in words:
+        wordColor = '#000000'
+        wordValue = -1E20
+        wordWeight = words[word]
+        if(word in bayesDict):
+            bayes = bayesDict[word]
+            #for topic in colorsTopics:  
+            for index2, column2 in topicsColorsDF.iterrows():
+                topic = column2['topic']
+                if(bayes[topic] > wordValue):
+                    wordValue = bayes[topic]
+                    wordColor = column2['topicColor']
+                if (weighted):
+                  summary[topic] += bayes[topic]*wordWeight
+                else:
+                  summary[topic] += bayes[topic]
+        wordColors.append(wordColor)
+    ##for topic in colorsTopics: 
     for index2, column2 in topicsColorsDF.iterrows():
-        topic = column2['topic']    
-        if(str(column['word']) in topicWordsRelDF[topic]):
-            if(maxprobabiliyty > topicWordsRelDF[topic][str(column['word'])] > nxtprobabiliyty):
-                nxtprobabiliyty = topicWordsRelDF[topic][str(column['word'])]
-                nxtColor = column2['topicColor']
-    if((maxprobabiliyty < -12) & (nxtprobabiliyty < -12)):
-        maxColor = '#555555'
-        nxtColor = '#555555'                    
- 
-    ##maxColor = '#'+combine_hex_values({maxColor: math.exp(maxprobabiliyty) , nxtColor: math.exp(nxtprobabiliyty)})          
-         
-    x = random.uniform(-0.1, 0.1)+column[2]
-    y = random.uniform(-0.1, 0.1)+column[3]
-    s = (2+math.sqrt(1+math.sqrt(column['summary'])))
-    plt.text(x, y, column['word'], color='#ffffff', fontsize=s, ha='center', va='center', zorder=s-1E-7, fontweight='bold')
-    plt.text(x, y, column['word'], color=maxColor, fontsize=s, ha='center', va='center', zorder=s)
+        topic = column2['topic'] 
+        if(summary[topic] > maxTopicValue):
+            maxTopicValue = summary[topic]
+            maxTopicColor = column2['topicColor'] ##colorsTopics[topic]
+  
+            maxTopicName = topic
+    return {'topic':maxTopicName, 'color':maxTopicColor, 'colors': wordColors}
 
-colorLeg = list(topicsColorsDF['topicColor'])#.reverse()
-colorLeg.reverse()
-labelLeg = list(topicsColorsDF['topic'])#.reverse()
-labelLeg.reverse()
-custom_lines = [plt.Line2D([],[], ls="", marker='.', 
-                mec='k', mfc=c, mew=.1, ms=20) for c in colorLeg]
-             
-leg = plt.legend(custom_lines, labelLeg, 
-          loc='center left', fontsize=10, bbox_to_anchor=(0.9, .80))
-leg.set_title("Topics", prop = {'size':12}) 
 
-plt.savefig(DATA_PATH / 'img' / 'words_bayes_topic_pca.png', dpi=300)  
+legendHandles = []
+##for topic in colorsTopics:
+for index2, column2 in topicsColorsDF.iterrows():
+    patch = mpatches.Patch(color=column2['topicColor'], label=column2['topic'])
+    legendHandles.append(patch)
+legendHandles.reverse()   
+
+
+def plot_top_words(model, feature_names, n_top_words, title, filename='topics'):
+    
+    if (n_components > 20):
+        fig, axes = plt.subplots(4, 10, figsize=(17, 12), sharex=True)
+    else:
+        fig, axes = plt.subplots(4, 5, figsize=(17, 12), sharex=True)    
+    axes.flat[n_components].remove()
+    axes = axes.flatten()
+    plt.rcParams.update({'font.size': 6 })
+
+    for topic_idx, topic in enumerate(model.components_):
+        top_features_ind = topic.argsort()[: -n_top_words - 1 : -1]
+        top_features = [feature_names[i] for i in top_features_ind]
+        weights = topic[top_features_ind]
+        featDict = dict(zip(top_features,weights))
+        bayesColors = extractColors(featDict)
+        bayesTopic = bayesColors['topic']
+        ax = axes[topic_idx]
+        ax.barh(top_features, weights, height=0.7, color=bayesColors['colors'])
+        ax.set_xscale('log')
+        ax.set_title(f"{bayesTopic}", fontdict={"fontsize": 9, "horizontalalignment":"right", "color":bayesColors['color']})
+        ax.invert_yaxis()
+        ax.tick_params(axis="both", which="major", labelsize=6)
+        for i in "top right left".split():
+            ax.spines[i].set_visible(False)
+        fig.suptitle(title, fontsize=10)
+
+    leg = plt.legend(handles=legendHandles,
+        title="Topics",
+        loc="center right",
+        fontsize=6,
+        markerscale=0.7,
+        bbox_to_anchor=(1, 0, 2.25, 1.1)
+    )
+    plt.subplots_adjust(top=0.92, bottom=0.05, wspace=1.20, hspace=0.25)
+    plt.savefig(DATA_PATH / "img" / (filename + ".png"), dpi=300)
+    plt.close('all')
+
+
+tfidf_vectorizer = TfidfVectorizer(
+    max_df=0.95, min_df=2, max_features=n_features, stop_words=german_stop_words, ngram_range=(1, 1), lowercase=lowercase
+)
+tfidf = tfidf_vectorizer.fit_transform(newsDf.text)
+
+
+tfidf_feature_names = tfidf_vectorizer.get_feature_names()
+
+model = NMF(
+    n_components=n_components,
+    random_state=1,
+    beta_loss="kullback-leibler",
+    solver="mu",
+    max_iter=1000,
+    alpha=0.1,
+    l1_ratio=0.5,
+)
+W = model.fit_transform(tfidf)
+plot_top_words(
+    model,
+    tfidf_feature_names,
+    n_top_words,
+    "Topics in NMF model",
+    "topics_nmf.png"
+)
+
+
+tf_vectorizer = CountVectorizer(
+    max_df=0.95, min_df=2, max_features=n_features, stop_words=german_stop_words, lowercase=lowercase
+)
+tf = tf_vectorizer.fit_transform(newsDf.text)
+
+lda = LatentDirichletAllocation(
+    n_components=n_components,
+    max_iter=5,
+    learning_method="online",
+    learning_offset=50.0,
+    random_state=0,
+)
+lda.fit(tf)
+
+tf_feature_names = tf_vectorizer.get_feature_names()
+plot_top_words(lda, tf_feature_names, n_top_words, "Topics in LDA model", "topics_lda.png")
+'''
+
+#Sentiments, Counts, Entities
+
+def extractTopPercent(df1, limit=0.95, counter='count'):
+  df1 = df1.sort_values(by=[counter], ascending=False)
+  df1['fraction'] = 0.0
+  df1['fracSum'] = 0.0
+  countAll = df1[counter].sum()
+  fracSum = 0.0
+  for index, column in df1.iterrows():
+      fraction = column[counter]/countAll 
+      fracSum += fraction
+      df1.loc[index,'fraction'] = fraction
+      df1.loc[index,'fracSum'] = fracSum 
+  df2 = df1[df1['fracSum']<=limit] 
+  df2 = df2.sort_values(counter, ascending=False)
+  rest = df1[df1['fraction']>limit].sum()
+  newRow = pd.Series(data={counter:rest, 'fraction':rest/countAll, 'fracSum':1.0}, name='Other')
+  #df2 = df2.append(newRow, ignore_index=False)
+  print(df2[counter])
+  #df2 = df2.sort_values([counter], ascending=False)
+  return df2  
+
+domainsDF = pd.DataFrame(None) 
+if(os.path.exists(DATA_PATH / 'csv' / 'sentiments_domains.csv')):
+    domainsDF = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_domains.csv', delimiter=',',index_col='domain')
+    domainsDF = extractTopPercent(domainsDF, limit=0.90, counter='counting')
+print(domainsDF)
+
+
+# Bar
+y_pos = np.arange(len(domainsDF['counting']))
+plt.rcdefaults()
+fig, ax = plt.subplots(figsize=(40, 20))
+#colors = filterColors(germanDomains['Unnamed: 0'], colorDomains)
+ax.barh(y_pos, domainsDF['counting'], align='center')
+ax.set_yticks(y_pos)
+ax.set_yticklabels(domainsDF.index, fontsize=36)
+ax.invert_yaxis()  # labels read top-to-bottom
+ax.set_xlabel('Number of Articles', fontsize=36)
+plt.xticks(fontsize=36)
+ax.set_title("Newspapers", fontsize=48)
+plt.tight_layout()
+plt.savefig(DATA_PATH / 'img' / 'domains_count.png')
+plt.close('all')
