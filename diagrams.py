@@ -7,6 +7,9 @@ import io
 #import requests
 import glob
 
+import datetime
+from dateutil import parser
+
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
@@ -25,6 +28,9 @@ german_stop_words = set(stopwords.words('german'))
 DATA_PATH = Path.cwd()
 if(not os.path.exists(DATA_PATH / 'img')):
     os.mkdir(DATA_PATH / 'img')
+if(not os.path.exists(DATA_PATH / 'csv')):
+    os.mkdir(DATA_PATH / 'csv')
+
 
 def getNewsFiles():
     fileName = './csv/news_????_??.csv'
@@ -56,9 +62,6 @@ newsDf['description'] = newsDf['description'].fillna('')
 newsDf['quote'] = newsDf['quote'].fillna('')
 newsDf['text'] = newsDf['title'] + ' ' + newsDf['description'] 
 print(newsDf)  
-
-
-'''
 
 # Topics & Keywords
 fig = plt.figure(figsize=(12, 6), constrained_layout=True)
@@ -287,11 +290,10 @@ lda.fit(tf)
 
 tf_feature_names = tf_vectorizer.get_feature_names()
 plot_top_words(lda, tf_feature_names, n_top_words, "Topics in LDA model", "topics_lda.png")
-'''
 
 #Sentiments, Counts, Entities
 
-def extractTopPercent(df1, limit=0.95, counter='count'):
+def extractTopPercent(df1, limit=0.95, maxSize=25, counter='count'):
   df1 = df1.sort_values(by=[counter], ascending=False)
   df1['fraction'] = 0.0
   df1['fracSum'] = 0.0
@@ -305,20 +307,21 @@ def extractTopPercent(df1, limit=0.95, counter='count'):
   df2 = df1[df1['fracSum']<=limit] 
   df2 = df2.sort_values(counter, ascending=False)
   rest = df1[df1['fraction']>limit].sum()
+  df2 = df2.head(maxSize)  #todo add to rest...
   newRow = pd.Series(data={counter:rest, 'fraction':rest/countAll, 'fracSum':1.0}, name='Other')
   #df2 = df2.append(newRow, ignore_index=False)
   print(df2[counter])
   #df2 = df2.sort_values([counter], ascending=False)
   return df2  
 
+#Domains
 domainsDF = pd.DataFrame(None) 
 if(os.path.exists(DATA_PATH / 'csv' / 'sentiments_domains.csv')):
     domainsDF = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_domains.csv', delimiter=',',index_col='domain')
-    domainsDF = extractTopPercent(domainsDF, limit=0.90, counter='counting')
-print(domainsDF)
+    domainsDF = extractTopPercent(domainsDF, limit=0.90, maxSize=25, counter='counting')
+#print(domainsDF)
 
-
-# Bar
+# Bar Domains
 y_pos = np.arange(len(domainsDF['counting']))
 plt.rcdefaults()
 fig, ax = plt.subplots(figsize=(40, 20))
@@ -332,4 +335,164 @@ plt.xticks(fontsize=36)
 ax.set_title("Newspapers", fontsize=48)
 plt.tight_layout()
 plt.savefig(DATA_PATH / 'img' / 'domains_count.png')
+plt.close('all')
+
+#Persons
+personsDF = pd.DataFrame(None) 
+if(os.path.exists(DATA_PATH / 'csv' / 'sentiments_persons.csv')):
+    personsDF = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_persons.csv', delimiter=',' ,index_col='phrase')
+    personsDF = extractTopPercent(personsDF, limit=0.75, maxSize=25, counter='count')
+print(personsDF)
+
+# Bar Persons
+y_pos = np.arange(len(personsDF['count']))
+plt.rcdefaults()
+fig, ax = plt.subplots(figsize=(40, 20))
+#colors = filterColors(germanDomains['Unnamed: 0'], colorDomains)
+ax.barh(y_pos, personsDF['count'], align='center')
+ax.set_yticks(y_pos)
+ax.set_yticklabels(personsDF.index, fontsize=36)
+ax.invert_yaxis()  # labels read top-to-bottom
+ax.set_xlabel('Number of Mentions', fontsize=36)
+plt.xticks(fontsize=36)
+ax.set_title("Persons", fontsize=48)
+plt.tight_layout()
+plt.savefig(DATA_PATH / 'img' / 'persons_count.png')
+plt.close('all')
+
+#Organizations
+orgsDF = pd.DataFrame(None) 
+if(os.path.exists(DATA_PATH / 'csv' / 'sentiments_organizations.csv')):
+    orgsDF = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_organizations.csv', delimiter=',' ,index_col='phrase')
+    orgsDF = extractTopPercent(orgsDF, limit=0.75, maxSize=25, counter='count')
+print(orgsDF)
+
+# Bar Organizations
+y_pos = np.arange(len(orgsDF['count']))
+plt.rcdefaults()
+fig, ax = plt.subplots(figsize=(40, 20))
+#colors = filterColors(germanDomains['Unnamed: 0'], colorDomains)
+ax.barh(y_pos, orgsDF['count'], align='center')
+ax.set_yticks(y_pos)
+ax.set_yticklabels(orgsDF.index, fontsize=36)
+ax.invert_yaxis()  # labels read top-to-bottom
+ax.set_xlabel('Number of Mentions', fontsize=36)
+plt.xticks(fontsize=36)
+ax.set_title("Organizations", fontsize=48)
+plt.tight_layout()
+plt.savefig(DATA_PATH / 'img' / 'organizations_count.png')
+plt.close('all')
+
+#Locations
+locationsDF = pd.DataFrame(None) 
+if(os.path.exists(DATA_PATH / 'csv' / 'sentiments_locations.csv')):
+    locationsDF = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_locations.csv', delimiter=',' ,index_col='phrase')
+    locationsDF = extractTopPercent(locationsDF, limit=0.75, maxSize=25, counter='count')
+print(locationsDF)
+
+# Bar Locations
+y_pos = np.arange(len(locationsDF['count']))
+plt.rcdefaults()
+fig, ax = plt.subplots(figsize=(40, 20))
+#colors = filterColors(germanDomains['Unnamed: 0'], colorDomains)
+ax.barh(y_pos, locationsDF['count'], align='center')
+ax.set_yticks(y_pos)
+ax.set_yticklabels(locationsDF.index, fontsize=36)
+ax.invert_yaxis()  # labels read top-to-bottom
+ax.set_xlabel('Number of Mentions', fontsize=36)
+plt.xticks(fontsize=36)
+ax.set_title("Locations", fontsize=48)
+plt.tight_layout()
+plt.savefig(DATA_PATH / 'img' / 'locations_count.png')
+plt.close('all')
+
+
+def getDay(dateString):
+    timeDate = '1970-01-01'
+    pubDate = None
+    try:
+        pubDate = parser.parse(dateString)
+    except:
+        print('date parse error 1')
+    if(not pubDate):
+      try:
+        pubDate = parser.isoparse(dateString)
+      except:
+        print('date parse error 2')   
+    if(pubDate):
+        timeDate = pubDate.strftime('%Y-%m-%d')
+    return timeDate  
+
+#topics per date
+indexTopics = {}
+for index, column in newsDf.iterrows():
+    dayDate = getDay(column.published)
+    if(not dayDate in indexTopics):
+        indexTopics[dayDate] = {}
+        for index2, column2 in topicsColorsDF.iterrows():
+           indexTopics[dayDate][column2['topic']] = 0
+    quote = str(column.text)
+    foundTopics = {}
+    for index2, column2 in topicsColorsDF.iterrows():
+       foundTopics[column2['topic']] = False
+
+    for index3, column3 in keywordsColorsDF.iterrows():
+        #if(not column3['topic'] in indexTopics[dayDate]):
+        #    indexTopic[dayDate][column3['topic']] = 0
+        keyword = column3['keyword'].strip("'") 
+        if(keyword in quote):
+            foundTopics[column3['topic']] = True
+    for index2, column2 in topicsColorsDF.iterrows():
+        if(foundTopics[column2['topic']]):
+            indexTopics[dayDate][column2['topic']] += 1
+
+indexTopicsDF = pd.DataFrame.from_dict(indexTopics, orient='index', columns=list(topicsColorsDF['topic']))
+indexTopicsDF.to_csv(DATA_PATH / 'csv' / "topics_date.csv", index=True)
+
+
+#3d Bars -> Topics by Date 
+germanTopicsDate = pd.read_csv(DATA_PATH / 'csv' / 'topics_date.csv', delimiter=',')
+germanTopicsDate = germanTopicsDate.sort_values(by=['Unnamed: 0'], ascending=True)
+xa = []
+xl = []
+ya = []
+yl = []
+za = []
+ca = []
+
+for idx, column in germanTopicsDate.iterrows():
+    p = 0
+    #for topic in colorsTopics:
+    for index2, column2 in topicsColorsDF.iterrows():
+        xa.append(idx) 
+        xl.append(column['Unnamed: 0'])
+        ya.append(p)  
+        yl.append(column2['topic'])
+        za.append(column[column2['topic']])
+        ca.append(column2['topicColor'])
+        p += 1
+fig = plt.figure(figsize=(30, 20))
+ax = fig.gca(projection='3d')
+fig.subplots_adjust(left=0, right=1, bottom=0, top=1.5)
+ticksx = germanTopicsDate.index.values.tolist()
+plt.xticks(ticksx, germanTopicsDate['Unnamed: 0'],rotation=63, fontsize=18)
+ticksy = np.arange(1, len(topicsColorsDF)+1, 1)
+plt.yticks(ticksy, list(topicsColorsDF['topic']), rotation=-4, fontsize=18, horizontalalignment='left')
+ax.tick_params(axis='z', labelsize=18, pad=20)
+ax.tick_params(axis='y', pad=20)
+ax.set_title("Number of Newspaper Articles covering Topics", fontsize=36, y=0.65, pad=-14)
+ax.bar3d(xa, ya, 0, 0.8, 0.8, za, color=ca, alpha=0.6)
+ax.view_init(elev=30, azim=-70)
+plt.gca().xaxis.set_major_locator(mdates.DayLocator(interval=7))
+ax.get_proj = lambda: np.dot(Axes3D.get_proj(ax), np.diag([1.0, 0.7, 0.4, 1]))
+colorLeg = list(topicsColorsDF['topicColor'])
+colorLeg.reverse()
+labelLeg = list(topicsColorsDF['topic'])
+labelLeg.reverse()
+custom_lines = [plt.Line2D([],[], ls="", marker='.', 
+                mec='k', mfc=c, mew=.1, ms=30) for c in colorLeg]
+leg = ax.legend(custom_lines, labelLeg, 
+          loc='center left', fontsize=16, bbox_to_anchor=(0.75, .48))
+leg.set_title("Topics", prop = {'size':20})            
+plt.savefig(DATA_PATH / 'img' / 'dates_topics_article_count.png', dpi=300)
 plt.close('all')
