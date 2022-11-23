@@ -8,6 +8,7 @@ import glob
 
 
 import nltk
+import sklearn
 from nltk.corpus import stopwords
 from HanTa import HanoverTagger as ht
 from textblob_de import TextBlobDE

@@ -51,7 +51,8 @@ def getNewsDFbyList(files):
             newsDF = df
         else:
             newsDF = pd.concat([newsDF, df])
-    newsDF = newsDF.sort_values(by=['published'], ascending=True)        
+    if(not newsDF.empty):
+        newsDF = newsDF.sort_values(by=['published'], ascending=True)        
     return newsDF 
 
 def getNewsDF():
@@ -60,8 +61,11 @@ def getNewsDF():
     return newsDF     
 
 newsDf = getNewsDF()
-keywordsNewsDF = newsDf.groupby('keyword').count()
-keywordsNewsDF = keywordsNewsDF.drop(columns = ['language'])
+
+keywordsNewsDF = pd.DataFrame(None) 
+if(not newsDf.empty):
+  keywordsNewsDF = newsDf.groupby('keyword').count()
+  keywordsNewsDF = keywordsNewsDF.drop(columns = ['language'])
 
 '''
 newsDf['age'] = newsDf['published'].apply(
@@ -69,10 +73,12 @@ newsDf['age'] = newsDf['published'].apply(
         datetime.datetime.now(datetime.timezone.utc) - parser.parse(x)
 )
 '''
-keywordsNewsDF2 = pd.merge(keywordsDF, keywordsNewsDF, how='left', left_on=['keyword'], right_on=['keyword'])
-keywordsNewsDF2['index'] = keywordsNewsDF2['index'].fillna(0)
-keywordsNewsDF2['index'] = keywordsNewsDF2['index'] - keywordsNewsDF2['ratioNew']
-keywordsNewsDF2 = keywordsNewsDF2.sort_values(by=['index'], ascending=True)  
+keywordsNewsDF2 = pd.DataFrame(None) 
+if(not keywordsNewsDF.empty):
+  keywordsNewsDF2 = pd.merge(keywordsDF, keywordsNewsDF, how='left', left_on=['keyword'], right_on=['keyword'])
+  keywordsNewsDF2['index'] = keywordsNewsDF2['index'].fillna(0)
+  keywordsNewsDF2['index'] = keywordsNewsDF2['index'] - keywordsNewsDF2['ratioNew']
+  keywordsNewsDF2 = keywordsNewsDF2.sort_values(by=['index'], ascending=True)  
 
 rows20 = int(math.ceil(keywordsNewsDF2.shape[0]/5))
 keywordsNewsDF2 = keywordsNewsDF2.head(rows20)
@@ -379,18 +385,21 @@ def inqRandomNews():
 
     rndKey = keywordsDF.sample()
     randomNumber = random.random()
+
     print(['randomNumber: ',randomNumber])
-    if(randomNumber>0.8):
+    if(not keywordsNewsDF2.empty):
+      if(randomNumber>0.8):
         print("DF2 seldoms")
         rndKey = keywordsNewsDF2.sample()
-    if(randomNumber<0.4): 
+    if(not keywordsDF3.empty):
+      if(randomNumber<0.4): 
         print("DF3 successors")
         rndKey = keywordsDF3.sample()
     #if FoundAny: newLimit = minimum(currPage+1,limitPage)
     #if foundNothing:  newLimit = maximum(1,random.choice(range(currPage-1,limitPage-1)))
 
     ## cheat for now!     
-    ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'Erneuerbare Energie'"]
+    ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'Gasheizung'"]
     ### rndKey = keywordEmptyDF.sample()
     ## rm in final version
 

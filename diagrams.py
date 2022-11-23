@@ -14,7 +14,8 @@ import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import matplotlib.gridspec as gridspec
-from mpl_toolkits.mplot3d import Axes3D
+#from mpl_toolkits.mplot3d import Axes3D
+from mpl_toolkits.mplot3d import axes3d, Axes3D
 import matplotlib.cm as cm
 
 from nltk.corpus import stopwords
@@ -55,6 +56,7 @@ def getNewsDF():
 
 keywordsColorsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')
 topicsColorsDF = keywordsColorsDF.drop_duplicates(subset=['topic'])
+print(topicsColorsDF)
 
 newsDf = getNewsDF()
 newsDf['title'] = newsDf['title'].fillna('')
@@ -124,7 +126,7 @@ if(not bayesDF2.empty):
   topic_idx = -1
   ##for topic in reversed(colorsTopics.keys()):
 
-  for index2, column2 in topicsColorsDF.iterrows():
+  for index2, column2 in topicsColorsDF.head(n_components).iterrows():
     topic = column2['topic']
     topic_idx += 1
     topicWords = {}  
@@ -190,7 +192,8 @@ def extractColors(words):
                   summary[topic] += bayes[topic]
         wordColors.append(wordColor)
     ##for topic in colorsTopics: 
-    for index2, column2 in topicsColorsDF.iterrows():
+    if(not bayesDF2.empty):
+     for index2, column2 in topicsColorsDF.iterrows():
         topic = column2['topic'] 
         if(summary[topic] > maxTopicValue):
             maxTopicValue = summary[topic]
@@ -243,7 +246,7 @@ def plot_top_words(model, feature_names, n_top_words, title, filename='topics'):
         bbox_to_anchor=(1, 0, 2.25, 1.1)
     )
     plt.subplots_adjust(top=0.92, bottom=0.05, wspace=1.20, hspace=0.25)
-    plt.savefig(DATA_PATH / "img" / (filename + ".png"), dpi=300)
+    plt.savefig(DATA_PATH / "img" / filename, dpi=300)
     plt.close('all')
 
 
@@ -472,8 +475,10 @@ for idx, column in germanTopicsDate.iterrows():
         ca.append(column2['topicColor'])
         p += 1
 fig = plt.figure(figsize=(30, 20))
-ax = fig.gca(projection='3d')
-fig.subplots_adjust(left=0, right=1, bottom=0, top=1.5)
+## ax = Axes3D(fig)
+## ax = fig.gca(projection='3d')
+ax = fig.add_subplot(projection='3d')
+#fig.subplots_adjust(left=0, right=1, bottom=0, top=1.5)
 ticksx = germanTopicsDate.index.values.tolist()
 plt.xticks(ticksx, germanTopicsDate['Unnamed: 0'],rotation=63, fontsize=18)
 ticksy = np.arange(1, len(topicsColorsDF)+1, 1)

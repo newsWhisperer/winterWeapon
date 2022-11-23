@@ -13,12 +13,13 @@ from dateutil import parser
 # python3 -m spacy download de_core_news_md
 #pip3 install textblob_de
 
+import nltk
 import spacy
 import de_core_news_md
 from textblob_de import TextBlobDE
 
 nlp = de_core_news_md.load()
-
+nltk.download('punkt')
 
 
 DATA_PATH = Path.cwd()

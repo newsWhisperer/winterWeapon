@@ -1,6 +1,7 @@
+
 # This is a basic workflow to help you get started with Actions
 
-name: harvest:0.0
+name: bayes:0.0
 
 on:
   push:
@@ -9,20 +10,16 @@ on:
   workflow_dispatch:
   schedule:
     # * is a special character in YAML so you have to quote this string : 
-#    daily,every 5 hours #m h d/m m d/w 
-    - cron:  '00 */5 * * *'
-#    every 2 hour
-#    - cron:  '10 */2 * * *'
-#    every month 2.nd day
-#    - cron:  '40 8 2 * *' 
-  
+#    weekly #m h d/m m d/w 
+#    - cron:  '30 1 * * 1'
+#    every month 3.rd day
+    - cron:  '40 8 3 * *' 
+   
 jobs:
   docker-run-action:
     runs-on: ubuntu-latest
     container:
       image: tamboraorg/crecoding:2020.0
-      env:
-        NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
       volumes:
         - ${{ github.workspace }}:/cre/python
     steps:
@@ -32,22 +29,16 @@ jobs:
           # this is to fix GIT not liking owner of the checkout dir
           chown -R $(id -u):$(id -g) $PWD
 #        with:
-#          ref: master
-      - name: install aiohttp
-        run: (pip3 install aiohttp)
-      - name: install asyncio
-        run: (pip3 install asyncio)
+#          ref: main
       - name: cd /cre/python/
         run: (cd /cre/python/)
-      - name: cp mysecrets.py
-        run: (cp mysecrets.orig.py mysecrets.py)
-      - name: Run newsapi
-        env:
-            NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
-        run: (python3 newsapi.py)
+      - name: Install HanTa textblob_de
+        run: (pip3 install HanTa textblob_de scikit-learn)
+      - name: Run bayes
+        run: (python3 bayes.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
         with:
 #          pull: '--rebase --autostash ...'
-          add: 'csv/*.csv keywords.csv'
+          add: 'img/words_bayes_*.png  csv/words_bayes_*.csv'
           tag_push: '--force'
