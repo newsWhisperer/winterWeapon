@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.3975199326477824
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.3952844664
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.3942394034727637
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,2,0.3941687508673223
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.3917401399844874
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.3914823174329999
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.387484374369319
@@ -30,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.3612499999999999
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.3609962306413601
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,4,0.3606612363173729
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,2,0.35818700141904214
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.3573449551320291
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.3565249111386445
 'Gas-Pipelines',de,Sabotage,#8723a6,#9723b6,3,0.3554799723395874
