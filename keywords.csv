@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,1,0.4273580173331874
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.4250400205499999
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.4244344072482499
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.4182789928374885
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.413439274293657
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.4067267971495437
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.4058735316086619
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.387484374369319
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.3839822380133852
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.3812846385893253
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.3786703870936834
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.3755141572428986
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.3753550463066133
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.3741885532238973
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.00435093
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0037500703499999
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.00375001485
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.0035935829324999146
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.0035935829324999
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.00125112051
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0010275912749999
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.00057673071675
