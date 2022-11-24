@@ -85,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0166909957062439
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.01575003375
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.015750024
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.014981133682258
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0146007249357142
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,4,0.0141314819863636
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.014058069090909
@@ -98,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.0127500461999999
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.01275001875
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,3,0.01275001635
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0127341436299193
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0115161226611111
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0102250022499999
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0097500159
