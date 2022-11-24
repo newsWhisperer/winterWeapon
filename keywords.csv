@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,1,0.4273580173331874
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.4250400205499999
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.4244344072482499
-'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.413439274293657
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.4067267971495437
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.4058735316086619
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.4041352062006499
@@ -25,11 +24,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.3753550463066133
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.3741885532238973
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.3733309247366198
+'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.3654661372405176
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.362716567264843
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.3612499999999999
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.3609962306413601
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,4,0.3606612363173729
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,2,0.35818700141904214
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,2,0.3581870014190421
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.3573449551320291
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.3565249111386445
 'Gas-Pipelines',de,Sabotage,#8723a6,#9723b6,3,0.3554799723395874
