@@ -121,13 +121,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.00435093
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0037500703499999
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.00375001485
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.0035935829324999146
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.00125112051
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0010275912749999
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.00057673071675
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0004950248999999
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.00049500615
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0004500044999999
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0003450034499999
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00030003
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0001627651275
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0001500014999999
