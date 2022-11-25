@@ -33,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.3565249111386445
 'Gas-Pipelines',de,Sabotage,#8723a6,#9723b6,3,0.3554799723395874
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.3526026122264999
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,2,0.35210925775292956
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.3505079993742499
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.3503385192493218
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.3498524182168504
@@ -45,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.2516584205402832
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.2473556458222374
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.2390614792261656
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.2375991091210936
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.2375991091210936
 'Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1817821584391369
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.07875024
