@@ -10,7 +10,7 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string : 
 #    daily,every 5 hours #m h d/m m d/w 
-    - cron:  '00 */5 * * *'
+    - cron:  '13 */5 * * *'
 #    every 2 hour
 #    - cron:  '10 */2 * * *'
 #    every month 2.nd day
