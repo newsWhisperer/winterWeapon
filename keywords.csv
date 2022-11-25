@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.3654661372405176
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.362716567264843
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.3609962306413601
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,4,0.3606612363173729
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.3606612363173729
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,2,0.3581870014190421
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.3573449551320291
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.3565249111386445
@@ -78,7 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.02175002265
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0215335724785714
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0215167173038636
-'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,2,0.020551272156749997
+'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,2,0.0205512721567499
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.01875015405
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.0186768847818181
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.0176977037076923
