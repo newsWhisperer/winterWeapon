@@ -73,9 +73,12 @@ for index, column in newsDf.iterrows():
     blob = TextBlobDE(quote)
     newsDf.loc[newsDf['url'] == column['url'], 'subjectivity'] = blob.sentiment.subjectivity
     newsDf.loc[newsDf['url'] == column['url'], 'sentiment'] = blob.sentiment.polarity
-    pubDate = parser.parse(column['published'])
-    newsDf.loc[newsDf['url'] == column['url'], 'week'] = pubDate.strftime('%Y-%W')
-    newsDf.loc[newsDf['url'] == column['url'], 'day'] = pubDate.strftime('%Y-%m-%d')
+    try:
+      pubDate = parser.parse(column['published'])
+      newsDf.loc[newsDf['url'] == column['url'], 'week'] = pubDate.strftime('%Y-%W')
+      newsDf.loc[newsDf['url'] == column['url'], 'day'] = pubDate.strftime('%Y-%m-%d')
+    except:
+      print('date parse error')
 
 ##keywordsNewsDF = newsDf.groupby('keyword').mean()
 
@@ -132,6 +135,12 @@ indexPersons = {}
 indexMisc = {}
 indexMissing = {}
 
+def strangeCharacters(testString, testCharacters):
+     count = 0
+     for oneCharacter in testCharacters:
+          count += testString.count(oneCharacter)
+     return count
+
 i=0
 ##topicWordsAbs = {'summaryOfAllWords': emptyTopics.copy()}
 for index, column in objNewsDF.iterrows():
@@ -156,12 +165,16 @@ for index, column in objNewsDF.iterrows():
                     indexLocations[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
                                                    'subjectivity':sentence.sentiment.subjectivity, 'language':lang,'count':1}
             elif(entity.label_ in ['PER','PERSON']):
-                if(entity.text in indexPersons):
-                    indexPersons[entity.text]['count'] += 1
-                    indexPersons[entity.text]['sentiment'] += sentence.sentiment.polarity
-                    indexPersons[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
+             personText = entity.text
+             personText = personText.strip(" .,!?;:'…/-").strip('"')
+             if(strangeCharacters(personText,".,!?;:'…<>/\n\r")==0):
+               if(personText.count(' ')>0):
+                if(personText in indexPersons):
+                    indexPersons[personText]['count'] += 1
+                    indexPersons[personText]['sentiment'] += sentence.sentiment.polarity
+                    indexPersons[personText]['subjectivity'] += sentence.sentiment.subjectivity
                 else:    
-                    indexPersons[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
+                    indexPersons[personText] = {'phrase':personText, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
                                                  'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1}   
             elif('ORG' == entity.label_):
                 if(entity.text in indexOrganizations):
