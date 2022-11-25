@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.3733309247366198
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.3654661372405176
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.362716567264843
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.3612499999999999
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.3609962306413601
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,4,0.3606612363173729
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,2,0.3581870014190421
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,4,0.3301839474249284
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.3219543330809064
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.3199623055711886
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.3070624999999999
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,1,0.303780015050647
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.2516584205402832
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.2473556458222374
