@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.3952844664
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.3942394034727637
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.3917401399844874
-'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.3914823174329999
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.387484374369319
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.3812846385893253
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.3786703870936834
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas-Pipelines',de,Sabotage,#8723a6,#9723b6,3,0.3554799723395874
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.3526026122264999
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,2,0.3521092577529295
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.35134928845441354
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.3505079993742499
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.3503385192493218
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.3498524182168504
