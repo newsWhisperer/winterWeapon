@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.3733309247366198
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.3654661372405176
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.362716567264843
-'russisches Gas',de,Russland,#a6190f,#b32319,2,0.3609962306413601
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.3606612363173729
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,2,0.3581870014190421
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.3573449551320291
@@ -31,12 +30,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas-Pipelines',de,Sabotage,#8723a6,#9723b6,3,0.3554799723395874
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.3526026122264999
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,2,0.3521092577529295
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.35134928845441354
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.3513492884544135
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.3505079993742499
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.3503385192493218
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.3498524182168504
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.3480726325959154
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.3468381990058231
+'russisches Gas',de,Russland,#a6190f,#b32319,2,0.3436185478633379
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,3,0.3313359523113774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,4,0.3301839474249284
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.3219543330809064
