@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.3917401399844874
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.3914823174329999
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.387484374369319
-'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.3839822380133852
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.3812846385893253
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.3786703870936834
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.3755141572428986
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.3498524182168504
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.3480726325959154
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.3468381990058231
+'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,3,0.3313359523113774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,4,0.3301839474249284
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.3219543330809064
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.3199623055711886
