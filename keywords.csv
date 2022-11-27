@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,1,0.303780015050647
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.2516584205402832
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.2473556458222374
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.2390614792261656
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.20320225734224076
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.2019592427529295
 'Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1817821584391369
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.07875024
@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.01875015405
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.0186768847818181
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.0176977037076923
-'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,4,0.017235563888409005
+'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,4,0.017235563888409
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0166909957062439
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.01575003375
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.015750024
