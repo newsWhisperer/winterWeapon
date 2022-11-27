@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.3975199326477824
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.3952844664
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.3942394034727637
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.3917401399844874
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.3886748128897881
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.387484374369319
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.3812846385893253
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.3503385192493218
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.3498524182168504
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.3480726325959154
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.3470265680777234
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.3468381990058231
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.3436185478633379
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,3,0.3313359523113774
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.050450045
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.0504068404545454
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,4,0.0501650805304771
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.04982839007386364
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.0498283900738636
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.04875005505
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0428382803824999
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,4,0.0413280813636363
