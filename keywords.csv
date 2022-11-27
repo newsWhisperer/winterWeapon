@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.4067267971495437
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.4058735316086619
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.4041352062006499
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.4033108846831733
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.3975199326477824
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.3952844664
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.3942394034727637
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.3917401399844874
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.38867481288978817
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.387484374369319
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.3812846385893253
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.3786703870936834
@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,1,0.303780015050647
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.2516584205402832
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.2473556458222374
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.20320225734224076
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.2032022573422407
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.2019592427529295
 'Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1817821584391369
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.07875024
