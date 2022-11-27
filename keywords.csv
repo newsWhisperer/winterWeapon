@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.3070624999999999
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,1,0.303780015050647
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.2516584205402832
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.23615238894890178
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.2361523889489017
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.2032022573422407
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.2019592427529295
 'Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1817821584391369
@@ -55,10 +55,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.050450045
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.0504068404545454
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,4,0.0501650805304771
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.04982839007386364
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.04875005505
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0428382803824999
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,4,0.0413280813636363
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.03675004875
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.03675002415
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0337500176999999
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.0307500336
