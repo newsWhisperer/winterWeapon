@@ -1,4 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Übergewinnsteuer'',de,Politik,#1f2dc4,#1b3c8a,1,1.0
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,1.0
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.5
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.4888775577499999
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.4572416122727272
@@ -39,13 +41,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,3,0.3313359523113774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,4,0.3301839474249284
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.3219543330809064
-'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.32014335119989445
+'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.3201433511998944
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.3199623055711886
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.3070624999999999
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,1,0.303780015050647
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.2516584205402832
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.2361523889489017
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,1
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.2032022573422407
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.2019592427529295
 'Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1817821584391369
@@ -58,9 +59,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,4,0.0501650805304771
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.0498283900738636
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.04875005505
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0428382803824999
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,4,0.0413280813636363
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.03675002415
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.036412538325124914
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0337500176999999
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.0307500336
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.03022500225
@@ -78,7 +79,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.02175015
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.02175002265
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0215335724785714
-'Übergewinnsteuer'',de,Politik,#1f2dc4,#1b3c8a,1,1
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0215167173038636
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,2,0.0205512721567499
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.01875015405
