@@ -128,8 +128,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0004950248999999
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.00049500615
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0004500044999999
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.00039512555461875
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00030003
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.000288365358375
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0001500014999999
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.00013500135
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,7.500074999999999e-05
