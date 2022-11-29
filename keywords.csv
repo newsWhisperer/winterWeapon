@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.3786703870936834
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.3755141572428986
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.3741885532238973
-'Energieminister',de,Politik,#1f2dc4,#2451d9,4,0.37178171336806964
+'Energieminister',de,Politik,#1f2dc4,#2451d9,4,0.3717817133680696
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.3681037929518491
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.362716567264843
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.3606612363173729
@@ -59,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,4,0.0501650805304771
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.0498283900738636
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.04875005505
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.04560608185977269
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,4,0.0413280813636363
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.03675002415
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0364125383251249
@@ -114,7 +115,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,3,0.00675001545
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0056074256431034
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,2,0.0054500045
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0050405299954545
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.0050405262454545
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.0050405082454545
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0050404630954545
