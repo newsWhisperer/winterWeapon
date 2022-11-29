@@ -14,12 +14,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.3975199326477824
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,2,0.3954842570059366
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.3952844664
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.3942394034727637
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.387484374369319
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.3812846385893253
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.3786703870936834
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.3755141572428986
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.3741885532238973
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.36810379295184914
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.362716567264843
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.3606612363173729
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,2,0.3581870014190421
@@ -37,7 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.3470265680777234
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.3468381990058231
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.3436185478633379
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.33592117466249044
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.3359211746624904
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,3,0.3313359523113774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,4,0.3301839474249284
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.3219543330809064
