@@ -52,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1817821584391369
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.07875024
 'AKW',de,Quelle,#3d9a9c,#24d7b3,4,0.0702351712738636
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0587649911475
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.0585295282790322
 'Blackout',de,Other,#545557,#6b6c6e,4,0.0504950752999999
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.050450045
@@ -59,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,4,0.0501650805304771
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.0498283900738636
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.04875005505
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.04560608185977269
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0456060818597726
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,4,0.0413280813636363
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.03675002415
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0364125383251249
@@ -133,7 +134,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0003951255546187
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00030003
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0001500014999999
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.00013500135
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,7.500074999999999e-05
 'Baltic Pipe',de,Other,#545557,#6b6c6e,2,6.00006e-05
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,3.00078e-05
