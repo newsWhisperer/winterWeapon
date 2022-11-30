@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.4376622212427811
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.4250400205499999
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.4244344072482499
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.4067267971495437
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.4058735316086619
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.4041352062006499
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.3975199326477824
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.3755141572428986
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.3741885532238973
 'Energieminister',de,Politik,#1f2dc4,#2451d9,4,0.3717817133680696
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.36885060075893034
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.3681037929518491
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.362716567264843
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.3606612363173729
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.0307500336
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.03022500225
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.03022500225
-'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,4,0.028697738396056743
+'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,4,0.0286977383960567
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0277679026227272
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.0277501098
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.02775002115
