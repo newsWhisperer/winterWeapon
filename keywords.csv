@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.3755141572428986
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.3741885532238973
 'Energieminister',de,Politik,#1f2dc4,#2451d9,4,0.3717817133680696
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.36885060075893034
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.3688506007589303
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.3681037929518491
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.362716567264843
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.3606612363173729
@@ -83,6 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.02175002265
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0215335724785714
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0215167173038636
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,4,0.021211812349056725
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,2,0.0205512721567499
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.01875015405
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.0186768847818181
@@ -95,7 +96,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.014058069090909
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.014044449090909
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0137821697790908
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,4,0.0137819738865908
 'Gas Ukraine',de,Russland,#a6190f,#b23325,2,0.0127502247
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.0127500979499999
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.01275005085
