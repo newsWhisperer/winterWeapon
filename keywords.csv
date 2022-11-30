@@ -63,8 +63,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0456060818597726
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,4,0.0413280813636363
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.03675002415
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0364125383251249
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0337500176999999
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.030950657576356164
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.0307500336
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.03022500225
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.03022500225
@@ -83,7 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.02175002265
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0215335724785714
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0215167173038636
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,4,0.021211812349056725
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,4,0.0212118123490567
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,2,0.0205512721567499
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.01875015405
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.0186768847818181
