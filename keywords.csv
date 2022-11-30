@@ -68,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.0307500336
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.03022500225
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.03022500225
+'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,4,0.028697738396056743
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0277679026227272
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.0277501098
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.02775002115
@@ -86,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.01875015405
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.0186768847818181
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.0176977037076923
-'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,4,0.017235563888409
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0166909957062439
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.01575003375
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.015750024
