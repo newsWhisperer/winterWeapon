@@ -10,11 +10,11 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string : 
 #    daily,every 5 hours #m h d/m m d/w 
-    - cron:  '13 */5 * * *'
+##    - cron:  '13 */5 * * *'
 #    every 2 hour
 #    - cron:  '10 */2 * * *'
-#    every month 2.nd day
-#    - cron:  '40 8 2 * *' 
+#    every march 2.nd day
+    - cron:  '40 8 2 3 *' 
   
 jobs:
   docker-run-action:
