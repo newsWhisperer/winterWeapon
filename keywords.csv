@@ -64,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,4,0.0413280813636363
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.03675002415
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0337500176999999
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0309506575763561
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.0307500336
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.03022500225
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.03022500225
@@ -75,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.02775001335
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0277500080999999
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0274377289227272
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.026308058939902686
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.02475008955
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.02475003975
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.0247500113999999
