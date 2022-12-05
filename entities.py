@@ -168,7 +168,12 @@ for index, column in objNewsDF.iterrows():
              personText = entity.text
              personText = personText.strip(" .,!?;:'…/-»«").strip('"')
              if(strangeCharacters(personText,".,!?;:'…<>/\n\r»«")==0):
-               if(personText.count(' ')>0):
+              ## TODO: better make this for all afterwards!
+              ## check for 'Robert Habecks' -> 'Robert Habeck'
+              ## if((personText[-1]) == 's') and (personText[:-1] in indexPersons)):
+              ##     personText = personText[:-1]
+              ## TODO: check for Surnames: 'Habeck' -> 'Robert Habeck'
+              if(personText.count(' ')>0):
                 if(personText in indexPersons):
                     indexPersons[personText]['count'] += 1
                     indexPersons[personText]['sentiment'] += sentence.sentiment.polarity
