@@ -1,10 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.3103622409650015
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2995546030083191
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.2973618877065281
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.2958483076895833
-'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,3,0.2956774285555799
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2952277914284286
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2950565546112317
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.2948256814691523
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2937010664314687
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.2926783038165363
@@ -34,8 +33,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.2570263522255737
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.2565307734676483
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.2559167678644424
+'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,3,0.25552672927224285
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2537672150503056
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.24244509549467622
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2424450954946762
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.2422446049737687
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.2404473349560991
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.2322839890090542
@@ -46,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.2019592427529295
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.2013295906065664
 'Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1817821584391369
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1613664405386363
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.1602885441406249
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1594409074055832
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.1545497275143013
@@ -120,7 +121,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,2,0.0134630046759256
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,3,0.0133826386038862
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0131969995392856
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.0131946300454545
 'Gas Ukraine',de,Russland,#a6190f,#b23325,2,0.0127502247
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,3,0.01275001635
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0097500159
