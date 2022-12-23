@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1326931346719413
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1306551286702094
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1303747106999118
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1297059498636946
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.121487910151003
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1196201252830675
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1194463113730915
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1154711677207073
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1154173679448463
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1154041721796752
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.11520713738414042
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1152026830880693
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1150929168115211
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1145481202622984
