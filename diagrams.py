@@ -24,7 +24,9 @@ from sklearn.decomposition import NMF, LatentDirichletAllocation
 
 import nltk
 nltk.download("stopwords")
-german_stop_words = set(stopwords.words('german'))
+german_stop_words = list(stopwords.words('german'))
+
+print(german_stop_words)
 
 DATA_PATH = Path.cwd()
 if(not os.path.exists(DATA_PATH / 'img')):
