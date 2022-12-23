@@ -5,12 +5,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1526070039323978
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1433304165675217
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1409625160400259
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1375038371279912
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1326931346719413
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1306551286702094
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1303747106999118
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.12266842363402201
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.121487910151003
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1196201252830675
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1194463113730915
