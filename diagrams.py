@@ -270,7 +270,7 @@ model = NMF(
     beta_loss="kullback-leibler",
     solver="mu",
     max_iter=1000,
-    alpha=0.1,
+    alpha_W=0.1,
     l1_ratio=0.5,
 )
 W = model.fit_transform(tfidf)
