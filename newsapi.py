@@ -178,6 +178,37 @@ def findArchives(articles):
 def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
+def checkDuplicates(dict1, data2):
+    quote2 = str(data2['domain']) + ' ' + str(data2['title']) + ' ' + str(data2['description'])
+    md52 = hashlib.md5(quote2.encode('utf-8')).hexdigest() 
+    for url1 in dict1:
+        data1 = dict1[url1]
+        quote1 = str(data1['domain']) + ' ' + str(data1['title']) + ' ' + str(data1['description'])   
+        md51 = hashlib.md5(quote1.encode('utf-8')).hexdigest()
+        if(md52 == md51):
+            return True 
+        day1 = '1970-01-01'
+        if(len(str(data1['published']))>5):
+          pubDate1 = parser.parse(data1['published'])
+          day1 = pubDate1.strftime('%Y-%m-%d')
+        groupTxt1 = str(data1['domain']) +  ' ' + day1
+        group1 = hashlib.md5(groupTxt1.encode('utf-8')).hexdigest()  
+
+        day2 = '1970-01-01'
+        if(len(str(data2['published']))>5):
+          pubDate2 = parser.parse(data2['published'])
+          day2 = pubDate2.strftime('%Y-%m-%d')
+        groupTxt2 = str(data2['domain']) +  ' ' + day2
+        group2 = hashlib.md5(groupTxt2.encode('utf-8')).hexdigest()  
+        if(group1 == group2):
+          quote1 = str(data1['title']) + ' ' + str(data1['description'])
+          quote2 = str(data2['title']) + ' ' + str(data2['description'])
+          similarity = similar(quote1,quote2)
+          if(similarity>0.8):
+            return True
+    return False
+
+
 def removeDuplicates(df1):
     df1['md5'] = ''
     df1['group'] = ''
@@ -350,6 +381,7 @@ def filterNewAndArchive(articles, language, keyWord):
                 else:
                     collectedNews[fileDate] = {}
             if(not data['url'] in collectedNews[fileDate]):
+              if(not checkDuplicates(collectedNews[fileDate], data)):
                 data = archiveUrl(data)
                 newArticles.append(data)
         if((time.time() - startTime) > 60*10):
@@ -395,13 +427,17 @@ def inqRandomNews():
       if(randomNumber<0.4): 
         print("DF3 successors")
         rndKey = keywordsDF3.sample()
+      if(randomNumber<0.1):
+        print("DF3 first")
+        rndKey = keywordsDF3.head(1).sample()
     #if FoundAny: newLimit = minimum(currPage+1,limitPage)
     #if foundNothing:  newLimit = maximum(1,random.choice(range(currPage-1,limitPage-1)))
 
     ## cheat for now!     
-    ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'Gasnetz'"]
+    ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'mildem Winter'"]
     ### rndKey = keywordEmptyDF.sample()
     ## rm in final version
+    ### rndKey = keywordsDF3.head(1).sample()
 
     #keyWord = random.choice(searchWords)
     #language = 'de'

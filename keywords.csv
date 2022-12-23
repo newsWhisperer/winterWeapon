@@ -1,141 +1,152 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.3103622409650015
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2995546030083191
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.2973618877065281
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.2958483076895833
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2952277914284286
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.2948256814691523
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2937010664314687
-'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.2926783038165363
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.2895742799729442
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.2861056217284066
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.2857482902229772
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.2805875359797137
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2802587343629092
-'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.2770734235199102
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.2767011485144865
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.2766360758419001
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2762648759202722
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.2761023914751725
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.2758232894252772
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2758040126713405
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2743176006615473
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,3,0.273431898856606
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.2733929390769697
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2700709304711607
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2698197417793141
-'russisches Gas',de,Russland,#a6190f,#b32319,3,0.2697010661039888
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.2688087666119094
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.2686846667618311
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.2643481863283116
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,2,0.2605621075385146
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2588258383637977
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.2570263522255737
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.2565307734676483
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.2559167678644424
-'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,3,0.25552672927224285
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.2537672150503056
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2424450954946762
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.2422446049737687
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.2404473349560991
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.2322839890090542
-'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.2322528301694957
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.2262448949008254
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.2164975115050178
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,3,0.2033519750015049
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.2019592427529295
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.2013295906065664
-'Kohleaustieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1817821584391369
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1613664405386363
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.1602885441406249
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1594409074055832
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.1545497275143013
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.147308571562784
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.1087448386054907
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1073685017987019
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.1060728483467579
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.1004551830124999
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0877946151224338
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.0839757364043181
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,3,0.0794257629063635
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.0794251995738636
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.07875024
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.0703097112123408
-'AKW',de,Quelle,#3d9a9c,#24d7b3,1,0.0702351712738636
-'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0630066791154886
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.0585295282790322
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.0584801368181817
-'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.0545434981515384
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.0509392713379545
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.4435886286363636
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.42530003
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1526070039323978
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1433304165675217
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1409625160400259
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1375038371279912
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1326931346719413
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1306551286702094
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1303747106999118
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1297059498636946
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.121487910151003
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1196201252830675
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1194463113730915
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1184329639078034
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1179799365545453
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1179078504010449
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.1178716770426458
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1174995730635719
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
+'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1163610861286042
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1161943536893525
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1159823425681817
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1156180816417971
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1154711677207073
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1154173679448463
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1154041721796752
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1152026830880693
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1150929168115211
+'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1145481202622984
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,3,0.1145422265385216
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1142193504730205
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1140115055868999
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1132380060772648
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1128745103989095
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.1118185936975639
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,3,0.1117335949853811
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117167790796214
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1116800744508278
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,3,0.1112630741655724
+'Brownout',de,Other,#3d9a9c,#3fa1c5,2,0.1100502856120646
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.1098749424633781
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,3,0.1096016441224054
+'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1095763379394615
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1090175407583135
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1086410536904105
+'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
+'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1074271137218751
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1073407340812853
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,3,0.1072148611667995
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1071600727447736
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1068774596704254
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1067564340395148
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1067057506930532
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1064031809651569
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1063651465951949
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,3,0.1053780296346431
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1051186152620329
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1048891010283553
+'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.1041408332757579
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1019580513604537
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1017709589191799
+'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0984344956291589
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.0981063476633902
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.094226424815064
+'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.0904860024711022
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.0903772227650169
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0897402737249576
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
+'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.0869040146124837
+'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.0846061293150141
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0795267695246468
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.0793175223597552
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.0765602600177874
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.076168830580259
+'Gasknappheit',de,Other,#545557,#4b7c7e,3,0.0760144094178141
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0757937077632056
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
+'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.0754435554879545
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.0751740515048635
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,3,0.074879262988409
+'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0717248753458902
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0700836327124248
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.069338685503705
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
+'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0632557551741169
+'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0606668187283003
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
+'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0588721865017828
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,3,0.0587702157614795
+'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0585930925337601
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0558116252502272
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.052064325619452
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0509744861588822
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0504950752999999
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.0504068404545454
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.0501650805304771
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.048052415472141
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0458007460128895
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.0456119659602272
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0456060818597726
-'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0447037245176507
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0437080535791666
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0413280813636363
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0395602039461874
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.0385230309847726
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.0379868357427272
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,3,0.0374729329379323
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0370873411363636
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0370757728888636
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0369093678627726
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.03675002415
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
+'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0484645234169134
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.0465448734514771
+'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
+'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0439323894650226
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0431461228876977
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0411590511870304
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
+'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0402209666015986
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0400053233749437
+'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0368219952382756
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0365213935818181
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.035307272034284
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0353065195763571
-'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0347787686771476
-'Gaskrise',de,Other,#545557,#6b7c6e,2,0.0337500176999999
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0337117406623793
-'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0317441038605245
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.0307500336
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0351708276214914
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,3,0.0345736082816734
+'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0324119162291414
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
+'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
+'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.029427997793891
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0286977383960567
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0277679026227272
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.02775002115
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.02775001335
-'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0277500080999999
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0273241720854314
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0268758267688636
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0252087535643589
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.02475003975
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.0247500113999999
-'COP27 Russland',de,Klimawandel,#578223,#488223,3,0.0243254067688636
-'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0238304233528535
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.0221928537931817
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0215335724785714
-'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0215167173038636
-'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.01875015405
-'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.0186768847818181
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.0168915617272726
-'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0166909957062439
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0161564366964676
-'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0146007249357142
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.0268754963863636
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0258628527135889
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020676835753534
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0198382149138749
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0191139139660327
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0166036671343305
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0158953335615712
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
-'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.014058069090909
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0137821697790908
-'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0137088315454545
-'COP26 Ukraine',de,Klimawandel,#578223,#388213,2,0.0134630046759256
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,3,0.0133826386038862
-'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0131969995392856
-'Gas Ukraine',de,Russland,#a6190f,#b23325,2,0.0127502247
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,3,0.01275001635
-'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0097500159
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.009750015
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.009585936840909
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0067500199499999
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0056074256431034
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.0050405082454545
-'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0050404630954545
-'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.004632698825
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0030548754926249
-'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.001194588630975
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0009717434428518
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0006905187132119
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0006310694917592
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.00057673071675
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0005701695112499
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.657299306802344e-06
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0095056985672832
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0086934456795278
+'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0027036705232525
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0009682844334636
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0005967719418413
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.1336476933061515e-06
