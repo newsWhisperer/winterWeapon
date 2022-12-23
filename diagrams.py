@@ -261,7 +261,8 @@ tfidf_vectorizer = TfidfVectorizer(
 tfidf = tfidf_vectorizer.fit_transform(newsDf.text)
 
 
-tfidf_feature_names = tfidf_vectorizer.get_feature_names()
+#tfidf_feature_names = tfidf_vectorizer.get_feature_names()
+tfidf_feature_names = tfidf_vectorizer.get_feature_names_out()
 
 model = NMF(
     n_components=n_components,
@@ -296,7 +297,8 @@ lda = LatentDirichletAllocation(
 )
 lda.fit(tf)
 
-tf_feature_names = tf_vectorizer.get_feature_names()
+#tf_feature_names = tf_vectorizer.get_feature_names()
+tf_feature_names = tf_vectorizer.get_feature_names_out()
 plot_top_words(lda, tf_feature_names, n_top_words, "Topics in LDA model", "topics_lda.png")
 
 #Sentiments, Counts, Entities
