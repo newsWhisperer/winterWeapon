@@ -104,7 +104,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0558116252502272
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.052064325619452
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0509744861588822
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0504950752999999
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.0499556733972575
@@ -114,13 +113,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.0465448734514771
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0444046917765342
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0439323894650226
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0431461228876977
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0402209666015986
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0400053233749437
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.037385433508975836
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0373854335089758
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0368219952382756
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0365213935818181
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0351708276214914
