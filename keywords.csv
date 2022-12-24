@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1163610861286042
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1161943536893525
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1156180816417971
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1154711677207073
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1154173679448463
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1154041721796752
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1152071373841404
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1086410536904105
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.10764828710805575
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1074271137218751
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1073407340812853
@@ -107,7 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.052064325619452
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0509744861588822
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0504950752999999
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.04995567339725757
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.0499556733972575
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0484645234169134
