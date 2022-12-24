@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1086410536904105
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.10764828710805575
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1074271137218751
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1073407340812853
@@ -116,11 +116,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0439323894650226
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0431461228876977
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0411590511870304
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0402209666015986
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0400053233749437
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.037385433508975836
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0368219952382756
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0365213935818181
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0351708276214914
