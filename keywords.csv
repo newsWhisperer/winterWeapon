@@ -97,13 +97,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0632557551741169
-'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0606668187283003
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0588721865017828
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0585930925337601
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0558116252502272
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
+'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.05306694591905525
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0509744861588822
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0504950752999999
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.0499556733972575
