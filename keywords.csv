@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1526070039323978
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1433304165675217
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1375038371279912
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1326931346719413
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1306551286702094
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1303747106999118
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.122668423634022
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.12182970155879251
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.121487910151003
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1196201252830675
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1194463113730915
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,3,0.1053780296346431
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1051186152620329
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1048891010283553
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.10442639782865816
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1044263978286581
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.1041408332757579
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1019580513604537
