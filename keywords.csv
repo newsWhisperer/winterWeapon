@@ -38,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1118185936975639
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,3,0.1117335949853811
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117167790796214
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1116800744508278
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,3,0.1112630741655724
 'Brownout',de,Other,#3d9a9c,#3fa1c5,2,0.1100502856120646
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.1098749424633781
@@ -62,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,3,0.1053780296346431
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1051186152620329
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1048891010283553
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.10442639782865816
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.1041408332757579
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1019580513604537
@@ -103,7 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0558116252502272
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
-'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.05306694591905525
+'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0509744861588822
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0504950752999999
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.0499556733972575
