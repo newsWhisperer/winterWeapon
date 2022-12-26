@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1179078504010449
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1174995730635719
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.11651351926122254
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1163610861286042
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1161943536893525
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1156180816417971
@@ -72,12 +72,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.094226424815064
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.0904860024711022
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.0903772227650169
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0897402737249576
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.0869040146124837
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.08631999389571891
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.0846061293150141
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0795267695246468
