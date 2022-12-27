@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.4001842525227272
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.36165504049999997
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.3616550404999999
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1526070039323978
@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1306551286702094
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1303747106999118
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1268010440823934
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.122668423634022
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1218297015587925
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.121487910151003
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1196201252830675
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1073407340812853
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1071600727447736
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.10696843008891871
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1068774596704254
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1067564340395148
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1067057506930532
