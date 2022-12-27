@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1526070039323978
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1326931346719413
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1306551286702094
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1303747106999118
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1288895244711501
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1268010440823934
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1218297015587925
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.121487910151003
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1073407340812853
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1071600727447736
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.10696843008891871
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1069684300889187
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1068774596704254
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1067564340395148
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1067057506930532
