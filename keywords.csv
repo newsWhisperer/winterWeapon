@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.42530003
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.4001842525227272
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.36165504049999997
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1526070039323978
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.0981063476633902
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.094226424815064
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.09354322277025491
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0935432227702549
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,3,0.0921837269917795
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.0904860024711022
