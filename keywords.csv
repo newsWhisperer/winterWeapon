@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0984344956291589
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.0981063476633902
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.0980166928298487
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.09579962071986159
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0957996207198615
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.094226424815064
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0935432227702549
@@ -129,6 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0324119162291414
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.030905371767702756
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.029427997793891
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0286977383960567
@@ -137,7 +138,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0258628527135889
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020676835753534
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0198382149138749
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0191139139660327
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0166036671343305
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0158953335615712
