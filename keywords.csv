@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1526070039323978
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.13113263548204082
+'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1311326354820408
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1306551286702094
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1303747106999118
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1288895244711501
@@ -61,12 +61,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1051186152620329
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1048891010283553
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1044263978286581
-'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.1041408332757579
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1019580513604537
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1017709589191799
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0984344956291589
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.0981063476633902
+'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.09801669282984876
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.094226424815064
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0935432227702549
