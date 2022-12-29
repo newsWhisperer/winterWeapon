@@ -97,7 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0632557551741169
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.059537942678149255
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0595379426781492
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0588721865017828
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0585930925337601
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0086934456795278
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0022981199447646
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0009682844334636
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0009730567684440599
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0005967719418413
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.1336476933061515e-06
