@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.3616550404999999
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1526070039323978
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1437613624334472
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1311326354820408
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1306551286702094
@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0795267695246468
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.0793175223597552
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.07835711294301258
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0783571129430125
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.0765602600177874
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.076168830580259
