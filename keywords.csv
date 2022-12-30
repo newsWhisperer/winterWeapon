@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1268010440823934
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1218297015587925
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.121487910151003
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.12032135364037957
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1203213536403795
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1196201252830675
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1194463113730915
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1192605479579965
@@ -83,13 +83,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0795267695246468
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.0793175223597552
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0783571129430125
+'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.07817538625567041
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.0765602600177874
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.076168830580259
 'Gasknappheit',de,Other,#545557,#4b7c7e,3,0.0760144094178141
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0757937077632056
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
-'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.0754435554879545
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.0751740515048635
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,3,0.074879262988409
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0717248753458902
