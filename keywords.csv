@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.4001842525227272
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.3616550404999999
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.17359760489138665
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1735976048913866
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1437613624334472
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
@@ -136,9 +136,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.0268754963863636
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0258628527135889
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020676835753534
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0191139139660327
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0181753703905039
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0166036671343305
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0158953335615712
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
