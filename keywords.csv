@@ -2,11 +2,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.4001842525227272
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.3616550404999999
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.17359760489138665
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1437613624334472
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1306551286702094
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1288895244711501
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1268010440823934
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1218297015587925
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.121487910151003
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1174995730635719
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.11641569515973467
+'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1164156951597346
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1161943536893525
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1156180816417971
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1154173679448463
