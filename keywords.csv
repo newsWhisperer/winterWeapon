@@ -11,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1268010440823934
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1218297015587925
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.121487910151003
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.12096228247161112
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1203213536403795
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1196201252830675
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1194463113730915
@@ -25,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1154173679448463
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1154041721796752
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1152071373841404
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1150929168115211
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1145481202622984
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,3,0.1145422265385216
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1142193504730205
@@ -75,7 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.0904860024711022
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0897402737249576
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
-'Blackout',de,Other,#545557,#6b6c6e,3,0.08878531991409082
+'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.0869040146124837
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
