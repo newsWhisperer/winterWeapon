@@ -75,6 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.0904860024711022
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0897402737249576
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
+'Blackout',de,Other,#545557,#6b6c6e,3,0.08878531991409082
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.0869040146124837
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
@@ -107,7 +108,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0509744861588822
-'Blackout',de,Other,#545557,#6b6c6e,3,0.0504950752999999
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.0499556733972575
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
