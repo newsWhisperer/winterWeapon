@@ -61,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1019580513604537
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1017709589191799
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.09980319588311447
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.0986529904195565
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0984344956291589
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.0981063476633902
@@ -114,7 +115,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0439323894650226
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0431461228876977
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0416448899043763
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
