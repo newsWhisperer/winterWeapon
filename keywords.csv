@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1735976048913866
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.15288209677651934
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1528820967765193
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1437613624334472
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1324616501136154
@@ -90,10 +90,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.076168830580259
 'Gasknappheit',de,Other,#545557,#4b7c7e,3,0.0760144094178141
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0757937077632056
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.0751740515048635
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,3,0.074879262988409
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0717248753458902
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0700836327124248
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
