@@ -4,6 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1735976048913866
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.15288209677651934
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1437613624334472
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1324616501136154
@@ -25,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1156180816417971
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1154173679448463
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1154041721796752
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1152071373841404
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1145481202622984
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,3,0.1145422265385216
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1142193504730205
