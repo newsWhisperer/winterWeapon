@@ -5,6 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1735976048913866
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1528820967765193
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.14731585520341037
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1437613624334472
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1324616501136154
@@ -26,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1154041721796752
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,3,0.1145422265385216
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1142193504730205
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1140115055868999
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1132380060772648
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1128745103989095
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
