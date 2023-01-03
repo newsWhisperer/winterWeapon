@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1437613624334472
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1324616501136154
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1306551286702094
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1268010440823934
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1218297015587925
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.121487910151003
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1118185936975639
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117167790796214
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,3,0.1112630741655724
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.111206874369678
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,3,0.1096016441224054
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1095763379394615
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1090175407583135
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,3,0.1053780296346431
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1051186152620329
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1044263978286581
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.10390571088577441
+'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1039057108857744
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1019580513604537
