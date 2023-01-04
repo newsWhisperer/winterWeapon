@@ -80,7 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.0869040146124837
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.0863199938957189
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.08610709894737259
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0861070989473725
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0795267695246468
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.0793175223597552
@@ -99,7 +99,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0632557551741169
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0595379426781492
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0588721865017828
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0585930925337601
@@ -108,6 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0509744861588822
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.05090728127642682
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.0499556733972575
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
