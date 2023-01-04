@@ -2,12 +2,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.3616550404999999
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.3168444141964289
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.18624235715933918
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.1768700999177619
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1735976048913866
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1528820967765193
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1473158552034103
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1437613624334472
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1324616501136154
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1268010440823934
@@ -107,7 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0509744861588822
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.05090728127642682
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0509072812764268
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.0499556733972575
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
