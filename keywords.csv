@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1156180816417971
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1154173679448463
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1154041721796752
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,3,0.1145422265385216
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1142193504730205
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1132380060772648
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1128745103989095
@@ -58,10 +57,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1044263978286581
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1039057108857744
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,3,0.10231206255774336
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1019580513604537
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1017709589191799
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.10105318253863378
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1010531825386337
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.0998031958831144
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.0986529904195565
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0984344956291589
