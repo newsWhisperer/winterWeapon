@@ -5,6 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1862423571593391
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.1768700999177619
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1735976048913866
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.16632154468523166
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1473158552034103
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1439966913509504
@@ -14,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1218297015587925
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.121487910151003
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1209622824716111
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1203213536403795
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1196201252830675
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1194463113730915
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1192605479579965
@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1044263978286581
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1039057108857744
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,3,0.10231206255774336
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,3,0.1023120625577433
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1019580513604537
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1017709589191799
