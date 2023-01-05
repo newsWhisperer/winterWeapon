@@ -60,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,3,0.1023120625577433
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1019580513604537
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1017709589191799
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1010531825386337
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.0998031958831144
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.0986529904195565
@@ -75,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.0904860024711022
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0897402737249576
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.0896566200813029
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
@@ -99,7 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0632557551741169
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.05961403374659087
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.0596140337465908
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0588721865017828
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0585930925337601
