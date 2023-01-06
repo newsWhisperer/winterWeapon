@@ -11,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1439966913509504
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1324616501136154
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.13237937351226403
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1268010440823934
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1218297015587925
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.121487910151003
@@ -66,7 +67,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0984344956291589
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.0981063476633902
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.0980166928298487
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.0963874453085459
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.0943223734133115
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.094226424815064
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0286977383960567
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.026213918124807348
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0262139181248073
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0258628527135889
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0191139139660327
