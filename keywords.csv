@@ -11,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1439966913509504
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.13486333317090574
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1324616501136154
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.132379373512264
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1268010440823934
@@ -25,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1156180816417971
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1154173679448463
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1154041721796752
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1145362674754367
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1142193504730205
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1132380060772648
