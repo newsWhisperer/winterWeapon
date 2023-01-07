@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1801702169228987
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.1768700999177619
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1735976048913866
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.16451222616426506
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.164512226164265
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1439966913509504
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1403253781431554
@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1174995730635719
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1161943536893525
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1156180816417971
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1154173679448463
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1154041721796752
@@ -43,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1086410536904105
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.10827303018140416
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1074271137218751
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
