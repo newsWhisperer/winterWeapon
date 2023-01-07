@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.3616550404999999
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.38270681442499993
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.3168444141964289
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1862423571593391
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1663215446852316
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1439966913509504
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.14032537814315543
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1403253781431554
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1324616501136154
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.132379373512264
