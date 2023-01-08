@@ -9,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1735976048913866
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.164512226164265
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1566324184038919
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14913233453744346
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1439966913509504
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
@@ -16,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.132379373512264
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1284760224384023
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1268010440823934
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.121487910151003
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1209622824716111
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1196201252830675
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1194463113730915
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0309053717677027
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.02938819703942239
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0293881970394223
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0286977383960567
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0262139181248073
