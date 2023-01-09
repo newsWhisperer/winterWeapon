@@ -13,9 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1439966913509504
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1399039225465908
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.13390190376333463
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1324616501136154
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.132379373512264
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1284760224384023
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1268010440823934
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1209622824716111
@@ -29,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1154173679448463
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1145362674754367
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1142193504730205
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.11297251248542439
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1118185936975639
