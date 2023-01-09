@@ -88,7 +88,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.0781753862556704
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.0765602600177874
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.076168830580259
 'Gasknappheit',de,Other,#545557,#4b7c7e,3,0.0760144094178141
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.0751740515048635
@@ -99,6 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0689478890959497
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.06474350599322015
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0632557551741169
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.0596140337465908
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0262139181248073
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0258628527135889
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.024980267483508956
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0249802674835089
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0181753703905039
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0175969618711277
