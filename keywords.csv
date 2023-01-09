@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1154173679448463
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1145362674754367
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1142193504730205
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.11297251248542439
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.1129725124854243
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1118185936975639
@@ -131,11 +131,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0309053717677027
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0293881970394223
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0286977383960567
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0262139181248073
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0258628527135889
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.024980267483508956
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0181753703905039
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0175969618711277
