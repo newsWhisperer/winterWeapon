@@ -18,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1284760224384023
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1268010440823934
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.122726677370202
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1209622824716111
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1194463113730915
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1192605479579965
@@ -25,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1174995730635719
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1156180816417971
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1154173679448463
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1145362674754367
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1142193504730205
@@ -115,7 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.0465448734514771
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.043571219084962774
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0435712190849627
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0416448899043763
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
