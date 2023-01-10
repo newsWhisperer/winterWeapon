@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.32560082226124987
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.3256008222612498
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.3168444141964289
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
@@ -17,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1324616501136154
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1284760224384023
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1268010440823934
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.12272667737020204
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1209622824716111
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1194463113730915
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1192605479579965
@@ -31,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.1129725124854243
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.1118185936975639
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117167790796214
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,3,0.1112630741655724
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.111206874369678
