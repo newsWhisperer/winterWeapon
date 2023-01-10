@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1324616501136154
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1284760224384023
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1268010440823934
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.12272667737020204
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.122726677370202
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1209622824716111
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1194463113730915
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1192605479579965
@@ -109,13 +109,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0509744861588822
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0509072812764268
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.0499556733972575
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.0465448734514771
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.043571219084962774
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0416448899043763
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
