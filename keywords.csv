@@ -67,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0984344956291589
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.0981063476633902
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.0980166928298487
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.09791200514493434
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.0943223734133115
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.094226424815064
@@ -121,10 +122,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0402209666015986
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0400053233749437
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0373854335089758
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.03733556622221829
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0373355662222182
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0368219952382756
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0365213935818181
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0351708276214914
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0324119162291414
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
