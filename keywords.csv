@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.3168444141964289
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.27706072892206235
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.2770607289220623
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1862423571593391
@@ -95,11 +95,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0717248753458902
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0700836327124248
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0689478890959497
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0647435059932201
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0632557551741169
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.059805825731557245
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.0596140337465908
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0588721865017828
