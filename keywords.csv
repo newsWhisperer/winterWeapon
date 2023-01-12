@@ -9,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.1768700999177619
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1735976048913866
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.164512226164265
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.15942349164949066
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1491323345374434
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1439966913509504
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
@@ -23,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1194463113730915
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1192605479579965
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1179799365545453
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1174995730635719
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1154173679448463
@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.0869040146124837
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0861070989473725
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.08483307650064724
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0848330765006472
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.0793175223597552
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0783571129430125
