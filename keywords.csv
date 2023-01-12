@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.2770607289220623
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.26785586052964716
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2678558605296471
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1862423571593391
@@ -62,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1019580513604537
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1010531825386337
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.0998031958831144
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.0986529904195565
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0984344956291589
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.0981063476633902
@@ -83,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.0869040146124837
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0861070989473725
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.08483307650064724
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.0793175223597552
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0783571129430125
