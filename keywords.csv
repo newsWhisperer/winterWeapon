@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2678558605296471
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2430589598961899
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20871435903998367
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2087143590399836
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
@@ -78,8 +78,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.08791620651152024
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0877485914998146
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.0869040146124837
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0861070989473725
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0848330765006472
