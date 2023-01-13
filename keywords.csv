@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.28595166458375293
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.2859516645837529
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2678558605296471
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
+'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1326301330272302
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1324616501136154
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1284760224384023
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1268010440823934
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1082730301814041
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
-'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1074271137218751
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1073407340812853
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1071600727447736
