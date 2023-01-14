@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0877485914998146
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0861070989473725
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.08542473834284645
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.0854247383428464
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0848330765006472
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.0793175223597552
@@ -116,7 +116,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0416448899043763
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0402209666015986
@@ -125,6 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0373355662222182
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0368219952382756
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0365213935818181
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.03569818641871986
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0324119162291414
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
