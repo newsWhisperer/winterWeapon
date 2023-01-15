@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2678558605296471
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2430589598961899
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2317203743568268
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.22326998609307694
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2232699860930769
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
@@ -120,13 +120,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0402209666015986
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0373854335089758
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0373355662222182
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0368219952382756
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0365213935818181
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0356981864187198
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0340045248687021
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0324119162291414
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.03218527628888548
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0309053717677027
