@@ -18,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1326301330272302
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.13172708596955202
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1284760224384023
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.122726677370202
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
@@ -52,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1067564340395148
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1067057506930532
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1064031809651569
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1063651465951949
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,3,0.1053780296346431
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1051186152620329
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1044263978286581
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0340045248687021
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0324119162291414
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.03218527628888548
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0321852762888854
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0309053717677027
