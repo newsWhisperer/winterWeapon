@@ -4,6 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2317203743568268
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2087143590399836
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1801702169228987
@@ -17,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1326301330272302
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1324616501136154
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1284760224384023
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.122726677370202
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
@@ -79,7 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.0879162065115202
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0877485914998146
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.08696556817408181
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.0869655681740818
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0861070989473725
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.0854247383428464
