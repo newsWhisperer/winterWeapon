@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2678558605296471
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2508131996320182
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2430589598961899
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2317203743568268
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2232699860930769
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1326301330272302
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.13172708596955202
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.131727085969552
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1284760224384023
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.122726677370202
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
