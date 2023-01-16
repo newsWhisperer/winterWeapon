@@ -91,6 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.0765602600177874
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
 'Gasknappheit',de,Other,#545557,#4b7c7e,3,0.0760144094178141
+'Gasstopp',de,Russland,#a6190f,#a02b20,2,0.0758072861505651
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.0751740515048635
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,3,0.074879262988409
@@ -148,5 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0019534019530499
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.000973056768444
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0005967719418413
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.8136005393102288e-06
