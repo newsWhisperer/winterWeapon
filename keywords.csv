@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1594234916494906
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1500797853755805
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1441938553468464
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.14211240343120538
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1421124034312053
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
@@ -127,13 +127,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0340045248687021
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0324119162291414
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0321852762888854
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0309053717677027
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0286977383960567
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.02780752984555259
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0262139181248073
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0258628527135889
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0249802674835089
