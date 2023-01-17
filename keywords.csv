@@ -16,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1500797853755805
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1441938553468464
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.13462518906345028
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1284760224384023
@@ -55,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1064031809651569
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,3,0.1053780296346431
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1051186152620329
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1044263978286581
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1039057108857744
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.0943223734133115
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.094226424815064
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0935432227702549
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.09119974622778307
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.091199746227783
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.0904860024711022
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0897402737249576
