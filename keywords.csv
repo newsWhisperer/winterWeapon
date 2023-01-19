@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.1768700999177619
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.176386526106398
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1735976048913866
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.16297378042144342
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1629737804214434
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1594234916494906
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1500797853755805
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1441938553468464
@@ -87,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0848330765006472
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.0793175223597552
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0783571129430125
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.0781753862556704
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.0765602600177874
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
@@ -98,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0717248753458902
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0700836327124248
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.06660395100156061
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0647435059932201
