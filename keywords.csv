@@ -97,7 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0717248753458902
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0700836327124248
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.06660395100156061
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0666039510015606
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0647435059932201
@@ -113,6 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0509744861588822
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.048796585397514254
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
@@ -140,7 +141,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0181753703905039
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0175969618711277
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0166036671343305
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0138110635273355
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0095056985672832
