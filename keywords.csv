@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1284760224384023
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1257493229165245
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.12297390120631485
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1229739012063148
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.122726677370202
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1209622824716111
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0019534019530499
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.000973056768444
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.8136005393102288e-06
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.5415604584136944e-06
