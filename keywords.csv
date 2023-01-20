@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.1768700999177619
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.176386526106398
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1735976048913866
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.16689561112135476
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1668956111213547
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1629737804214434
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1594234916494906
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1500797853755805
@@ -21,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1284760224384023
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1257493229165245
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1229739012063148
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.122726677370202
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1209622824716111
@@ -42,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.111206874369678
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,3,0.1096016441224054
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1095763379394615
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.10948618602536758
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1090175407583135
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,3,0.109016039828483
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
