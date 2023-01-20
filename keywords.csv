@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2430589598961899
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.23735019091176138
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2317203743568268
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2252486497249752
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.22269057423267
@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0585930925337601
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0558116252502272
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.05503198009423708
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.055031980094237
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0509744861588822
