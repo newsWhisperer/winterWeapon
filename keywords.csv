@@ -100,7 +100,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0666039510015606
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0647435059932201
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0632557551741169
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0598058257315572
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.0596140337465908
@@ -109,6 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0585930925337601
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0558116252502272
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.05503198009423708
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0509744861588822
