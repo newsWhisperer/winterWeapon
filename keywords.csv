@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2373501909117613
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2317203743568268
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2252486497249752
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.22269057423267
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2024977372749971
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0249802674835089
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0175969618711277
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.015899109831928316
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0138110635273355
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0095056985672832
