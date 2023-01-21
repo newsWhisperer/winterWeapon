@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.111206874369678
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,3,0.1096016441224054
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1095763379394615
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.10948618602536758
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1094861860253675
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1090175407583135
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,3,0.109016039828483
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
@@ -139,8 +139,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0258628527135889
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0249802674835089
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0181753703905039
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0175969618711277
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.015899109831928316
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0138110635273355
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0095056985672832
