@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1257493229165245
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.122726677370202
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.12098035407264196
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1209803540726419
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1209622824716111
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1192605479579965
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1179799365545453
@@ -108,13 +108,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0585930925337601
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0558116252502272
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.055031980094237
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0509744861588822
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0487965853975142
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.04677718308010145
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0424625923876688
