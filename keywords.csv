@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.18252215256924342
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1825221525692434
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1801702169228987
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.1768700999177619
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.176386526106398
@@ -93,13 +93,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,3,0.0760144094178141
 'Gasstopp',de,Russland,#a6190f,#a02b20,2,0.0758072861505651
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,3,0.074879262988409
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0717248753458902
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0700836327124248
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0666039510015606
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.06364824354014764
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0632557551741169
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0598058257315572
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.0596140337465908
