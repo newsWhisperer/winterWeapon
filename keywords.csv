@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1154173679448463
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.11525091297272796
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1152509129727279
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1145362674754367
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1142193504730205
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.1129725124854243
@@ -83,9 +83,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0877485914998146
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.0869655681740818
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0861070989473725
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0848330765006472
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.08268821365072118
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.0793175223597552
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.0781753862556704
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.0765602600177874
