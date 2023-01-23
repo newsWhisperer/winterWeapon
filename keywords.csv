@@ -32,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1154173679448463
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.11525091297272796
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1145362674754367
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1142193504730205
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.1129725124854243
@@ -57,7 +58,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1067057506930532
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1064031809651569
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,3,0.1053780296346431
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1051186152620329
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1039057108857744
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0278075298455525
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0258628527135889
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0249802674835089
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.023781980406086204
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0237819804060862
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0175969618711277
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
