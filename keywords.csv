@@ -5,6 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.22269057423267
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2024977372749971
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.19246606465615645
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
@@ -16,9 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1668956111213547
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1629737804214434
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1594234916494906
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.15474171218000432
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1547417121800043
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1441938553468464
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1350439610928044
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
