@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2252486497249752
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2246471509305755
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.22269057423267
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.21621118108549964
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2024977372749971
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.176386526106398
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1735976048913866
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1668956111213547
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1629737804214434
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1594234916494906
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1547417121800043
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1441938553468464
@@ -58,7 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1064031809651569
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,3,0.1053780296346431
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1039057108857744
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.10283405096174561
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1028340509617456
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1019580513604537
