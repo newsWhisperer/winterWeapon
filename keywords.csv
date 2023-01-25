@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.2521294246671278
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.2368143586563856
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2252486497249752
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2246471509305755
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.22269057423267
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2162111810854996
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.2150600859670586
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2024977372749971
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
@@ -110,7 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0558116252502272
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.052816788235049865
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0528167882350498
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0487965853975142
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
