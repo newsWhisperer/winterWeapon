@@ -110,7 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0558116252502272
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0509744861588822
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.052816788235049865
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0487965853975142
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0095056985672832
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0086934456795278
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0016603916600924147
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0016603916600924
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.000973056768444
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.5415604584136944e-06
