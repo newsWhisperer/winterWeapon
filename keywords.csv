@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0487965853975142
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
-'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.04753010081846637
+'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0475301008184663
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0467771830801014
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0278075298455525
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0258628527135889
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0249802674835089
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0237819804060862
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.021714833345173268
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0175969618711277
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
