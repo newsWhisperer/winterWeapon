@@ -101,6 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0632557551741169
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.061736460368719624
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0598058257315572
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.0596140337465908
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
@@ -134,11 +135,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0309053717677027
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0278075298455525
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0258628527135889
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0249802674835089
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.019957758343397216
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0199577583433972
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0175969618711277
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
