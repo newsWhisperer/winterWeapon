@@ -71,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.0943223734133115
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0935432227702549
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.09159175788567928
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.091199746227783
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.0904860024711022
@@ -129,7 +130,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0356981864187198
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0340045248687021
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0324119162291414
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0309053717677027
