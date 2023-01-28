@@ -19,9 +19,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1594234916494906
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1564310808611998
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1547417121800043
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,2,0.1517113629110785
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1441938553468464
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.13456830720631854
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.122726677370202
@@ -146,7 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0086934456795278
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0080798437821907
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0016603916600924
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0008270982531774
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.5415604584136944e-06
