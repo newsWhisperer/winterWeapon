@@ -43,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,3,0.1112630741655724
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.111206874369678
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,3,0.1096016441224054
-'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1095763379394615
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1094861860253675
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1090175407583135
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,3,0.109016039828483
@@ -72,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.0943223734133115
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0935432227702549
+'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.09328990224854228
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0915917578856792
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.091199746227783
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
@@ -98,7 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0700836327124248
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0666039510015606
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
-'Gasstopp',de,Russland,#a6190f,#a02b20,2,0.06533628322798034
+'Gasstopp',de,Russland,#a6190f,#a02b20,2,0.0653362832279803
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
