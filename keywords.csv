@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1547417121800043
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,2,0.1517113629110785
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1441938553468464
-'russisches Gas',de,Russland,#a6190f,#b32319,3,0.14135243147581011
+'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1413524314758101
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
@@ -92,13 +92,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.0781753862556704
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.0765602600177874
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
-'Gasstopp',de,Russland,#a6190f,#a02b20,2,0.0758072861505651
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0717248753458902
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0700836327124248
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0666039510015606
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
+'Gasstopp',de,Russland,#a6190f,#a02b20,2,0.06533628322798034
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
