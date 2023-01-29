@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2162111810854996
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2024977372749971
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2021168030425566
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.2014422198579277
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.176386526106398
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1735976048913866
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1717330730208275
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.17137590187923854
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1668956111213547
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1594234916494906
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1564310808611998
@@ -97,7 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0717248753458902
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0700836327124248
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.06613620714442996
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0661362071444299
 'Gasstopp',de,Russland,#a6190f,#a02b20,2,0.0653362832279803
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
