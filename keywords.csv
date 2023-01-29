@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2252486497249752
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.24641454726622888
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2246471509305755
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.22269057423267
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2162111810854996
@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.0943223734133115
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0935432227702549
-'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.09328990224854228
+'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.0932899022485422
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0915917578856792
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.091199746227783
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
