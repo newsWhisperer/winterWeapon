@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1478363271074371
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1441938553468464
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1413524314758101
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.14032353175712303
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.140323531757123
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0175969618711277
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0118894189982351
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.010256021148499835
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0086934456795278
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0080798437821907
