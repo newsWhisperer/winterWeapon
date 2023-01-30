@@ -58,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1071600727447736
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1069684300889187
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1064031809651569
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.10553098693010005
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,3,0.1053780296346431
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1039057108857744
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1028340509617456
@@ -74,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.0943223734133115
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0935432227702549
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.0932899022485422
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0915917578856792
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.091199746227783
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.0904860024711022
