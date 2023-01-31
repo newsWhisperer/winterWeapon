@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1825221525692434
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.18216660446316557
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.1768700999177619
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.176386526106398
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1717330730208275
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1713759018792385
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1668956111213547
@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1152509129727279
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1145362674754367
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1142193504730205
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.11381631031012625
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.1138163103101262
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117167790796214
