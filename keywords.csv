@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2069176521044928
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2024977372749971
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.19040964622253675
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1904096462225367
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0258628527135889
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0249802674835089
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.023783482360982565
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0199577583433972
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0175969618711277
