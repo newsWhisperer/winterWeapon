@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1904096462225367
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.18786426062991818
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1878642606299181
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1825221525692434
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1825120933440908
@@ -66,6 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1010531825386337
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.0986529904195565
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.09862185276855948
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0984344956291589
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.0981063476633902
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.0980166928298487
@@ -96,7 +97,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0717248753458902
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0700836327124248
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.0674205840057919
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0661362071444299
 'Gasstopp',de,Russland,#a6190f,#a02b20,2,0.0653362832279803
