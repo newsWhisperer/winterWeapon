@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1441938553468464
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1413524314758101
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.140323531757123
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.13892899403065329
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1389289940306532
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
@@ -88,6 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0826882136507211
+'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.08171944205933272
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.0781753862556704
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.0765602600177874
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
@@ -117,7 +118,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0487965853975142
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
-'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0475301008184663
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0467771830801014
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
