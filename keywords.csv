@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1441938553468464
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1413524314758101
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.140323531757123
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.13892899403065329
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
@@ -46,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,3,0.1112630741655724
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.111206874369678
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,3,0.1096016441224054
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1094861860253675
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1090175407583135
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,3,0.109016039828483
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0080798437821907
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0008270982531774
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.3103263896516401e-06
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.31032638965164e-06
