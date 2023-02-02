@@ -8,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1904096462225367
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.18786426062991818
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1825221525692434
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1825120933440908
@@ -25,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1452404282073683
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1441938553468464
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1413524314758101
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.140323531757123
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1389289940306532
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0826882136507211
-'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.08171944205933272
+'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.0781753862556704
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.0765602600177874
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
