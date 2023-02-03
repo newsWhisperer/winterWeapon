@@ -88,6 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.0869655681740818
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
+'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.08404719579655322
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0826882136507211
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.0781753862556704
@@ -109,7 +110,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.0596140337465908
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0588721865017828
-'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0585930925337601
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0558116252502272
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0080798437821907
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0008530485152007899
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0008530485152007
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.31032638965164e-06
