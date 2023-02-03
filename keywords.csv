@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,2,0.1517113629110785
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1478363271074371
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1477079791576786
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.14581953159735273
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1458195315973527
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1452404282073683
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1441938553468464
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1413524314758101
@@ -125,12 +125,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0402209666015986
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0373854335089758
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0368219952382756
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0365213935818181
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0356981864187198
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0340045248687021
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.03192763348262943
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0309053717677027
