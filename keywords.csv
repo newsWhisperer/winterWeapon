@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.25046210532906227
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2504621053290622
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2246471509305755
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.22269057423267
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2069176521044928
@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1878642606299181
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.18736462161520445
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1825221525692434
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1825120933440908
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1821666044631655
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.1768700999177619
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1730466349260552
