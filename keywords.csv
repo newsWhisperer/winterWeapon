@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1878649600580457
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1878642606299181
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.18736462161520445
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1873646216152044
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1825221525692434
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1821666044631655
@@ -21,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1564310808611998
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,2,0.1517113629110785
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1478363271074371
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1458195315973527
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1455719194439127
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1452404282073683
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1441938553468464
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1255517822840268
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1240966168577498
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1209622824716111
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1192605479579965
