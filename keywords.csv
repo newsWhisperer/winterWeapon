@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1547417121800043
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,2,0.1517113629110785
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1478363271074371
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.1477079791576786
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1458195315973527
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1452404282073683
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1441938553468464
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1255517822840268
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1209622824716111
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1192605479579965
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1010531825386337
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.09919752843603954
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991975284360395
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.0986529904195565
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.0986218527685594
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0984344956291589
