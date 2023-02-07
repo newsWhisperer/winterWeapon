@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2633009049842483
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2578764567341332
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2322719646546255
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.22373239514024795
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2237323951402479
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2143831790210066
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2069176521044928
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2036232266837475
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0080798437821907
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0008530485152007
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.31032638965164e-06
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.113777431203894e-06
