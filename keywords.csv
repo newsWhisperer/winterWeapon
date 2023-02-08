@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1939655036622102
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1904096462225367
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19038736053355101
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.190387360533551
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1878642606299181
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1873646216152044
@@ -93,7 +93,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0826882136507211
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.0781753862556704
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.0765602600177874
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
@@ -102,6 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0661362071444299
 'Gasstopp',de,Russland,#a6190f,#a02b20,2,0.0653362832279803
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.06507623601511929
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0632557551741169
