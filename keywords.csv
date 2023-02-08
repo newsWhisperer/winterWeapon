@@ -22,13 +22,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1593353888630012
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1564310808611998
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,2,0.1517113629110785
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1478363271074371
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1455719194439127
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1452404282073683
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.12566116304132152
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1255517822840268
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1240966168577498
@@ -62,7 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1039057108857744
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1028340509617456
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
-'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.10228102540764303
+'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.102281025407643
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1010531825386337
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991975284360395
