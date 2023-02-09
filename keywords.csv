@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2143831790210066
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2069176521044928
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2036232266837475
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.20100041789906672
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2010004178990667
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1986775860099603
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1939655036622102
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
@@ -21,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1668956111213547
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1594234916494906
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1594231989613475
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.15912529437319417
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1564310808611998
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,2,0.1517113629110785
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1452404282073683
@@ -72,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0984344956291589
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.0981063476633902
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.0980166928298487
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0979120051449343
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0960266806126106
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.0943223734133115
