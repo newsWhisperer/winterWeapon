@@ -7,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2143831790210066
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2069176521044928
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2036232266837475
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.19867758600996033
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1939655036622102
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1904096462225367
@@ -32,9 +33,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1255517822840268
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1240966168577498
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.12373656652732579
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1237365665273257
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1209622824716111
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1192605479579965
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
