@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2578764567341332
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2322719646546255
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2237323951402479
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.22344266243005428
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2234426624300542
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2143831790210066
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2069176521044928
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2036232266837475
@@ -24,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,2,0.1517113629110785
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1455719194439127
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1452404282073683
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.14025013116001656
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
@@ -80,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.091199746227783
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.0904860024711022
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.0896566200813029
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
