@@ -7,13 +7,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2143831790210066
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2069176521044928
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2036232266837475
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.19867758600996033
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.20100041789906672
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1986775860099603
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1939655036622102
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1904096462225367
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.190387360533551
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1878642606299181
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1873646216152044
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1825221525692434
