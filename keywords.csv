@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.190387360533551
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.17228487593532715
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1722848759353271
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1717330730208275
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1687618029183782
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1668956111213547
@@ -25,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1564310808611998
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,2,0.1517113629110785
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1452404282073683
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.14095591619134595
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1402501311600165
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
@@ -80,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.0932899022485422
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.091199746227783
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.0904860024711022
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
