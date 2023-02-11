@@ -24,13 +24,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1591252943731941
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1564310808611998
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,2,0.1517113629110785
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1452404282073683
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.14095591619134595
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1402501311600165
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.12780479897626304
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.1256611630413215
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1255517822840268
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
