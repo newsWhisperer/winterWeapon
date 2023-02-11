@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.190387360533551
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.18274258388588518
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1827425838858851
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1722848759353271
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1687618029183782
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1668956111213547
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0258628527135889
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0237834823609825
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0199577583433972
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.01906430459188762
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0175969618711277
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
