@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2969412324184292
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2578764567341332
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2322719646546255
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.231491482232847
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2234426624300542
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2143831790210066
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2069176521044928
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2036232266837475
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2030752124869339
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0258628527135889
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0237834823609825
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.01906430459188762
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0190643045918876
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0175969618711277
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
