@@ -91,7 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0840471957965532
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0826882136507211
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.07951173935471666
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0795117393547166
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.0781753862556704
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0258628527135889
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0237834823609825
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.022766215006835126
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0190643045918876
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0175969618711277
