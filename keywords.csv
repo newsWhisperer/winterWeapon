@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2010067155929477
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1986775860099603
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.19156346648601402
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.191563466486014
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1904096462225367
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.190387360533551
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
@@ -77,7 +77,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0960266806126106
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.0943223734133115
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0935432227702549
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.0932899022485422
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.091199746227783
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
@@ -92,6 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0840471957965532
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0826882136507211
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.07951173935471666
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.0781753862556704
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
