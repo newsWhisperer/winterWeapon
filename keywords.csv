@@ -13,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2010067155929477
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1986775860099603
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.19156346648601402
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1904096462225367
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.190387360533551
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
@@ -26,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1564310808611998
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,2,0.1517113629110785
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1402501311600165
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
