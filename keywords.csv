@@ -122,11 +122,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0424625923876688
+'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.041592363095391396
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0402209666015986
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0397606056180861
-'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0368219952382756
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0356981864187198
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0340045248687021
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0190643045918876
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.015107432590458544
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0151074325904585
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0102560211484998
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0086934456795278
