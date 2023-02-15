@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.231491482232847
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2069176521044928
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.20483889288662108
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2036232266837475
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2030752124869339
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2010067155929477
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1986775860099603
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1956448546539828
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0424625923876688
-'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.041592363095391396
+'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0402209666015986
