@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1192605479579965
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.11607895412935029
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1160789541293502
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1152509129727279
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1145362674754367
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1142193504730205
@@ -71,7 +71,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1010531825386337
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991975284360395
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.0986218527685594
-'Gaskrise',de,Other,#545557,#6b7c6e,3,0.0984344956291589
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.0981063476633902
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.0980166928298487
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0960266806126106
@@ -89,6 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0840471957965532
+'Gaskrise',de,Other,#545557,#6b7c6e,2,0.08366980128478506
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0826882136507211
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0795117393547166
