@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2578764567341332
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2605106195876496
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2494368076110006
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.2380039062946968
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0227662150068351
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.021983424806550564
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0219834248065505
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0190643045918876
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
