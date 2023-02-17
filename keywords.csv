@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.2380039062946968
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2322719646546255
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.231491482232847
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.22628203849040676
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2069176521044928
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2036232266837475
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0227662150068351
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0219834248065505
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0190643045918876
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.017704808903104458
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0151074325904585
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
