@@ -30,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1360065752172149
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.134130099172303
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1297464619112608
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1160789541293502
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1152509129727279
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1145362674754367
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1142193504730205
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1138163103101262
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
