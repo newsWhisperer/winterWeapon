@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2322719646546255
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.231491482232847
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.21983988930568438
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2198398893056843
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2069176521044928
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2036232266837475
@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.197247157135446
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.191563466486014
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.19143401319526987
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.190387360533551
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1877261503622424
@@ -28,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,2,0.1517113629110785
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1360065752172149
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1348633331709057
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.134130099172303
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
