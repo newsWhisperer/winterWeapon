@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.25820420346768397
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2582042034676839
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2494368076110006
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.2380039062946968
@@ -97,7 +97,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0700836327124248
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0661362071444299
 'Gasstopp',de,Russland,#a6190f,#a02b20,2,0.0653362832279803
@@ -108,6 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0632557551741169
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0617364603687196
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.0596140337465908
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.059571087805561085
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0588721865017828
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
