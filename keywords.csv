@@ -10,12 +10,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2069176521044928
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2036232266837475
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.20188505687182362
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2010067155929477
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1986775860099603
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.197247157135446
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.191563466486014
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.19143401319526987
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1914340131952698
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.190387360533551
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1877261503622424
@@ -106,7 +107,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0632557551741169
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0617364603687196
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0598058257315572
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.0596140337465908
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0588721865017828
