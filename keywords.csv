@@ -107,7 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0632557551741169
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0617364603687196
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.0596140337465908
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.059571087805561085
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.059571087805561
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0588721865017828
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
@@ -126,10 +126,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0402209666015986
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0397606056180861
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0356981864187198
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0340045248687021
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.03379651477537318
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0319276334826294
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
