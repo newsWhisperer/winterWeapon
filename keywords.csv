@@ -21,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1877261503622424
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1783296729079229
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1732633060268187
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1722848759353271
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1650546639711883
@@ -34,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.134130099172303
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.133138425643308
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1297464619112608
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.127804798976263
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1255517822840268
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0356981864187198
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0340045248687021
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.03379651477537318
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0337965147753731
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0319276334826294
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
