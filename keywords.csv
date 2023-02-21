@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2494368076110006
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.262441161923896
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.247152885674804
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.2380039062946968
@@ -115,7 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0528167882350498
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.052776021313411664
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0487965853975142
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
