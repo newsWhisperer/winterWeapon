@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2322719646546255
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.231491482232847
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.22587232554442743
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2258723255444274
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2198398893056843
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2069176521044928
@@ -104,7 +104,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0632557551741169
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0617364603687196
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.0596140337465908
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.059571087805561
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
@@ -116,6 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0528167882350498
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.052776021313411664
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0487965853975142
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
