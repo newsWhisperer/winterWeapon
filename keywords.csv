@@ -42,11 +42,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1240966168577498
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1237365665273257
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1202272060838856
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1192605479579965
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1160789541293502
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1142193504730205
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1138163103101262
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
