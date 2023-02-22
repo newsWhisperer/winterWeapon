@@ -34,8 +34,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.134130099172303
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1326259032142263
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1297464619112608
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.12895468847441674
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.1289546884744167
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.127804798976263
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1255517822840268
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
@@ -52,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117167790796214
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,3,0.1112630741655724
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.111206874369678
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,3,0.1096016441224054
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,3,0.109016039828483
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
