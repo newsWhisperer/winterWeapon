@@ -24,18 +24,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1783296729079229
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1732633060268187
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1722848759353271
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.16544078944788143
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1654407894478814
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1650546639711883
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1594234916494906
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1577676796809562
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1564310808611998
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,2,0.1517113629110785
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1360065752172149
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.134130099172303
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1297464619112608
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.12895468847441674
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.127804798976263
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1255517822840268
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
