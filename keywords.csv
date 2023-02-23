@@ -58,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1082730301814041
+'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.10783947382759862
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1073407340812853
@@ -144,7 +145,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0151074325904585
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0102560211484998
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0086934456795278
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0080798437821907
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0010251212379205
