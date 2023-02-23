@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2258723255444274
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2069176521044928
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.20810823656154617
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2054560445461953
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2036232266837475
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2018850568718236
@@ -58,7 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1082730301814041
-'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.10783947382759862
+'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.1078394738275986
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1073407340812853
