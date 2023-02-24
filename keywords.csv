@@ -3,13 +3,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2508191548979199
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.247152885674804
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.23868397695517507
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.2380039062946968
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2322719646546255
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2258723255444274
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2081082365615461
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2054560445461953
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2036232266837475
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2018850568718236
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2010067155929477
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1360065752172149
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.134130099172303
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.13401652373201983
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1340165237320198
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1326259032142263
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1297464619112608
