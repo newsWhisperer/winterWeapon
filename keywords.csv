@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2508191548979199
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.247152885674804
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.23868397695517507
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.238683976955175
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.2380039062946968
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2322719646546255
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
@@ -138,8 +138,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0227662150068351
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0219834248065505
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.018685911085567927
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0177048089031044
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0151074325904585
