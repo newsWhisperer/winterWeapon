@@ -9,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2258723255444274
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.20893201285336702
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2081082365615461
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2036232266837475
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2018850568718236
@@ -20,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,3,0.1914340131952698
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1877261503622424
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1864925969397901
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1783296729079229
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1732633060268187
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0227662150068351
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.018685911085567927
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0186859110855679
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0177048089031044
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0151074325904585
