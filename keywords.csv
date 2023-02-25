@@ -9,13 +9,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2258723255444274
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.208932012853367
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2081082365615461
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2036232266837475
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2018850568718236
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2010067155929477
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1986775860099603
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.197247157135446
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.19618758956172555
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.191563466486014
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0289038461383967
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0287270375590671
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.027863583281924453
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0278635832819244
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0227662150068351
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0200390295778071
