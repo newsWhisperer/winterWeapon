@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2010067155929477
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1986775860099603
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.197247157135446
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.19618758956172555
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1961875895617255
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.191563466486014
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
@@ -110,13 +110,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0588721865017828
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
-'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0560712926214684
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0558116252502272
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0554648156128513
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0528167882350498
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
+'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.04916173872824814
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0487965853975142
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
