@@ -109,13 +109,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.0596140337465908
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.059571087805561
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
-'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0588721865017828
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0554648156128513
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0528167882350498
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
+'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.05124147852651538
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0491617387282481
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0487965853975142
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0227662150068351
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0186859110855679
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.017033175141136035
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.017033175141136
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0129913327018897
