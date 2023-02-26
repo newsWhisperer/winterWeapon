@@ -77,6 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.0986218527685594
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.0981063476633902
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.0980166928298487
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.09784547691723858
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0960266806126106
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.0943223734133115
@@ -110,7 +111,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0588721865017828
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0558116252502272
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0554648156128513
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
