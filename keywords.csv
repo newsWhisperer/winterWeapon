@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.2380039062946968
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2322719646546255
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2258723255444274
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.22421639398549056
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2195772673690379
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2190677073533606
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.044755376747538
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0424625923876688
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.04237718758788707
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.042377187587887
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
