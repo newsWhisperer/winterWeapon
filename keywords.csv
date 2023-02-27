@@ -28,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1627190912159793
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1594234916494906
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1577676796809562
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.15624243830906182
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1360065752172149
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
@@ -48,7 +49,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1160789541293502
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.1138163103101262
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117167790796214
