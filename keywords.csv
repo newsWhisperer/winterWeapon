@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1627190912159793
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1594234916494906
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1577676796809562
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.15624243830906182
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.1562424383090618
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1360065752172149
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
@@ -117,12 +117,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0491617387282481
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0487965853975142
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.044755376747538
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0424625923876688
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.04237718758788707
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
