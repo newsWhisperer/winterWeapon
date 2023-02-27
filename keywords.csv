@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2322719646546255
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2258723255444274
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.21957726736903796
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2195772673690379
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2190677073533606
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2081082365615461
@@ -115,12 +115,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0530669459190552
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0528167882350498
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
-'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0512414785265153
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0491617387282481
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0487965853975142
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
+'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.044755376747538
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0424625923876688
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
