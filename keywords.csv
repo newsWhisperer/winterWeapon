@@ -6,17 +6,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.2380039062946968
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2251136326837044
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2195772673690379
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2190677073533606
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2081082365615461
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2036232266837475
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2018850568718236
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2010067155929477
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.20068359635459132
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1986775860099603
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.197247157135446
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1961875895617255
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19553610988766693
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1955361098876669
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.191563466486014
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
