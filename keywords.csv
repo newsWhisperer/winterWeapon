@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.238683976955175
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.2380039062946968
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2322719646546255
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2251136326837044
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2242163939854905
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2195772673690379
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2190677073533606
