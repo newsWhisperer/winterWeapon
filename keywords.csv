@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.2380039062946968
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2322719646546255
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.22421639398549056
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2242163939854905
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2195772673690379
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2190677073533606
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
@@ -81,12 +81,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0960266806126106
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.0943223734133115
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.0933190691711558
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.091199746227783
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.0879162065115202
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0877485914998146
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.0869655681740818
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
