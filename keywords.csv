@@ -36,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1340165237320198
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1326259032142263
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.12987774789857548
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1297464619112608
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.1289546884744167
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.127804798976263
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1240966168577498
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1237365665273257
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1202272060838856
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1192605479579965
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
@@ -94,7 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.083669801284785
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0826882136507211
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.08162267852071901
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.081622678520719
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0795117393547166
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
