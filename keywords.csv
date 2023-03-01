@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1340165237320198
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1326259032142263
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.12987774789857548
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1298777478985754
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1297464619112608
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.1289546884744167
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.127804798976263
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0102560211484998
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0080798437821907
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0010251212379205
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0010213680522324251
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,8.047041940448133e-07
