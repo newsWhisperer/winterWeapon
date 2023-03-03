@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2463014627811487
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.238683976955175
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.22775428647534254
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2277542864753425
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2190677073533606
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
@@ -66,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1069684300889187
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1068122285851232
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1064031809651569
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,3,0.1053780296346431
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1039057108857744
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1028340509617456
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
@@ -83,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.0933190691711558
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.091199746227783
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.08957200018944664
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
