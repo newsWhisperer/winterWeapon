@@ -22,14 +22,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1783296729079229
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.1741228289263389
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1735297876811853
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1732633060268187
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1722848759353271
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1650546639711883
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1627190912159793
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1577676796809562
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.1562424383090618
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.14198711004823855
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1419871100482385
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.134130099172303
