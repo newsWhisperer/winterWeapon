@@ -95,7 +95,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0826882136507211
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.081622678520719
-'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.08144961462527209
+'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.081449614625272
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0795117393547166
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
@@ -139,9 +139,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0255654649411996
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201013577558098
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0186859110855679
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.017033175141136
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.015883024422732712
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0129913327018897
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0102560211484998
