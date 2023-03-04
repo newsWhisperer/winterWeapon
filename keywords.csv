@@ -29,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1627190912159793
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1577676796809562
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1562424383090618
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.14198711004823855
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.134130099172303
@@ -107,7 +108,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.0596140337465908
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.059571087805561
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
