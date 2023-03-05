@@ -8,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2277542864753425
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.20945716586682384
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2081082365615461
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2023041453504923
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2018850568718236
@@ -16,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.197247157135446
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1961875895617255
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1955361098876669
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1924660646561564
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.191563466486014
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
