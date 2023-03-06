@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2814178238111579
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.25498571167042794
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2549857116704279
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2508191548979199
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2463014627811487
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
@@ -28,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1688762181084662
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1650546639711883
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1627190912159793
+'Gaskrise',de,Other,#545557,#6b7c6e,3,0.14941966109206722
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1479503645290075
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1419871100482385
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
@@ -92,7 +93,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0840471957965532
-'Gaskrise',de,Other,#545557,#6b7c6e,2,0.083669801284785
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0826882136507211
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.081622678520719
