@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2888062436764393
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2814178238111579
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.25498571167042794
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2508191548979199
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2463014627811487
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0158830244227327
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0129913327018897
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.008717617976224829
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0087176179762248
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0080798437821907
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0010181778443975
