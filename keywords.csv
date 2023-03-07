@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1688762181084662
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1650546639711883
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1627190912159793
-'Gaskrise',de,Other,#545557,#6b7c6e,3,0.14941966109206722
+'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1494196610920672
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1479503645290075
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1419871100482385
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
@@ -113,12 +113,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0554648156128513
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,3,0.0528167882350498
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0491617387282481
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.04489513999979233
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.044755376747538
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0424625923876688
