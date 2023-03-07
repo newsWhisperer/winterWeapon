@@ -50,14 +50,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1160789541293502
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1156056639346326
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.11517302883601166
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1151730288360116
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1130320477320923
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117167790796214
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,3,0.1112630741655724
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,3,0.1096016441224054
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,3,0.109016039828483
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.1078394738275986
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.0943223734133115
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.0933190691711558
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.09266400885421054
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.091199746227783
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.0895720001894466
