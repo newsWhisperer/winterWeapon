@@ -50,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1165135192612225
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1160789541293502
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1156056639346326
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.11517302883601166
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1130320477320923
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
@@ -59,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,3,0.109016039828483
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1082730301814041
 'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.1078394738275986
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
@@ -118,7 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0491488342238601
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.04489513999979233
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0448951399997923
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.044755376747538
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0424625923876688
