@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2814178238111579
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2726127085651291
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2688215297067101
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2549857116704279
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2463014627811487
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2018850568718236
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2010067155929477
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2006835963545913
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.197247157135446
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1955361098876669
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1944455738547394
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.191563466486014
@@ -103,7 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0710069940311969
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.06758497845150911
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0661362071444299
 'Gasstopp',de,Russland,#a6190f,#a02b20,2,0.0653362832279803
