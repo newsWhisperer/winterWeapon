@@ -16,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2018850568718236
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2010067155929477
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2006835963545913
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1997930289209646
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1955361098876669
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1944455738547394
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.191563466486014
@@ -26,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1741228289263389
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1732633060268187
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1722848759353271
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1650546639711883
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.161729709903545
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1483685812682754
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1479503645290075
