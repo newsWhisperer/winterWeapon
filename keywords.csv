@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2726127085651291
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2688215297067101
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2671475903744091
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.24637727057227843
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2463772705722784
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2463014627811487
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2440092189585865
@@ -70,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1028340509617456
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
+'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.10215213841826962
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1010531825386337
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991975284360395
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.0986218527685594
@@ -117,7 +118,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0491617387282481
-'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0487083099038466
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0448951399997923
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.044755376747538
