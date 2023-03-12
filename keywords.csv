@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.18184633607731418
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1818463360773141
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1783296729079229
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1741228289263389
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1722848759353271
@@ -116,12 +116,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0554648156128513
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0506354246347268
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0491617387282481
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0448951399997923
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.044755376747538
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.043040110939517776
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0424625923876688
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
