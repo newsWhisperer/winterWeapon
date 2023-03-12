@@ -26,11 +26,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1783296729079229
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1741228289263389
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1732633060268187
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1722848759353271
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.161729709903545
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1483685812682754
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1479503645290075
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.134130099172303
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1028340509617456
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
-'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.10215213841826962
+'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1010531825386337
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991975284360395
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.0986218527685594
