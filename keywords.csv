@@ -9,12 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2440092189585865
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.238683976955175
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.22580878325400552
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2223636540024638
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2150136098333667
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2094571658668238
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2018850568718236
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2010067155929477
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2006835963545913
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1997930289209646
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1955361098876669
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0448951399997923
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.044755376747538
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.043040110939517776
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0430401109395177
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0424625923876688
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
