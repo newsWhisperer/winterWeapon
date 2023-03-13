@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.191563466486014
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.18606189835836168
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1860618983583616
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1818463360773141
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1783296729079229
@@ -100,6 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.081622678520719
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.081449614625272
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.079876569090281
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0767686013939675
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
@@ -126,7 +127,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0402209666015986
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0356981864187198
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
