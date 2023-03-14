@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1997930289209646
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1955361098876669
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1944455738547394
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.191563466486014
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1782626334884711
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1741228289263389
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1722848759353271
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.16282932151311189
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.161729709903545
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1614529436046073
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1517784262188424
@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.13423420030782096
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.134130099172303
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1340165237320198
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
