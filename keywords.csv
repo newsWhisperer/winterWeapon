@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2726127085651291
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2688215297067101
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2671475903744091
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2463772705722784
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2463014627811487
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2440092189585865
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2258087832540055
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2223636540024638
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.20972070998643663
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2094571658668238
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2018850568718236
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2006835963545913
@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1722848759353271
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.161729709903545
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1614529436046073
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.15177842621884247
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1517784262188424
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1483685812682754
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1479503645290075
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
