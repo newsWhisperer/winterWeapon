@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2258087832540055
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2223636540024638
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.20972070998643663
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2094571658668238
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2018850568718236
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2006835963545913
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1818463360773141
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1783296729079229
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.17826263348847113
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1741228289263389
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1722848759353271
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.161729709903545
