@@ -12,19 +12,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2094571658668238
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2030505549930033
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.20235237334105
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.201398189545028
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2006835963545913
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1997930289209646
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1944455738547394
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.18934076658633503
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.189340766586335
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1818463360773141
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1783296729079229
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1782626334884711
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1741228289263389
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1719996223398925
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1628293215131118
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.161729709903545
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1614529436046073
