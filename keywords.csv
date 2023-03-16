@@ -91,7 +91,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0877485914998146
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.0869655681740818
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0840471957965532
@@ -104,6 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.07392122794796953
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0710069940311969
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
