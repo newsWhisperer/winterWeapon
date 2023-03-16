@@ -64,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1073407340812853
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1071600727447736
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1069684300889187
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1068122285851232
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1064031809651569
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1039057108857744
@@ -84,6 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.0933190691711558
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.0926640088542105
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0915120409202921
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.0912231955755809
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.091199746227783
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.0895720001894466
