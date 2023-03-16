@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1339019037633346
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1303070419282571
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1298777478985754
-'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1297464619112608
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.127804798976263
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1255517822840268
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
@@ -55,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117167790796214
+'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.11058452262457168
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.1096114852032542
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,3,0.1096016441224054
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
