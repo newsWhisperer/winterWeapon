@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117167790796214
-'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.11058452262457168
+'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1105845226245716
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.1096114852032542
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,3,0.1096016441224054
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
@@ -129,12 +129,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0356981864187198
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.033534405789635735
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0287270375590671
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0278635832819244
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0255654649411996
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0245682692176371
