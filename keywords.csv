@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.34175219517639144
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3417521951763914
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2726127085651291
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2688215297067101
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2671475903744091
@@ -28,8 +28,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1628293215131118
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.161729709903545
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1614529436046073
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.15379266680530682
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1517784262188424
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1483685812682754
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1479503645290075
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
