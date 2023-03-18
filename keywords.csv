@@ -114,10 +114,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0554648156128513
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0491617387282481
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0471450932709236
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0448951399997923
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.044755376747538
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0255654649411996
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.020883028834991536
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0208830288349915
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201013577558098
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0144781988699655
