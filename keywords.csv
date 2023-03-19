@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.189340766586335
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.18380378924446172
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1838037892444617
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1818463360773141
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1741228289263389
@@ -126,8 +126,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0424625923876688
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
-'Strommangellage',de,Other,#545557,#5b7c5e,2,0.0404361702764733
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0356981864187198
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.034370819735002306
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0335344057896357
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
