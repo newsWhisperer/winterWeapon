@@ -22,13 +22,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1818463360773141
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1783296729079229
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1782626334884711
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1741228289263389
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1719996223398925
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1676243550084027
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1628293215131118
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.161729709903545
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1537926668053068
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.15182326846520044
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1517784262188424
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1479503645290075
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
@@ -113,7 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.05553584074378325
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0555358407437832
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0491617387282481
