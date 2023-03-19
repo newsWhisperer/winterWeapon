@@ -19,16 +19,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.189340766586335
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.18380378924446172
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1818463360773141
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1783296729079229
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1741228289263389
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1719996223398925
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1676243550084027
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1628293215131118
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.161729709903545
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1537926668053068
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.15182326846520044
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1518232684652004
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1517784262188424
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1479503645290075
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
