@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1237365665273257
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.11694288921949658
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.1169428892194965
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1160789541293502
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1156056639346326
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1151730288360116
@@ -127,12 +127,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0356981864187198
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0343708197350023
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0335344057896357
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.029965271774751952
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0287270375590671
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.028478486095324
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
