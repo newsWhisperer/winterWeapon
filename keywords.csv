@@ -47,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1237365665273257
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.11694288921949658
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1160789541293502
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1156056639346326
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1151730288360116
@@ -60,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.1078394738275986
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.10744919387220786
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1074491938722078
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1073407340812853
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1071600727447736
@@ -79,7 +80,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.0943223734133115
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.0933190691711558
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.0926640088542105
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0915120409202921
