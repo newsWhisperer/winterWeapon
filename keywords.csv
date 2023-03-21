@@ -7,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2463014627811487
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2440092189585865
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.24335571828614505
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.238683976955175
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2258087832540055
@@ -27,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1719996223398925
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1682203284180132
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1676243550084027
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1628293215131118
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1537926668053068
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1518232684652004
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1517784262188424
