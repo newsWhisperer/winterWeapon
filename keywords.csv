@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.37276048317266
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2726127085651291
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2693551673504366
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2688215297067101
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2671475903744091
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2463014627811487
@@ -10,13 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2258087832540055
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2094571658668238
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2030505549930033
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2028053141741298
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.201398189545028
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1997930289209646
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1944455738547394
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.19361808819883441
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1936180881988344
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.189340766586335
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
