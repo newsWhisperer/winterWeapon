@@ -28,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1719996223398925
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1682203284180132
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1676243550084027
+'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.16366425835713905
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1537926668053068
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1518232684652004
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1517784262188424
@@ -139,7 +140,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0255654649411996
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0208830288349915
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201013577558098
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0158991098319283
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0144781988699655
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0135005707593227
