@@ -7,8 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2463014627811487
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2440092189585865
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.24335571828614505
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.243355718286145
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.238683976955175
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.22865282994900266
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2258087832540055
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
@@ -22,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.189340766586335
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1838037892444617
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1829640432555112
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1818463360773141
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1741228289263389
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1719996223398925
