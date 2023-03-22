@@ -92,6 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0877485914998146
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.08674101607276541
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0840471957965532
@@ -108,7 +109,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0710069940311969
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0661362071444299
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.044755376747538
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0430401109395177
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.04279406681738904
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.042794066817389
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0424625923876688
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
