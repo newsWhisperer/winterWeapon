@@ -15,11 +15,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2030505549930033
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2028053141741298
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.201398189545028
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1997930289209646
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1944455738547394
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1936180881988344
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1902848103238458
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.18978104974963744
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.189340766586335
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1838037892444617
@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1719996223398925
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1682203284180132
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1676243550084027
-'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.16366425835713905
+'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.163664258357139
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1537926668053068
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1518232684652004
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1517784262188424
