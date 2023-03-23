@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2440092189585865
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.243355718286145
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.238683976955175
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.23779928667499559
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2377992866749955
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2286528299490026
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
@@ -39,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.134130099172303
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1340165237320198
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1303070419282571
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1298777478985754
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.127804798976263
@@ -54,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1151730288360116
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117167790796214
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1105845226245716
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.1096114852032542
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,3,0.1096016441224054
