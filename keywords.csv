@@ -96,13 +96,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0840471957965532
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.0833907555138816
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.08337725419783058
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0826882136507211
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.081622678520719
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.081449614625272
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.079876569090281
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0767686013939675
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0762183653664317
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0739212279479695
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201013577558098
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0144781988699655
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.011475485145424295
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0114754851454242
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0110426327966062
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0087176179762248
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
