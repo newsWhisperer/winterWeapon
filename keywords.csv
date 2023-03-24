@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0299652717747519
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0287270375590671
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0255654649411996
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.02188066020001966
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0208830288349915
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201013577558098
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0144781988699655
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0087176179762248
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0080798437821907
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.001015466167737875
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0010154661677378
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,8.047041940448133e-07
