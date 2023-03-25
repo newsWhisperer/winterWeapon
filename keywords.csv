@@ -80,7 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.0933190691711558
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.09316976242276606
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.093169762422766
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.0926640088542105
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0915120409202921
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.0912231955755809
@@ -122,12 +122,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.044755376747538
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0430401109395177
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.042794066817389
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0424625923876688
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.040073329280285
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.036584094298590046
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0335344057896357
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
