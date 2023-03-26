@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2377992866749955
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2286528299490026
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.21569477323107394
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.21259450702992153
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.2068533355432232
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2030654151389053
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2030505549930033
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2028053141741298
