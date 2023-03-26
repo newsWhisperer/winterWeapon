@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2286528299490026
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.21259450702992153
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2125945070299215
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2122725597437016
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2030654151389053
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2030505549930033
@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1151730288360116
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
-'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1105845226245716
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,3,0.1096016441224054
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
@@ -79,6 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
+'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.09399687423088585
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.0933190691711558
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.093169762422766
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.0926640088542105
