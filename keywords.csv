@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3582102520603973
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.33675008652406496
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2726127085651291
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2693551673504366
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2688215297067101
@@ -78,7 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
-'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.09399687423088585
+'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.0939968742308858
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.0933190691711558
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.093169762422766
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.0926640088542105
