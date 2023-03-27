@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.34123633854545515
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3412363385454551
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.274814778156962
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2726127085651291
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2688215297067101
@@ -55,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1151730288360116
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
+'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.11154584106820971
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,3,0.1096016441224054
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
@@ -79,7 +80,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.0939968742308858
-'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.0933190691711558
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.093169762422766
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.0926640088542105
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0915120409202921
