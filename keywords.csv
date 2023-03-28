@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1897810497496374
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.189340766586335
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.18624321852951847
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1818463360773141
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1741228289263389
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.16867835541748
@@ -108,7 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0710069940311969
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.06525370118487238
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0652537011848723
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
@@ -123,7 +124,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.044755376747538
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.042794066817389
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0424625923876688
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.040073329280285
