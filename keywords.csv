@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2671475903744091
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2669268345028078
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.24572570492587098
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2457257049258709
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2396433883875258
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2377992866749955
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2286528299490026
@@ -102,13 +102,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.081622678520719
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.081449614625272
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.079876569090281
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,3,0.0767686013939675
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0739212279479695
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0710069940311969
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.06525370118487238
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
