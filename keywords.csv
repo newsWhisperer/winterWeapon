@@ -113,11 +113,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.0594323117876834
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0555358407437832
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.050518155019530886
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0491617387282481
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.047657163545278
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0144781988699655
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0110426327966062
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.00975416237361057
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0097541623736105
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0087176179762248
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0080798437821907
