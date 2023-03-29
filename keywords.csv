@@ -117,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0555358407437832
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.050518155019530886
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0505181550195308
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0491617387282481
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.047657163545278
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
@@ -126,9 +126,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.042794066817389
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.040073329280285
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.03658409429859
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.03406232988824225
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0335344057896357
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
