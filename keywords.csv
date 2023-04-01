@@ -41,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1340165237320198
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
+'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.13034738809625293
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1303070419282571
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1298777478985754
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.127804798976263
@@ -79,7 +80,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
-'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.0939968742308858
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.093169762422766
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.0931619225040445
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.0926640088542105
