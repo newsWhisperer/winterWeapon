@@ -2,6 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3412363385454551
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.3407979175345424
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2915830956367036
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.274814778156962
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2726127085651291
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2671475903744091
@@ -13,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2377992866749955
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2286528299490026
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2286174990599183
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2262820384904067
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2256855323146608
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2235232588419121
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
