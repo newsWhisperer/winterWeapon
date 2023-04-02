@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3412363385454551
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3450562527636368
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.3407979175345424
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2915830956367036
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1403853170639162
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1402211863299653
-'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.13941464960356814
+'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.1394146496035681
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1340165237320198
