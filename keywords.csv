@@ -12,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2457257049258709
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2404784869475787
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.23360676575009065
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2286528299490026
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2286174990599183
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2256855323146608
@@ -24,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1897810497496374
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.189340766586335
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1862432185295184
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1818463360773141
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.16867835541748
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1676243550084027
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.025791939687525
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0218806602000196
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201013577558098
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.017750574509742774
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0177505745097427
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0144781988699655
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0110426327966062
