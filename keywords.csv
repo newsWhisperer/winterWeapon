@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.3407979175345424
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.33554038081345194
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3255763271218185
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2800727085639253
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2457257049258709
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2404784869475787
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.23360676575009065
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2336067657500906
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2286528299490026
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2286174990599183
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2256855323146608
