@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.33554038081345194
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.3355403808134519
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3255763271218185
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2800727085639253
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
@@ -87,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.0912231955755809
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.091199746227783
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.0895720001894466
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
@@ -102,6 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.081622678520719
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.081449614625272
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.079876569090281
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0739212279479695
