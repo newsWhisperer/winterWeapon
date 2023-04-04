@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.274814778156962
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2726127085651291
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2671475903744091
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.26366025114556846
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2636602511455684
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2572064709754332
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2570822136737462
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2490305344185099
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2256855323146608
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2235232588419121
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2030654151389053
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.20483832014079678
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2028053141741298
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1997930289209646
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1897810497496374
