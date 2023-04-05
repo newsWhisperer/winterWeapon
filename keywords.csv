@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.3355403808134519
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3255763271218185
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.30379864232779774
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2800727085639253
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.274814778156962
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2256855323146608
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2235232588419121
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.20483832014079678
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2048383201407967
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2028053141741298
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1997930289209646
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1897810497496374
