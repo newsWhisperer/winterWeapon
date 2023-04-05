@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3255763271218185
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.30379864232779774
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.3037986423277977
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2800727085639253
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.274814778156962
@@ -51,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1226042937820145
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1182149343444377
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.11811953743056591
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.1169428892194965
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1160789541293502
@@ -73,7 +74,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1010531825386337
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1005583218570219
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991975284360395
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.0980166928298487
