@@ -80,7 +80,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.093169762422766
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.0931619225040445
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.0926640088542105
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0915120409202921
@@ -101,6 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.081622678520719
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.081449614625272
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.079876569090281
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0739390811441793
