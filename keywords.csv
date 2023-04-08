@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.29630138591369565
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2963013859136956
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2800727085639253
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2774846172727931
@@ -48,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1240966168577498
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1237365665273257
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.12317130451173289
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1226042937820145
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1182149343444377
@@ -57,7 +58,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.1169428892194965
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1160789541293502
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1151730288360116
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.112338790334659
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1115458410682097
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
