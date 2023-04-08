@@ -2,6 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2963013859136956
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2800727085639253
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2779165164563136
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2774846172727931
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.274814778156962
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2726127085651291
@@ -10,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2572064709754332
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2570822136737462
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2490305344185099
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2462693562587647
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2404784869475787
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2366563754566522
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2336067657500906
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1240966168577498
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1237365665273257
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.12317130451173289
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1231713045117328
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1226042937820145
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1182149343444377
