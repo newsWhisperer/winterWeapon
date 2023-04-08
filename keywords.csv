@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2963013859136956
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.28867660484482305
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2800727085639253
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2779165164563136
@@ -91,7 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0877485914998146
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.08599251715437058
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0859925171543705
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0840471957965532
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.0833907555138816
