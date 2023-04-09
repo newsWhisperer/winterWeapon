@@ -103,7 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.07458669277484241
+'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0745866927748424
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0739212279479695
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0710069940311969
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
@@ -112,11 +112,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.0652444321604501
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0577104438956869
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0555358407437832
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.05115408731133386
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0505181550195308
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0491617387282481
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.047657163545278
