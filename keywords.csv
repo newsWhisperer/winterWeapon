@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2154364834833135
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2028053141741298
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.19245941480578224
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1924594148057822
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.189340766586335
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1818463360773141
@@ -59,8 +59,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.1169428892194965
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1160789541293502
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1151730288360116
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.11194558860151896
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1115458410682097
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
