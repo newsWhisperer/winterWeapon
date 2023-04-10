@@ -17,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2286174990599183
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2256855323146608
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2235232588419121
+'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,2,0.22204017642707025
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2154364834833135
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2028053141741298
@@ -60,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.1169428892194965
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1160789541293502
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.11194558860151896
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1119455886015189
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1115458410682097
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
@@ -92,7 +93,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0859925171543705
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
-'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0840471957965532
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.0833907555138816
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0833772541978305
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0826882136507211
