@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1792505185753241
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1747761295828199
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.16867835541748
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.16708541478224828
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1670854147822482
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1518232684652004
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1517784262188424
@@ -144,9 +144,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0110426327966062
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0097541623736105
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0087176179762248
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0080798437821907
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.007559990279791079
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0010154661677378
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,6.839985649380913e-07
