@@ -21,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2154364834833135
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2040470341065343
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2028053141741298
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.192982000590211
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1924594148057822
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.189340766586335
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
@@ -74,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1068122285851232
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1064031809651569
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1039057108857744
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1028340509617456
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
@@ -105,7 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0745866927748424
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0739212279479695
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0710069940311969
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.06819511372673885
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0681951137267388
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0652537011848723
