@@ -84,7 +84,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.0926640088542105
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.0912231955755809
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.081622678520719
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.081449614625272
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.07876481252607892
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0745866927748424
