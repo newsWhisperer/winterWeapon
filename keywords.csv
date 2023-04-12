@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.3048539854621779
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3021839200697813
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.288676604844823
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2800727085639253
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2779165164563136
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2774846172727931
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2726127085651291
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2722725900695371
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2636602511455684
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2572064709754332
