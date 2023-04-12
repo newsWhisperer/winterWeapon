@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3021839200697813
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.288676604844823
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2800727085639253
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2779165164563136
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2774846172727931
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.274814778156962
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2726127085651291
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2722725900695371
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2636602511455684
@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1747761295828199
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.16867835541748
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1670854147822482
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.15669066001328877
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1518232684652004
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
