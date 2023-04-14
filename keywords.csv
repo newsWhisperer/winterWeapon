@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3618114170593141
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.30445208331823775
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2966896737691508
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.288676604844823
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2822539333929897
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2800727085639253
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2779165164563136
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2774846172727931
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2722725900695371
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2636602511455684
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2572064709754332
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0082910380175689
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.007317912214862
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.00657600673782235
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0065760067378223
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0010154661677378
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,6.839985649380913e-07
