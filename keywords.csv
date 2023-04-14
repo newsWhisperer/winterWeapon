@@ -23,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2040470341065343
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2028053141741298
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.192982000590211
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.19124043929735468
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.189340766586335
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1799073959235554
@@ -72,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1073407340812853
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1071600727447736
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1068122285851232
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1064031809651569
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1039057108857744
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.025791939687525
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201013577558098
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.01859856117001666
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0185985611700166
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0150879883332812
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0144781988699655
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
