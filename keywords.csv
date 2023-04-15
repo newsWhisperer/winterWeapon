@@ -44,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1340165237320198
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1323789115622456
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1303473880962529
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1303070419282571
@@ -53,7 +54,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1240966168577498
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1237365665273257
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1231713045117328
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1226042937820145
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1182149343444377
