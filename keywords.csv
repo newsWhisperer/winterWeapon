@@ -46,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1340165237320198
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1323789115622456
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.13175943018401973
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1303070419282571
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1298777478985754
@@ -73,7 +74,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1073407340812853
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1071600727447736
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1064031809651569
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1039057108857744
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
@@ -104,7 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0745866927748424
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0739212279479695
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0710069940311969
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.06937927674261114
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0693792767426111
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0681951137267388
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
