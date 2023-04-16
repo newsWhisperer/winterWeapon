@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1340165237320198
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1323789115622456
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
-'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1303473880962529
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1303070419282571
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1298777478985754
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.127804798976263
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1119455886015189
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1115458410682097
+'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.11124532488181496
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.1078394738275986
@@ -97,7 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.081622678520719
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.081449614625272
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.07978253614856748
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0797825361485674
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0787648125260789
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
