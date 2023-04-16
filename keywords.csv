@@ -32,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.174876752104858
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1747761295828199
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1670854147822482
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.16676877924053454
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
@@ -46,14 +47,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1340165237320198
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1323789115622456
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.13175943018401973
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1317594301840197
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1303070419282571
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1298777478985754
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.127804798976263
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1240966168577498
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1237365665273257
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1226042937820145
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1182149343444377
