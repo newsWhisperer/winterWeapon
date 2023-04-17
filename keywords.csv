@@ -3,11 +3,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3044520833182377
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2966896737691508
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.288676604844823
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2822539333929897
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2800727085639253
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2779165164563136
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2722725900695371
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2721501956567685
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2649666656492798
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2636602511455684
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2572064709754332
@@ -37,7 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1518232684652004
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.14202281256491098
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1420228125649109
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1403853170639162
