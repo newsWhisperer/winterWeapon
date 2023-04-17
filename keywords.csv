@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.36034888509808166
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3603488850980816
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3044520833182377
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2966896737691508
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.288676604844823
@@ -8,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2779165164563136
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2722725900695371
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.26496666564927984
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2636602511455684
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2572064709754332
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2570822136737462
@@ -16,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2366563754566522
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2336067657500906
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2286174990599183
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.2256855323146608
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,2,0.2220401764270702
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2154364834833135
