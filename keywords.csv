@@ -31,13 +31,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1792505185753241
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.174876752104858
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1747761295828199
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1670854147822482
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1667687792405345
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1518232684652004
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.14202281256491098
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1403853170639162
@@ -77,7 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,3,0.1023168922229536
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.10078272419277204
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.100782724192772
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1005583218570219
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991975284360395
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.0980166928298487
