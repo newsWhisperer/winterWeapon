@@ -82,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991975284360395
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.0980166928298487
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
+'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.09673858791901088
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.0912231955755809
@@ -118,7 +119,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0511540873113338
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0505181550195308
-'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0491617387282481
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.047657163545278
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.044755376747538
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0285043049211903
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.025791939687525
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.02246720691112152
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0224672069111215
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201013577558098
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0185985611700166
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0150879883332812
