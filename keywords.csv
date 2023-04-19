@@ -27,11 +27,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.189340766586335
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1887342249630096
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1799073959235554
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1792505185753241
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.174876752104858
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1747761295828199
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.16696815062593118
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991975284360395
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.0980166928298487
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
-'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.09673858791901088
+'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0967385879190108
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.0912231955755809
