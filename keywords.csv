@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0299652717747519
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.028952980405005865
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0289529804050058
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0287270375590671
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0285043049211903
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0082910380175689
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.007317912214862
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0065760067378223
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.005589605727148955
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0010154661677378
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,6.839985649380913e-07
