@@ -139,14 +139,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0224672069111215
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201013577558098
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0185985611700166
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0150879883332812
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0144781988699655
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.012824790083289019
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0110426327966062
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0082910380175689
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.007317912214862
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.005589605727148955
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0055896057271489
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0010154661677378
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,6.839985649380913e-07
