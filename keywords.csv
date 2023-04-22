@@ -105,7 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0745866927748424
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0739212279479695
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.07273185628621356
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0710069940311969
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0693792767426111
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0681951137267388
@@ -121,11 +121,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0511540873113338
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0505181550195308
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
-'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.044755376747538
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.042794066817389
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
+'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0380421602354073
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
