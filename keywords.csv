@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.1912404392973546
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1890557077288127
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1887342249630096
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.18277995667680885
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1827799566768088
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1792505185753241
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.174876752104858
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
@@ -117,10 +117,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0555358407437832
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0511540873113338
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0505181550195308
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.04575970811639986
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.042794066817389
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
