@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1403853170639162
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1402211863299653
 'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.1394146496035681
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.13694576774214845
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1369457677421484
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1340165237320198
@@ -110,11 +110,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0693792767426111
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0681951137267388
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0664451850731823
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0652537011848723
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0562953016903749
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0555358407437832
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0527760213134116
