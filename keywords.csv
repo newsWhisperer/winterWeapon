@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2649666656492798
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2636602511455684
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2599478516927546
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2593677689054419
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2416537098045024
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2404784869475787
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2366563754566522
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2336067657500906
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2286174990599183
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.22020674111494531
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2202067411149453
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2154364834833135
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.2071690599414227
