@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2593677689054419
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2416537098045024
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2366563754566522
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2336067657500906
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2286174990599183
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2202067411149453
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.2071690599414227
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2040470341065343
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2035115401453969
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.198565765887577
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.1912404392973546
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1887342249630096
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1827799566768088
