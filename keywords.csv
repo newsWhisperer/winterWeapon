@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2966896737691508
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.288676604844823
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2820893748969574
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2800727085639253
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.27937797364297284
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2757309483466424
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2722725900695371
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2040470341065343
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2035115401453969
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.198565765887577
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.19238776189989967
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1923877618998996
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.1912404392973546
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1887342249630096
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1827799566768088
