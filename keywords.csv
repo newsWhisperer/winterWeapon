@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2966896737691508
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.288676604844823
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2820893748969574
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.27937797364297284
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2793779736429728
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2757309483466424
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2722725900695371
@@ -101,6 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0797825361485674
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0787648125260789
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.07616317624257714
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0745866927748424
@@ -147,6 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0082910380175689
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.007317912214862
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0055896057271489
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0010154661677378
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,6.839985649380913e-07
