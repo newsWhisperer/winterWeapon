@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2599478516927546
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2593677689054419
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2416537098045024
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.23926452489279693
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.2392645248927969
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2366563754566522
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2286174990599183
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2202067411149453
@@ -91,7 +91,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0869697033895105
-'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0865883018849999
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0859925171543705
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.0833907555138816
@@ -105,6 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0745866927748424
+'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.07450014660224992
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0739212279479695
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0710069940311969
