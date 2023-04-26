@@ -93,6 +93,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0869697033895105
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0859925171543705
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.08388526018079609
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.0833907555138816
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0833772541978305
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
@@ -121,8 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0505181550195308
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0457597081163998
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.043480974214633726
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0434809742146337
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.042794066817389
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
