@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2392645248927969
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2366563754566522
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2286174990599183
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.22839624899055416
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2283962489905541
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2202067411149453
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2154364834833135
@@ -118,11 +118,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0581158616677279
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0555358407437832
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0511540873113338
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0505181550195308
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0457597081163998
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.0447322756137708
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.043480974214633726
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.042794066817389
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
