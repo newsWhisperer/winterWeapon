@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2757309483466424
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2722725900695371
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2636602511455684
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.26356312858098047
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2635631285809804
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2599478516927546
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2593677689054419
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2416537098045024
@@ -119,11 +119,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0555358407437832
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0505181550195308
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0495484974175687
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0457597081163998
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0434809742146337
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.042794066817389
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.042266237804933396
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0380421602354073
