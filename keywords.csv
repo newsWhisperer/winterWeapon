@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2035115401453969
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.198565765887577
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1923877618998996
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.1912404392973546
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1887342249630096
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1827799566768088
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1792505185753241
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1669681506259311
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1666318447913766
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1658348805016793
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1625544634027514
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
@@ -123,7 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0457597081163998
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0434809742146337
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.042794066817389
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.042266237804933396
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0422662378049333
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0380421602354073
