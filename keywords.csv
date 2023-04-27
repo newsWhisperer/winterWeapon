@@ -55,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1303070419282571
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1298777478985754
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.127804798976263
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.12583305718679935
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1226042937820145
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
@@ -94,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0859925171543705
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.083885260180796
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.0833907555138816
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0833772541978305
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.081449614625272
