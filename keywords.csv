@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791115895350275
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2757309483466424
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2722725900695371
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2721501956567685
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2636602511455684
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.26356312858098047
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2599478516927546
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2593677689054419
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2416537098045024
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1303070419282571
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1298777478985754
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.127804798976263
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.12583305718679935
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1226042937820145
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
