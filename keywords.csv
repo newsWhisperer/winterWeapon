@@ -45,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1403853170639162
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1402211863299653
 'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.1394146496035681
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1370996448781834
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1369457677421484
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
@@ -74,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.1078394738275986
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1073407340812853
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1054821243290873
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1039057108857744
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
