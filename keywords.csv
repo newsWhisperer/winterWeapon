@@ -44,9 +44,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1403853170639162
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1402211863299653
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1395363207626443
 'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.1394146496035681
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1370996448781834
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1369457677421484
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1324909912392437
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0224672069111215
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201013577558098
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.01891220417423677
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0189122041742367
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0185985611700166
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0144781988699655
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
