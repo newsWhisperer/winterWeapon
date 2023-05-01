@@ -33,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1658348805016793
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1625544634027514
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.159920034011884
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1403853170639162
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1402211863299653
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.1395363207626443
 'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.1394146496035681
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1370996448781834
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0396458268989398
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0380421602354073
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.036958828082438645
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0369588280824386
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
