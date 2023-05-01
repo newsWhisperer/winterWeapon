@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2392645248927969
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2286174990599183
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2202067411149453
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.21668040761491464
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2166804076149146
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2154364834833135
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.2071690599414227
@@ -32,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1666318447913766
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1658348805016793
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1630231930079026
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1625544634027514
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.159920034011884
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
@@ -50,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1341807751619991
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1324909912392437
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1323789115622456
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1317594301840197
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
