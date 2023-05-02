@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3182840303659566
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3068788379011924
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2966896737691508
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.29018189411695927
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.288676604844823
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2835364888392879
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2793779736429728
@@ -116,9 +116,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0584659460071414
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0555358407437832
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0505181550195308
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.04720546463221572
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.042794066817389
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0422662378049333
