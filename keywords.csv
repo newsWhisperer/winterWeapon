@@ -109,16 +109,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0739212279479695
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0710069940311969
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.07052512140311404
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0693792767426111
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0664451850731823
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0584659460071414
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0538058335677766
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0505181550195308
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.04720546463221572
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0472054646322157
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.042794066817389
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0422662378049333
