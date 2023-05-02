@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1792505185753241
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1669681506259311
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1666318447913766
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1658348805016793
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1630231930079026
@@ -42,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1443561603957599
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1420228125649109
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1417870830726701
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1403853170639162
@@ -109,7 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0739212279479695
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0710069940311969
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.07052512140311404
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.070525121403114
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0693792767426111
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
