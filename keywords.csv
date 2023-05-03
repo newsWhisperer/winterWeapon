@@ -27,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.198565765887577
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1887342249630096
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1792505185753241
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1747197599129
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1669681506259311
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1658348805016793
@@ -71,7 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1119455886015189
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1115458410682097
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1112453248818149
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.11007064909823114
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1100706490982311
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.1078394738275986
@@ -86,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.0980166928298487
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0967385879190108
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.0946604442414208
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
