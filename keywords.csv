@@ -71,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1119455886015189
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1115458410682097
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1112453248818149
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.11007064909823114
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.1078394738275986
@@ -103,7 +104,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0787648125260789
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.0761631762425771
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.0755396213989885
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0745866927748424
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0745001466022499
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0739212279479695
