@@ -99,7 +99,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0833772541978305
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.081449614625272
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0797825361485674
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0787648125260789
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.0761631762425771
@@ -107,6 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0745866927748424
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0745001466022499
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0739212279479695
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.07276623572628228
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0710069940311969
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.070525121403114
