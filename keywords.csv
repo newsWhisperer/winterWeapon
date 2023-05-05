@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.33233177187703106
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.289333906094646
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.288676604844823
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2850438216163932
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2845865949019722
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2839839903978317
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2835364888392879
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2793779736429728
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2785624624684097
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2722725900695371
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0287270375590671
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0285043049211903
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.02461003334425493
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0246100333442549
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0224672069111215
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201013577558098
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0189122041742367
