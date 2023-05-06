@@ -79,6 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.1078394738275986
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1054821243290873
+'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.10531329778366022
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.100782724192772
@@ -108,9 +109,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0739212279479695
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0727662357262822
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
-'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0710069940311969
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.070525121403114
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.06947542229291696
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0694754222929169
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0693792767426111
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
