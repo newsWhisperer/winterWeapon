@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.33233177187703106
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.332331771877031
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.289333906094646
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.288676604844823
@@ -57,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1303070419282571
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1298777478985754
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.12804865058078244
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.127804798976263
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
@@ -77,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.1078394738275986
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1073870220736478
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1054821243290873
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
