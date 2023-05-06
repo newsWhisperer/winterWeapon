@@ -79,7 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.1078394738275986
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1054821243290873
-'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.10531329778366022
+'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1053132977836602
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1021807337367144
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.100782724192772
@@ -137,9 +137,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0262696110025472
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0246100333442549
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0224672069111215
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201013577558098
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0189122041742367
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0185985611700166
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.01708615409243833
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.012824790083289
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123064690394706
