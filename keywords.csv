@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.332331771877031
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.30562631927729456
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.3037303571911298
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.298553755426522
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0967385879190108
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.09166355275345882
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0916635527534588
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
