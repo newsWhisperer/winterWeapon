@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2012249640843783
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.198565765887577
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1887342249630096
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1792505185753241
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.17549705397084367
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1747197599129
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1669681506259311
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0299652717747519
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.02899005596725943
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0289900559672594
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0287270375590671
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0285043049211903
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0246100333442549
