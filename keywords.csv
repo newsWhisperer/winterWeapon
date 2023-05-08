@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.332331771877031
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.3037303571911298
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.29855375542652207
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.289333906094646
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.288676604844823
@@ -10,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2793779736429728
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2785624624684097
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2722725900695371
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2652003732290634
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2636602511455684
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2599478516927546
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2593677689054419
@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2012249640843783
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.198565765887577
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1887342249630096
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.17549705397084367
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1754970539708436
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1747197599129
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1669681506259311
