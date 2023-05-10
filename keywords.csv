@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2722725900695371
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2636602511455684
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2599478516927546
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2593677689054419
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2593677689054419
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2416537098045024
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2392645248927969
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2202067411149453
