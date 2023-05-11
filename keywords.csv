@@ -19,13 +19,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2370278182144964
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2202067411149453
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.216803550629502
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.2166804076149146
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2154364834833135
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.2108741362185581
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.2071690599414227
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.2012249640843783
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.198565765887577
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.18417906647267743
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1747197599129
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
