@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.289333906094646
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.288676604844823
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.28815632256464224
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2881563225646422
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2850438216163932
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2845865949019722
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2839839903978317
@@ -67,8 +67,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1181195374305659
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1177090668703733
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1172556496463113
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.1169428892194965
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1160789541293502
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.111981504730235
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1119455886015189
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1115458410682097
