@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.2071690599414227
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.2012249640843783
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.198565765887577
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.18417906647267743
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1841790664726774
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1747197599129
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
@@ -86,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991975284360395
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.0980166928298487
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.09707611089863122
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0967385879190108
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0916635527534588
@@ -106,7 +107,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0745866927748424
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0745001466022499
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0739212279479695
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0727662357262822
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.070525121403114
