@@ -79,7 +79,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1054821243290873
-'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1053132977836602
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.100782724192772
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1005583218570219
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0916635527534588
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
+'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.09041639311611117
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
