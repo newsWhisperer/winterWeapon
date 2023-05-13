@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.31048966430304
-'AKW',de,Quelle,#3d9a9c,#24d7b3,1,0.3056263192772945
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.3037303571911298
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.298553755426522
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2785624624684097
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2726140019072186
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2722725900695371
+'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.2647448963857003
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2599478516927546
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2593677689054419
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2416537098045024
@@ -90,7 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0916635527534588
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
-'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.09041639311611117
+'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0904163931161111
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0887412019383591
