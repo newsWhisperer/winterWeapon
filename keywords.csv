@@ -22,10 +22,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.216803550629502
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.2108741362185581
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.2071690599414227
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.2012249640843783
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.198565765887577
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1841790664726774
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1760937459502093
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1747197599129
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
@@ -43,7 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1443561603957599
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1417870830726701
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.14095967842642743
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1409596784264274
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1403853170639162
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1402211863299653
