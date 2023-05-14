@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1747197599129
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,3,0.1658348805016793
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1630231930079026
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1443561603957599
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1417870830726701
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.14095967842642743
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1409559161913459
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1403853170639162
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1402211863299653
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0082910380175689
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.007317912214862
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0055896057271489
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00073293301539005
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00073293301539
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.813987801973776e-07
