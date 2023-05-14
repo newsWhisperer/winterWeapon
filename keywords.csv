@@ -87,6 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.0980166928298487
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0970761108986312
+'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.09691231015875393
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0967385879190108
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0916635527534588
@@ -100,7 +101,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.083885260180796
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0833772541978305
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
-'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.081449614625272
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0787648125260789
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.0761631762425771
