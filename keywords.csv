@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1402211863299653
 'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.1394146496035681
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1370996448781834
-'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.13702271933991292
+'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1370227193399129
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1341807751619991
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0082910380175689
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.007317912214862
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0055896057271489
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000862274135753
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00073293301539005
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.813987801973776e-07
