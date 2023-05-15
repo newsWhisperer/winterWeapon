@@ -50,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.1394146496035681
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1370996448781834
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1370227193399129
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.13655885199451412
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1341807751619991
@@ -138,7 +139,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0243474934443113
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0224672069111215
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0189122041742367
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0185985611700166
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0170861540924383
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123064690394706
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0093862378771152
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.007317912214862
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.007047382314933565
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0070473823149335
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0055896057271489
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00073293301539
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.813987801973776e-07
