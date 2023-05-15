@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.3136559288318338
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.31048966430304
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.298553755426522
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
@@ -9,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2793779736429728
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2785624624684097
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2726140019072186
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2722725900695371
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.2647448963857003
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2631260536124603
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2599478516927546
@@ -50,7 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.1394146496035681
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1370996448781834
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1370227193399129
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.13655885199451412
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1365588519945141
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1341807751619991
