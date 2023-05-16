@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0246100333442549
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0243474934443113
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0224672069111215
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.018912204174236696
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0189122041742366
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0170861540924383
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123064690394706
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.007317912214862
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0070473823149335
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0055896057271489
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.004751164868076565
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00073293301539
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.813987801973776e-07
