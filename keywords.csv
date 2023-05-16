@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.3136559288318338
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.31048966430304
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.298553755426522
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.29634813063499454
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2963481306349945
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.288676604844823
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2850438216163932
@@ -60,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1303070419282571
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1298777478985754
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1280486505807824
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.127804798976263
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1226042937820145
@@ -78,6 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1100706490982311
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1093323001047786
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.10863436412982357
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
