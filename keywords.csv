@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.3136559288318338
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.31048966430304
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.298553755426522
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.29634813063499454
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.289333906094646
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.288676604844823
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2850438216163932
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2839839903978317
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.007317912214862
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0070473823149335
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.004751164868076565
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0047511648680765
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00073293301539
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.813987801973776e-07
