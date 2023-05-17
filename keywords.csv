@@ -57,9 +57,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1323789115622456
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1317594301840197
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
-'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1303070419282571
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1298777478985754
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1280486505807824
+'Gaskrise',de,Other,#545557,#6b7c6e,3,0.12604751427538216
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1226042937820145
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0289900559672594
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0285043049211903
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0246100333442549
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.024417981925207034
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.024417981925207
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0243474934443113
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0224672069111215
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0189122041742366
