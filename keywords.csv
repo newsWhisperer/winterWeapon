@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.2647448963857003
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2631260536124603
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2599478516927546
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2593677689054419
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2572412703878074
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2416537098045024
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2392645248927969
@@ -77,7 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1100706490982311
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1093323001047786
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.10863436412982357
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1086343641298235
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
