@@ -117,8 +117,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.0636482435401476
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0584659460071414
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.054101142009125455
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0454620825339833
