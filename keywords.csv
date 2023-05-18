@@ -12,13 +12,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2726140019072186
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.2647448963857003
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2631260536124603
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2609708550277765
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2599478516927546
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2572412703878074
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.2501297290576779
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2416537098045024
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2392645248927969
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2370278182144964
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2202067411149453
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.216803550629502
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.007317912214862
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0070473823149335
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.004038490137865025
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.004038490137865
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00073293301539
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.813987801973776e-07
