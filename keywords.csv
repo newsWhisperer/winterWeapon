@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1226042937820145
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1195005364272916
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.11825572083572825
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1182557208357282
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1181195374305659
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1177090668703733
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.007317912214862
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0070473823149335
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0047511648680765
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.004038490137865025
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00073293301539
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.813987801973776e-07
