@@ -59,16 +59,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1298777478985754
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1280486505807824
-'Gaskrise',de,Other,#545557,#6b7c6e,3,0.12604751427538216
+'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1226042937820145
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1195005364272916
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.11825572083572825
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1181195374305659
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1177090668703733
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1172556496463113
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.1169428892194965
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1119455886015189
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1115458410682097
