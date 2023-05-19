@@ -113,10 +113,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.070525121403114
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0694754222929169
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0693792767426111
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.058972385231219435
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0584659460071414
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.0541011420091254
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123064690394706
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0093862378771152
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.00926591083517626
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0092659108351762
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0070473823149335
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.004038490137865
