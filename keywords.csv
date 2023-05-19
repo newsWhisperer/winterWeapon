@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1317594301840197
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1298777478985754
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.12904977819542032
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1290497781954203
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1280486505807824
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
@@ -143,8 +143,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0170861540924383
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123064690394706
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0109010715707956
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0093862378771152
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.00926591083517626
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0070473823149335
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.004038490137865
