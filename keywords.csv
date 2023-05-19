@@ -118,7 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0584659460071414
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.054101142009125455
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.0541011420091254
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0454620825339833
@@ -137,8 +137,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0285043049211903
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0246100333442549
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.024417981925207
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0243474934443113
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0224672069111215
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.020695369427664607
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0189122041742366
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0170861540924383
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
