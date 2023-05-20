@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.31893091600444046
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.3136559288318338
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.31048966430304
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.298553755426522
@@ -24,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.2108741362185581
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.2012249640843783
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.198565765887577
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1841790664726774
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1747197599129
