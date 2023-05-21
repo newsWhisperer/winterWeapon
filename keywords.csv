@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2202067411149453
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.2108741362185581
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.2012249640843783
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.19417632265353973
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1842832430350766
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1841790664726774
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
@@ -116,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.05950740497659883
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0589723852312194
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0584659460071414
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.0541011420091254
