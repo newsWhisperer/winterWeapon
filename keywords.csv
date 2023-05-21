@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.31246784541614964
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.3124678454161496
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.31048966430304
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.298553755426522
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2963481306349945
@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.2108741362185581
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1941763226535397
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1908362601364913
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1842832430350766
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1841790664726774
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.159920034011884
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1534528113363959
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1484196606801742
