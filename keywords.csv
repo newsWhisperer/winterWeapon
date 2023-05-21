@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.2108741362185581
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.2012249640843783
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.18428324303507668
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1842832430350766
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1841790664726774
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1747197599129
@@ -116,13 +116,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.05950740497659883
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0589723852312194
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0584659460071414
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.0541011420091254
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0454620825339833
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.042794066817389
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0422662378049333
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
