@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1402211863299653
 'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.1394146496035681
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1370996448781834
-'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1370227193399129
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1365588519945141
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
@@ -67,6 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1195005364272916
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1182557208357282
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1181195374305659
+'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.11796946143892596
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1177090668703733
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1119455886015189
