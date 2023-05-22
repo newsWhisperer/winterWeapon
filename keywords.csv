@@ -21,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2416537098045024
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2392645248927969
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2202067411149453
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.21915701157814804
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.2108741362185581
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1941763226535397
@@ -38,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1534528113363959
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1484196606801742
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1417870830726701
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1195005364272916
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1182557208357282
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1181195374305659
-'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.11796946143892596
+'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1179694614389259
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1177090668703733
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1119455886015189
