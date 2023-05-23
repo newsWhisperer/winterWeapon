@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.34963182302163465
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3496318230216346
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.31048966430304
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2963481306349945
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
@@ -103,11 +103,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0833772541978305
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.0815202553826327
+'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0787648125260789
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.0761631762425771
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0745866927748424
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0745001466022499
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0727662357262822
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
