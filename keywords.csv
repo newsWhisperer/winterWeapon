@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.2108741362185581
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1941763226535397
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1841790664726774
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.18157825278268425
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1815782527826842
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0224672069111215
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0189122041742366
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0175910640135149
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0170861540924383
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.015123290978572554
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123064690394706
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0093862378771152
