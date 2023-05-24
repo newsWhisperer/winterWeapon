@@ -97,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0869697033895105
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.08626102788035218
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0859925171543705
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.083885260180796
@@ -127,7 +128,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0380421602354073
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0361989428350164
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.034299192119239
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
