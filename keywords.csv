@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2793779736429728
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2785624624684097
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2726140019072186
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.2710912936037744
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2705488686037271
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.2647448963857003
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2631260536124603
@@ -19,9 +18,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.2501297290576779
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2416537098045024
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.23057761456320822
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2202067411149453
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.219157011578148
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.21741748024978644
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.2174174802497864
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.2108741362185581
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1941763226535397
