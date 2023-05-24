@@ -25,8 +25,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.2108741362185581
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1941763226535397
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1908362601364913
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1841790664726774
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.18157825278268425
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
@@ -97,7 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0869697033895105
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.08626102788035218
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0862610278803521
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0859925171543705
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.083885260180796
