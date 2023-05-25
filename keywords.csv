@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3930480904774803
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3435883114513128
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.31048966430304
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2963481306349945
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
@@ -106,7 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0787648125260789
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.07621083482776557
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0762108348277655
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.0761631762425771
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0745001466022499
