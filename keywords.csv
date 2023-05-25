@@ -83,7 +83,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1005583218570219
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991975284360395
-'Gas Waffe',de,Russland,#a6190f,#c24315,3,0.0980166928298487
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0970761108986312
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
@@ -101,6 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.083885260180796
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0833772541978305
+'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0833143389053714
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.0815202553826327
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
