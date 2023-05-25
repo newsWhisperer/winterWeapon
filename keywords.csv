@@ -93,7 +93,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0916635527534588
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0904163931161111
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0896598056797242
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0869697033895105
@@ -107,6 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0787648125260789
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.07621083482776557
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.0761631762425771
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0745001466022499
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0224672069111215
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0189122041742366
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0175910640135149
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.015123290978572554
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0151232909785725
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123064690394706
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0093862378771152
