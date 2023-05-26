@@ -80,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.10589167365152474
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.100782724192772
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
@@ -120,7 +121,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0589723852312194
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0584659460071414
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.0541011420091254
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0463624234288076
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123064690394706
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0093862378771152
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.00787602420989977
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0078760242098997
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0070473823149335
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.004038490137865
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00073293301539
