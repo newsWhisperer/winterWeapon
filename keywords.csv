@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3288202265517977
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.31048966430304
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2932189074033816
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2889945821144826
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2867351604817359
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2850438216163932
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2839839903978317
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2174174802497864
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.2108741362185581
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.19614098737872696
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1961409873787269
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1941763226535397
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1841790664726774
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1815782527826842
