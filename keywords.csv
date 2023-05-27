@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3288202265517977
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.31048966430304
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2963481306349945
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.29321890740338163
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2867351604817359
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2850438216163932
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0189122041742366
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0149524044114876
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.013604872331786625
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0136048723317866
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123064690394706
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0093862378771152
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
