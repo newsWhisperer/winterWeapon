@@ -89,7 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0970761108986312
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0967385879190108
-'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.09663601620009621
+'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0966360162000962
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.0951846540206997
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0916635527534588
@@ -139,9 +139,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.024417981925207
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0224672069111215
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0189122041742366
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0151232909785725
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0149524044114876
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.013604872331786625
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123064690394706
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0093862378771152
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
