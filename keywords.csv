@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2699657511012069
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.2647448963857003
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2631260536124603
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.26227000030247777
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2609708550277765
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2599478516927546
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2572412703878074
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.2501297290576779
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
@@ -99,7 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0869697033895105
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0862610278803521
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.08622055600853912
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0862205560085391
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0859925171543705
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.083885260180796
