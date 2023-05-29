@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2609708550277765
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2572412703878074
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.2501297290576779
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.24672125469746342
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2416537098045024
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2202067411149453
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.219157011578148
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2174174802497864
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0093862378771152
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0070473823149335
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.006694620578414745
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0066946205784147
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.004038490137865
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00073293301539
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.813987801973776e-07
