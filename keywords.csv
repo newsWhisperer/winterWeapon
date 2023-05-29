@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.2501297290576779
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2467212546974634
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.21940501222043077
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2194050122204307
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.219157011578148
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2174174802497864
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0149524044114876
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0136048723317866
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123064690394706
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.01046049868355001
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0093862378771152
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0070473823149335
