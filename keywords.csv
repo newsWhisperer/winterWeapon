@@ -55,10 +55,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1323789115622456
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1317594301840197
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.13103494963593654
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1310349496359365
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1308549841257346
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1298777478985754
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1290497781954203
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1280486505807824
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1115458410682097
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1112453248818149
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1100706490982311
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.10969231146610725
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1093323001047786
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
