@@ -39,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1534528113363959
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1417870830726701
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1323789115622456
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1317594301840197
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.13103494963593654
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1308549841257346
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1298777478985754
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1290497781954203
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0136048723317866
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0088914238810175
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.00827833219554792
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0082783321955479
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0066946205784147
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0059902749676934
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.004038490137865
