@@ -90,7 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0967385879190108
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0966360162000962
-'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.09523152683756338
+'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.0952315268375633
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.0951846540206997
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0916635527534588
@@ -142,9 +142,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0149524044114876
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0136048723317866
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0093862378771152
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0088914238810175
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.00827833219554792
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0066946205784147
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0059902749676934
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.004038490137865
