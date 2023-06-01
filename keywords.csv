@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1792430157857744
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1710685433426166
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1630231930079026
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1454082768412241
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1417870830726701
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1409596784264274
