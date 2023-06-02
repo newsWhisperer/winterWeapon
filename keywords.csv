@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1941763226535397
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1841790664726774
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1815782527826842
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.18074695080334752
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1807469508033475
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1792430157857744
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
@@ -108,7 +108,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.0833772541978305
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0833143389053714
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.0815202553826327
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0787648125260789
@@ -119,6 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0713507599127944
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.070525121403114
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0694754222929169
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.06929221707523779
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
