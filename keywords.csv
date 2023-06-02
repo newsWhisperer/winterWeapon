@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1454082768412241
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.14309068116230206
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1417870830726701
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1409596784264274
@@ -115,8 +115,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0762108348277655
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.0761631762425771
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0727662357262822
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.07135075991279441
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.070525121403114
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0694754222929169
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
