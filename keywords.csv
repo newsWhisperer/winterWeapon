@@ -38,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.15233470083730022
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1454082768412241
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
@@ -85,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.100402566815981
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1000529168398173
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991975284360395
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0970761108986312
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
@@ -116,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.0761631762425771
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.07135075991279441
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0713507599127944
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.070525121403114
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0694754222929169
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
