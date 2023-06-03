@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,1,0.317830879929238
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.30803953100440085
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3096881338882193
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3080395310044008
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2889945821144826
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2867351604817359
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2839839903978317
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2793779736429728
