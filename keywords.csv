@@ -34,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1630231930079026
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1625544634027514
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.16051732799366503
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.159920034011884
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
@@ -61,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1310349496359365
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1308549841257346
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1298777478985754
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1280486505807824
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0589723852312194
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.05517792258526193
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0551779225852619
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0454620825339833
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0422662378049333
