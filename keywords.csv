@@ -111,7 +111,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0787648125260789
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0762108348277655
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0713507599127944
@@ -120,6 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0692922170752377
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.06477920960360067
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0246787041830117
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.024417981925207
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0224672069111215
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.01607537354810111
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0160753735481011
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0149524044114876
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0136048723317866
