@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2726140019072186
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2705488686037271
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2699657511012069
-'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.2647448963857003
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2631260536124603
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2622700003024777
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2609708550277765
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.2501297290576779
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2467212546974634
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2345363114732998
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2290944283464178
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2194050122204307
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.219157011578148
@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1630231930079026
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1625544634027514
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.16051732799366503
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.160517327993665
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.159920034011884
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
