@@ -119,7 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0692922170752377
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.06477920960360067
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0647792096036006
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
@@ -135,9 +135,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0289900559672594
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0246787041830117
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.024417981925207
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0224672069111215
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.021426943555559942
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0160753735481011
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0149524044114876
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
