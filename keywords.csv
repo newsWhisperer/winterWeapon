@@ -62,7 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1310349496359365
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1308549841257346
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1298777478985754
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1298777478985754
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
