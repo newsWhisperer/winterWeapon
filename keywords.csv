@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1807469508033475
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1792430157857744
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1734752059258829
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1734752059258829
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1656176400541069
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
