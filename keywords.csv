@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2194050122204307
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.219157011578148
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2174174802497864
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2156947732310739
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.21556763451914007
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2043136947523048
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1961409873787269
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1841790664726774
@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.15384009119154513
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1538400911915451
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1466859173305126
