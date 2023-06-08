@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1630231930079026
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1625544634027514
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.160517327993665
+'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.159920034011884
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
