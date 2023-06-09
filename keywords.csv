@@ -26,10 +26,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1961409873787269
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1841790664726774
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1815782527826842
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1807469508033475
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1792430157857744
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1734752059258829
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.16892143681920901
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1656176400541069
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
