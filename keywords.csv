@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1792430157857744
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1734752059258829
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.16892143681920901
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.168921436819209
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1656176400541069
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
@@ -41,11 +41,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1538400911915451
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1466859173305126
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1454082768412241
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.14480947160372243
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1417870830726701
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
