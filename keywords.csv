@@ -77,7 +77,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1115458410682097
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1112453248818149
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1100706490982311
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1096923114661072
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
@@ -95,6 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.0952315268375633
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.0951846540206997
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.09323846474619112
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0916635527534588
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0073366123662157
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0066946205784147
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0059902749676934
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.00291780912460742
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0029178091246074
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00073293301539
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.813987801973776e-07
