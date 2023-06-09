@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,1,0.317830879929238
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3096881338882193
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3080395310044008
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.30588476284331845
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.3058847628433184
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3008862563836114
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2867351604817359
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0073366123662157
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0066946205784147
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0059902749676934
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0034327166171852
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.00291780912460742
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00073293301539
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.813987801973776e-07
