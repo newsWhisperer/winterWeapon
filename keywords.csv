@@ -115,7 +115,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0713507599127944
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.070525121403114
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0694754222929169
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0692922170752377
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
@@ -123,6 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.05905451394897936
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0589723852312194
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0568342860286258
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0551779225852619
