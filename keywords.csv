@@ -44,8 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1466859173305126
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1454082768412241
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.14480947160372243
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1448094716037224
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1417870830726701
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
@@ -67,6 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.12374705031504048
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1182557208357282
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1179694614389259
