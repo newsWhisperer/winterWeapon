@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2785624624684097
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2726140019072186
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2705488686037271
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2699657511012069
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2622700003024777
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2609708550277765
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2572412703878074
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2467212546974634
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2424257625965268
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.22947181843602588
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2194050122204307
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.219157011578148
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2174174802497864
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.05905451394897936
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0589723852312194
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0568342860286258
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0551779225852619
