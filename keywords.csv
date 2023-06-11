@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.36070796792606963
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.3251147979398522
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3096881338882193
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3080395310044008
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.3058847628433184
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3008862563836114
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2867351604817359
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2785624624684097
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0289900559672594
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.024417981925207
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0224672069111215
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.018212902022225915
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0182129020222259
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0160753735481011
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0149524044114876
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
