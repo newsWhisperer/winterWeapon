@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,1,0.317830879929238
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.32511479793985226
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3096881338882193
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3080395310044008
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.3058847628433184
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2424257625965268
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2294718184360258
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.22293016025710607
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.222930160257106
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2194050122204307
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.219157011578148
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2174174802497864
