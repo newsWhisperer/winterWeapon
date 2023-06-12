@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.36070796792606963
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3607079679260696
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.3251147979398522
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3096881338882193
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3080395310044008
@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2705488686037271
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2609708550277765
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2572412703878074
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2510484053439232
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2501297290576779
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2467212546974634
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.222930160257106
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2194050122204307
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.219157011578148
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2183443995423347
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2174174802497864
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.21556763451914
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2043136947523048
