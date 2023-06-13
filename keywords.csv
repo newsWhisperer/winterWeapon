@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1084147842638365
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1058916736515247
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.10589167365152469
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.100782724192772
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.100402566815981
