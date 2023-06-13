@@ -24,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.21556763451914
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2043136947523048
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1961409873787269
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.18667973719054604
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1841790664726774
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1815782527826842
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1792430157857744
@@ -60,10 +61,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1331365419874396
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1317594301840197
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1310349496359365
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1308549841257346
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1298777478985754
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.12665647815722023
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1266564781572202
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
