@@ -117,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0692922170752377
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.06560110092587523
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0656011009258752
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0647792096036006
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0073366123662157
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0066946205784147
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0059902749676934
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.00509173372253939
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0029178091246074
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00073293301539
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.813987801973776e-07
