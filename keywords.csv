@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2467212546974634
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2424257625965268
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.24226443417582272
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2422644341758227
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2294718184360258
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.222930160257106
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2194050122204307
@@ -23,11 +23,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2183443995423347
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.2174174802497864
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.21556763451914
+'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.21310663841790822
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1961409873787269
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.186679737190546
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1841790664726774
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1815782527826842
-'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1792430157857744
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1754970539708436
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1734752059258829
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.168921436819209
