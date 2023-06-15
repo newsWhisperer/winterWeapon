@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.3251147979398522
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3096881338882193
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3080395310044008
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.3058847628433184
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.27859597205318426
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2785624624684097
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2726140019072186
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2705488686037271
