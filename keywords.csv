@@ -67,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.12418756260725825
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1237470503150404
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1182557208357282
@@ -101,7 +102,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0869697033895105
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0862610278803521
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0862205560085391
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0859925171543705
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.083885260180796
