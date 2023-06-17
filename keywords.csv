@@ -18,12 +18,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2422644341758227
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2336415497958144
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2294718184360258
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.22943171031798137
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.222930160257106
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2194050122204307
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.219157011578148
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2183443995423347
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.2174174802497864
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2132145449661261
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1961409873787269
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.186679737190546
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1841790664726774
@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.12418756260725825
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1241875626072582
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1237470503150404
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1182557208357282
