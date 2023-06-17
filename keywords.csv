@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2422644341758227
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2336415497958144
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2294718184360258
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.22943171031798137
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.2294317103179813
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.222930160257106
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2194050122204307
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.219157011578148
@@ -118,7 +118,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0656011009258752
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0647792096036006
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
@@ -126,6 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0589723852312194
 'Gas Putin',de,Russland,#a6190f,#a31223,1,0.0568342860286258
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0551779225852619
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.05506232816306051
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0454620825339833
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0422662378049333
