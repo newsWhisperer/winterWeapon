@@ -4,10 +4,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.3251147979398522
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3096881338882193
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3080395310044008
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3008222721890573
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.2879102996990262
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2785959720531842
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2785624624684097
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2726140019072186
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2705488686037271
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2671864659628059
@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1084147842638365
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.10807368297185843
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
