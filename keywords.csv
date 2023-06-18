@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.39955062834931243
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3995506283493124
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,1,0.3759880836822028
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.3251147979398522
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3096881338882193
@@ -7,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3008222721890573
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.2879102996990262
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.28182003748880374
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2785959720531842
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2726140019072186
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2705488686037271
@@ -17,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2424257625965268
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2422644341758227
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2294718184360258
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.2294317103179813
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.222930160257106
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2194050122204307
