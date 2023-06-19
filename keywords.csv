@@ -33,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1729990113187181
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.168921436819209
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1674926063294445
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.16547887207573853
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.1654788720757385
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1625544634027514
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0066946205784147
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0050917337225393
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0029178091246074
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00073293301539
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0006229930630815
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.813987801973776e-07
