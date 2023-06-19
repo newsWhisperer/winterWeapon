@@ -33,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1729990113187181
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.168921436819209
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1674926063294445
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.16547887207573853
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1625544634027514
@@ -110,7 +111,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0787648125260789
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.070525121403114
