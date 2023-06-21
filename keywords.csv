@@ -46,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1466859173305126
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1452200553625237
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1448094716037224
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
@@ -77,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1163750541953369
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1119455886015189
-'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1115458410682097
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1112453248818149
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1100706490982311
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
