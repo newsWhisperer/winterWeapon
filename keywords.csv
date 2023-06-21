@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2758267092222589
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2726140019072186
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2671864659628059
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.26716988427191785
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2671698842719178
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2609708550277765
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2572412703878074
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2467212546974634
@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1818907176552219
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1815782527826842
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1734752059258829
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1729990113187181
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.168921436819209
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1674926063294445
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.1654788720757385
