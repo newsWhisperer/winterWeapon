@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.159920034011884
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.15867780661196412
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1586778066119641
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
@@ -144,8 +144,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0136048723317866
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0088914238810175
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0073366123662157
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0066946205784147
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.006386135511283345
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0050917337225393
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0029178091246074
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0006229930630815
