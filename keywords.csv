@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.1474238251227959
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1466859173305126
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1452200553625237
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1448094716037224
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1417870830726701
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1308549841257346
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1298777478985754
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.12804289586316403
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1266564781572202
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
