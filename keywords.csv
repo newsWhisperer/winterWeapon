@@ -64,11 +64,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1308549841257346
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1298777478985754
+'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1294720809230909
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.128042895863164
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1266564781572202
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
-'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1251032267544385
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1241875626072582
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1237470503150404
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
@@ -110,7 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.07752229369829929
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0775222936982992
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.070525121403114
