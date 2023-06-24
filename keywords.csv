@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0454620825339833
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.036376347134193306
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0363763471341933
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0160753735481011
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0149524044114876
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0136048723317866
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.01231421648201861
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0088914238810175
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0066946205784147
