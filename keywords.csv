@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.368842548914937
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3627544272787337
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.35942033248678734
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.3251147979398522
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3167867663537407
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3096881338882193
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2194050122204307
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2124834359395911
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.20941647802324395
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.2094164780232439
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1918352231464559
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1841790664726774
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1818907176552219
