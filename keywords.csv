@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3627544272787337
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.35942033248678734
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3594203324867873
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.3251147979398522
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.32238637227783273
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3167867663537407
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3096881338882193
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3008222721890573
