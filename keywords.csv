@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1241875626072582
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1237470503150404
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.11981599666246329
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1182557208357282
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1179694614389259
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1176980358511959
@@ -126,8 +126,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,1,0.0568342860286258
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0551779225852619
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0550623281630605
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0526852842447949
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0454620825339833
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0408863104502492
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0363763471341933
