@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.3251147979398522
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3223863722778327
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3096881338882193
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.30603960321886137
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3060396032188613
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3008222721890573
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
@@ -98,7 +98,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.0951846540206997
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0932384647461911
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0916635527534588
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
@@ -110,6 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.07806403484043999
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610296
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.070525121403114
