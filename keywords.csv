@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3594203324867873
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.3251147979398522
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3223863722778327
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3167867663537407
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3096881338882193
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.30603960321886137
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3008222721890573
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
@@ -85,7 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.10518499276778433
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1051849927677843
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.100782724192772
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1000529168398173
