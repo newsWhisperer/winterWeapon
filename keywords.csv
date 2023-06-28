@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.3251147979398522
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3223863722778327
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3195896067046783
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.31932082392206196
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.3193208239220619
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3060396032188613
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3054856338049864
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3008222721890573
@@ -142,8 +142,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0149524044114876
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0141314819863636
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0123142164820186
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0088914238810175
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.007707725298864874
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0066946205784147
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0063861355112833
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0050917337225393
