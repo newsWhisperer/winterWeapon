@@ -85,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1051849927677843
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.100782724192772
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1000529168398173
@@ -99,6 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0932384647461911
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.08940724385261666
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0869697033895105
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0077077252988648
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0066946205784147
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.005428215184590805
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0054282151845908
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0050917337225393
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0029178091246074
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0006229930630815
