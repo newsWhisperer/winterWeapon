@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,2,0.2671864659628059
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2671698842719178
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2609708550277765
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2572412703878074
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2572412703878074
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2467212546974634
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2424257625965268
