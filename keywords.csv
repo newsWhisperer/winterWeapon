@@ -20,13 +20,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2424257625965268
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.2422644341758227
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2294317103179812
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.222930160257106
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2194050122204307
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2168208617036671
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2124834359395911
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.2094164780232439
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1918352231464559
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1894911162185401
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1841790664726774
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1818907176552219
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1815782527826842
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1241875626072582
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1214080725773457
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.12066903561176959
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1206690356117695
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.119813233762644
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1182557208357282
