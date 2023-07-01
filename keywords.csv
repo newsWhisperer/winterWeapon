@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3223863722778327
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.3193208239220619
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.3131224200670561
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.30625507370888505
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3060396032188613
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3054856338049864
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3008222721890573
@@ -84,7 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.10271869527000407
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.102718695270004
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.100782724192772
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1000529168398173
