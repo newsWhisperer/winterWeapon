@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.3131224200670561
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.30747472842063406
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.306255073708885
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3060396032188613
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3054856338049864
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
-'Gas Putin',de,Russland,#a6190f,#a31223,2,0.05780869266978648
+'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0578086926697864
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0551779225852619
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0550623281630605
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0526852842447949
