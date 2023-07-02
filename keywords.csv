@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.3193208239220619
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.3131224200670561
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.306255073708885
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3060396032188613
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2821294920756812
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2818200374888037
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.28092559487920715
 'Energieversorgung',de,Other,#545557,#6b6c7e,2,0.2671864659628059
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2671698842719178
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2609708550277765
