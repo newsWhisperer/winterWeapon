@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.306255073708885
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3060396032188613
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3054856338049864
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.3026736205211752
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3008222721890573
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.29708880447073405
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2902807743353401
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0050917337225393
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0029178091246074
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0006229930630815
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,4.2006061869260527e-07
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,4.200606186926053e-07
