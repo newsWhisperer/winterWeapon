@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0363763471341933
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.03475346888271182
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0347534688827118
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0313028326680454
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0050917337225393
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0029178091246074
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0006229930630815
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,4.941889631677709e-07
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,4.2006061869260527e-07
