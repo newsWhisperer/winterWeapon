@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2609708550277765
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2575855860207382
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2572412703878074
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2467212546974634
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2424257625965268
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.2422644341758227
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2168208617036671
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2124834359395911
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.21181426649284388
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.2094164780232439
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1956559012289179
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1918352231464559
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.015780996718892
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0149524044114876
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.011067144009715809
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0110671440097158
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0077077252988648
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0066946205784147
