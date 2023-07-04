@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.14065717626437774
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1402211863299653
 'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.1394146496035681
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
@@ -58,11 +58,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1331365419874396
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1317594301840197
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.13172927403586
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1314133768881826
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1308549841257346
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1298777478985754
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1294720809230909
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.128042895863164
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1266564781572202
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1253102513543765
