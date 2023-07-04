@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2168208617036671
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2124834359395911
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.21181426649284388
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2118142664928438
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.2094164780232439
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1956559012289179
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1918352231464559
@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.168921436819209
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1674926063294445
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.1654788720757385
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1625544634027514
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.14065717626437774
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1402211863299653
 'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.1394146496035681
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
