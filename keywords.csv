@@ -74,7 +74,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1179694614389259
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1176980358511959
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1163750541953369
 'Krieg Gas',de,Russland,#a6190f,#b33329,1,0.1119455886015189
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1112453248818149
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1100706490982311
@@ -89,6 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.100782724192772
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1000529168398173
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.09891885606603636
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0967385879190108
@@ -110,7 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0780640348404399
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.07613626016102959
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.070525121403114
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0692922170752377
