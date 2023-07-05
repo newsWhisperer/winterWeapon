@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2124834359395911
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2118142664928438
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.2094164780232439
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.2011369945015755
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1956559012289179
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1918352231464559
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1894911162185401
@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.100782724192772
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1000529168398173
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.09891885606603636
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0989188560660363
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0967385879190108
