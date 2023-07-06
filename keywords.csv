@@ -98,7 +98,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0932384647461911
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0894072438526166
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0869697033895105
@@ -111,6 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0780640348404399
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.07599615727472411
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.070525121403114
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0692922170752377
