@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3008222721890573
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.297088804470734
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2902807743353401
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2902168937188745
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2821294920756812
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2818200374888037
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2809255948792071
 'Energieversorgung',de,Other,#545557,#6b6c7e,2,0.2671864659628059
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0551779225852619
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0526852842447949
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.04680297893860143
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0468029789386014
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,3,0.0415923630953913
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0363763471341933
