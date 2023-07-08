@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.297088804470734
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2902807743353401
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2902168937188745
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2901818941169592
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2818200374888037
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2809255948792071
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2609708550277765
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2575855860207382
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2572412703878074
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.24665528499941533
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2424257625965268
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.2422644341758227
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0077077252988648
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0066946205784147
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0054282151845908
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.004327973664158405
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0043279736641584
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0029178091246074
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0006229930630815
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,4.200606186926053e-07
