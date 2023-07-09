@@ -111,18 +111,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0759961572747241
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.07210965562822536
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0721096556282253
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.070525121403114
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0692922170752377
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0658943696435543
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0656011009258752
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0578086926697864
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,2,0.055761715786993925
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0551779225852619
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0526852842447949
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
