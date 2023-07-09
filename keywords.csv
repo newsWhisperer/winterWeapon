@@ -71,11 +71,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1214080725773457
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.119813233762644
+'Krieg Gas',de,Russland,#a6190f,#b33329,2,0.11829126849310925
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1182557208357282
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1179694614389259
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1176980358511959
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1174393005131256
-'Krieg Gas',de,Russland,#a6190f,#b33329,1,0.1119455886015189
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1112453248818149
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1100706490982311
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0578086926697864
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,2,0.055761715786993925
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,2,0.0557617157869939
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0551779225852619
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0526852842447949
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
