@@ -102,7 +102,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0869697033895105
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0859925171543705
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0841289360332063
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0833143389053714
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0817194420593327
@@ -112,6 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0759961572747241
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.07210965562822536
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.070525121403114
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0692922170752377
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
