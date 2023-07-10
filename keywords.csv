@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.2194050122204307
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2168208617036671
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.2124834359395911
+'Gazprom',de,Russland,#a6190f,#A33223,2,0.2124834359395911
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2118142664928438
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.2011369945015755
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1956559012289179
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.024417981925207
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.02094531543634484
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0209453154363448
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0190971258744532
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0160753735481011
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.015780996718892
