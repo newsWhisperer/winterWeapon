@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2118142664928438
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.2011369945015755
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1956559012289179
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1918352231464559
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1894911162185401
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1853261806201694
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1841790664726774
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1674926063294445
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.16306023967448752
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1625544634027514
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,3,0.159920034011884
@@ -86,7 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.102718695270004
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.100782724192772
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.10027345043615675
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1002734504361567
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0989188560660363
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
