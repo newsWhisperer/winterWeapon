@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2118142664928438
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.2011369945015755
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1956559012289179
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.192602611624261
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1894911162185401
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1853261806201694
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1841790664726774
@@ -79,7 +80,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1100706490982311
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1084147842638365
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
