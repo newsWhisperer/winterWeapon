@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG',de,Quelle,#3d9a9c,#14c7a3,1,0.3060396032188613
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3650869327360321
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3054856338049864
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.3026736205211752
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3008222721890573
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.015780996718892
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0149524044114876
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.009857117408258429
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0098571174082584
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0066946205784147
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.006551566504035
