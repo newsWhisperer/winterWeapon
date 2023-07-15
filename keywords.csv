@@ -7,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2902807743353401
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2809255948792071
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2791976613888659
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2789090519337706
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2722312572281555
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2717705691382104
@@ -16,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2575855860207382
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2572412703878074
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2424257625965268
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.2422644341758227
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2272403260430113
