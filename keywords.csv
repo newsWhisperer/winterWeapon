@@ -26,10 +26,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2118142664928438
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2037443737304706
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.2011369945015755
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1995832234011436
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.192602611624261
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1841790664726774
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1818907176552218
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.168921436819209
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1674926063294445
