@@ -18,10 +18,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2572412703878074
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.2422644341758227
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.23654795744811702
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2272403260430113
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.2194050122204307
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2168208617036671
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2118142664928438
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2037443737304706
