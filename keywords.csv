@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3252074438688678
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3222885531976285
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.3147193908891961
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3054856338049864
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3008222721890573
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.2985931738066353
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.29724925041308564
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2972492504130856
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2902807743353401
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2809255948792071
