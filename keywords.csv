@@ -1,9 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3252074438688678
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.31471939088919615
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.3147193908891961
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3054856338049864
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3008222721890573
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.2985931738066353
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.29724925041308564
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2902807743353401
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2809255948792071
@@ -17,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2600621227040485
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2572412703878074
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
-'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.2422644341758227
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.236547957448117
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2272403260430113
