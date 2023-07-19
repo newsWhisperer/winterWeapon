@@ -75,7 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,2,0.1182912684931092
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1182557208357282
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1179694614389259
-'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.11229405047351651
+'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1122940504735165
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1112453248818149
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1100706490982311
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
@@ -129,10 +129,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0468029789386014
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
-'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0353537636310826
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0347534688827118
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.030666349900447
+'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.030050924086420207
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0266074077678385
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.024417981925207
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0209453154363448
