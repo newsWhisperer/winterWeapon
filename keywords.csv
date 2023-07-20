@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2272403260430113
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.2194050122204307
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.217486137875275
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2118142664928438
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2037443737304706
@@ -31,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1818907176552218
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.168921436819209
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1674926063294445
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1179694614389259
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1122940504735165
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1112453248818149
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.11122723150687439
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1112272315068743
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1100706490982311
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
