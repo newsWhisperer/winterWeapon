@@ -103,7 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0869697033895105
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0859925171543705
-'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.08350595984134189
+'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0835059598413418
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0833143389053714
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
@@ -115,7 +115,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0721096556282253
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.070525121403114
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0692922170752377
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0675849784515091
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0658943696435543
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
@@ -124,6 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,2,0.0578982534189448
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0578086926697864
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.05744723168378273
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0551779225852619
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0526852842447949
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
