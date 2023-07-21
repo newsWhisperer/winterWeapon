@@ -21,10 +21,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.236547957448117
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2272403260430113
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.22135739788255357
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.2194050122204307
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.217486137875275
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2118142664928438
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2037443737304706
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.2011369945015755
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.192602611624261
