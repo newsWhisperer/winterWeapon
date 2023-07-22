@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,2,0.2547905537956577
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.236547957448117
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.23100574876747884
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2310057487674788
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2272403260430113
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2213573978825535
@@ -107,7 +107,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0833143389053714
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0791942980593511
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0780640348404399
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0759961572747241
@@ -115,6 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0721096556282253
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.070525121403114
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0692922170752377
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.06731515335044844
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0658943696435543
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
