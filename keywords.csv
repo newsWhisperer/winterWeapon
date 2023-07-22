@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.32239774637200364
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.3147193908891961
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3054856338049864
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3008222721890573
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,2,0.2985931738066353
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2972492504130856
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2902807743353401
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0721096556282253
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.070525121403114
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0692922170752377
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.06731515335044844
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0658943696435543
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
