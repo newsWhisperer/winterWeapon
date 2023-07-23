@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,2,0.2547905537956577
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.236547957448117
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.23267931221635457
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.2326793122163545
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2310057487674788
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2272403260430113
@@ -34,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1674926063294445
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
+'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1644588493422447
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1630602396744875
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1625544634027514
@@ -54,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.1394146496035681
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1341807751619991
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1331365419874396
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1317594301840197
