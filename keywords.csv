@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1331365419874396
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.13197288466550758
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1317594301840197
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.13172927403586
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1314133768881826
@@ -125,6 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0578086926697864
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0551779225852619
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.054878699797019634
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0526852842447949
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
@@ -141,7 +142,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.015780996718892
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0149524044114876
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0098571174082584
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.006551566504035
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0056904274916524
