@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2272403260430113
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2213573978825535
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2194874696341751
-'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.2194050122204307
+'Akw',de,Quelle,#3d9a9c,#14d7b3,1,0.2194050122204307
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.217486137875275
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.2011369945015755
@@ -119,7 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0658943696435543
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.060947074827466655
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0609470748274666
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,2,0.0578982534189448
