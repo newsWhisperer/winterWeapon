@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2272403260430113
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2213573978825535
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.21948746963417518
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2194874696341751
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.2194050122204307
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.217486137875275
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
@@ -82,7 +82,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1062199250640643
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1027186952700039
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
@@ -98,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.0951846540206997
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0932384647461911
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.09058696630445466
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
