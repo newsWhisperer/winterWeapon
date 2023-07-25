@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.3147193908891961
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3054856338049864
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3008222721890573
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.29953246019612995
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2995324601961299
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2972492504130856
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2902807743353401
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
@@ -107,7 +107,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0833143389053714
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0780640348404399
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0759961572747241
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
@@ -116,6 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0692922170752377
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.06635442961437392
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0658943696435543
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
