@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2722312572281555
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2671698842719178
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2600621227040485
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2566408028848758
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2554315266478181
 'Energieversorgung',de,Other,#545557,#6b6c7e,2,0.2547905537956577
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.242625120506271
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.236547957448117
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2326793122163545
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
