@@ -6,17 +6,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2995324601961299
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2972492504130856
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2902807743353401
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.29025650583246354
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2809255948792071
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2791976613888659
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2789090519337706
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.277991833877256
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2722312572281555
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2671698842719178
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2600621227040485
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2566408028848758
 'Energieversorgung',de,Other,#545557,#6b6c7e,2,0.2547905537956577
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.24641206561384943
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2386213388923386
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.236547957448117
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2326793122163545
