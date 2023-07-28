@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1818907176552218
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1674926063294445
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1644588493422447
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1630602396744875
@@ -47,10 +46,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1452200553625237
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.14296877538002783
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.13985949164638428
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.1394146496035681
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1359321489101013
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
