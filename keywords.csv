@@ -28,13 +28,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.217486137875275
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.2011369945015755
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.192602611624261
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1841790664726774
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1818907176552218
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1644588493422447
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.16371227988062184
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1630602396744875
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
@@ -46,7 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1452200553625237
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.14296877538002783
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1429687753800278
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
