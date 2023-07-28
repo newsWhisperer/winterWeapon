@@ -27,14 +27,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,1,0.2194050122204307
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.217486137875275
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.2011369945015755
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1841790664726774
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1818907176552218
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.17126647532633918
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1644588493422447
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.16371227988062184
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1637122798806218
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1630602396744875
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
