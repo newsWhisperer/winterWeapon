@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2863473336439321
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2861009508921803
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.28337840908797146
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2833784090879714
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2809255948792071
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2791976613888659
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2789090519337706
@@ -36,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1674926063294445
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1644588493422447
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1643640901722168
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1630602396744875
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.13985949164638428
 'COP27 Russland',de,Klimawandel,#578223,#488223,2,0.1394146496035681
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1359321489101013
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
