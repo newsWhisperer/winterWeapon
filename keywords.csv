@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.3146146937342384
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2995324601961299
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2972492504130856
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.29718553363958455
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2971855336395845
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2880859685071121
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
@@ -27,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,1,0.2194050122204307
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.217486137875275
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.20177492464765903
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1954168072160615
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1818907176552218
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
@@ -39,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1579772985271439
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1566906600132887
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
