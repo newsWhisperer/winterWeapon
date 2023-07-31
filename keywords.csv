@@ -34,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.1712664753263391
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1647517334217815
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1644588493422447
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1637122798806218
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1630602396744875
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1452200553625237
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1429687753800278
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
