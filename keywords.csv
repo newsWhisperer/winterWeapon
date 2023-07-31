@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3296318599864179
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3050386492024229
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2996471369468299
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2995324601961299
@@ -9,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2863473336439321
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2861009508921803
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2809255948792071
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2803273513209195
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2791976613888659
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2789090519337706
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2671698842719178
