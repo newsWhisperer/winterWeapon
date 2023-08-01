@@ -74,7 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1179694614389259
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1122940504735165
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.11170210535495521
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1117021053549552
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1112272315068743
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1100706490982311
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0043279736641584
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0021081170925287
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0006229930630815
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,4.200606186926053e-07
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.570515258887145e-07
