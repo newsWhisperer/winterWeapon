@@ -60,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1317594301840197
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.13172927403586
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1314133768881826
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1298777478985754
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1294720809230909
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
@@ -75,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1179694614389259
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1122940504735165
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.11170210535495521
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1112272315068743
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1100706490982311
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
@@ -104,7 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0835059598413418
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
-'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.08334073377008176
+'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0833407337700817
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0833143389053714
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
