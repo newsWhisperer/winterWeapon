@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.3758015260329409
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3296318599864179
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3050386492024229
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2996471369468299
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2995324601961299
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2972492504130856
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2880859685071121
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
