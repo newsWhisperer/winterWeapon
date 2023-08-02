@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.2272403260430113
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2213573978825535
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2194874696341751
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2194874696341751
 'Akw',de,Quelle,#3d9a9c,#14d7b3,1,0.2194050122204307
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.217486137875275
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1214080725773457
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.119813233762644
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.11850246716303289
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1182557208357282
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1179694614389259
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
