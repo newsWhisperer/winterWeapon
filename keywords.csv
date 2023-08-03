@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1331365419874396
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.13274127498309624
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1327412749830962
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1317594301840197
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.13172927403586
@@ -108,7 +108,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0833143389053714
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0759961572747241
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0721096556282253
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.070525121403114
@@ -117,6 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0658943696435543
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.06459673368351548
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0609470748274666
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
