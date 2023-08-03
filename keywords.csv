@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2791976613888659
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2789090519337706
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2671698842719178
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2654197409651079
 'Energieversorgung',de,Other,#545557,#6b6c7e,2,0.2547905537956577
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2464120656138494
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.236547957448117
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.23572529163852354
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2326793122163545
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
@@ -116,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.0664362138190795
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0658943696435543
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.06459673368351548
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0645967336835154
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0609470748274666
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
