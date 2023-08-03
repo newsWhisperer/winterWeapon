@@ -25,11 +25,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2213573978825535
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2194874696341751
 'Akw',de,Quelle,#3d9a9c,#14d7b3,1,0.2194050122204307
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.217486137875275
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.201774924647659
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.2004109509795033
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1954168072160615
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.18486344219398373
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1818907176552218
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
