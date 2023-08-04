@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.3425704803098179
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3296318599864179
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.30523316735425426
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3050386492024229
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2996471369468299
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2995324601961299
@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1331365419874396
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1327412749830962
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.13194662565641674
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1319466256564167
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.13172927403586
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1298777478985754
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1294720809230909
