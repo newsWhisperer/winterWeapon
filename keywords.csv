@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,2,0.2547905537956577
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2464120656138494
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.236547957448117
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.23572529163852354
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2357252916385235
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2326793122163545
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1331365419874396
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1327412749830962
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1317594301840197
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.13194662565641674
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.13172927403586
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1298777478985754
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1294720809230909
