@@ -46,9 +46,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.14572651902738823
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.1457265190273882
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1429687753800278
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1253102513543765
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1241875626072582
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.12212351907302363
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1214080725773457
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.119813233762644
