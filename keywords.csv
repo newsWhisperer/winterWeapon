@@ -35,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.1712664753263391
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,2,0.1663825719932852
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1647517334217815
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1644588493422447
@@ -137,7 +138,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0266074077678385
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.024417981925207
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0209453154363448
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0190971258744532
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0160753735481011
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.015780996718892
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0149524044114876
