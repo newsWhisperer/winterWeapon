@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.2004109509795033
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1954168072160615
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.18555127504141922
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1855512750414192
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848634421939837
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1818907176552218
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.006551566504035
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0056904274916524
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0046139829069021
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0043279736641584
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0036787776145346396
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0021081170925287
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0006229930630815
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.570515258887145e-07
