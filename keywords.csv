@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1253102513543765
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1241875626072582
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.12212351907302363
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1221235190730236
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1214080725773457
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.119813233762644
@@ -85,12 +85,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
+'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.10081546836752281
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1002734504361567
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0989188560660363
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
-'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.0967385879190108
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.0952315268375633
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.0951846540206997
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.0948585561495426
