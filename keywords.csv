@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.307907853715728
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.3052331673542542
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3050386492024229
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2996471369468299
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2995324601961299
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2985339874765506
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2895925287727735
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2880859685071121
@@ -85,7 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
-'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.10081546836752281
+'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1002734504361567
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0989188560660363
