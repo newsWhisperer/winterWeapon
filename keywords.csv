@@ -27,9 +27,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2194874696341751
 'Akw',de,Quelle,#3d9a9c,#14d7b3,1,0.2194050122204307
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.201774924647659
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.2004109509795033
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1954168072160615
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.18555127504141922
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848634421939837
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1818907176552218
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.006551566504035
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0056904274916524
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.00461398290690218
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0046139829069021
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0043279736641584
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0021081170925287
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0006229930630815
