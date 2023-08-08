@@ -26,15 +26,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2194874696341751
 'Akw',de,Quelle,#3d9a9c,#14d7b3,1,0.2194050122204307
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.2004109509795033
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2003669178927449
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1855512750414192
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848634421939837
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1818907176552218
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1704993233325778
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,2,0.1663825719932852
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.16610478113365226
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1661047811336522
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1647517334217815
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1644588493422447
