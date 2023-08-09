@@ -53,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1359321489101013
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.13498111765613086
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
@@ -88,7 +89,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1002734504361567
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0989188560660363
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.0952315268375633
