@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3142345468220595
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2995324601961299
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.29932393707147786
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2985339874765506
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2895925287727735
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.14142520119429242
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.1414252011942924
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1359321489101013
