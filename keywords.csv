@@ -21,9 +21,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.2272403260430113
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2249237850183523
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2194874696341751
 'Akw',de,Quelle,#3d9a9c,#14d7b3,1,0.2194050122204307
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.21568665726559944
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.209451035771772
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2003669178927449
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864202
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0266074077678385
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0209453154363448
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.02075528463642595
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0207552846364259
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0160753735481011
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.015780996718892
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0149524044114876
