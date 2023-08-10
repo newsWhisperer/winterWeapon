@@ -101,7 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0869697033895105
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0859925171543705
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.08523243287073319
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0852324328707331
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0835059598413418
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0833407337700817
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.006551566504035
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0056904274916524
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0046139829069021
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0036787776145346
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.00312696097235441
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0021081170925287
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0006229930630815
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.570515258887145e-07
