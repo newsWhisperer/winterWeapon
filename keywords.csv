@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2809255948792071
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2791976613888659
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2789090519337706
-'Energieversorgung',de,Other,#545557,#6b6c7e,2,0.27607326027176354
+'Energieversorgung',de,Other,#545557,#6b6c7e,2,0.2760732602717635
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2692015064048053
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2671698842719178
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2347307487480723
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,2,0.0578982534189448
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.058712554951557624
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0578086926697864
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0564012651722178
