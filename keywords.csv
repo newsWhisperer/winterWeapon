@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,1,0.2194050122204307
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2156866572655994
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.21025688767873346
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2102568876787334
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2003669178927449
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1855512750414192
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848634421939837
@@ -125,10 +125,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0578086926697864
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0564012651722178
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0551779225852619
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0526852842447949
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.04735127919747262
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0397825320978111
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0347534688827118
