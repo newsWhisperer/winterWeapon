@@ -23,9 +23,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.2272403260430113
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2194874696341751
 'Akw',de,Quelle,#3d9a9c,#14d7b3,1,0.2194050122204307
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.21568665726559944
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2156866572655994
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.209451035771772
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.21025688767873346
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2003669178927449
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1855512750414192
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848634421939837
