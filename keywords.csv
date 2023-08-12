@@ -121,15 +121,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.058712554951557624
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0587125549515576
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0578086926697864
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0564012651722178
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0526852842447949
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0473512791974726
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.04069863231785171
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0397825320978111
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0347534688827118
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
