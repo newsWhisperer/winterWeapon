@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2809255948792071
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2791976613888659
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2789090519337706
-'Energieversorgung',de,Other,#545557,#6b6c7e,2,0.2760732602717635
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2759818925946353
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2692015064048053
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2671698842719178
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2347307487480723
@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
-'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.15460711000693853
+'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1546071100069385
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.1457265190273882
