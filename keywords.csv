@@ -25,8 +25,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,1,0.2194050122204307
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2156866572655994
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2102568876787334
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2003669178927449
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.18821455907237794
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1855512750414192
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848634421939837
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1818907176552218
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0526852842447949
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.04069863231785171
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0406986323178517
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0397825320978111
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0347534688827118
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
