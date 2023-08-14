@@ -21,11 +21,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.2272403260430113
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.22526249520883318
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.2232673322055479
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2194874696341751
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2003669178927449
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1882145590723779
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1855512750414192
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848634421939837
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0526852842447949
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
-'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.04919893559719814
+'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0491989355971981
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0406986323178517
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0397825320978111
