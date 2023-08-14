@@ -22,8 +22,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2252624952088331
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.2232673322055479
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.22083210486383234
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2194874696341751
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2208321048638323
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2187877214617761
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1882145590723779
