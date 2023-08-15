@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2995324601961299
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2993239370714778
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2985339874765506
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2759818925946353
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2692015064048053
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2686466952576195
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2671698842719178
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2482844901927805
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2347307487480723
