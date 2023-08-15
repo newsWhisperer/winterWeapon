@@ -10,16 +10,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2827769783961168
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2791976613888659
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.27628907300435773
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2762890730043577
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2759818925946353
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2692015064048053
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2686466952576195
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2671698842719178
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2482844901927805
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2347307487480723
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2326793122163545
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.22709444663113013
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2208321048638323
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2187877214617761
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
