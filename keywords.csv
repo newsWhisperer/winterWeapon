@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2880859685071121
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2863473336439321
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2861009508921803
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.2861009508921803
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2827769783961168
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2791976613888659
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1928237509275081
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1882145590723779
-'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.18729510808669017
+'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1872951080866901
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1868701482425097
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1855512750414192
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848634421939837
