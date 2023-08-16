@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0526852842447949
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0491989355971981
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.04794107539638513
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0479410753963851
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0406986323178517
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0397825320978111
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0046139829069021
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0031269609723544
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0021081170925287
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0006229930630815
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0005295441036192749
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.570515258887145e-07
