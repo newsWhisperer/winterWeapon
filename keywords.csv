@@ -37,11 +37,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1637122798806218
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1630602396744875
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.15959019600613325
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1595901960061332
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1583782305772716
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.15569900748900709
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1546071100069385
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
@@ -55,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1359321489101013
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1349811176561308
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1345683072063185
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1331365419874396
