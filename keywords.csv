@@ -18,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2347307487480723
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2326793122163545
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.22940271003426244
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.2270944466311301
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2208321048638323
@@ -85,7 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1049970416907438
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.10233080265530847
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1023308026553084
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
@@ -95,7 +96,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.0951846540206997
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.0948585561495426
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0932384647461911
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
