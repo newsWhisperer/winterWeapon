@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2347307487480723
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2326793122163545
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2303490401354893
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.22940271003426244
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2294027100342624
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.2270944466311301
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2208321048638323
@@ -35,11 +35,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1661047811336522
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1647517334217815
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1644588493422447
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1637122798806218
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1630602396744875
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
+'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1583782305772716
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1546071100069385
