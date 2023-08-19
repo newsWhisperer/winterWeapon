@@ -56,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1359321489101013
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1349811176561308
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1348750530971328
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1331365419874396
@@ -79,7 +80,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1122940504735165
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1117021053549552
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1112272315068743
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1100706490982311
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
@@ -98,7 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.08698208225701214
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.0869820822570121
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0859925171543705
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0852324328707331
