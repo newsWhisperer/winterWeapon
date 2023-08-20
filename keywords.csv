@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2692015064048053
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2686466952576195
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2619821822337059
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.25356902768659445
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2535690276865944
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2459736436918684
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2387201693911361
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2347307487480723
@@ -130,8 +130,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0491989355971981
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0479410753963851
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0457359335326101
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0406986323178517
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0397825320978111
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.03504388247017395
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0347534688827118
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864202
