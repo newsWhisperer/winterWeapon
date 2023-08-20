@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2762890730043577
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2759818925946353
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.269666747332613
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2692015064048053
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2686466952576195
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2619821822337059
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2589207323219544
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2535690276865944
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.1457265190273882
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1450744398326911
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.14437837908068146
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1443783790806814
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
