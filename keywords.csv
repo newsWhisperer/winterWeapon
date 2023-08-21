@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2589207323219544
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2535690276865944
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2459736436918684
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.24472375474417227
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2447237547441722
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2387201693911361
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2347307487480723
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2326793122163545
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864202
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0266074077678385
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0209453154363448
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0207552846364259
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.017641991940962016
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0160753735481011
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.015780996718892
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0149524044114876
