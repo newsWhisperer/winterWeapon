@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2985339874765506
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2895925287727735
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2879102996990262
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.2861009508921803
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2827769783961168
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2791976613888659
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2589207323219544
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2535690276865944
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2459736436918684
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.24472375474417227
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2387201693911361
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2347307487480723
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2326793122163545
