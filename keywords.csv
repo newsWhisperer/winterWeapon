@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2993239370714778
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2985339874765506
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2895925287727735
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.2861009508921803
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.28601971162779527
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2827769783961168
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2791976613888659
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0039218854708667
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.002259229302526
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0021081170925287
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00045011248807632
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0004501124880763
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.570515258887145e-07
