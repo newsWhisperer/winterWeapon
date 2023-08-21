@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2895925287727735
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.2861009508921803
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.28601971162779527
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,1,0.2860197116277952
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2827769783961168
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2791976613888659
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
