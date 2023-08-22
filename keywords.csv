@@ -19,12 +19,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2387201693911361
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2347307487480723
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2326793122163545
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2294027100342624
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.2270944466311301
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2208321048638323
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.19499231852912302
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1928237509275081
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1882145590723779
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1855512750414192
