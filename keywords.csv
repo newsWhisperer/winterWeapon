@@ -66,6 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.13172927403586
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1298777478985754
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1294720809230909
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.12676772682668563
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1258831497309357
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
@@ -92,7 +93,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.0952315268375633
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.0951846540206997
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.0948585561495426
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0578086926697864
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.054859226708823955
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0548592267088239
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0526852842447949
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0491989355971981
