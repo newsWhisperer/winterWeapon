@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2208321048638323
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.19499231852912302
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.194992318529123
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1928237509275081
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1882145590723779
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1855512750414192
@@ -121,10 +121,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0587125549515576
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0578086926697864
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.054859226708823955
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0526852842447949
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0491989355971981
