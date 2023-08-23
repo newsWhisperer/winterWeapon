@@ -78,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1179694614389259
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
-'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1122940504735165
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1117021053549552
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1112272315068743
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
@@ -87,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1049970416907438
+'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.10494667244794356
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
-'Gas Putin',de,Russland,#a6190f,#a31223,3,0.05863536331477298
+'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0586353633147729
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0548592267088239
