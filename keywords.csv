@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,1,0.2993239370714778
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.29359165871289866
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2895925287727735
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.2861009508921803
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,1,0.2860197116277952
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2827769783961168
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2791976613888659
@@ -86,7 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1049970416907438
-'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.10494667244794356
+'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1049466724479435
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
