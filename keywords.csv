@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,1,0.2860197116277952
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2827769783961168
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2791976613888659
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.27904097649671605
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2762890730043577
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2759818925946353
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.269666747332613
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2692015064048053
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2619821822337059
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2589207323219544
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2535690276865944
@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.13172927403586
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1298777478985754
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1294720809230909
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.12676772682668563
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1267677268266856
 'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1258831497309357
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
