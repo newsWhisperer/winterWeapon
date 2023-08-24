@@ -20,11 +20,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2347307487480723
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2326793122163545
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.2270944466311301
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2208321048638323
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.194992318529123
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1934803246364606
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1928237509275081
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1882145590723779
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1855512750414192
@@ -106,7 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0833407337700817
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0833143389053714
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.08038848608462602
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.080388486084626
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0769989213587864
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0746743228810839
