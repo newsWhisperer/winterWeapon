@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2208321048638323
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2132729973382572
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.194992318529123
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1934803246364606
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1928237509275081
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1882145590723779
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848634421939837
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.16649354574975453
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1661047811336522
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1647517334217815
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.015780996718892
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0130095737497644
-'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.00613023344398287
+'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0061302334439828
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0056904274916524
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0055688315284297
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0039218854708667
