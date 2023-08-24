@@ -94,7 +94,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.0952315268375633
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.0948585561495426
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0945745130407365
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
@@ -107,6 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0833407337700817
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0833143389053714
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0814154905252827
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.08038848608462602
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0769989213587864
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0746743228810839
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0160753735481011
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.015780996718892
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.013009573749764459
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0130095737497644
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0084847521716026
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0056904274916524
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0055688315284297
