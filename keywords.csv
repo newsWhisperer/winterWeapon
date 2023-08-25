@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2935916587128986
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.292272887180536
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2895925287727735
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,1,0.2860197116277952
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2827769783961168
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2791976613888659
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.279040976496716
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2762890730043577
