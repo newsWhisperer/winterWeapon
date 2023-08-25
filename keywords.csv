@@ -29,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1855512750414192
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848634421939837
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1741406296780174
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1664935457497545
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1661047811336522
@@ -58,7 +59,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1359321489101013
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1349811176561308
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1348750530971328
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1331365419874396
