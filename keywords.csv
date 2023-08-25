@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2935916587128986
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.29119552332893794
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2895925287727735
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,1,0.2860197116277952
@@ -46,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1546071100069385
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.1457265190273882
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1450744398326911
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1443783790806814
@@ -61,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1331365419874396
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1327412749830962
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.13172927403586
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1298777478985754
