@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2895925287727735
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.28632238172414565
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2863223817241456
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2827769783961168
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2799288117018077
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.279040976496716
@@ -42,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1583782305772716
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
+'Gaskrise',de,Other,#545557,#6b7c6e,3,0.15641562713407478
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.155699007489007
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1546071100069385
@@ -67,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1298777478985754
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1294720809230909
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1267677268266856
-'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1260475142753821
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1258831497309357
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1253102513543765
