@@ -25,9 +25,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2208321048638323
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.21038791066606669
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1980779403839013
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1934803246364606
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1882145590723779
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1855512750414192
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848634421939837
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
-'Gas Putin',de,Russland,#a6190f,#a31223,2,0.05863536331477289
+'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0586353633147728
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0548592267088239
