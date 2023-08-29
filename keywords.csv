@@ -9,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2762890730043577
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2759818925946353
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.27446760117327995
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.269666747332613
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2619821822337059
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2595361800222086
@@ -50,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.1457265190273882
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1450744398326911
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1443783790806814
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0055688315284297
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0039218854708667
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.002259229302526
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.001941914528649395
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0019419145286493
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0004501124880763
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.570515258887145e-07
