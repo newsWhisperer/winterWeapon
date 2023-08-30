@@ -23,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2208321048638323
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2140326671380881
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.21361610568932365
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2103879106660666
@@ -63,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1349811176561308
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1331365419874396
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.13172927403586
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1298777478985754
@@ -120,7 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0595074049765988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.05889838451395204
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.058898384513952
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0586353633147728
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
