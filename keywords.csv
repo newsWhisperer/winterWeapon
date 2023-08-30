@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2387201693911361
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2208321048638323
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.21403266713808813
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2140326671380881
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2103879106660666
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0039218854708667
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.002259229302526
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0019419145286493
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0004501124880763
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000382595614864855
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.570515258887145e-07
