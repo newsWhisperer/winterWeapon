@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2208321048638323
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2140326671380881
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.21361610568932365
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.2136161056893236
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2103879106660666
@@ -57,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.1414252011942924
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1359321489101013
@@ -73,6 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1241875626072582
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1221235190730236
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.12021142101514852
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.119813233762644
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
