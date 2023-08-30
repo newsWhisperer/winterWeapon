@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2932609443236301
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.292272887180536
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
@@ -9,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2759818925946353
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.2744676011732799
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.269666747332613
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2619821822337059
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2595361800222086
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.25696375865122
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0039218854708667
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.002259229302526
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0019419145286493
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000382595614864855
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0003825956148648
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.570515258887145e-07
