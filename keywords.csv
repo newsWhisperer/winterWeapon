@@ -70,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1267677268266856
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1258831497309357
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1241875626072582
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1221235190730236
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.1202114210151485
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
@@ -84,6 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.10660953321616946
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1049970416907438
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1049466724479435
