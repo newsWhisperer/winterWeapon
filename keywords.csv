@@ -75,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.119813233762644
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
-'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1179694614389259
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1117021053549552
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1112272315068743
@@ -83,12 +82,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.10660953321616946
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1049970416907438
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1049466724479435
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
+'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.100274042223087
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
