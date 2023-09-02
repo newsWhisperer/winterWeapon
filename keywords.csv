@@ -19,10 +19,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2499711814358614
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2447237547441722
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2387201693911361
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.23233751752192033
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2208321048638323
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2140326671380881
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.2136161056893236
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0526852842447949
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.051583837702500315
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0515838377025003
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0505815492301089
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0491989355971981
