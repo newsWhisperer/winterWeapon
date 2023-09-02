@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2932609443236301
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3087712022205401
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.292272887180536
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2499711814358614
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2447237547441722
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2387201693911361
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.23233751752192033
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2323375175219203
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.2208321048638323
