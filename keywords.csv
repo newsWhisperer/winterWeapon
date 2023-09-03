@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2895925287727735
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2863223817241456
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.28520583592163745
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2827769783961168
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2799288117018077
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.015780996718892
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0136640675158859
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0130095737497644
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.011358167687299739
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0061302334439828
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0056904274916524
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0055688315284297
