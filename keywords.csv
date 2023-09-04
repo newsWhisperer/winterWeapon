@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3087712022205401
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3128639373420045
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2895925287727735
@@ -123,7 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0586353633147728
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.05427871115353021
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0515838377025003
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0505815492301089
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
