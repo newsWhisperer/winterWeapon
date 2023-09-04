@@ -75,7 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.119813233762644
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.11473395000771118
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1147339500077111
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1112272315068743
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0055688315284297
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0039218854708667
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.002259229302526
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0019419145286493
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0018006423493519051
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0003825956148648
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.570515258887145e-07
