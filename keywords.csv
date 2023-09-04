@@ -62,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1408071704608028
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1349811176561308
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
@@ -76,6 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.119813233762644
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.11473395000771118
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1112272315068743
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
