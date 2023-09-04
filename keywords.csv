@@ -113,11 +113,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0729552536033466
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0721096556282253
+'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.07182670692012554
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.070525121403114
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0658943696435543
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
-'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0633251846119124
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.058898384513952
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0586353633147728
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0055688315284297
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0039218854708667
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.002259229302526
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0018006423493519051
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0018006423493519
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0003825956148648
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.570515258887145e-07
