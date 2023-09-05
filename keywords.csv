@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3128639373420045
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3299789908316129
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2863223817241456
@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1147339500077111
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.11409917526164777
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1140991752616477
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1112272315068743
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
