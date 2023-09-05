@@ -46,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1583782305772716
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
-'Gaskrise',de,Other,#545557,#6b7c6e,3,0.1564156271340747
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.155699007489007
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1546071100069385
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
+'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1329533730639635
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1298777478985754
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1294720809230909
