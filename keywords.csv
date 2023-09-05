@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3128639373420045
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2895925287727735
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2863223817241456
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2827769783961168
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.251240212102612
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2506694501065637
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2499711814358614
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2469037244568575
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2447237547441722
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2387201693911361
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2323375175219203
@@ -113,7 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0729552536033466
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0721096556282253
-'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.07182670692012554
+'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0718267069201255
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.070525121403114
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0658943696435543
