@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2103879106660666
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1980779403839013
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1934803246364606
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.18875788913425748
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1887578891342574
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1855512750414192
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848634421939837
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
@@ -61,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1408071704608028
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1342342003078209
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1329533730639635
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
@@ -77,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1147339500077111
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.11409917526164777
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1112272315068743
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1085887535368518
