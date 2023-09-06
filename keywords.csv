@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3299789908316129
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.3062235495030485
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.3016140034412276
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2863223817241456
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
@@ -92,7 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.09600334694649029
+'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0960033469464902
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.0952315268375633
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.0948585561495426
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
