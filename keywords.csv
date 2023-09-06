@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3299789908316129
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.30622354950304853
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2902565058324635
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2863223817241456
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2799288117018077
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2499711814358614
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2469037244568575
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2447237547441722
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.24036055163669928
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2403605516366992
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2387201693911361
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2323375175219203
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
