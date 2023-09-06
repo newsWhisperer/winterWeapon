@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3299789908316129
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.30622354950304853
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.3062235495030485
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2863223817241456
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
@@ -119,7 +119,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0658943696435543
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.058898384513952
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0586353633147728
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
@@ -127,6 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0515838377025003
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0505815492301089
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0501265274465364
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.05006362683685919
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0491989355971981
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0407499140869273
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0397825320978111
