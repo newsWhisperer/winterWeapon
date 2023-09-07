@@ -33,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848634421939837
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1741406296780174
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1664935457497545
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1661047811336522
@@ -47,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1583782305772716
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.155699007489007
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1546071100069385
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
