@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2499711814358614
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2469037244568575
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2447237547441722
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2403605516366992
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2387201693911361
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2323375175219203
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2279474284375833
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2103879106660666
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2043065888911943
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1980779403839013
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1934803246364606
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1887578891342574
