@@ -103,13 +103,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0852324328707331
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0835059598413418
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
-'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0833407337700817
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0833143389053714
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0825948541266694
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.080388486084626
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0769989213587864
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0746743228810839
+'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.07413995370456945
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0729552536033466
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0721096556282253
@@ -120,7 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0586353633147728
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.056160229197021155
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0561602291970211
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0515838377025003
