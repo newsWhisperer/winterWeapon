@@ -116,11 +116,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0718267069201255
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.070525121403114
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0658943696435543
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0586353633147728
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.056160229197021155
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0515838377025003
