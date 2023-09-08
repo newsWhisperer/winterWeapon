@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3299789908316129
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.31725417902505276
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.3016140034412276
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2863223817241456
@@ -109,7 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0769989213587864
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0746743228810839
-'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.07413995370456945
+'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0741399537045694
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0729552536033466
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0721096556282253
