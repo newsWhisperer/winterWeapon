@@ -94,7 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0960033469464902
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.0952315268375633
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.0948585561495426
-'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.09230057550632402
+'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.092300575506324
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0055688315284297
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0039218854708667
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.002259229302526
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0018006423493519
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.001680560996949115
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0003825956148648
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.570515258887145e-07
