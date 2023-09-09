@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3246201021712948
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.3020226990374456
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.3016140034412276
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2863223817241456
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2799288117018077
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2759818925946353
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.2744676011732799
