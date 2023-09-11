@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.16649354574975447
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1664935457497544
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1661047811336522
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1647517334217815
@@ -130,11 +130,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0397825320978111
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0362164160801225
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0350438824701739
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0347534688827118
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0346374269738882
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864202
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.029787300099647814
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0226162966026627
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0209453154363448
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.017641991940962
