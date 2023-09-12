@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1980779403839013
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1934803246364606
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1887578891342574
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1855512750414192
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.1855512750414192
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848634421939837
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
