@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3717903627546914
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3437031010687604
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.3020226990374456
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.3016140034412276
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
@@ -104,7 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0833143389053714
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0825948541266694
-'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.08092980272711121
+'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.0809298027271112
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.080388486084626
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0769989213587864
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
