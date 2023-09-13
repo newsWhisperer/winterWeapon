@@ -51,10 +51,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1546071100069385
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.15040007994585192
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1487395347486628
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1450744398326911
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1443783790806814
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
