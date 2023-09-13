@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1583782305772716
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
-'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1546071100069385
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1504000799458519
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1380789534410618
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1329533730639635
+'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.13201610350589774
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1294720809230909
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1267677268266856
