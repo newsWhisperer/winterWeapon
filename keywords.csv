@@ -35,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1664935457497544
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1661047811336522
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1647517334217815
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1637122798806218
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.15093943896360437
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1504000799458519
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1487395347486628
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
