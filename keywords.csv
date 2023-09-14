@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3289198377266281
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.3020226990374456
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.3016140034412276
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2890814416130884
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2863223817241456
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1380789534410618
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1329533730639635
-'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.13201610350589774
+'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1294720809230909
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1267677268266856
