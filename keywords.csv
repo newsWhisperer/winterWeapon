@@ -73,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.1202114210151485
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1147339500077111
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1140991752616477
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1112272315068743
@@ -90,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.100274042223087
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.09767387250655443
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0960033469464902
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.0952315268375633
