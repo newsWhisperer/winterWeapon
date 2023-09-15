@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.3253462178181924
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3088082324181908
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.3016140034412276
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2890814416130884
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0347534688827118
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0346374269738882
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.030783953668104123
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0307839536681041
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864202
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0297873000996478
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0226162966026627
