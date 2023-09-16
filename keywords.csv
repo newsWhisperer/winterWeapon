@@ -19,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2447237547441722
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.234259466711814
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2342341358648861
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.22456069055751515
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.218419194853537
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.2136161056893236
@@ -26,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2126255192204821
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2103879106660666
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2043065888911943
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1980779403839013
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.1855512750414192
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0039218854708667
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0019203449071471
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0016805609969491
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00032520627263507996
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000325206272635
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.570515258887145e-07
