@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3088082324181908
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2890814416130884
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2863223817241456
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2840599156523161
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.2744676011732799
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2706182407883288
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.26431022400748877
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2624100285279202
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2622675664327127
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2619821822337059
@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1637122798806218
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1630602396744875
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1620618393172239
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.16164482076411876
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1616448207641187
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.159751747482677
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1595901960061332
