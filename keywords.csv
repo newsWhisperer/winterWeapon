@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.2744676011732799
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2706182407883288
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.26431022400748877
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2643102240074887
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2624100285279202
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2622675664327127
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2619821822337059
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0039218854708667
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0019203449071471
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0016805609969491
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0003825956148648
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00032520627263507996
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.570515258887145e-07
