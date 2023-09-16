@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3088082324181908
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.3016140034412276
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2890814416130884
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2863223817241456
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.28405991565231614
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.2744676011732799
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2706182407883288
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.218419194853537
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.2136161056893236
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.21262551922048217
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2126255192204821
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2103879106660666
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2043065888911943
