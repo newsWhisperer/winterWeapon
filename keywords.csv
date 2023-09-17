@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2447237547441722
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.234259466711814
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2342341358648861
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.22456069055751515
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2245606905575151
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.218419194853537
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.2136161056893236
@@ -70,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1258831497309357
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1221235190730236
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.1202114210151485
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
@@ -83,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1049970416907438
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1049466724479435
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.10247973786287623
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982474
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
