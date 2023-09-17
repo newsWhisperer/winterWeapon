@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3088082324181908
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2863223817241456
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.28565960073728036
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2840599156523161
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
@@ -74,7 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1140991752616477
-'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.11233723976257015
+'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1112272315068743
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
