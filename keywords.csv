@@ -68,12 +68,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1267677268266856
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1258831497309357
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.12232255542490253
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1221235190730236
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1140991752616477
+'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.11233723976257015
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1112272315068743
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
@@ -81,7 +82,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1049970416907438
-'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1049466724479435
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.1024797378628762
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982474
