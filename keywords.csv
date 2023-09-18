@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2911955233289379
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2933779557386881
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2863223817241456
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2856596007372803
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0113581676872997
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0061302334439828
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0048368633679045
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.004733506799165245
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0047335067991652
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0039218854708667
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0019203449071471
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0016805609969491
