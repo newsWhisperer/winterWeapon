@@ -80,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.10615871219118755
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1049970416907438
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.1024797378628762
@@ -97,7 +98,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.0869820822570121
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0835059598413418
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0741399537045694
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0729552536033466
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.07259758294012313
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0725975829401231
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0718267069201255
 'Russland Gas',de,Russland,#a6190f,#b01b10,2,0.070525121403114
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
