@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2840599156523161
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,3,0.2744676011732799
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2706182407883288
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2643102240074887
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2624100285279202
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2447237547441722
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.234259466711814
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2342341358648861
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.2332975209972879
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2245606905575151
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.218419194853537
