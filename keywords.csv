@@ -58,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1408071704608028
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.13997588007541004
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1394554678985285
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
@@ -65,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1294720809230909
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1267677268266856
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1258831497309357
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
