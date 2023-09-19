@@ -20,13 +20,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2342341358648861
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.2332975209972879
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2245606905575151
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.2233179143263161
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.218419194853537
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2126255192204821
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2103879106660666
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.1980779403839013
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.1855512750414192
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.181573719835925
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
