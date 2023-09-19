@@ -58,7 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1408071704608028
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.13997588007541004
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1394554678985285
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0307839536681041
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864202
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0297873000996478
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.02531920508470063
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0226162966026627
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0209453154363448
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.017641991940962
