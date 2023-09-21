@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0500636268368591
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0491989355971981
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.04879990704712525
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0487999070471252
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0397825320978111
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0347534688827118
@@ -134,8 +134,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0307839536681041
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864202
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0253192050847006
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0226162966026627
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.02152132432199551
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0209453154363448
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.017641991940962
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.015780996718892
