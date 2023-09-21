@@ -35,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1664935457497544
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1647517334217815
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1646098847721559
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1630602396744875
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1620618393172239
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1616448207641187
@@ -48,7 +49,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1509394389636043
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1504000799458519
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1487395347486628
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1450744398326911
@@ -98,7 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.08763109591991962
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0876310959199196
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0835059598413418
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
