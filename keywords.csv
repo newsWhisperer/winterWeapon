@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2506694501065637
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.234259466711814
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2342341358648861
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.2332975209972879
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.2296376918605362
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2245606905575151
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2233179143263161
@@ -26,8 +25,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2126255192204821
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.20801519153254638
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2080151915325463
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2019627872479747
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.1855512750414192
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.18000511121207
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
