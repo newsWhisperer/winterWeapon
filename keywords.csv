@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2019627872479747
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.1855512750414192
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.18000511121207005
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.18000511121207
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
@@ -86,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.1024797378628762
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982474
+'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.10114411163545822
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.100274042223087
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
@@ -93,7 +94,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0976738725065544
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0960033469464902
-'Nordstream',de,Sabotage,#a6190f,#8c2d0a,2,0.0952315268375633
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.092300575506324
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
