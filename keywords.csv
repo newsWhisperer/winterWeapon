@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2019627872479747
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.1855512750414192
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.18073172133740978
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1807317213374097
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.18000511121207
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
@@ -92,7 +92,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.100274042223087
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,3,0.0978454769172385
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0976738725065544
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0960033469464902
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.092300575506324
@@ -104,6 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0835059598413418
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0833143389053714
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.08317280663057125
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.0809298027271112
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.080388486084626
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
