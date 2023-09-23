@@ -106,7 +106,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.0825948541266694
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.0809298027271112
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.080388486084626
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0769989213587864
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0746743228810839
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0741399537045694
@@ -115,8 +114,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0725975829401231
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.06559909815496845
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
-'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.06285288088210667
+'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0612934172839915
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0586353633147728
