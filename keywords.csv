@@ -23,12 +23,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.218419194853537
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2126255192204821
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2110124164030322
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2080151915325463
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2019627872479747
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.1855512750414192
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.18073172133740978
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.18000511121207
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1329533730639635
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.12970937555312353
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1297093755531235
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1294720809230909
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1258831497309357
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
