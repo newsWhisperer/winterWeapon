@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.307847008363877
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.30021909711211114
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2856596007372803
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2840599156523161
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.272505780559703
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2706182407883288
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2643102240074887
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2624100285279202
