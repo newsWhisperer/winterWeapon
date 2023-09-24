@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3028714740109783
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.307847008363877
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2856596007372803
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,2,0.2840599156523161
@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0655990981549684
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.06486583613687508
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.064865836136875
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0612934172839915
