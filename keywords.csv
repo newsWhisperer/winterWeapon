@@ -98,7 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Blackout',de,Other,#545557,#6b6c6e,3,0.0887853199140908
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0876310959199196
-'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.08597274989013946
+'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0859727498901394
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0835059598413418
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
@@ -106,7 +106,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0831728066305712
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.0809298027271112
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.080388486084626
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0746743228810839
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0741399537045694
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0729552536033466
@@ -115,6 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0655990981549684
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.06486583613687508
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0612934172839915
