@@ -103,7 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0835059598413418
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0833143389053714
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.08317280663057125
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0831728066305712
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.0809298027271112
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.080388486084626
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0761362601610295
@@ -134,11 +134,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0307839536681041
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864202
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0294418129278049
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.027455941301967293
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0226162966026627
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0215213243219955
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.017803518120893
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.017641991940962
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.015780996718892
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0136640675158859
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0113581676872997
