@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2506694501065637
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.234259466711814
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2342341358648861
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.2296376918605362
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.2296376918605362
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2245606905575151
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2233179143263161
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
