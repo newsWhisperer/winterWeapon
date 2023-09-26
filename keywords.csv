@@ -58,7 +58,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1408071704608028
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1400670622998427
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1394554678985285
@@ -72,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1192070179548663
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1140991752616477
@@ -83,7 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1049970416907438
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.10427729945341846
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1042772994534184
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.1024797378628762
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982474
