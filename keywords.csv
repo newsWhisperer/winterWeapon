@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.14151951388729123
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1415195138872912
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1408071704608028
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.13997588007541
@@ -124,9 +124,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0559092484317231
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0500636268368591
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0491989355971981
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0487999070471252
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.04270409781133024
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0397825320978111
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0347534688827118
