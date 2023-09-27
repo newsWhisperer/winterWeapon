@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2506694501065637
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.234259466711814
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2342341358648861
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.23147085909150356
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2314708590915035
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.2296376918605362
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2245606905575151
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2233179143263161
@@ -109,13 +109,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0741399537045694
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0729552536033466
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0725975829401231
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0709969156359855
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.064865836136875
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.06170794549910463
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0612934172839915
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0586353633147728
