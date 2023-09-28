@@ -19,11 +19,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2314708590915035
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.2296376918605362
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2245606905575151
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.2233179143263161
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.2110124164030322
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2080151915325463
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.2038627712682778
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2019627872479747
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1856563156255064
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0491989355971981
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0487999070471252
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.04270409781133024
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0427040978113302
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0397825320978111
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0347534688827118
