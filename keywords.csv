@@ -31,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1807317213374097
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.18000511121207
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.17870360857360912
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
@@ -48,7 +49,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1509394389636043
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1487395347486628
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1450744398326911
@@ -75,7 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1140991752616477
-'Gaskrise',de,Other,#545557,#6b7c6e,1,0.11301060710436896
+'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1130106071043689
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1112272315068743
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
