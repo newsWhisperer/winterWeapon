@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.2110124164030322
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.2080151915325463
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2038627712682778
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2019627872479747
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.18000511121207
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1787036085736091
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.17681291280266434
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0491989355971981
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0487999070471252
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.04767287616696464
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0476728761669646
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0427040978113302
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0397825320978111
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
