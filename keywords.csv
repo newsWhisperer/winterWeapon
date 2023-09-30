@@ -18,11 +18,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2342341358648861
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2314708590915035
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.2296376918605362
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.22823508057803613
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2245606905575151
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.2110124164030322
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.2038627712682778
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2019627872479747
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1856563156255064
@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1620618393172239
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1616448207641187
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.15980445753420475
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1598044575342047
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.159751747482677
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1595901960061332
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
