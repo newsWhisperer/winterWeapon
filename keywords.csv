@@ -21,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2279462640874804
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2245606905575151
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
+'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.21894034731804451
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2019627872479747
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
@@ -104,7 +105,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0833143389053714
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.0831688503796527
-'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.0809298027271112
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.080388486084626
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0746743228810839
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0741399537045694
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0491989355971981
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0476728761669646
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.04643446599005642
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0464344659900564
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0427040978113302
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0397825320978111
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
