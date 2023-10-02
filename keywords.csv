@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3159796338085064
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.307847008363877
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.3006114241950785
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3002190971121111
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2995490604851532
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.28798129742843326
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2856596007372803
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2879812974284332
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.282776279668105
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
