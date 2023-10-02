@@ -12,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2624100285279202
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,1,0.2619821822337059
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2595361800222086
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.25147598026163637
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.251240212102612
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2506694501065637
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.234259466711814
@@ -73,7 +74,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1192070179548663
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1140991752616477
