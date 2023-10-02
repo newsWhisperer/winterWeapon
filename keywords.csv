@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2624100285279202
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,1,0.2619821822337059
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2595361800222086
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.25147598026163637
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2514759802616363
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.251240212102612
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2506694501065637
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.234259466711814
@@ -134,8 +134,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0307839536681041
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0294418129278049
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0274559413019672
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.025025540988634163
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0215213243219955
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0192238521122632
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.017803518120893
