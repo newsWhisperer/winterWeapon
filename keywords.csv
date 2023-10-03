@@ -120,10 +120,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0586353633147728
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0561602291970211
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0538995846913927
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.05223664481746794
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0476728761669646
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0444238260915479
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0427040978113302
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0215213243219955
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0192238521122632
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.017803518120893
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.014995693149817699
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0149956931498176
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0136640675158859
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0061302334439828
