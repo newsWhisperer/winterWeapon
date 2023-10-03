@@ -50,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1583782305772716
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
+'russisches Gas',de,Russland,#a6190f,#b32319,2,0.15591394469371817
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1487395347486628
@@ -69,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1297093755531235
-'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1294720809230909
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1258831497309357
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
