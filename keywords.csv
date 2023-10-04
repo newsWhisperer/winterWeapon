@@ -12,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2624100285279202
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,1,0.2619821822337059
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2595361800222086
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.25170843522777797
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2514759802616363
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.251240212102612
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2506694501065637
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.234259466711814
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2314708590915035
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2304755496700795
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.2296376918605362
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2282350805780361
@@ -120,7 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
-'Gas Putin',de,Russland,#a6190f,#a31223,2,0.054794333817556884
+'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0547943338175568
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0538995846913927
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0522366448174679
