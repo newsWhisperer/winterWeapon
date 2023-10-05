@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1049970416907438
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1042772994534184
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982474
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.10184153369824739
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.100274042223087
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0192238521122632
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.017803518120893
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.01274633917734496
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0127463391773449
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.011614457388503
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0061302334439828
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0048368633679045
