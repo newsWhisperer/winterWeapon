@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1049970416907438
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1042772994534184
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.10184153369824739
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982473
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.100274042223087
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0347534688827118
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0309218356678911
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0307839536681041
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.030783953668104096
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0274559413019672
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0250255409886341
