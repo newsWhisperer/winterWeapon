@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2019627872479747
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.19255441550078475
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1925544155007847
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1862493102203378
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.185397476512479
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1807317213374097
@@ -119,12 +119,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0617079454991046
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054907223630988
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0547943338175568
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0538995846913927
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0522366448174679
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0476728761669646
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.04682115508633981
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0444238260915479
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0427040978113302
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
