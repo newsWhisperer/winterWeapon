@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.3006114241950785
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3002190971121111
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2995490604851532
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.29325356404272906
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2879812974284332
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.282776279668105
@@ -70,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1297093755531235
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1266387245280413
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1258831497309357
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
@@ -85,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1076482871080557
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1049970416907438
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1042772994534184
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982473
