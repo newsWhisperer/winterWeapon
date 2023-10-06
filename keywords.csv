@@ -4,11 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.3006114241950785
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3002190971121111
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2995490604851532
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.29325356404272906
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2879812974284332
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2852058359216374
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.282776279668105
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2643102240074887
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2624100285279202
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,1,0.2619821822337059
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2595361800222086
@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0538995846913927
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0522366448174679
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0476728761669646
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.04682115508633981
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0468211550863398
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0444238260915479
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0427040978113302
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
