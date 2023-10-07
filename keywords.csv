@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2279462640874804
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.21256909163586982
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2019627872479747
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.159751747482677
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1595901960061332
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1583782305772716
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1578078682816804
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
