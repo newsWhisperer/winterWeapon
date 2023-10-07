@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2279462640874804
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.21256909163586982
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.2125690916358698
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2019627872479747
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
@@ -87,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1042772994534184
-'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.1021521384182696
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982473
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.100274042223087
@@ -98,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0876310959199196
+'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.08727936265552916
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0871077771834447
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0859727498901394
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
