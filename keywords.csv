@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2019627872479747
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.19895116849133068
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1925544155007847
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1862493102203378
@@ -42,7 +42,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1620618393172239
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1616448207641187
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1598044575342047
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.159751747482677
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1595901960061332
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1586955163630554
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1394554678985285
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.135983803904074
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1349638164724317
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
