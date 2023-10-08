@@ -113,12 +113,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0709969156359855
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.064865836136875
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0617079454991046
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.055135960716343746
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0547943338175568
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0538995846913927
