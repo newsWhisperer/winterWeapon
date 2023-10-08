@@ -97,7 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0876310959199196
-'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.08727936265552916
+'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0872793626555291
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0871077771834447
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0859727498901394
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0547943338175568
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0538995846913927
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0522366448174679
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.049051613094847714
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0476728761669646
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0468211550863398
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0444238260915479
