@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.3159796338085064
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.31902308419177594
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.307847008363877
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.3006114241950785
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3002190971121111
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.15407200813679825
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1540720081367982
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1487395347486628
