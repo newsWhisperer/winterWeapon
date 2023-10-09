@@ -63,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1394554678985285
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1349638164724317
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.11883717771374923
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1157362483184629
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
