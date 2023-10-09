@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1925544155007847
-'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1862493102203378
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.185397476512479
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.18000511121207
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1791417044364266
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.159751747482677
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1595901960061332
+'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.15846192868728715
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1583782305772716
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1578078682816804
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
@@ -73,7 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.11883717771374923
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1188371777137492
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1157362483184629
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
