@@ -43,7 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.159751747482677
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1595901960061332
-'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.15846192868728715
+'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1584619286872871
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1583782305772716
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1578078682816804
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
@@ -54,7 +54,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1487395347486628
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1450744398326911
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1266387245280413
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1258831497309357
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.12346328885778744
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1188371777137492
