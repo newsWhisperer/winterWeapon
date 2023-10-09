@@ -59,9 +59,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1415195138872912
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1408071704608028
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1406571762643777
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.13605874982472105
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1349638164724317
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1266387245280413
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1258831497309357
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.12346328885778744
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1234632888577874
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1188371777137492
