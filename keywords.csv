@@ -24,8 +24,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1962421430814557
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1937548344743583
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1925544155007847
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.18717078073177595
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1856344328904893
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.185397476512479
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.18000511121207
@@ -127,7 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0444238260915479
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0427040978113302
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.039797981823388826
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0397979818233888
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0397825320978111
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0347534688827118
