@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3166212921092954
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.3006114241950785
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2995490604851532
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.29229488238399853
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2828663552725671
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2816829990815256
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.280699576108464
