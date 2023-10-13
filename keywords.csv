@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2816829990815256
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.280699576108464
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.27305435983267473
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2730543598326747
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2688641783397466
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2677114703414055
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2624100285279202
@@ -57,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1415195138872912
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1408071704608028
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
@@ -72,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1234632888577874
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.12029158680419752
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1188371777137492
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
