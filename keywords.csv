@@ -3,11 +3,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.3006114241950785
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2995490604851532
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2837434418970281
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2828663552725671
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2816829990815256
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.280699576108464
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2783887005073413
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2688641783397466
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2677114703414055
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2624100285279202
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,1,0.2619821822337059
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1962421430814557
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1925544155007847
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.18717078073177595
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1871707807317759
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1856344328904893
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.185397476512479
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.18000511121207
