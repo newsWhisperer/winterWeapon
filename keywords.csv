@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2624100285279202
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,1,0.2619821822337059
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2595361800222086
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2517084352277779
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.2514759802616363
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2506694501065637
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2447843278141682
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.24163716767088395
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2304755496700795
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1234632888577874
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.12029158680419752
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1202915868041975
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1188371777137492
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
