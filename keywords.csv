@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.3166212921092954
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.30085083186432965
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2995490604851532
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2922948823839985
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2416371676708839
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2304755496700795
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.21375473322239086
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.2137547332223908
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2019627872479747
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
