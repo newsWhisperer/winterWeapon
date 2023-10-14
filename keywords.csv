@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.30085083186432965
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2995490604851532
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2922948823839985
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2624100285279202
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,1,0.2619821822337059
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2595361800222086
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.25842446708468014
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2506694501065637
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2447843278141682
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2416371676708839
