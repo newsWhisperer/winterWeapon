@@ -15,11 +15,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2584244670846801
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2506694501065637
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2447843278141682
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2416371676708839
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2304755496700795
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.2137547332223908
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2103490775202513
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2019627872479747
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
