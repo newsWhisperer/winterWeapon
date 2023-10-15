@@ -72,7 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1234632888577874
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.12224341678084315
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1202915868041975
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1188371777137492
@@ -108,13 +108,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0746743228810839
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0741399537045694
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.074041610605928
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0729552536033466
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0709969156359855
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.062462010562844617
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0617079454991046
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
