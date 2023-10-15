@@ -65,13 +65,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.13141125191627848
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1314112519162784
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1297093755531235
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1266387245280413
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1258831497309357
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1234632888577874
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.12224341678084315
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1202915868041975
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1188371777137492
@@ -81,7 +82,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1140991752616477
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1130106071043689
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1112272315068743
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
