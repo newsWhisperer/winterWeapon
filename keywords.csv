@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2677114703414055
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,1,0.2619821822337059
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2595361800222086
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2584244670846801
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2506694501065637
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2447843278141682
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2382483606583417
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2304755496700795
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.2137547332223908
@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.062462010562844617
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0624620105628446
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0617079454991046
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
