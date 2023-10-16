@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0397979818233888
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0397825320978111
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
-'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.03603393531770743
+'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0360339353177074
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0347534688827118
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.030783953668104
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
@@ -140,8 +140,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0192238521122632
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.017803518120893
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0127463391773449
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.011614457388503
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.010834388300743165
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0061302334439828
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0048368633679045
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0041734957792904
