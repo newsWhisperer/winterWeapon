@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1962421430814557
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.19590423221956757
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1959042322195675
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1925544155007847
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1856344328904893
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.185397476512479
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.011614457388503
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0108343883007431
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0048368633679045
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.004836863367904499
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0041734957792904
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0031110900027011
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0014284768474067
