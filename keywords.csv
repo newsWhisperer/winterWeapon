@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2995490604851532
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2961829524305504
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2922948823839985
+'Energieversorgung',de,Other,#545557,#6b6c7e,1,0.2922948823839985
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2828663552725671
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2816829990815256
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.280699576108464
