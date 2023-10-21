@@ -15,11 +15,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2447843278141682
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2382483606583417
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2322276418038276
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.23116431870623305
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2209067730188773
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2103490775202513
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2019627872479747
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1962421430814557
@@ -120,7 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0547943338175568
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0538995846913927
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.053542753978417915
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0535427539784179
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0490516130948477
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0476728761669646
