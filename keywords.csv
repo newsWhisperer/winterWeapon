@@ -78,12 +78,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1188371777137492
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.1157362483184629
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1145917423100519
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1140991752616477
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1130106071043689
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.10690362550899865
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1058916736515246
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1042772994534184
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0274559413019672
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0250255409886341
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0192238521122632
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.018293125673696176
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0182931256736961
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.017803518120893
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.011614457388503
