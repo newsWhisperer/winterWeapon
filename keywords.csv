@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2447843278141682
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2382483606583417
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2322276418038276
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.23116431870623305
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.231164318706233
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2209067730188773
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2134776063041635
@@ -35,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1722890004454542
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1666686123866323
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.16554626580077328
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1647517334217815
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1646098847721559
@@ -57,7 +58,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1408071704608028
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.136058749824721
