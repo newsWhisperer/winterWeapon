@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.15300440453025949
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1530044045302594
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
@@ -72,8 +72,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.12043056079945737
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1202915868041975
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1198159966624632
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1188371777137492
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.1157362483184629
