@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2506694501065637
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2447843278141682
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2382483606583417
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2322276418038276
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.23222764180382757
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.231164318706233
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2210580292683757
