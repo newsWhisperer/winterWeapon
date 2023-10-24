@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2816829990815256
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.280699576108464
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2730543598326747
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.27019947370052305
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.270199473700523
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2688641783397466
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2677114703414055
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.2639996462622863
@@ -137,8 +137,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0274559413019672
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0250255409886341
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0192238521122632
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0182931256736961
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.017803518120893
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.015549156822641684
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.011614457388503
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0108343883007431
