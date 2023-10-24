@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.3161168514123801
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2961829524305504
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
 'Energieversorgung',de,Other,#545557,#6b6c7e,1,0.2922948823839985
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2816829990815256
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.280699576108464
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2730543598326747
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.27019947370052305
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2688641783397466
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2677114703414055
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.2639996462622863
@@ -120,7 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0538995846913927
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0535427539784179
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.052751783674238904
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0527517836742389
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0490516130948477
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0476728761669646
