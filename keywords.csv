@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2447843278141682
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2382483606583417
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.231164318706233
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.23021439693557022
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2296167928059806
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2209067730188773
@@ -27,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1856344328904893
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.185397476512479
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1831916732390321
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.1822516140418473
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1787036085736091
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1768129128026643
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
