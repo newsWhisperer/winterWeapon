@@ -14,12 +14,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2506694501065637
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2447843278141682
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2382483606583417
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2322276418038275
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.231164318706233
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.22961679280598063
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2209067730188773
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2103490775202513
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.20648871851448297
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2064887185144829
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1962421430814557
