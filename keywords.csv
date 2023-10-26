@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1962421430814557
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1925544155007847
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.19135065590293973
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.185397476512479
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1831916732390321
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1787036085736091
@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1595901960061332
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1584619286872871
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1578078682816804
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.15778995795691592
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
