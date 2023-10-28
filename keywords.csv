@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.298121114237649
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2961829524305504
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.294748383465638
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
 'Energieversorgung',de,Other,#545557,#6b6c7e,1,0.2922948823839985
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2915850604312401
@@ -43,7 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.159751747482677
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1595901960061332
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.15860876616868602
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.158608766168686
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1584619286872871
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1578078682816804
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
