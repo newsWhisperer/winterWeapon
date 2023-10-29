@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.324889427747786
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.31747152494925446
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.294748383465638
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
 'Energieversorgung',de,Other,#545557,#6b6c7e,1,0.2922948823839985
@@ -92,7 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.100274042223087
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.09716478198768379
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0971647819876837
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0960033469464902
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.092300575506324
