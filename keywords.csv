@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.2639996462622863
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2564697326454445
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2506694501065637
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2447843278141682
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2506259345511339
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2382483606583417
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.231164318706233
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,3,0.2302143969355702
@@ -127,7 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0444238260915479
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.040521944741919905
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0405219447419199
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0397979818233888
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0360339353177074
