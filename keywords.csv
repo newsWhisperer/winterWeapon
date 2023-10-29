@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.31747152494925446
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.3174715249492544
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.294748383465638
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
 'Energieversorgung',de,Other,#545557,#6b6c7e,1,0.2922948823839985
@@ -124,10 +124,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0527517836742389
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0490516130948477
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0476728761669646
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0444238260915479
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.040521944741919905
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0397979818233888
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0360339353177074
