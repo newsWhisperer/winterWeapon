@@ -70,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1314112519162784
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1297093755531235
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1266387245280413
-'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1258831497309357
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1258330571867993
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
@@ -84,6 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
+'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.10775075227129534
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1069036255089986
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1050938105291192
@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0490516130948477
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.04271505217781572
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0427150521778157
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0405219447419199
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0397979818233888
