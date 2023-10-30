@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2296167928059806
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2209067730188773
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.21305431297204422
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2130543129720442
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2103490775202513
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2064887185144829
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
@@ -130,8 +130,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0405219447419199
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0397979818233888
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
-'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0360339353177074
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0339651672831394
+'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.030629130020051288
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0274559413019672
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0263163756178884
