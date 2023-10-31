@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2130543129720442
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2103490775202513
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2064887185144829
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.2056538038507205
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1962421430814557
@@ -52,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1530702193138447
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1530044045302594
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0192238521122632
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.017803518120893
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.01321678329924536
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0132167832992453
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.011614457388503
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0108343883007431
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
