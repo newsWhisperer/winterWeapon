@@ -23,8 +23,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2103490775202513
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.2056538038507205
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1983028928476947
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1962421430814557
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1953576389205405
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.194104039373674
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.185397476512479
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1831916732390321
@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0405219447419199
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0339651672831394
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.033828284549880475
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0338282845498804
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0306291300200512
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0274559413019672
