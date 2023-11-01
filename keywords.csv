@@ -22,11 +22,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2130543129720442
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2103490775202513
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.2056538038507205
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.20344912094469805
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1962421430814557
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1953576389205405
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.194104039373674
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.185397476512479
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1831916732390321
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1787036085736091
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1768129128026643
