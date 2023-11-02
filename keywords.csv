@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2130543129720442
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2103490775202513
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.2056538038507205
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.20344912094469805
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.203449120944698
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1962421430814557
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1953576389205405
@@ -111,11 +111,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0741399537045694
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.074041610605928
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0709969156359855
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.061247468290587664
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0547943338175568
