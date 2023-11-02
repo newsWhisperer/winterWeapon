@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.294748383465638
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.29438860421929675
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
 'Energieversorgung',de,Other,#545557,#6b6c7e,1,0.2922948823839985
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2915850604312401
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2828663552725671
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2825077797901947
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2825055513123189
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2816829990815256
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2688641783397466
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.2639996462622863
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2564697326454445
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0041734957792904
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0041113338627187
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.002644426502295935
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0026444265022959
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0014284768474067
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0011793318161016
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0002764253317397
