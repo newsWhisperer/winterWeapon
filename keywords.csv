@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1722890004454542
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1666686123866323
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,2,0.16649028929542373
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1655462658007732
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1646098847721559
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1418066909329002
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1415645333845246
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.14151676090111012
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.136058749824721
