@@ -37,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1655462658007732
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1646098847721559
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.16347736665662166
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1631727415903324
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1630602396744875
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1620618393172239
@@ -70,7 +71,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1314112519162784
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1297093755531235
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1266387245280413
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1223225554249025
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1204305607994573
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1202915868041975
