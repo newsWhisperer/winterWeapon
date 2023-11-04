@@ -24,9 +24,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.2056538038507205
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.203449120944698
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.19824682037863608
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.198246820378636
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1953576389205405
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.194104039373674
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.18900628917785983
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1831916732390321
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1787036085736091
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1768129128026643
@@ -39,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1646098847721559
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1634773666566216
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1631727415903324
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1630602396744875
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1620618393172239
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1616448207641187
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
