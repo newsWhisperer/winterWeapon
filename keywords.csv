@@ -73,7 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1297093755531235
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1266387245280413
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,2,0.12043907612310306
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,2,0.120439076123103
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1204305607994573
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1202915868041975
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1188371777137492
@@ -117,12 +117,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612474682905876
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0547943338175568
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0535427539784179
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.05311045304699946
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0490516130948477
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
