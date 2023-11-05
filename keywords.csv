@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2915850604312401
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.287006760404584
+'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.285142684384194
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2828663552725671
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2825077797901947
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2825055513123189
@@ -46,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.159751747482677
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1595901960061332
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.158608766168686
-'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1584619286872871
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1578078682816804
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
