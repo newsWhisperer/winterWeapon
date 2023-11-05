@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0490516130948477
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.04619399008994949
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0461939900899494
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0427150521778157
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0405219447419199
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0306291300200512
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0274559413019672
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0263163756178884
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.022518934275205137
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0212717098403389
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.017803518120893
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
