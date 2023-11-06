@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2775704725905791
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2688641783397466
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.2639996462622863
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.26053165999120714
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2600636954912468
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2564697326454445
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2518536428821881
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2506259345511339
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2382483606583417
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.231164318706233
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2296167928059806
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2209067730188773
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.203449120944698
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.198246820378636
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.19568268739523467
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1956826873952346
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1953576389205405
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.194104039373674
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1890062891778598
