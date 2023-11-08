@@ -111,11 +111,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.080388486084626
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0803133176150202
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0741399537045694
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.074041610605928
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0629353690150388
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
