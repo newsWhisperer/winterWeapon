@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.304443629613348
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2915850604312401
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2908431074362275
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.287006760404584
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.285142684384194
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,2,0.2828663552725671
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2825077797901947
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2825055513123189
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2775704725905791
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0108343883007431
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0041113338627187
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0035474714123968397
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0035474714123968
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0026444265022959
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0014284768474067
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0011793318161016
