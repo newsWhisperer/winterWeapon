@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2209067730188773
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2130543129720442
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.21034907752025128
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.203449120944698
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1989511684913306
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.198246820378636
@@ -125,10 +125,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0490516130948477
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0461939900899494
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0427150521778157
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0405219447419199
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.03986495157645699
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0339651672831394
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0338282845498804
