@@ -63,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.1415167609011101
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.13846164708793812
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.136058749824721
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1349638164724317
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1346221109906808
@@ -82,7 +83,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1140991752616477
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1130106071043689
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1089424190339379
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1077507522712953
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1069581886087794
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0427150521778157
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0405219447419199
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.03986495157645699
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0398649515764569
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0339651672831394
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0338282845498804
