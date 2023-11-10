@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.304443629613348
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2915850604312401
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.28853266268442973
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2885326626844297
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.287006760404584
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.285142684384194
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2825077797901947
@@ -30,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.194104039373674
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1890062891778598
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1831916732390321
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1800125217154189
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1787036085736091
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1768129128026643
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1763633844763802
@@ -42,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1646098847721559
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1634773666566216
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1631727415903324
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1620618393172239
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1616448207641187
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
