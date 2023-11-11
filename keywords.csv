@@ -28,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1956826873952346
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1953576389205405
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.194104039373674
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1890062891778598
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1831916732390321
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1800125217154189
@@ -43,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1646098847721559
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1634773666566216
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1620618393172239
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1616448207641187
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.159751747482677
