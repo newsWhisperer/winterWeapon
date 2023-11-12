@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.291006502444073
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.29053933407001653
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2891651077301904
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2885326626844297
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.287006760404584
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2825077797901947
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2825055513123189
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2775704725905791
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.276403020992526
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2706995427486278
@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1763633844763802
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1755558082731124
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.17341243226984304
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.173412432269843
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1666686123866323
