@@ -78,12 +78,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1204305607994573
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1202915868041975
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1188371777137492
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1185024671630328
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.1157362483184629
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1140991752616477
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1130106071043689
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.11184957912883664
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1118495791288366
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1077507522712953
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1069036255089986
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1050938105291192
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1042772994534184
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982473
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.10102712708857788
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.100274042223087
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
