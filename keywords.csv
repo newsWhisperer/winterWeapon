@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.293253564042729
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.291006502444073
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.29053933407001653
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2905393340700165
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2891651077301904
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2885326626844297
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.287006760404584
@@ -71,7 +71,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1314112519162784
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1297093755531235
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1266387245280413
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
@@ -84,6 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1140991752616477
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1130106071043689
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.11184957912883664
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1077507522712953
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1069036255089986
