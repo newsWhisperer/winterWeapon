@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.203449120944698
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.198246820378636
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1956826873952346
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1953576389205405
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.194104039373674
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1890062891778598
@@ -39,7 +38,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.173412432269843
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1729990113187181
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.16687860323494982
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1681542030824594
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1668786032349498
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1666686123866323
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1655462658007732
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
