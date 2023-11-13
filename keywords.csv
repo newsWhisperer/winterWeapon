@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.194104039373674
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1890062891778598
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1800125217154189
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.18068968618537878
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1792730868936376
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1787036085736091
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1768129128026643
@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.158608766168686
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1578078682816804
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.15676302725317728
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1567630272531772
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
