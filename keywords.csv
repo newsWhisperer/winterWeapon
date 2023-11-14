@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3087644339817742
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.291006502444073
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2905393340700165
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2891651077301904
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2885326626844297
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.287006760404584
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2825077797901947
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.28103961252087173
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2775704725905791
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.276403020992526
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2706995427486278
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0026444265022959
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0014284768474067
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0011793318161016
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000234961531978745
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0002349615319787
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.0349379700540734e-07
