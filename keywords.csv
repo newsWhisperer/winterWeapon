@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.194104039373674
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1890062891778598
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1806896861853787
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1792730868936376
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1787036085736091
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1768129128026643
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.173412432269843
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1681542030824594
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.16762891234848099
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1668786032349498
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1666686123866323
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1655462658007732
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0274559413019672
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0225189342752051
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0212717098403389
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.01513299040275905
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.015132990402759
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.011614457388503
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0112342658043585
