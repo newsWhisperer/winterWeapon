@@ -37,7 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.173412432269843
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1681542030824594
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.16762891234848099
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1668786032349498
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1666686123866323
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1655462658007732
@@ -56,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1531479387835679
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
@@ -76,7 +77,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,2,0.120439076123103
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1204305607994573
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1202915868041975
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1188371777137492
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.1157362483184629
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1140991752616477
