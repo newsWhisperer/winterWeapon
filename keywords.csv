@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.276403020992526
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2750388898047348
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2706995427486278
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2698514429524209
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.2639996462622863
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2578537929857416
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2518536428821881
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2506259345511339
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2479636151459214
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2428213267265649
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2382483606583417
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2296167928059806
