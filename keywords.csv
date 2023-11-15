@@ -5,11 +5,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2885326626844297
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.287006760404584
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2825077797901947
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.28103961252087173
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2810396125208717
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2775704725905791
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.276403020992526
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2706995427486278
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2688641783397466
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2698514429524209
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.2639996462622863
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2578537929857416
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2518536428821881
