@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.291006502444073
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2905393340700165
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2891651077301904
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2885326626844297
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2810396125208717
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2775704725905791
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.276403020992526
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2750388898047348
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2706995427486278
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2698514429524209
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.2639996462622863
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.136058749824721
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1349638164724317
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1346221109906808
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.13413668803942833
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1341366880394283
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
