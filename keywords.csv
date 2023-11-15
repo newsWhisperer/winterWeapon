@@ -120,11 +120,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0574472316837827
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0547943338175568
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.0542787111535302
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0535427539784179
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0490516130948477
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.046137189480500676
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0427150521778157
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0405219447419199
