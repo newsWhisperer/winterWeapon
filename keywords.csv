@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.173412432269843
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.17118523893085563
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1711852389308556
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1681542030824594
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1668786032349498
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0306291300200512
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0287540418673983
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0274559413019672
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.023337565106672117
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0225189342752051
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0212717098403389
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.015132990402759
