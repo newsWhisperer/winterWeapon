@@ -87,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1077507522712953
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1069036255089986
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1050938105291192
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1042772994534184
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982473
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
@@ -99,6 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0960033469464902
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.092300575506324
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.08947975394975133
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0876310959199196
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0872793626555291
