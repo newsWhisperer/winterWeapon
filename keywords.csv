@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2891651077301904
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2885326626844297
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.287006760404584
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2825077797901947
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2810396125208717
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2775704725905791
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.276403020992526
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2706995427486278
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.2639996462622863
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2578537929857416
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2541743069125746
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2518536428821881
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2506259345511339
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2479636151459214
@@ -98,7 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0960033469464902
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.092300575506324
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.08947975394975133
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0894797539497513
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0876310959199196
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0872793626555291
