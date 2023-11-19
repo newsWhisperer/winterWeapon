@@ -78,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,2,0.120439076123103
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1204305607994573
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1188371777137492
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.1157362483184629
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1130106071043689
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
@@ -93,6 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.100274042223087
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.09852582607069346
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0971647819876837
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0969123101587539
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0960033469464902
