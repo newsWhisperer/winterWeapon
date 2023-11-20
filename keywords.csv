@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2104232695812673
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2086542534964757
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.20561927055232096
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2056192705523209
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.198246820378636
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1960651759848115
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1951391001171466
