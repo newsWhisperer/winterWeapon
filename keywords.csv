@@ -50,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1595901960061332
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.158608766168686
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1567630272531772
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.136058749824721
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1349638164724317
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1346221109906808
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1341486631652006
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1341366880394283
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
@@ -86,7 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1069036255089986
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1042772994534184
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.10206170605668681
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1020617060566868
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982473
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
