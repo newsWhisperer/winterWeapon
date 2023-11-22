@@ -77,7 +77,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,2,0.120439076123103
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1204305607994573
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1188371777137492
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1130106071043689
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
@@ -87,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1069036255089986
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1042772994534184
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.10206170605668681
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982473
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
