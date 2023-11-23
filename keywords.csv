@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2706995427486278
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.2639996462622863
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2578537929857416
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.25746187155959044
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2541743069125746
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2518536428821881
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2506259345511339
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2479636151459214
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2382483606583417
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2209067730188773
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2104232695812673
@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1118495791288366
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1077507522712953
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.10764305084883512
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1076430508488351
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1069036255089986
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1042772994534184
