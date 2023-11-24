@@ -54,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1544620818429292
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1531479387835679
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
@@ -63,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.1415167609011101
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1384616470879381
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.136058749824721
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1349638164724317
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1346221109906808
