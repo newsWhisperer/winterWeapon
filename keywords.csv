@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2518536428821881
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2506259345511339
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.23593572670199223
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2359357267019922
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2339046260558513
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2209067730188773
@@ -112,6 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0803133176150202
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0741399537045694
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.06856867717332168
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
@@ -128,7 +129,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0461371894805006
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0405219447419199
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0398649515764569
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0339651672831394
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0306291300200512
