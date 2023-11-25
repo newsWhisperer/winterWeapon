@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2541743069125746
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2518536428821881
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2506259345511339
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.24898520193455617
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2339046260558513
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2209067730188773
@@ -135,8 +135,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0233375651066721
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0225189342752051
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0212717098403389
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.019141094133924334
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.015132990402759
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.011614457388503
