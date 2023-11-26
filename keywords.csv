@@ -14,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2506259345511339
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2359357267019922
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2342734095149273
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2339046260558513
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2209067730188773
@@ -22,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.2101174812433831
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2086542534964757
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.2063981877175801
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2056192705523209
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1951391001171466
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.194104039373674
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
