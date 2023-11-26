@@ -30,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1792730868936376
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1787036085736091
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1780070368672951
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.17782269853341126
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1763633844763802
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1755558082731124
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1752818183768459
@@ -60,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.143090681162302
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.1415167609011101
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0128630418423451
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0112342658043585
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0108343883007431
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.01017231878022755
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0101723187802275
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0041113338627187
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0026444265022959
