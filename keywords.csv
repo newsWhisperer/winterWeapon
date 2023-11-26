@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1792730868936376
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1787036085736091
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1780070368672951
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.17782269853341126
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1763633844763802
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1755558082731124
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1752818183768459
@@ -99,9 +99,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0905420371613043
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0894797539497513
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
+'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0881271424958688
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.0876310959199196
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0872793626555291
-'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0870019558774927
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0859727498901394
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0838969671600894
