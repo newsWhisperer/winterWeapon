@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.3158132148123352
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.31884957304503037
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2885326626844297
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.287006760404584
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.2810396125208717
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0490516130948477
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0488301469312152
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.04613718948050059
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0461371894805005
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0344436530306319
