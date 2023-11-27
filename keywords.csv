@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.14546899912339983
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1454689991233998
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.1415167609011101
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
@@ -128,8 +128,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0461371894805006
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0405219447419199
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.03444365303063191
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0339651672831394
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0306291300200512
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
