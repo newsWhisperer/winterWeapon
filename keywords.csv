@@ -61,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.14546899912339983
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.1415167609011101
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
@@ -69,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1346221109906808
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1341486631652006
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1341366880394283
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1332296374713795
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1297093755531235
@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0503547034420524
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0490516130948477
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.04883014693121529
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0488301469312152
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0461371894805006
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
