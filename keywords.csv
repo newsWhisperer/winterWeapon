@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.31884957304503037
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.3188495730450303
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2885326626844297
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.287006760404584
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.2810396125208717
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0233375651066721
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0212717098403389
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0191410941339243
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.016269930013835653
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0141314819863636
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0128630418423451
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0112342658043585
