@@ -79,7 +79,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1130106071043689
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1118495791288366
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1077507522712953
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1076430508488351
@@ -95,8 +94,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0971647819876837
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0964178427258499
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0960033469464902
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0955221872595111
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.092300575506324
-'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.09100408567801774
+'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0894797539497513
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0881271424958688
