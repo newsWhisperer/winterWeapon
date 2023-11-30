@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1951391001171466
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.194104039373674
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1792730868936376
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1792730868936376
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.1788998890568756
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1787036085736091
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1780070368672951
