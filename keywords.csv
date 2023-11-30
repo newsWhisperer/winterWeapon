@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1951391001171466
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.194104039373674
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1890062891778598
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1792730868936376
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.1788998890568756
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1787036085736091
@@ -47,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1646098847721559
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1641004767275909
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1616448207641187
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.16140591580118083
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.159751747482677
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1595901960061332
