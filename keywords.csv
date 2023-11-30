@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2750388898047348
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2706995427486278
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.2639996462622863
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.26190836178477933
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2619083617847793
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2574618715595904
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2518536428821881
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2506259345511339
@@ -121,11 +121,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0547943338175568
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0535427539784179
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0503547034420524
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0490516130948477
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0488301469312152
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0487824465065908
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.047755937925744535
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0461371894805005
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
