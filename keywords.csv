@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.3034606358893509
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2911141641908561
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.2810396125208717
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.27597602208827576
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2759760220882757
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2752187970019505
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2750388898047348
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2706995427486278
@@ -85,6 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1076430508488351
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1069036255089986
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1050991599901139
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1042772994534184
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1020617060566868
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982473
@@ -107,7 +108,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0835059598413418
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.0831688503796527
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.080388486084626
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0803133176150202
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0741399537045694
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
