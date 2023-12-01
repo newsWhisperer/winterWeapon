@@ -32,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1763633844763802
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1755558082731124
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.17549890486135689
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1752818183768459
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.173412432269843
@@ -76,7 +77,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1297093755531235
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,2,0.120439076123103
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1204305607994573
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1130106071043689
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
