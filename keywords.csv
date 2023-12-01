@@ -104,7 +104,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0872793626555291
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0859727498901394
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0838969671600894
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0835059598413418
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.0831688503796527
@@ -112,6 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0803133176150202
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0741399537045694
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.071462437086076
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0490516130948477
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0488301469312152
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0487824465065908
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.047755937925744535
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0477559379257445
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0461371894805005
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
