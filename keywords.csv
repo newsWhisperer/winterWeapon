@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.3188495730450303
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.3034606358893509
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2885326626844297
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2911141641908561
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.2810396125208717
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2752187970019505
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2750388898047348
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1763633844763802
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1755558082731124
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.17549890486135689
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1754989048613568
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1752818183768459
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.173412432269843
