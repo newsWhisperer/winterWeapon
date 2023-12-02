@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.194104039373674
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1792730868936376
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.1788998890568756
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1787036085736091
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1780070368672951
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1531479387835679
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.15206493569834426
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1454689991233998
