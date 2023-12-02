@@ -18,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2339046260558513
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2332499631287894
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.22126549895423436
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2104232695812673
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2086542534964757
@@ -26,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.194104039373674
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1792730868936376
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1787036085736091
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1780070368672951
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1763633844763802
