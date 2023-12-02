@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2339046260558513
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2332499631287894
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.22126549895423436
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.2212654989542343
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2104232695812673
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2086542534964757
@@ -74,7 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1297093755531235
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1288469228565186
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,2,0.120439076123103
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
