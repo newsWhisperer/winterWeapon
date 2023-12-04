@@ -72,7 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1341486631652006
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1341366880394283
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.13382056243203616
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1338205624320361
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1319728846655075
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1288469228565186
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0026444265022959
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0025630480954566
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0014284768474067
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0011793318161016
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.00115244704368636
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001697597068545
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.579697274545962e-07
