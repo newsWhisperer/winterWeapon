@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2339046260558513
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2332499631287894
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.2212654989542343
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2104232695812673
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2086542534964757
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.2063981877175801
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1951391001171466
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.19077643911109915
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1792730868936376
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1789297200402172
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1780070368672951
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0461371894805005
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0416939461306205
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.04150562489153292
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0344436530306319
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0339651672831394
