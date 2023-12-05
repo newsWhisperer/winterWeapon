@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2104232695812673
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2086542534964757
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.20862975763314276
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2086297576331427
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.2063981877175801
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1951391001171466
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
@@ -122,13 +122,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0535427539784179
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0534950636627829
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0488301469312152
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0487824465065908
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0477559379257445
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0461371894805005
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0416939461306205
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.04150562489153292
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0344436530306319
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0339651672831394
