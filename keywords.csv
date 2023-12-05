@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.2063981877175801
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1951391001171466
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.19077643911109915
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1907764391110991
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1792730868936376
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1789297200402172
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1780070368672951
@@ -111,11 +111,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0803133176150202
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.071462437086076
+'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0696667825515513
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0646131930051419
-'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0630193206488839
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0547943338175568
