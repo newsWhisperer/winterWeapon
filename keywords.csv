@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3296716718349549
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.321536507423348
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.3034606358893509
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.2810396125208717
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2759760220882757
@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.173412432269843
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.16883116262009049
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1688311626200904
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1680065245870897
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1668786032349498
