@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2339046260558513
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2332499631287894
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.229588107667757
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.22825620547200434
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2282562054720043
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2104232695812673
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
@@ -51,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.159751747482677
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1595901960061332
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1566409665798151
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
@@ -62,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1454689991233998
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.14265077613829738
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.136058749824721
