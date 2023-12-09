@@ -10,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.253169252411398
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2506259345511339
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.24402179025518833
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2434428906374742
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.237209259631678
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2359357267019922
@@ -18,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.229588107667757
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2282562054720043
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.2104232695812673
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2086297576331427
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.2063981877175801
@@ -74,7 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.1295552253435925
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1288469228565186
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.12844274065343758
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1284427406534375
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,2,0.120439076123103
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.1202892467659435
