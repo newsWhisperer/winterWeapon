@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.253169252411398
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.2506259345511339
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.24402179025518833
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.2440217902551883
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2434428906374742
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.237209259631678
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2359357267019922
@@ -126,13 +126,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0477559379257445
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0461371894805005
+'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.04462172415340716
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0416939461306205
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0344436530306319
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0339651672831394
-'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0306291300200512
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0247264389555229
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
