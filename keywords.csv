@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.2810396125208717
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2752187970019505
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2750388898047348
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.27476159386874444
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2747615938687444
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2706995427486278
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2619083617847793
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2566235665956706
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0247264389555229
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0233375651066721
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0212717098403389
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018080953364288065
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0162699300138356
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0128630418423451
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0112342658043585
