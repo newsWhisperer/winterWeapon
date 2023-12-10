@@ -77,7 +77,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1284427406534375
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,2,0.120439076123103
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.1202892467659435
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1130106071043689
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
@@ -87,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1050991599901139
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1042772994534184
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.10224585975105198
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1020617060566868
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982473
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
@@ -119,7 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0595532249725643
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
-'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.05507122905437062
+'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0550712290543706
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0534950636627829
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0487824465065908
