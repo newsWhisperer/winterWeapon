@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3418943299462094
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3410166609088234
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.3034606358893509
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2816195330048274
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.2810396125208717
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0041113338627187
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0025630480954566
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0014284768474067
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.001279609987133355
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0012796099871333
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001697597068545
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.579697274545962e-07
