@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.253169252411398
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2440217902551883
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2434428906374742
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2359357267019922
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2339046260558513
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2332499631287894
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2086297576331427
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.20692683204185308
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1951391001171466
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1907764391110991
