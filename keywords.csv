@@ -92,6 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.100274042223087
+'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.09987701740661847
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0971647819876837
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0964178427258499
@@ -104,7 +105,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0881271424958688
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0878916401085596
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0872793626555291
-'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0859727498901394
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0850240349560496
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.0848491559337047
