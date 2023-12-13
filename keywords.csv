@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1907249881963067
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1792730868936376
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1789297200402172
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1780070368672951
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1755558082731124
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1754989048613568
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.159751747482677
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1595901960061332
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.15625862133720084
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
@@ -116,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0673151533504484
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.06464912222869532
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0646491222286953
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0595532249725643
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
