@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3220886740452271
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.3034606358893509
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2816195330048274
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.2810396125208717
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2761459398722851
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2752187970019505
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2750388898047348
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2747615938687444
@@ -50,7 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.159751747482677
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1595901960061332
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.15625862133720084
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1562586213372008
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
