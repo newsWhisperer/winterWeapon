@@ -5,15 +5,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2761459398722851
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2752187970019505
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2750388898047348
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2747615938687444
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2706995427486278
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2674098257838372
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2619083617847793
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2566235665956706
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.253169252411398
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.24703700132689427
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2440217902551883
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.24100977742668436
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2410097774266843
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.232973665493488
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2282562054720043
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
