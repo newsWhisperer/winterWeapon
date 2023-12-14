@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.3220886740452271
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.3034606358893509
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2923638965748067
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.2810396125208717
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2761459398722851
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2752187970019505
@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2566235665956706
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.253169252411398
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.24703700132689427
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2440217902551883
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2410097774266843
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.232973665493488
