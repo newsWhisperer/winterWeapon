@@ -21,10 +21,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2086297576331427
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.206926832041853
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1951391001171466
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1907764391110991
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1907249881963067
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.18445657873593824
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1792730868936376
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1789297200402172
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
