@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2706995427486278
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.264766259833514
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2640707787344434
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.26393791888069873
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2639379188806987
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2566235665956706
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.253169252411398
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
@@ -67,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.136058749824721
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1349638164724317
+'Gaskrise',de,Other,#545557,#6b7c6e,2,0.13492361675299927
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1346221109906808
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1341486631652006
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
@@ -78,7 +79,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,2,0.120439076123103
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
-'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1130106071043689
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1077507522712953
