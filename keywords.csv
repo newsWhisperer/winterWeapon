@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1792730868936376
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1789297200402172
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1755558082731124
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1754989048613568
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1752818183768459
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1646098847721559
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1641004767275909
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.16203693274643127
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1616448207641187
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1614059158011808
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0595532249725643
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0550712290543706
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.05463591632779192
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0546359163277919
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0534950636627829
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0487824465065908
