@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2752187970019505
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2750388898047348
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2706995427486278
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2674098257838372
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.26407077873444346
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2619083617847793
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2566235665956706
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.253169252411398
@@ -43,7 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1646098847721559
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1641004767275909
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.16203693274643127
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1620369327464312
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1616448207641187
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1614059158011808
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
