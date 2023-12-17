@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.3365947613363336
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2978294854249336
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.29472016232413
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2923638965748067
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.2810396125208717
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2761459398722851
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2752187970019505
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2706995427486278
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.264766259833514
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2640707787344434
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2639379188806987
