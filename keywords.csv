@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2978294854249336
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.29472016232413006
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.29472016232413
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2923638965748067
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.2810396125208717
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2761459398722851
@@ -20,12 +20,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2259703563867437
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2086297576331427
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.206926832041853
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1907764391110991
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1907249881963067
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1844565787359382
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1822873339881713
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1792730868936376
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1789297200402172
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
