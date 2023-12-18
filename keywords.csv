@@ -21,12 +21,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2259703563867437
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.206926832041853
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.19824241476868287
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1907764391110991
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1907249881963067
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1844565787359382
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1822873339881713
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.1792730868936376
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1789297200402172
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1754989048613568
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.14629598624622264
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1462959862462226
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1454689991233998
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
