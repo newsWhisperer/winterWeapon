@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2259703563867437
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.206926832041853
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.19824241476868287
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1982424147686828
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1927048434196403
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1907764391110991
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1907249881963067
@@ -81,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.1101219415420536
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
-'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.1077507522712953
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1069036255089986
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1066095332161694
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1050991599901139
@@ -98,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0964178427258499
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0960033469464902
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0955221872595111
+'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.092300575506324
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
