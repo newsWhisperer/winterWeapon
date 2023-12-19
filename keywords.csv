@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2640707787344434
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2639379188806987
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2610561504587791
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.26074778991554753
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2607477899155475
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2566235665956706
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0078278455472868
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0041113338627187
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0021785908811381
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0018518022489673852
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0014284768474067
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0013876984890633
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001697597068545
