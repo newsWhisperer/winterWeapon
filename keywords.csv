@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.232973665493488
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2273162712676298
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2259703563867437
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.22303861788649776
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2230386178864977
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.206926832041853
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1982424147686828
@@ -120,8 +120,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0595532249725643
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.05593995842407766
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0550712290543706
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0546359163277919
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0534950636627829
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0487824465065908
