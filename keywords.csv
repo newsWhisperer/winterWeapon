@@ -26,12 +26,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1907764391110991
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1907249881963067
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1844565787359382
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1822873339881713
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1789297200402172
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1754989048613568
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1752818183768459
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.17353253252630924
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.173412432269843
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1688311626200904
@@ -120,7 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0595532249725643
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.05593995842407766
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0559399584240776
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0550712290543706
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0534950636627829
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
