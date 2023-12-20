@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1754989048613568
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1752818183768459
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.17353253252630924
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1735325325263092
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.173412432269843
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1688311626200904
@@ -56,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1544620818429292
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1531479387835679
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1307854342400493
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1301757479660327
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1284427406534375
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,2,0.120439076123103
