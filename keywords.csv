@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2923638965748067
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2861056971358835
 'LNG',de,Quelle,#3d9a9c,#14c7a3,2,0.2810396125208717
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.27629250579301173
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2762925057930117
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2752187970019505
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.264766259833514
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2640707787344434
@@ -115,13 +115,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0696667825515513
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0646491222286953
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0595532249725643
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0572178803478811
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0559399584240776
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0550712290543706
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.054951753894391005
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0534950636627829
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0487824465065908
