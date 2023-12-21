@@ -13,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2440217902551883
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2410097774266843
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.23992972132648413
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2396752338914423
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.232973665493488
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2292992110485938
@@ -20,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2259703563867437
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2230386178864977
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.206926832041853
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2051158132703306
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1982424147686828
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1907764391110991
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0550712290543706
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.054951753894391
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0534950636627829
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.05242091622667966
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0524209162266796
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0487824465065908
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
