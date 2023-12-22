@@ -47,10 +47,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1616448207641187
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1614059158011808
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.159751747482677
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1587855547870314
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.15690101742936652
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1569010174293665
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1562586213372008
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
@@ -58,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1544620818429292
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.15095050147138656
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1462959862462226
