@@ -32,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1752818183768459
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1735325325263092
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.173412432269843
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1688311626200904
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1680065245870897
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.159751747482677
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1587855547870314
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.15690101742936652
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1562586213372008
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
