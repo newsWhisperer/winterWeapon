@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2440217902551883
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2410097774266843
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.23992972132648413
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.2399297213264841
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2396752338914423
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.232973665493488
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2292992110485938
@@ -24,8 +24,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2051158132703306
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1982424147686828
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1907764391110991
-'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1907249881963067
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1844565787359382
+'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1843664649668607
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1789297200402172
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1754989048613568
