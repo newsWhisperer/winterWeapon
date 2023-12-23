@@ -16,13 +16,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2407653853003956
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.2399297213264841
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2396752338914423
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.232973665493488
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2259703563867437
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2230386178864977
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2072624246683944
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2051158132703306
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1982424147686828
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.19802793066946478
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1907764391110991
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1844565787359382
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1843664649668607
