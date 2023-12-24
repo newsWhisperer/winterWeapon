@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1907764391110991
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1844565787359382
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1843664649668607
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1789297200402172
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1754989048613568
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1752818183768459
@@ -55,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1544620818429292
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.15269032203418464
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1509505014713865
