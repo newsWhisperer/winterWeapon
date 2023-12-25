@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1544620818429292
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.15269032203418464
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1526903220341846
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1509505014713865
@@ -112,10 +112,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.072121812543649
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.071462437086076
-'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0696667825515513
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
+'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0572178803478811
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0559399584240776
