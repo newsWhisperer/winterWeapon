@@ -31,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1752818183768459
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1735325325263092
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1720458834310037
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1688311626200904
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1680065245870897
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1641004767275909
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1620369327464312
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1616448207641187
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1614059158011808
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1587855547870314
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
