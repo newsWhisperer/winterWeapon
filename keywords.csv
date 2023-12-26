@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.3009237840302894
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2762925057930117
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2752187970019505
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2716441302704039
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.264766259833514
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2640707787344434
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2607477899155475
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.260737571425746
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.257490022565501
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2566235665956706
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2410097774266843
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.2399297213264841
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.2396752338914423
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.22778427068715443
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2277842706871544
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2259703563867437
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2230386178864977
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
