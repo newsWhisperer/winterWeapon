@@ -82,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1106493857711278
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.1101219415420536
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.10810603722719594
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1069036255089986
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1050991599901139
@@ -100,7 +101,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.092300575506324
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.0892705822993749
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0881271424958688
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0878916401085596
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0872793626555291
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0041113338627187
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0018518022489673
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.001479573715703805
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0014795737157038
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0014284768474067
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001697597068545
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.579697274545962e-07
