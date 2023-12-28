@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2450326510717804
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2440217902551883
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2410097774266843
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.2399297213264841
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2277842706871544
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2259703563867437
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2234452594490453
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2230386178864977
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0391760685027185
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.035739884211027424
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0357398842110274
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0344436530306319
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0339651672831394
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
