@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2440217902551883
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2376234811920276
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2277842706871544
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2259703563867437
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2234452594490453
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2203666691806758
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2152364111105503
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2103490775202512
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.2098210089170167
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2083983532408625
@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1752818183768459
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1735325325263092
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.17337098642299453
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1733709864229945
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1720458834310037
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1688311626200904
