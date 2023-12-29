@@ -97,7 +97,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0971647819876837
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0960033469464902
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0955221872595111
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.092300575506324
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
@@ -108,6 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0850240349560496
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.0831688503796527
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.08149388917058444
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0803133176150202
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.072121812543649
