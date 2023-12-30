@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2083983532408625
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2078133385423592
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1980279306694647
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1907764391110991
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.18568924967300565
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1843664649668607
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1754989048613568
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0418199802576183
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0357398842110274
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.03465028822731072
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0346502882273107
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0339651672831394
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0292771050760371
