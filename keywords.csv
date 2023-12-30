@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2083983532408625
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2078133385423592
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1980279306694647
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.18568924967300565
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1856892496730056
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1843664649668607
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1754989048613568
@@ -103,8 +103,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0881271424958688
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0878916401085596
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0872793626555291
+'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.08631426380355124
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
-'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0850240349560496
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.0831688503796527
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0814938891705844
