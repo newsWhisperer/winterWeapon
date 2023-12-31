@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2083983532408625
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2078133385423592
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1980279306694647
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.19234859264950088
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1856892496730056
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1843664649668607
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1646098847721559
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1641004767275909
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1620369327464312
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1616448207641187
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1587855547870314
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0461371894805005
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.045470804113365466
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0454708041133654
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
