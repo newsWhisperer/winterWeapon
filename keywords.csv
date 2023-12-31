@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2450326510717804
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.24435005446951447
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.2440217902551883
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2443500544695144
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2376234811920276
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2277842706871544
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.2260063703532737
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2234452594490453
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2203666691806758
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
