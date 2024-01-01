@@ -70,13 +70,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1349638164724317
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1346221109906808
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1341486631652006
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1307854342400493
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,2,0.120439076123103
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.11432639369042051
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1141272145554218
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
