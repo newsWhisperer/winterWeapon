@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2078133385423592
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1980279306694647
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.18991905656897667
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1899190565689766
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1856892496730056
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1843664649668607
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
@@ -80,7 +80,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1141272145554218
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1106493857711278
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.1101219415420536
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1081060372271959
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
@@ -98,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0960033469464902
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.09405197790545863
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.092300575506324
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0881271424958688
