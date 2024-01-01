@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2752187970019505
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2716441302704039
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.264766259833514
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2640707787344434
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.260737571425746
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2566235665956706
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.247982676542567
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2450326510717804
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2443500544695144
@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,2,0.120439076123103
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.11432639369042051
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1143263936904205
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1141272145554218
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
