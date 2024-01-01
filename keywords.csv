@@ -23,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2078133385423592
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1980279306694647
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.18991905656897667
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1856892496730056
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1843664649668607
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
@@ -46,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1620369327464312
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1615442967382719
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1587855547870314
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1569010174293665
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
