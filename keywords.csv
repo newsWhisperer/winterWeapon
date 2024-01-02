@@ -51,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1544620818429292
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1526903220341846
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
@@ -72,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1307854342400493
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0014795737157038
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0014284768474067
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001697597068545
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.1927426833640679e-07
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.192742683364068e-07
