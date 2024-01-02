@@ -39,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1668786032349498
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1666686123866323
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.166284986471002
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1661895434676228
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1655462658007732
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1646098847721559
@@ -57,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1509505014713865
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1507583964929339
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1462959862462226
