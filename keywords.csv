@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0346502882273107
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0339651672831394
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0292771050760371
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.024885539314631534
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0247264389555229
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0233375651066721
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0086464709631933
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0078278455472868
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.00297043871581418
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0029704387158141
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0018518022489673
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0014795737157038
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0014284768474067
