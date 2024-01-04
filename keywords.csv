@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.2764014558584868
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2640707787344434
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2607477899155475
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.260737571425746
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2450326510717804
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2376234811920276
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.23494137247971378
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2262895799354508
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2260063703532737
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2234452594490453
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0066536687151937
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0029704387158141
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.001724046911622205
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0017240469116222
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0014795737157038
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0014284768474067
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001697597068545
