@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.264766259833514
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.27640145585848686
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2640707787344434
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2607477899155475
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.260737571425746
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0109335855659933
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0086464709631933
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.006653668715193779
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0066536687151937
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0029704387158141
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0018518022489673
