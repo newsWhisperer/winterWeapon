@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.2098210089170167
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2083983532408625
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2078133385423592
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.20105030160775664
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.2010503016077566
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1980279306694647
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
@@ -112,8 +112,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.072121812543649
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.071462437086076
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0709915315628885
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0669996205552699
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
