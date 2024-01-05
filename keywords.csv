@@ -27,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1843664649668607
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1800188817199937
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
+'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.17775444515825162
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1754989048613568
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1752818183768459
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
@@ -45,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1641004767275909
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1620369327464312
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1615442967382719
-'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.160517327993665
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1569010174293665
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
