@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1843664649668607
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1800188817199937
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
-'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.17775444515825162
+'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1777544451582516
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1754989048613568
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1752818183768459
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
@@ -111,10 +111,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0803133176150202
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.072121812543649
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.071462437086076
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0709915315628885
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0608930865231646
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0572178803478811
