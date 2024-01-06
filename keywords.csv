@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1569010174293665
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
-'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.15604235838451386
+'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1560423583845138
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1526903220341846
@@ -64,8 +64,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1410681482337439
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1376914783457989
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.136058749824721
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1356251702302927
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1349638164724317
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1346221109906808
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
