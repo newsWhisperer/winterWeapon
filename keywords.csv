@@ -2,11 +2,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2640707787344434
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2607477899155475
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.260737571425746
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2566235665956706
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2494870393662069
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.247982676542567
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.24580808433359272
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2450326510717804
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2376234811920276
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2262895799354508
@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1641004767275909
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1620369327464312
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1615442967382719
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.15848687516577356
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1584868751657735
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1569010174293665
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
