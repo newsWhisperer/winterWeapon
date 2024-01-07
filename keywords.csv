@@ -75,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1307854342400493
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,2,0.120439076123103
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1143263936904205
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1141272145554218
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
@@ -86,6 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1069036255089986
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1057225728713493
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1050991599901139
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.10237321470463755
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.1022458597510519
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1020617060566868
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982473
