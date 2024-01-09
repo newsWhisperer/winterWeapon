@@ -23,11 +23,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1980279306694647
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1856892496730056
-'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.18261158522183157
+'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1826115852218315
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1815936027610053
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1800188817199937
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1754989048613568
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1733709864229945
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1720458834310037
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1641004767275909
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1620369327464312
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1615442967382719
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.15967436913215327
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1584868751657735
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1569010174293665
