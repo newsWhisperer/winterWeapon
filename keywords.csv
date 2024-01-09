@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2427561183996786
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2376234811920276
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2260063703532737
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.22523448784929057
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2252344878492905
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2234452594490453
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2203666691806758
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0014795737157038
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0014284768474067
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001697597068545
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.192742683364068e-07
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.8638312808594578e-07
