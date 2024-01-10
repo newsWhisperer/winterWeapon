@@ -30,7 +30,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1733709864229945
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1720458834310037
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1688311626200904
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1680065245870897
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1668786032349498
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1596743691321532
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1584868751657735
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.15699514476553839
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1569010174293665
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1561199374385567
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0086464709631933
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0066536687151937
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.002524872908441985
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0016154548748788
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0014795737157038
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0014284768474067
