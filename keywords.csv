@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2450326510717804
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2427561183996786
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2376234811920276
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.22937594369754558
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2293759436975455
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2260063703532737
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2252344878492905
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2234452594490453
@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1980279306694647
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1856892496730056
-'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1826115852218315
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1815936027610053
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1800188817199937
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1778226985334112
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1569010174293665
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
+'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.15611993743855676
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1560423583845138
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
