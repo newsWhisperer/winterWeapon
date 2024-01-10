@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1569010174293665
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
-'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.15611993743855676
+'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1561199374385567
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1560423583845138
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
@@ -109,6 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.0831688503796527
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0814938891705844
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0803133176150202
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.07871706105842544
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.072121812543649
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0709915315628885
@@ -125,7 +126,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0487824465065908
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0461371894805005
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0454708041133654
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
