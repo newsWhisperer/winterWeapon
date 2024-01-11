@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.26336682079472623
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2633668207947262
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2607477899155475
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.260737571425746
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2494870393662069
@@ -112,9 +112,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0787170610584254
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.072121812543649
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0709915315628885
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.060943356828455225
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0608930865231646
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
