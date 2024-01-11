@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1800188817199937
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1733709864229945
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1720458834310037
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1680065245870897
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1641004767275909
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1620369327464312
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1615442967382719
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.16028094500726223
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1596743691321532
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1584868751657735
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.072121812543649
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.060943356828455225
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0609433568284552
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0608930865231646
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
