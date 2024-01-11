@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1596743691321532
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1584868751657735
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.15699514476553839
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1569951447655383
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1569010174293665
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1561199374385567
@@ -60,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1462959862462226
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1423193476820752
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1410681482337439
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1307854342400493
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.12592476052976392
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1143263936904205
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1141272145554218
