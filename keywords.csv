@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2494870393662069
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2458080843335927
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2450326510717804
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2427561183996786
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2376234811920276
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2203666691806758
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2152364111105503
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2138876066835538
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.2098210089170167
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2083983532408625
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.2010503016077566
@@ -62,7 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1410681482337439
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
-'russisches Gas',de,Russland,#a6190f,#b32319,3,0.13747850298966038
+'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1374785029896603
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.136058749824721
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1356251702302927
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1349638164724317
