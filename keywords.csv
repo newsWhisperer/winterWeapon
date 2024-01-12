@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1561199374385567
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1560423583845138
-'russisches Gas',de,Russland,#a6190f,#b32319,2,0.1559139446937181
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1526903220341846
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
@@ -63,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1410681482337439
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
+'russisches Gas',de,Russland,#a6190f,#b32319,3,0.13747850298966038
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.136058749824721
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1356251702302927
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1349638164724317
