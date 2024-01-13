@@ -11,17 +11,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2293759436975455
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2260063703532737
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2234452594490453
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2203666691806758
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2152364111105503
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2138876066835538
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.2098210089170167
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2083983532408625
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.20549488876280603
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.205494888762806
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.2010503016077566
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1980279306694647
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1883617738035744
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1856892496730056
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1816750287533995
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1815936027610053
