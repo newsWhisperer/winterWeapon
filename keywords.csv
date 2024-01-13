@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.260737571425746
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2606346294936991
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2494870393662069
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.24932046915548808
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.249320469155488
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2450326510717804
@@ -130,8 +130,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.03905870554876965
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0357398842110274
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0346502882273107
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0288703921906684
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0248855393146315
