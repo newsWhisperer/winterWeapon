@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.249320469155488
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2450326510717804
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2427561183996786
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2376234811920276
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.23141285659283153
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2293759436975455
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2260063703532737
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2234452594490453
@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1816750287533995
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1815936027610053
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1800188817199937
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.17957491271720807
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1733709864229945
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
