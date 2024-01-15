@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1980279306694647
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1883617738035744
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1856892496730056
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1816750287533995
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1815936027610053
@@ -75,7 +76,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1259247605297639
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1143263936904205
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1141272145554218
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
@@ -110,7 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0803133176150202
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0787170610584254
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
-'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.07256618557628176
+'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.072121812543649
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
