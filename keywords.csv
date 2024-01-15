@@ -113,6 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.072121812543649
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
+'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.06459820271242035
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0609433568284552
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0608930865231646
@@ -123,7 +124,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.054951753894391
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0524209162266796
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
-'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0487824465065908
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0454708041133654
