@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1733709864229945
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.17089084608156033
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1708908460815603
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1666686123866323
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.166284986471002
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0016154548748788
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0014795737157038
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0012142053202956
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001442957508263
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000122651388202355
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.8638312808594578e-07
