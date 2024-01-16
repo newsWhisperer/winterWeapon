@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1883617738035744
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.18739290636659311
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1873929063665931
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1856892496730056
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1816750287533995
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1815936027610053
@@ -31,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1733709864229945
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.17089084608156033
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1666686123866323
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.166284986471002
@@ -42,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1602809450072622
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1596743691321532
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1584868751657735
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1577899579569159
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1569951447655383
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1569010174293665
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1562340458577924
