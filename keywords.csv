@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2844181806920844
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.260737571425746
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2606346294936991
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2512539081337263
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.249320469155488
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0016154548748788
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0014795737157038
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0012142053202956
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000122651388202355
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001226513882023
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.8638312808594578e-07
