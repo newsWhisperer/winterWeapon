@@ -17,12 +17,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.205494888762806
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2044690716883682
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2016541981039067
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.2010503016077566
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1980279306694647
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1883617738035744
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.18739290636659311
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1856892496730056
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1816750287533995
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1815936027610053
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1561199374385567
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1560423583845138
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.15475661502156632
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1547566150215663
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1526903220341846
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
