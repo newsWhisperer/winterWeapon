@@ -63,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1410681482337439
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
-'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1374785029896603
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.136058749824721
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1356251702302927
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1349638164724317
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1307854342400493
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
+'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1263534270866658
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1259247605297639
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1141272145554218
