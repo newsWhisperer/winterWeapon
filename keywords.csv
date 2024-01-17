@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.260737571425746
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2606346294936991
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2512539081337263
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.249320469155488
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2427561183996786
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2376234811920276
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.23567043980279317
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2279662437613527
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2260063703532737
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2234452594490453
