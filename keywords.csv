@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2427561183996786
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2376234811920276
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2356704398027931
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.23709062065055594
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2279662437613527
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2260063703532737
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2234452594490453
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2048168629820058
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2044690716883682
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2016541981039067
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.19899953574476362
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1989995357447636
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1883617738035744
