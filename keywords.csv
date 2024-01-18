@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1879265394439677
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1873929063665931
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1856892496730056
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1816750287533995
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1800188817199937
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1733709864229945
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1708908460815603
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.16921014163381948
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1666686123866323
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.166284986471002
@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0390587055487696
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.03865018349636059
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0386501834963605
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0357398842110274
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0288703921906684
