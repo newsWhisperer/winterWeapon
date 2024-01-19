@@ -95,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0940519779054586
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0936036503107455
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.092300575506324
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0881271424958688
@@ -108,6 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.0831688503796527
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0814938891705844
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0803133176150202
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.07956310276413367
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0787170610584254
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
