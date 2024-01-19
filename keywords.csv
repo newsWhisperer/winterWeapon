@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2628579164332806
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.25749742755346355
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2512539081337263
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.249320469155488
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2427561183996786
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2376234811920276
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1879265394439677
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1873929063665931
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.18393091807492995
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1839309180749299
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1816750287533995
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1800188817199937
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
