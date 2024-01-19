@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2606346294936991
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2628579164332806
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2512539081337263
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.249320469155488
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2489852019345561
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0572178803478811
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.054951753894391
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.052501664660465956
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0525016646604659
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0524209162266796
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
