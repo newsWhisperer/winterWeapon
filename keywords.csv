@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2138876066835538
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2048168629820058
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2044690716883682
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.20009872757946418
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1989995357447636
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1708908460815603
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.17008475844254448
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1692101416338194
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1666686123866323
