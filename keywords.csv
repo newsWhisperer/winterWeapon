@@ -12,14 +12,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2234452594490453
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2138876066835538
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.2098210089170167
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2048168629820058
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2044690716883682
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.20009872757946418
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1989995357447636
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1911248441650363
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.18999519202468432
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1899951920246843
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1883617738035744
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1879265394439677
