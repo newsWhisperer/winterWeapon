@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2138876066835538
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2048168629820058
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2044690716883682
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.20198094901322347
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.2019809490132234
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1989995357447636
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
@@ -118,11 +118,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0609433568284552
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0608930865231646
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0590545139489793
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0572178803478811
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.054951753894391
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0525016646604659
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0524209162266796
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.05124644185663241
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
