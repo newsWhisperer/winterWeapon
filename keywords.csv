@@ -84,7 +84,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1069036255089986
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1057225728713493
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1050991599901139
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.1023732147046375
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.1022458597510519
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1020617060566868
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1018415336982473
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0881271424958688
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0878916401085596
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0872793626555291
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.08701723249894187
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0863142638035512
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0853829508896239
