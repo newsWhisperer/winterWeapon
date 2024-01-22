@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2574974275534635
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2512539081337263
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.249320469155488
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.24202013760465216
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2420201376046521
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.238570512912454
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2370906206505559
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.2357260057521489
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2283691379658985
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2279662437613527
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2260063703532737
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2234452594490453
