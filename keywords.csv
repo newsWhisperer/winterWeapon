@@ -6,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.238570512912454
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2370906206505559
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.23572600575214894
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2279662437613527
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2260063703532737
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2234452594490453
@@ -13,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.2138876066835538
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2048168629820058
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2044690716883682
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.2019809490132234
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1989995357447636
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1708908460815603
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1700847584425444
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.16696117357056464
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1669611735705646
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1666686123866323
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.166284986471002
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
