@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1839309180749299
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1800188817199937
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.17602836525454385
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1760283652545438
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1708908460815603
@@ -133,8 +133,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0357398842110274
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0328526559719064
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0288703921906684
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0248855393146315
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.02453983336206814
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0233375651066721
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018080953364288
