@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.238570512912454
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2370906206505559
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.2357260057521489
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.23215490055003096
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2321549005500309
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2283691379658985
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2279662437613527
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2260063703532737
@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0390587055487696
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0357398842110274
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.035329576579373294
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0328526559719064
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0248855393146315
