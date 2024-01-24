@@ -99,7 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0878916401085596
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0872793626555291
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0870172324989418
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.08690898078839411
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0869089807883941
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0863142638035512
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0853829508896239
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0248855393146315
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0245398333620681
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0233375651066721
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.019986945340671285
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018080953364288
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0178648521453652
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
