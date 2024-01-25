@@ -121,12 +121,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.054951753894391
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0525016646604659
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0524209162266796
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0520591535446899
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0512464418566324
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.04455031051298641
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0390587055487696
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0066536687151937
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.00152315164364698
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0015231516436469
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0014795737157038
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0012142053202956
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001226513882023
