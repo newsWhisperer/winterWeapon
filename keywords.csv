@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2420201376046521
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2370906206505559
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.23259151216205382
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2325915121620538
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2321549005500309
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2283691379658985
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2279662437613527
@@ -111,10 +111,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0787170610584254
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.072121812543649
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.06130354066210164
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0609433568284552
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0572178803478811
