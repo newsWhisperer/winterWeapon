@@ -56,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1507583964929339
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.14665213661480597
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1462959862462226
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1418472477497073
@@ -66,7 +67,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.136058749824721
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1356251702302927
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1349638164724317
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1346221109906808
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
@@ -119,7 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.054951753894391
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0525016646604659
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0524209162266796
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.052108009562786356
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0521080095627863
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0512464418566324
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0486351982956989
