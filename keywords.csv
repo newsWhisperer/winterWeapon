@@ -78,9 +78,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.10945804531901243
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1081060372271959
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1069036255089986
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1057225728713493
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1050991599901139
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1020617060566868
@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.09700846237210853
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0970084623721085
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0960033469464902
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
