@@ -99,7 +99,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0878916401085596
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0872793626555291
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0870172324989418
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0869089807883941
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0863142638035512
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0853829508896239
@@ -109,6 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0803133176150202
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0795631027641336
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0787170610584254
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.07387263367013498
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
