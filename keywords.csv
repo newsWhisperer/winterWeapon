@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.24647157719714977
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.244152146054892
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2420201376046521
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2370906206505559
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2325915121620538
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2283691379658985
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2279662437613527
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2260063703532737
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2259214641574041
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.2234452594490453
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0211527084174367
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0199869453406712
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018080953364288
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.01518512432356042
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0151851243235604
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0078995155714301
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0074995153187143
