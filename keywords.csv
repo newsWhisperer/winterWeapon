@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1911248441650363
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1883617738035744
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1873929063665931
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1839309180749299
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,1,0.1818050806810207
@@ -42,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1620369327464312
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1615442967382719
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1602809450072622
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.15988403041160412
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1596743691321532
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1569951447655383
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1569010174293665
