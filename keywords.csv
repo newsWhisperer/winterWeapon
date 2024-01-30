@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2705680874493418
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2464715771971497
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.244152146054892
@@ -60,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1462959862462226
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1418472477497073
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1416683205286374
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1410681482337439
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0014795737157038
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0012142053202956
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001226513882023
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.8638312808594576e-07
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.8638312808594578e-07
