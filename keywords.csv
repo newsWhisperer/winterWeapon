@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2370906206505559
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2325915121620538
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.2299828893319405
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2283691379658985
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2260063703532737
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2259214641574041
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2221524428044158
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202811634584618
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1989995357447636
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.19561441227101373
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1911248441650363
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1883617738035744
