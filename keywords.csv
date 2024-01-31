@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2705680874493418
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2464715771971497
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.244152146054892
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2420201376046521
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2370906206505559
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2325915121620538
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.22998288933194053
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2283691379658985
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2260063703532737
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2259214641574041
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1349638164724317
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.13381590981496153
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1338159098149615
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1307854342400493
