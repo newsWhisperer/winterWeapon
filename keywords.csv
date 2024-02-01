@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202811634584618
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1989995357447636
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.19563547093214942
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1956354709321494
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1956144122710137
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1911248441650363
@@ -132,9 +132,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0390587055487696
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0353295765793732
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0279247575761204
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0245398333620681
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.02373604393970234
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0211527084174367
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0199869453406712
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018080953364288
