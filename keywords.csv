@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1956354709321494
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1956144122710137
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
-'Gazprom',de,Russland,#a6190f,#A33223,2,0.19210598480028265
+'Gazprom',de,Russland,#a6190f,#A33223,2,0.1921059848002826
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1911248441650363
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1883617738035744
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0015231516436469
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0014795737157038
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0012142053202956
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.00103207452225126
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001226513882023
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.8638312808594578e-07
