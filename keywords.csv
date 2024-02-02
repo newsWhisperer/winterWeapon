@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1620369327464312
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1615442967382719
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.16067289967616272
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1606728996761627
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1602809450072622
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1598840304116041
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1596743691321532
@@ -113,7 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
-'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0628528808821066
+'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.06354346056797242
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0609433568284552
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.054951753894391
