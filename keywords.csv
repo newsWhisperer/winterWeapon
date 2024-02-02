@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1760283652545438
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1700847584425444
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1692590680728271
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1677339581856844
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1620369327464312
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1615442967382719
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.16067289967616272
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,3,0.1602809450072622
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1598840304116041
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1596743691321532
