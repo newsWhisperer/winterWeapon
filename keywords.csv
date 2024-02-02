@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1910247486970237
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1800188817199937
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1768933867948459
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1760283652545438
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1560423583845138
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.155169438714907
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1547566150215663
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.15301651446199463
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1526903220341846
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
@@ -113,7 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
-'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.06354346056797242
+'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0635434605679724
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0609433568284552
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.054951753894391
