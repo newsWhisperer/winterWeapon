@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2163031272784928
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2159208041038899
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.204939689033413
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.2048168629820058
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202811634584618
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1989995357447636
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1910247486970237
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.18359118308015948
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1833874753059147
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1768933867948459
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0445503105129864
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.04429180812836835
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0442918081283683
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0390587055487696
