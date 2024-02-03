@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1910247486970237
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
-'Blackout',de,Other,#545557,#6b6c6e,3,0.18338747530591476
+'Blackout',de,Other,#545557,#6b6c6e,3,0.1833874753059147
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1768933867948459
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1760283652545438
@@ -119,7 +119,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.054951753894391
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0525016646604659
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0524209162266796
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0521080095627863
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0512464418566324
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0486351982956989
@@ -127,6 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0445503105129864
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.04429180812836835
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0390587055487696
