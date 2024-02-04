@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.2657999523510128
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2470351033275906
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2464715771971497
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.244152146054892
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2439300729859983
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2370906206505559
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2325915121620538
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2259214641574041
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1910247486970237
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.18359118308015948
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1835911830801594
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1833874753059147
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1768933867948459
