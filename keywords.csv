@@ -125,11 +125,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0445503105129864
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0442918081283683
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0390587055487696
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.03801777893603844
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0353295765793732
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0245398333620681
