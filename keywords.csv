@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2470370013268942
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2470351033275906
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.244152146054892
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2439300729859983
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2370906206505559
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.23311409430967825
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2325915121620538
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.2259299894983608
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2259214641574041
