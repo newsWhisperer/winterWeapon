@@ -27,12 +27,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1833874753059147
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1768933867948459
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1764315128344665
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1760283652545438
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1736597277292923
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1714378464308961
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1692590680728271
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.16866323972585276
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1686632397258527
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1677339581856844
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1669611735705646
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1526903220341846
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.15101689090929651
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1509505014713865
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1507583964929339
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
