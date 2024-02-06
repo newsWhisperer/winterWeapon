@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2470351033275906
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.244152146054892
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2439300729859983
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.23829846437115432
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2382984643711543
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2331140943096782
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2325915121620538
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.2259299894983608
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0390587055487696
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0353295765793732
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.03438057509246721
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0324651270956326
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0245398333620681
