@@ -106,7 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0803133176150202
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0795631027641336
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0787170610584254
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.07426467762410054
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0742646776241005
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0738726336701349
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0199869453406712
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018080953364288
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0129073556750263
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.010971252323772353
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0074995153187143
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0067145882357155
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0066536687151937
