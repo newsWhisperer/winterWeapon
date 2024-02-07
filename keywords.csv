@@ -98,7 +98,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0881271424958688
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0878916401085596
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0872793626555291
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0870172324989418
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0863142638035512
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0853829508896239
@@ -107,10 +106,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0803133176150202
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0795631027641336
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0787170610584254
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.07426467762410054
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0738726336701349
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.06926980579499674
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0692698057949967
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0635434605679724
