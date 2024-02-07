@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1911248441650363
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1910247486970237
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.18565783818671888
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1856578381867188
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1848592590667253
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1835911830801594
@@ -104,13 +104,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0853829508896239
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.0831688503796527
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0814938891705844
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0803133176150202
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0795631027641336
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0787170610584254
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0738726336701349
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.06926980579499674
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0635434605679724
