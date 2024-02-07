@@ -97,7 +97,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0881271424958688
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0878916401085596
-'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0872793626555291
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0863142638035512
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0858153305638562
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0853829508896239
@@ -107,6 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0795631027641336
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0787170610584254
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0742646776241005
+'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.07418745825719973
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0738726336701349
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0109712523237723
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0074995153187143
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0067145882357155
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.005655618407914645
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0056556184079146
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0015231516436469
