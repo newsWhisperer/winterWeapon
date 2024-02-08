@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.24514776540418418
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2451477654041841
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.244152146054892
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2439300729859983
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.2424905360736066
@@ -52,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1526903220341846
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,2,0.15140765265834824
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1509505014713865
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1507583964929339
@@ -146,7 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0015231516436469
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0014795737157038
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0008772633439135
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001226513882023
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.8638312808594578e-07
