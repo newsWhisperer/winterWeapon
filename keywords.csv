@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2470351033275906
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2558428737375429
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.244152146054892
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2439300729859983
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.24249053607360668
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.2424905360736066
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2382984643711543
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2325915121620538
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2259214641574041
