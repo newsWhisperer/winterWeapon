@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2470351033275906
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.244152146054892
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2439300729859983
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.24249053607360668
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2382984643711543
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2325915121620538
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.2259299894983608
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2259214641574041
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2221524428044158
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
@@ -106,7 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0795631027641336
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.0787170610584254
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0742646776241005
-'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.07418745825719973
+'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0738726336701349
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
