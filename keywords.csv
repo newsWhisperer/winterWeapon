@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2526544053377457
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2451477654041841
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.244152146054892
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2439300729859983
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.2424905360736066
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2382984643711543
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2325915121620538
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2259214641574041
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2221524428044158
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
@@ -52,7 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1526903220341846
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,2,0.15140765265834824
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,2,0.1514076526583482
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1509505014713865
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1507583964929339
