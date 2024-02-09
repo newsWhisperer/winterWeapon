@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202811634584618
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1989995357447636
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1956354709321494
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1921059848002826
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1911248441650363
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1677339581856844
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1669611735705646
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.16674019529232698
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.166284986471002
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,2,0.1646098847721559
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0056556184079146
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.001294678897099865
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0008772633439135
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001226513882023
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.8638312808594578e-07
