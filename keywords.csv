@@ -96,6 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0940519779054586
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.092300575506324
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.09005962557813754
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0881271424958688
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0878916401085596
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0863142638035512
@@ -120,7 +121,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.054951753894391
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0525016646604659
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0524209162266796
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0512464418566324
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0486351982956989
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0390587055487696
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0343805750924672
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.027745373031287712
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0277453730312877
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0245398333620681
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0237360439397023
