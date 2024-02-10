@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2221524428044158
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2159208041038899
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2121887742541355
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.21258509038874246
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.204939689033413
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202811634584618
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1989995357447636
@@ -96,7 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0940519779054586
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.092300575506324
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.09005962557813754
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0881271424958688
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.0878916401085596
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0863142638035512
