@@ -70,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1338159098149615
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.13320715800675287
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1307854342400493
@@ -80,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1081060372271959
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1057225728713493
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1050991599901139
