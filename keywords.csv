@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2159208041038899
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.204939689033413
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202811634584618
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1989995357447636
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1833874753059147
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.17824963567840105
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1768933867948459
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1760283652545438
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1746403542544991
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0390587055487696
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.03764803690911305
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.037648036909113
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0292236838285971
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0277453730312877
