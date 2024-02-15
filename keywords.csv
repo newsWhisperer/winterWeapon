@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0742646776241005
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0738726336701349
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.07339307597927776
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0733930759792777
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
@@ -135,8 +135,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0245398333620681
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0237360439397023
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0237335820765945
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0211527084174367
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.020323559765105324
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0199869453406712
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018080953364288
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
