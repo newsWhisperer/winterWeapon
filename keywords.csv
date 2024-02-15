@@ -3,14 +3,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2439300729859983
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.2424905360736066
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2297427664172498
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.22764849236815934
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2276484923681593
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2259214641574041
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2221524428044158
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2159208041038899
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1989995357447636
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.20137687765577633
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1930370910691748
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
