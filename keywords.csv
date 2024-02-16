@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2159208041038899
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.20137687765577633
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2013768776557763
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1930370910691748
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
@@ -54,7 +54,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,2,0.1514076526583482
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1511512330713522
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1509505014713865
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1507583964929339
@@ -77,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1307854342400493
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.12862856311064938
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1263534270866658
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1259247605297639
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
