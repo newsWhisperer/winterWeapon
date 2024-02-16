@@ -8,17 +8,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2159208041038899
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.20656700066256561
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.2065670006625656
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.2013768776557763
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1985684900840812
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1930370910691748
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1921059848002826
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1911248441650363
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1864320584878344
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1856578381867188
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.18559068072209906
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1833874753059147
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
