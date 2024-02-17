@@ -79,7 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1286285631106493
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1263534270866658
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1259247605297639
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.12417828364351022
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1241782836435102
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
@@ -141,8 +141,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018080953364288
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0109712523237723
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0067145882357155
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0063745880209071
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.005707400000358175
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0056556184079146
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
