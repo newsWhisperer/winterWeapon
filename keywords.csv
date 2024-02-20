@@ -135,10 +135,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0245398333620681
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0237360439397023
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0211527084174367
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0203235597651053
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0199869453406712
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018080953364288
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.017979802154821194
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0093255644752064
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0057074000003581
