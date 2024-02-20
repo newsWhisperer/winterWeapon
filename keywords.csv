@@ -2,12 +2,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.25212089212467
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2439300729859983
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2276484923681593
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2259214641574041
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2221524428044158
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2197152272610662
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.20106110814555386
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2010611081455538
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2010085988441963
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008246898355302
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1930370910691748
