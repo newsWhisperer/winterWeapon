@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1547566150215663
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1530165144619946
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1526903220341846
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.15256456356989848
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
@@ -81,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1241782836435102
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
+'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.11235291990451667
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1094842936440519
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
@@ -92,7 +93,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1008154683675228
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0970084623721085
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0960033469464902
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0940519779054586
