@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2439300729859983
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2276484923681593
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2221524428044158
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.22084353782270477
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2208435378227047
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2197152272610662
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
@@ -143,8 +143,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0093255644752064
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0057074000003581
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0056556184079146
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.005418399817771
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00460563984510535
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0008772633439135
