@@ -7,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2197152272610662
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.20545621971465922
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2010611081455538
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2010085988441963
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1921059848002826
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1864320584878344
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1856578381867188
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.185590680722099
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0057074000003581
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0056556184079146
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00460563984510535
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0046056398451053
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0008772633439135
