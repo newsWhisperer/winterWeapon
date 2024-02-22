@@ -25,11 +25,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.178249635678401
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1780402065028917
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1761246060074098
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1760319955631807
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1711722842976256
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1692590680728271
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1686632397258527
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.16829706374266196
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1677339581856844
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1669611735705646
