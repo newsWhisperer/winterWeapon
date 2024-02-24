@@ -2,6 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2465273305786967
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2439300729859983
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2276484923681593
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.22585444692372075
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2221524428044158
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2208435378227047
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2197152272610662
@@ -9,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2054562197146592
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2010611081455538
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1930370910691748
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1921059848002826
