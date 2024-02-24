@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.24652733057869675
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2465273305786967
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2439300729859983
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2276484923681593
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2221524428044158
@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1711722842976256
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1692590680728271
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1686632397258527
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1682970637426619
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1677339581856844
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1669611735705646
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1598090508102323
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1596743691321532
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1591255504663622
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1570983932721717
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1569951447655383
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1561199374385567
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1559314021609417
