@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.25212089212467
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.24652733057869675
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2439300729859983
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2276484923681593
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2221524428044158
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1780402065028917
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1760319955631807
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.17565761636020066
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1756576163602006
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1711722842976256
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1692590680728271
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1686632397258527
