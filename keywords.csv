@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2439300729859983
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2478978935898227
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2372272287191649
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2276484923681593
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2258544469237207
@@ -116,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0676286373495135
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0635434605679724
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.06268414458238605
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.062684144582386
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0609433568284552
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0524209162266796
