@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1760319955631807
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1756576163602006
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1711722842976256
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1692590680728271
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1686632397258527
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1677339581856844
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
@@ -43,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1598090508102323
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1596743691321532
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1591255504663622
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.15793708195281211
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1570983932721717
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1569951447655383
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1561199374385567
@@ -118,7 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.062684144582386
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0609433568284552
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.058433390597323366
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0524209162266796
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.049579564961396
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
