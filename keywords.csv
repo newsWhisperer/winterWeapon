@@ -110,13 +110,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0742646776241005
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0738726336701349
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0733930759792777
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0685686771733216
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0676286373495135
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0635434605679724
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.06268414458238605
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0609433568284552
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.0524209162266796
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.03200083137274605
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.032000831372746
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0292236838285971
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0245398333620681
