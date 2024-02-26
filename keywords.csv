@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2258544469237207
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2221524428044158
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2208435378227047
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.22021365955134928
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2202136595513492
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2197152272610662
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
@@ -14,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1921059848002826
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.18764294156444836
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1856578381867188
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.185590680722099
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
@@ -55,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1509505014713865
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1507583964929339
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1475145420689651
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1466521366148059
