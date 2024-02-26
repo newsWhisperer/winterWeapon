@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2372272287191649
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2276484923681593
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2258544469237207
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.22420167715788986
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2221524428044158
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2208435378227047
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2202136595513492
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1923485926495008
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1921059848002826
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.18764294156444836
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1856578381867188
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.185590680722099
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
