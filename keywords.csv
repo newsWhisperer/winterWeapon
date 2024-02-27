@@ -10,13 +10,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2054562197146592
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.19590922245871098
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1959092224587109
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1930370910691748
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1921059848002826
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1904736168289987
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.18636156248755806
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.185590680722099
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1803552535630214
@@ -72,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1338536428547437
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1338159098149615
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1332071580067528
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1307854342400493
