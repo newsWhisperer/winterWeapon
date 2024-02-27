@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1930370910691748
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1921059848002826
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1904736168289987
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.18810595734563978
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1856578381867188
@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1760319955631807
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1756576163602006
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1711722842976256
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1686632397258527
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1677339581856844
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1669611735705646
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1561199374385567
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1559314021609417
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1547566150215663
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1538640537669748
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1530165144619946
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1526903220341846
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
