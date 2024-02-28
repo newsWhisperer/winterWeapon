@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1760319955631807
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1756576163602006
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.17245180720533337
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1724518072053333
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1711722842976256
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1669611735705646
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0046056398451053
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0008772633439135
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0007456738423264749
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001226513882023
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.584256588730539e-07
