@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.25659488441129014
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2565948844112901
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2276484923681593
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2242016771578898
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2208435378227047
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0046056398451053
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0007456738423264
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.00063382276597744
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001226513882023
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.584256588730539e-07
