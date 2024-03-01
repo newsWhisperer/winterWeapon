@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1959092224587109
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1945225554319659
-'Gazprom',de,Russland,#a6190f,#A33223,2,0.1921059848002826
+'Gazprom',de,Russland,#a6190f,#A33223,2,0.19096876980751293
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1904736168289987
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1724518072053333
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1711722842976256
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.16759697978360524
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1675969797836052
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1669611735705646
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1667401952923269
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.166284986471002
