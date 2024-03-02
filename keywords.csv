@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1959092224587109
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1945225554319659
-'Gazprom',de,Russland,#a6190f,#A33223,2,0.1909687698075129
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1904736168289987
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1787470046079665
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.178249635678401
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
+'Gazprom',de,Russland,#a6190f,#A33223,2,0.17636577342729504
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1760319955631807
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1756576163602006
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1724518072053333
@@ -72,7 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1338536428547437
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1338159098149615
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.13244370776833136
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1324437077683313
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1307854342400493
