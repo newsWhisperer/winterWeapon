@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1787470046079665
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.178249635678401
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
-'Gazprom',de,Russland,#a6190f,#A33223,2,0.17636577342729504
+'Gazprom',de,Russland,#a6190f,#A33223,2,0.176365773427295
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1760319955631807
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1756576163602006
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1724518072053333
@@ -98,6 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0940519779054586
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0913815828950281
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0881271424958688
@@ -115,7 +116,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0635434605679724
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0634250059804854
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.062684144582386
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0609433568284552
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
