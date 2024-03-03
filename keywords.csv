@@ -2,12 +2,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2503298640223238
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2276484923681593
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2242016771578898
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2202136595513492
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2197152272610662
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2165078991110261
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2156253580029477
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2111869143283242
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.2054562197146592
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1945225554319659
@@ -98,7 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0940519779054586
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.09311610466782327
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0931161046678232
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0913815828950281
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
