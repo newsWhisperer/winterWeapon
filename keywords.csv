@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1790126421918456
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1787470046079665
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.178249635678401
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.176365773427295
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1760319955631807
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1530165144619946
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1526903220341846
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.15241327032664084
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
