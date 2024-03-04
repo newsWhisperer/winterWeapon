@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2503298640223238
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2276484923681593
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2242016771578898
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.22227727896442978
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2197152272610662
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2165078991110261
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1878670221492989
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1867377831886974
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.18479761165298175
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1847976116529817
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1803552535630214
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1802204718883878
