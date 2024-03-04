@@ -17,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1878670221492989
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1867377831886974
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.18479761165298175
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1803552535630214
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1802204718883878
@@ -28,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1760319955631807
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1756576163602006
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1724518072053333
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1711722842976256
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1675969797836052
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1669611735705646
@@ -112,7 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0738726336701349
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
-'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.07052754980331909
+'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.070527549803319
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0676286373495135
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0635434605679724
