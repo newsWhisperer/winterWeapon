@@ -116,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0635434605679724
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0634250059804854
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.06279173861961466
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0627917386196146
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0539188602171865
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0057074000003581
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0056556184079146
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0046056398451053
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.003914793868339505
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0006338227659774
