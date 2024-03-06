@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2276484923681593
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2242016771578898
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2197152272610662
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.21663662169475356
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2165078991110261
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2156253580029477
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0006338227659774
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.000104253679971955
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001042536799719
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.584256588730539e-07
