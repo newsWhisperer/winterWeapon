@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2242016771578898
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2197152272610662
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.21825123331147905
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2165078991110261
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0415056248915329
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.03439769411145039
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0343976941114503
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.032000831372746
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
