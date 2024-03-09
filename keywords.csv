@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1878670221492989
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1867377831886974
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1803552535630214
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1615442967382719
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1606728996761627
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1596743691321532
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1596272057103928
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1591255504663622
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1579370819528121
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1570983932721717
