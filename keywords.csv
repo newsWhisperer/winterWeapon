@@ -62,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1418472477497073
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1410681482337439
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.13997588007541
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1365014858498635
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1362390132561728
@@ -81,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1259247605297639
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1241782836435102
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.11987958806409851
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1136215981550348
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1133711108396671
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0006338227659774
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001042536799719
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.1446253853578143e-07
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.1446253853578146e-07
