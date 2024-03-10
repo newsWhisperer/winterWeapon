@@ -107,7 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0863142638035512
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
-'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.07776321451822171
+'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0777632145182217
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0006338227659774
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001042536799719
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.346618100420958e-07
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.1446253853578143e-07
