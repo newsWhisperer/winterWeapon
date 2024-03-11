@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2427209123898218
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.23399520825862125
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.2264273762287035
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.218251233311479
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2165078991110261
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2156253580029477
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
-'Blackout',de,Other,#545557,#6b6c6e,3,0.21165849540852327
+'Blackout',de,Other,#545557,#6b6c6e,3,0.2116584954085232
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2111869143283242
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0006338227659774
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001042536799719
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.1446253853578147e-07
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.144625385357815e-07
