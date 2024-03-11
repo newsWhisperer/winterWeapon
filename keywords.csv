@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,2,0.2264273762287035
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.218251233311479
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.2172294051960387
+'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2172294051960387
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2156253580029477
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1878670221492989
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.18403262924437216
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1840326292443721
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1803552535630214
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1793869712080801
