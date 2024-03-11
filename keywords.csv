@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.2172294051960387
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.2165078991110261
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2156253580029477
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2116584954085232
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1878670221492989
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.18403262924437216
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1803552535630214
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1793869712080801
@@ -106,7 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0863142638035512
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.07914913896764972
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0791491389676497
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0777632145182217
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
