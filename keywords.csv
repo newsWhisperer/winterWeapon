@@ -6,12 +6,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2172294051960387
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2156253580029477
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2131645348283701
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2116584954085232
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2111869143283242
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1968288399050344
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1938871271197652
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1904736168289987
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
@@ -116,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0635434605679724
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0627917386196146
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.060352890402347384
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0603528904023473
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0539188602171865
