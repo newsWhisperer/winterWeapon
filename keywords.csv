@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1842193786348363
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1840326292443721
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1803552535630214
+'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.18035525356302137
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1793869712080801
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1787470046079665
