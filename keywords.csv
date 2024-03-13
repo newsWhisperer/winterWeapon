@@ -120,7 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0539188602171865
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0539112550834125
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.053372977826672406
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0533729778266724
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0486351982956989
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0057074000003581
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0056556184079146
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0033275747880885
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.002828438569875225
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0006338227659774
