@@ -134,8 +134,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0272007066668341
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0237360439397023
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0208588583577578
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018080953364288
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.01773002960409413
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0172889335395705
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0172750258003395
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0154328468315979
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0057074000003581
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0056556184079146
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.002828438569875225
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0028284385698752
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0006338227659774
