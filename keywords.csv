@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.176365773427295
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1756576163602006
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1741414798077071
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.17262329320178632
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1724518072053333
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1675969797836052
@@ -47,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1561199374385567
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1559314021609417
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1538640537669748
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1530165144619946
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1526903220341846
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
