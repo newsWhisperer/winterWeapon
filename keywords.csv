@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2172294051960387
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2156253580029477
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2156253580029477
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2131645348283701
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2116584954085232
