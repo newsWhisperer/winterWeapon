@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,1,0.2311237392925552
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2294690144154367
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.2264273762287035
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.218251233311479
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2172294051960387
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2156253580029477
+'Energieversorgung',de,Other,#545557,#6b6c7e,2,0.21504680703503554
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2131645348283701
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2116584954085232
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0172889335395705
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0172750258003395
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.013267934806858214
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0132679348068582
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0093255644752064
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0057074000003581
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0056556184079146
