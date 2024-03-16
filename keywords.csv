@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,1,0.2311237392925552
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.22946901441543677
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2294690144154367
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.2264273762287035
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.218251233311479
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
@@ -138,8 +138,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0177300296040941
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0172889335395705
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0172750258003395
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0154328468315979
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.013267934806858214
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0093255644752064
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0057074000003581
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0056556184079146
