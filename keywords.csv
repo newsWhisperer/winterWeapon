@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,1,0.2311237392925552
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.22946901441543677
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.2264273762287035
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.218251233311479
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
@@ -13,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1981286498577163
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1938871271197652
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
@@ -91,7 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1057225728713493
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1050991599901139
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.10279773985448373
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1027977398544837
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1020617060566868
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
