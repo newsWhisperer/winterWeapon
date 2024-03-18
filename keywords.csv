@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1509505014713865
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.14852997922151837
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1485299792215183
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1475290844578317
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1466521366148059
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
@@ -129,8 +129,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0352797811578029
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0343976941114503
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.029238039994732755
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0272007066668341
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0237360439397023
