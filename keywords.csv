@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2294690144154367
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2286539318888711
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.2264273762287035
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.218251233311479
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2111869143283242
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1981999672531212
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1981286498577163
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0352797811578029
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0272007066668341
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.024852333995522793
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0248523339955227
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0237360439397023
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018080953364288
