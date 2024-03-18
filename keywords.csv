@@ -83,7 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1136215981550348
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1133711108396671
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.11299665012246508
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.112996650122465
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.1123529199045166
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,2,0.1100745972956566
@@ -130,8 +130,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0352797811578029
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0292380399947327
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0272007066668341
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.024852333995522793
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0237360439397023
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018080953364288
