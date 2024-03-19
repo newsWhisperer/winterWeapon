@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1787470046079665
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.176365773427295
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1744233337623302
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1675969797836052
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1667401952923269
@@ -37,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1615442967382719
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1606728996761627
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.159686968826904
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1596743691321532
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1596272057103928
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1591255504663622
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1579370819528121
