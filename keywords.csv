@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2172294051960387
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2156253580029477
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2131645348283701
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.21341342187684187
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Blackout',de,Other,#545557,#6b6c6e,3,0.212134788369972
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1815388561788977
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1803552535630213
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.17950920717907556
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1795092071790755
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1793869712080801
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1787470046079665
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
