@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2286539318888711
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.22796673171060755
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2279667317106075
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.2264273762287035
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.218251233311479
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
@@ -114,10 +114,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.070527549803319
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0676286373495135
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
-'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.0635434605679724
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0603528904023473
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
+'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.05401204648277654
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0539188602171865
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0539112550834125
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0533729778266724
