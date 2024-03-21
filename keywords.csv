@@ -120,7 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0539112550834125
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0533729778266724
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.05078251618460852
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0507825161846085
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0486351982956989
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
@@ -136,8 +136,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0237360439397023
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018080953364288
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0172889335395705
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0172750258003395
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0150705251634799
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.014683771930288574
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0132679348068582
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0080767448039254
