@@ -13,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1981286498577163
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19529608633612638
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1952870868396108
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
@@ -23,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1795092071790755
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1793869712080801
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1787470046079665
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.176365773427295
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1744233337623302
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018080953364288
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0172889335395705
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0150705251634799
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.014683771930288574
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0146837719302885
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0132679348068582
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0080767448039254
