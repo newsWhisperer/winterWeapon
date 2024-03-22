@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1981286498577163
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1952960863361263
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1952870868396108
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.19089768814077007
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.19089768814077
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
@@ -39,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1606728996761627
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.159686968826904
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1596272057103928
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1591255504663622
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1579370819528121
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1575174373820055
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1570983932721717
@@ -47,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1561199374385567
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1559314021609417
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1538640537669748
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1538442815327715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
