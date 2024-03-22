@@ -6,15 +6,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2172294051960387
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2156253580029477
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2134134218768418
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Blackout',de,Other,#545557,#6b6c6e,3,0.212134788369972
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.2052777655086836
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1981286498577163
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19529608633612638
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1952960863361263
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1952870868396108
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.19089768814077007
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
