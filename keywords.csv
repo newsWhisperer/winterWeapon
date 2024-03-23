@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1793869712080801
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.176365773427295
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.17092481024919523
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1675969797836052
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1667401952923269
@@ -132,7 +133,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0272007066668341
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0248523339955227
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0244409355872885
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0237360439397023
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018080953364288
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0172889335395705
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0132679348068582
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0080767448039254
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.00480727564672741
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0048072756467274
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0041235965002586
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0028284385698752
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0025248729084419
