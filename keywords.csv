@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1952870868396108
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.19089768814077
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1879275096368574
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1833558929427151
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1815388561788977
@@ -26,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1784915311493977
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.176365773427295
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.17633770155675965
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1709248102491952
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1667401952923269
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1623710963924701
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1615442967382719
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1606728996761627
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.15973841319132878
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.159686968826904
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1596272057103928
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1579370819528121
