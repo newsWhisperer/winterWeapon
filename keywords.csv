@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1709248102491952
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1667401952923269
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.166284986471002
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
@@ -36,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1623710963924701
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1615442967382719
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1606728996761627
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.15973841319132878
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1597384131913287
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.159686968826904
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1596272057103928
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1579370819528121
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1466521366148059
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.14202919599847785
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1410681482337439
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
