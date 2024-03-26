@@ -113,11 +113,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0725661855762817
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.070527549803319
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0676286373495135
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0603528904023473
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.05763435674708648
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0539112550834125
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0533729778266724
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0248523339955227
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0237360439397023
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.023120600666808985
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0231206006668089
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0172889335395705
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0153688103596447
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0150705251634799
