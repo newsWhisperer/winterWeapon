@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2268202778654593
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.218251233311479
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2172294051960387
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1981286498577163
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1952960863361263
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1952870868396108
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1944483911856404
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.19089768814077
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0153688103596447
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0132679348068582
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.012809946388957914
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0128099463889579
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0124812061407452
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0080767448039254
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
