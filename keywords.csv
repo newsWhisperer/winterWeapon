@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.21846145063061845
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2184614506306184
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.218251233311479
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.217765607898635
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2172294051960387
@@ -25,11 +25,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1793869712080801
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1790793426284315
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
-'Gazprom',de,Russland,#a6190f,#A33223,2,0.176365773427295
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1709248102491952
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.166284986471002
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.1653502539516623
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
