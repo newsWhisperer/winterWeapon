@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1324437077683313
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.13153452070192856
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1307854342400493
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0132679348068582
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0128099463889579
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0124812061407452
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.01060902521963342
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0080767448039254
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0048072756467274
