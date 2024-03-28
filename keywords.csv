@@ -117,12 +117,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0603528904023473
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0576343567470864
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0539112550834125
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0533729778266724
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0507825161846085
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.04913921823502344
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0486351982956989
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0005387493510807
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001042536799719
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,8.269918409210214e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,8.269918409210215e-08
