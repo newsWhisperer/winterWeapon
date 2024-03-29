@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1790793426284315
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1743545234921367
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1709248102491952
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.166284986471002
@@ -54,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1493099386979806
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1485299792215183
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1475290844578317
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1466521366148059
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0132679348068582
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0128099463889579
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.01060902521963342
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0106090252196334
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0080767448039254
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0048072756467274
