@@ -18,12 +18,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.19089768814077
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1869009095675001
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1833558929427151
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1815388561788977
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1803552535630213
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1793869712080801
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1790793426284315
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1743545234921367
@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0791491389676497
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0781243904607738
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
-'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.07393148273983943
+'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0739314827398394
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0603528904023473
