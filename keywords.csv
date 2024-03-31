@@ -5,9 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2156253580029477
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Blackout',de,Other,#545557,#6b6c6e,3,0.212134788369972
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.21207467429481625
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2120746742948162
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2053841675912608
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.2052777655086836
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1952960863361263
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1793869712080801
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.17643629568238103
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1743545234921367
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1709248102491952
