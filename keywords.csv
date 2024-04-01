@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1793869712080801
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.176436295682381
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1743545234921367
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1709248102491952
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.15192104633002385
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1509505014713865
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
@@ -80,7 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1259247605297639
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1241782836435102
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.12087483159870613
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1208748315987061
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1136215981550348
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1133711108396671
