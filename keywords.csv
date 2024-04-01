@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.22596079078026926
+'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2259607907802692
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2156253580029477
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
@@ -123,10 +123,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0507825161846085
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0491392182350234
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0486351982956989
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.041339918551344064
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0301378289841324
