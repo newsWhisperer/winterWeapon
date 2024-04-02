@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2247775920532488
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.22094499881366916
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2209449988136691
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2156253580029477
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
@@ -109,10 +109,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0800941962196398
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0791491389676497
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0781243904607738
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0739314827398394
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.06640573189165773
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0603528904023473
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
