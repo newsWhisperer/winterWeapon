@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1743545234921367
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1709248102491952
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1684099523790588
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1676289123484809
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.16798586549620878
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1653502539516623
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
@@ -112,7 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0739314827398394
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.06640573189165773
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0664057318916577
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0645982027124203
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0603528904023473
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
