@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2259607907802692
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.22477759205324888
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2156253580029477
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
@@ -11,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1952960863361263
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1952870868396108
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1951933725814801
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1944483911856404
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1930321278406244
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.19089768814077
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.15192104633002385
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1519210463300238
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1509505014713865
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
