@@ -85,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1136215981550348
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1133711108396671
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.112996650122465
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.1123529199045166
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,2,0.1100745972956566
@@ -98,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0970084623721085
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.09694773760409524
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
