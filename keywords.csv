@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1952960863361263
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1951933725814801
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.19355364997674543
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1935536499767454
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1930321278406244
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.19089768814077
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1815388561788977
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1803552535630213
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1793869712080801
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1743545234921367
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1623710963924701
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1615442967382719
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.1614277595858294
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1606728996761627
