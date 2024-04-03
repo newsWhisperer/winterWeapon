@@ -35,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1623710963924701
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1615442967382719
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.16142775958582947
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1606728996761627
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1597384131913287
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.159686968826904
@@ -137,7 +138,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0172889335395705
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0153688103596447
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0132679348068582
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0108884544306142
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0106090252196334
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0080767448039254
