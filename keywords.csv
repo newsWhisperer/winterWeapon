@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2106552257995924
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2053841675912608
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.20323167430250552
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2032316743025055
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1952960863361263
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1951933725814801
@@ -124,11 +124,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0507825161846085
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0491392182350234
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0468655666088921
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.041339918551344
 'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.039985746617558285
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0301378289841324
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
