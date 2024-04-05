@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2247775920532488
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.22976206324526144
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2209449988136691
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
@@ -99,7 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0969477376040952
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,2,0.09371342270130811
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,2,0.0937134227013081
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0881271424958688
