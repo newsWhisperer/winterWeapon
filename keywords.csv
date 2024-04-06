@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2297620632452614
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2209449988136691
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2120746742948162
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2106552257995924
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2053841675912608
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20479433330392674
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2032316743025055
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1410681482337439
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1365014858498635
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.13568327485383389
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1356832748538338
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1356251702302927
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
