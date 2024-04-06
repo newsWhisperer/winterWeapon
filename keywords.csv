@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.23355411899161874
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.2335541189916187
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Blackout',de,Other,#545557,#6b6c6e,3,0.212134788369972
@@ -120,11 +120,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0539112550834125
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0533729778266724
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0507825161846085
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0491392182350234
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.04536703115267154
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.041339918551344
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0399857466175582
