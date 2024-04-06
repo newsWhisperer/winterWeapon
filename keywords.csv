@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2209449988136691
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.23355411899161874
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Blackout',de,Other,#545557,#6b6c6e,3,0.212134788369972
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.041339918551344
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0399857466175582
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
-'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.034424036986129176
+'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0344240369861291
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0301378289841324
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0248523339955227
