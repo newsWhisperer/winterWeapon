@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2120746742948162
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2106552257995924
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2053841675912608
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20479433330392674
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2047943333039267
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2032316743025055
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0153688103596447
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0108884544306142
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0106090252196334
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.00901767143668839
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0071652630833365
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0048072756467274
