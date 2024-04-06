@@ -127,9 +127,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.041339918551344
-'Energie Waffe',de,Russland,#a6190f,#b24325,3,0.0404981082189755
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0399857466175582
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
+'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.034424036986129176
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0301378289841324
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0248523339955227
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0153688103596447
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0108884544306142
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.00901767143668839
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0090176714366883
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0071652630833365
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0048072756467274
