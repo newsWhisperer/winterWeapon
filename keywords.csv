@@ -10,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2032316743025055
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.19716875536494416
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1952960863361263
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1951933725814801
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1935536499767454
@@ -20,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1869009095675001
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1852507817138397
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1833558929427151
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1811389805534611
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1803552535630213
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0491392182350234
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.04536703115267154
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0453670311526715
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.041339918551344
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0399857466175582
