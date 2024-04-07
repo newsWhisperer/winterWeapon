@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2032316743025055
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1988516667869574
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.19814372396698535
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1981437239669853
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1971687553649441
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1952960863361263
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1935536499767454
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0005387493510807
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001042536799719
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,8.269918409210215e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,7.029430647828682e-08
