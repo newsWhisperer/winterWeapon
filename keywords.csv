@@ -12,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1988516667869574
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1981437239669853
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1971687553649441
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.19666240056197556
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1952960863361263
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1935536499767454
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1930321278406244
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.19089768814077
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1881059573456397
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1876429415644483
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1869009095675001
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1852507817138397
