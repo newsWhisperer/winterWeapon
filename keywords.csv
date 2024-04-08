@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1743545234921367
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1709248102491952
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1679858654962087
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.16572846366453073
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1657284636645307
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1653502539516623
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
@@ -124,10 +124,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0491392182350234
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0453670311526715
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.041339918551344
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0399857466175582
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.038561976479770776
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0344240369861291
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0301378289841324
