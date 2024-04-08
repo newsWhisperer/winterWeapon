@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.2335541189916187
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.23034967892065367
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Blackout',de,Other,#545557,#6b6c6e,3,0.212134788369972
@@ -127,7 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.041339918551344
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0399857466175582
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.038561976479770776
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0385619764797707
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0344240369861291
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0301378289841324
