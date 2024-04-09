@@ -81,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1256235350866629
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1241782836435102
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1208748315987061
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1136215981550348
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1133711108396671
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1050991599901139
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.10289362185890019
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1027977398544837
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1020617060566868
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
