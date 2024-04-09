@@ -84,19 +84,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1136215981550348
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1133711108396671
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.1123529199045166
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1094842936440519
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1050991599901139
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.10289362185890019
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1027977398544837
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1020617060566868
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0970084623721085
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0969477376040952
+'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0965500869188391
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
