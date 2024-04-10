@@ -87,7 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1094842936440519
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.10669736524996139
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1050991599901139
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1027977398544837
@@ -134,8 +134,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0248523339955227
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0237360439397023
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0196525105667875
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0172889335395705
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.016704633981769374
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0153688103596447
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0108884544306142
