@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1988516667869574
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1981437239669853
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.19768206756562667
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1976820675656266
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1971687553649441
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1966624005619755
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1952960863361263
@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1709248102491952
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1679858654962087
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1657284636645307
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1653502539516623
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1597384131913287
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.159686968826904
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1595021268227732
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.15945674275121474
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1579370819528121
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1575174373820055
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1570983932721717
