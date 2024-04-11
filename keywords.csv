@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2858839385028684
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Blackout',de,Other,#545557,#6b6c6e,3,0.212134788369972
@@ -27,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1709248102491952
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1679858654962087
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.16596859748622136
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1659685974862213
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1653502539516623
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
@@ -38,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.1614277595858294
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1606728996761627
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1597384131913287
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.159686968826904
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1595021268227732
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1594567427512147
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1579370819528121
