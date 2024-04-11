@@ -27,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1709248102491952
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1679858654962087
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.16596859748622136
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1653502539516623
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
@@ -39,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1597384131913287
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.159686968826904
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1595021268227732
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.15945674275121474
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1594567427512147
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1579370819528121
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1575174373820055
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1570983932721717
@@ -56,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1500015249683162
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1493099386979806
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1475290844578317
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1466521366148059
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
