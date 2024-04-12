@@ -101,7 +101,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
-'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0881271424958688
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.084685935976852
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0845273037613925
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
@@ -110,6 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0791491389676497
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0783186842330185
+'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.07490811612148848
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0664057318916577
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0048072756467274
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0041235965002586
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0021461419721756
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00173701483672458
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0017370148367245
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0005387493510807
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001042536799719
