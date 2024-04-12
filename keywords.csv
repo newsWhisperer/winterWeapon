@@ -80,8 +80,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1263534270866658
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1256235350866629
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
-'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.11861937198000276
+'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
+'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.11356772388101323
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1133711108396671
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1094842936440519
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
@@ -96,7 +97,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0970084623721085
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0969477376040952
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0965500869188391
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.0910040856780177
