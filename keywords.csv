@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.24315136272743815
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2431513627274381
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Blackout',de,Other,#545557,#6b6c6e,3,0.212134788369972
@@ -80,9 +80,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1263534270866658
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1256235350866629
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
+'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.11861937198000276
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1133711108396671
-'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1123372397625701
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1094842936440519
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
