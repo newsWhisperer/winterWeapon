@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2431513627274381
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Blackout',de,Other,#545557,#6b6c6e,3,0.212134788369972
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2106552257995924
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2068286733183224
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2053841675912608
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2047943333039267
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.11356772388101323
+'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.1135677238810132
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1133711108396671
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1094842936440519
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
