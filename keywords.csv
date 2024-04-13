@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1410681482337439
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
-'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.13692694279935722
+'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1365014858498635
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1356832748538338
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1356251702302927
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012946788970998
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0005387493510807
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001042536799719
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,7.029430647828682e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.97501605065438e-08
