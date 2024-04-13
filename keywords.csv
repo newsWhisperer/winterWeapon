@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2166366216947535
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.2125850903887424
 'Blackout',de,Other,#545557,#6b6c6e,3,0.212134788369972
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2106552257995924
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.20727680162235868
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2068286733183224
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2053841675912608
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2047943333039267
