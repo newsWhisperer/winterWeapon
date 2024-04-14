@@ -4,16 +4,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.2106552257995924
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2068286733183224
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2053841675912608
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2047943333039267
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2022550151798444
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1988516667869574
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1981437239669853
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1976820675656266
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1971687553649441
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1966624005619755
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.19626886714796288
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1962688671479628
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1952960863361263
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1952255995857011
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1944864521923817
