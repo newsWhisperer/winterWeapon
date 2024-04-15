@@ -12,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1971687553649441
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1966624005619755
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1962688671479628
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1952960863361263
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1952255995857011
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1947419409213401
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1944864521923817
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.18765347066205176
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19368050611298007
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1876534706620517
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1869009095675001
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1852507817138397
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
