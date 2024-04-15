@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2047943333039267
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.2022550151798444
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.19959522063014046
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1988516667869574
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1981437239669853
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1976820675656266
@@ -43,7 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1575174373820055
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1570983932721717
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1559314021609417
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.15459025994982206
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1538442815327715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
