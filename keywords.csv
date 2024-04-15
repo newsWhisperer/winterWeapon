@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2047943333039267
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.19959522063014046
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1995952206301404
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1988516667869574
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1981437239669853
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1976820675656266
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1952255995857011
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1947419409213401
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1944864521923817
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1935536499767454
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.18765347066205176
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1869009095675001
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1852507817138397
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
