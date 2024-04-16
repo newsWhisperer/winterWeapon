@@ -35,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1623710963924701
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1615442967382719
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.1614277595858294
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1606728996761627
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1597384131913287
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1594567427512147
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1410681482337439
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.13721361064795498
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1365014858498635
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1356832748538338
