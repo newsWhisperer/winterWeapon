@@ -15,12 +15,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1952255995857011
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1947419409213401
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1944864521923817
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19368050611298007
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19368050611298
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1876534706620517
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1869009095675001
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1852507817138397
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1840101219296535
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.181616712895417
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1811389805534611
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1803552535630213
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
@@ -29,7 +30,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1709248102491952
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1679858654962087
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1659685974862213
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1650598312138596
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1623710963924701
