@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1410681482337439
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1398594916463842
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.13721361064795498
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1372136106479549
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1365014858498635
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1356832748538338
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0041235965002586
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0040861842997182
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0021461419721756
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0017370148367245
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.001476462611215825
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012504920625348
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0005387493510807
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001042536799719
