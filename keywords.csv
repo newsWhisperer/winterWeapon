@@ -54,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1500015249683162
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1493099386979806
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1475290844578317
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.14338009678669383
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
@@ -104,7 +105,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.084685935976852
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0845273037613925
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0800941962196398
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,2,0.0798064242961118
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0791491389676497
