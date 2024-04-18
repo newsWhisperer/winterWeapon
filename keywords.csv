@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.26578082862575875
 'Blackout',de,Other,#545557,#6b6c6e,3,0.212134788369972
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2068286733183224
@@ -63,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1372136106479549
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1365014858498635
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1356832748538338
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1356251702302927
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0040861842997182
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0021461419721756
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0014764626112158
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.00121293325315458
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012129332531545
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0005387493510807
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001042536799719
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.97501605065438e-08
