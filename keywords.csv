@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0237360439397023
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0172889335395705
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0153688103596447
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.014198938884503905
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0141989388845039
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0108884544306142
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0090176714366883
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0040861842997182
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0021461419721756
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0014764626112158
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012504920625348
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.00121293325315458
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0005387493510807
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001042536799719
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.97501605065438e-08
