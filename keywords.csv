@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1995952206301404
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1988516667869574
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1981437239669853
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1976820675656266
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1971687553649441
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1952255995857011
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1944864521923817
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19368050611298
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.19215730995073196
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1876534706620517
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1869009095675001
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1855299878012953
@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.17048438478313907
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.170484384783139
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1659685974862213
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
