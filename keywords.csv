@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.2657808286257587
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2259137493318949
 'Blackout',de,Other,#545557,#6b6c6e,3,0.212134788369972
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2078474151154177
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1952255995857011
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1944864521923817
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19368050611298
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.19215730995073196
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1921573099507319
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1876534706620517
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1869009095675001
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1855299878012953
