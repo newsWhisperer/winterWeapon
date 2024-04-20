@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.2259137493318949
 'Blackout',de,Other,#545557,#6b6c6e,3,0.212134788369972
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2078474151154177
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1952255995857011
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1944864521923817
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19368050611298
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.19247673193211068
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1921573099507319
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1876534706620517
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1869009095675001
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0041235965002586
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0040861842997182
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.00182422067634926
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0018242206763492
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0014764626112158
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012129332531545
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0004579369484185
