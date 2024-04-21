@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blackout',de,Other,#545557,#6b6c6e,3,0.26991746837003194
+'Blackout',de,Other,#545557,#6b6c6e,3,0.2699174683700319
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2078474151154177
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2068286733183224
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0041235965002586
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0040861842997182
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0018242206763492
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0014764626112158
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0012549932195334299
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012129332531545
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0004579369484185
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0001042536799719
