@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1981437239669853
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1976820675656266
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1971687553649441
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1966624005619755
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1962688671479628
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1952255995857011
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.19484460320495192
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1944864521923817
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19368050611298
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1924767319321106
@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.170484384783139
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.16720137417655556
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1672013741765555
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1659685974862213
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
