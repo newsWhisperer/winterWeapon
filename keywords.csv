@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blackout',de,Other,#545557,#6b6c6e,3,0.212134788369972
+'Blackout',de,Other,#545557,#6b6c6e,3,0.22081586011447618
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2078474151154177
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2068286733183224
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0172889335395705
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0153688103596447
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.012069098051828315
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0120690980518283
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0108884544306142
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0090176714366883
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.006240488620836
