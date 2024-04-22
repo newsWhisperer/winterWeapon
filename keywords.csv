@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.170484384783139
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1693803874307826
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1672013741765555
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1659685974862213
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
@@ -54,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1500015249683162
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1493099386979806
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1475290844578317
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1470764030500722
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1452860887118159
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0399857466175582
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0385619764797707
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.03516678798710338
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0351667879871033
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0344240369861291
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0301378289841324
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
