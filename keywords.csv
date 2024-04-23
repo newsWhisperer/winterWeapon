@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1659685974862213
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.164055267142294
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.16350142070203177
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1635014207020317
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
@@ -53,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1500015249683162
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1493099386979806
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.14914322621846623
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1470764030500722
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1452860887118159
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
@@ -68,7 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1338959180507075
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1324437077683313
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
