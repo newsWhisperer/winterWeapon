@@ -31,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1659685974862213
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.16218113360733874
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.161375384308141
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1606728996761627
@@ -52,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1500015249683162
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1493099386979806
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1475290844578317
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1470764030500722
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1452860887118159
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
