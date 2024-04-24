@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blackout',de,Other,#545557,#6b6c6e,3,0.2699174683700319
+'Blackout',de,Other,#545557,#6b6c6e,3,0.2434719422054362
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2068286733183224
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2036019538939502
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1193306128994265
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.11602626297238397
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1160262629723839
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.1135677238810132
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1133711108396671
