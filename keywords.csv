@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1845764733083377
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1840101219296535
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.18390056799988808
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.183900567999888
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.181616712895417
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1811389805534611
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
@@ -64,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1373128622275311
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1372136106479549
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1365014858498635
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1356251702302927
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1222434167808431
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1193306128994265
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.11602626297238397
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.1135677238810132
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1133711108396671
