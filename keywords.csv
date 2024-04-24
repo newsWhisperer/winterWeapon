@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1971687553649441
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1952255995857011
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1948446032049519
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1944864521923817
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19368050611298
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1921573099507319
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1876534706620517
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1845764733083377
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1840101219296535
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.18390056799988808
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.181616712895417
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1811389805534611
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
