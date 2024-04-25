@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2434719422054362
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2416524644462213
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2068286733183224
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2036019538939502
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2016974209250281
@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0351667879871033
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0344240369861291
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.03277768000780509
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.032777680007805
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0301378289841324
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0201756373487469
