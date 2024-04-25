@@ -20,11 +20,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1840101219296535
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.183900567999888
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.181616712895417
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1811389805534611
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1729631045974681
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1693803874307826
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1659685974862213
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.164055267142294
