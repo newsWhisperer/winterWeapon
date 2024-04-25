@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1193306128994265
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1160262629723839
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.11528193469574878
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1152819346957487
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.1135677238810132
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1133711108396671
@@ -127,10 +127,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.041339918551344
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0399857466175582
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0385619764797707
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0351667879871033
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0344240369861291
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.03277768000780509
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0301378289841324
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0201756373487469
