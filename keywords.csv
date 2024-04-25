@@ -37,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1606728996761627
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1597384131913287
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1594567427512147
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1580079859986823
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1579370819528121
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1575174373820055
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1570983932721717
@@ -60,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1410681482337439
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1373128622275311
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1372136106479549
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
