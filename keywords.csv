@@ -56,7 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1470764030500722
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1452860887118159
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.14397374931616522
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1439737493161652
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
@@ -95,6 +95,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1020617060566868
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.09773862183918783
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0970084623721085
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0969477376040952
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
@@ -121,7 +122,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0539112550834125
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0507825161846085
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.049490568550305
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0491392182350234
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
