@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2068286733183224
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20275048822117797
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2027504882211779
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2016974209250281
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1995952206301404
@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1729631045974681
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1693803874307826
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1659685974862213
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.164055267142294
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1639199489858441
@@ -57,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1470764030500722
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1452860887118159
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.14397374931616522
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
