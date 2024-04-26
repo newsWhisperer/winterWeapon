@@ -95,7 +95,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1020617060566868
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.099401890836572
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.09773862183918783
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0977386218391878
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0970084623721085
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0969477376040952
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
@@ -134,8 +134,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0301378289841324
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0201756373487469
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0172889335395705
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0153688103596447
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.014845608508634924
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0120690980518283
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0108884544306142
