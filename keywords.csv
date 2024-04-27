@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2416524644462213
-'Blackout',de,Other,#545557,#6b6c6e,3,0.20935238087462077
+'Blackout',de,Other,#545557,#6b6c6e,3,0.2093523808746207
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2068286733183224
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
@@ -142,8 +142,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0090176714366883
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.006240488620836
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0041235965002586
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0040861842997182
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0035050570252198104
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0018242206763492
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0012549932195334
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012129332531545
