@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2980790883805766
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.20966055649965176
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.23199852131419327
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2096605564996517
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2093523808746207
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2068286733183224
@@ -16,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19368050611298
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1921573099507319
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1876534706620517
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1869009095675001
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1852507817138397
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1840101219296535
