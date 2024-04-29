@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1729631045974681
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1690635079198868
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.164055267142294
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1635014207020317
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1398970220709499
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1373128622275311
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1372136106479549
