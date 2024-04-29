@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.26741362421439924
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2674136242143992
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.2319985213141932
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2096605564996517
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2093523808746207
@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1840101219296535
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.183900567999888
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1811389805534611
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1763377015567596
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1570983932721717
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1559314021609417
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.15396837347044193
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1538442815327715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
