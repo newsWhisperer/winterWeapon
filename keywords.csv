@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2674136242143992
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.23225699558223928
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.2319985213141932
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2096605564996517
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2093523808746207
@@ -78,7 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1263534270866658
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1256235350866629
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1193306128994265
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.11919343290008028
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1191934329000802
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1160262629723839
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1152819346957487
