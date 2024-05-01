@@ -117,12 +117,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.056444872107909
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0539112550834125
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0507825161846085
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0491392182350234
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.04797814129172265
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0018242206763492
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0012549932195334
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012129332531545
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.00038924640615572504
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003892464061557
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,8.8615627976115e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.97501605065438e-08
