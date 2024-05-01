@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2518643594001687
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.2319985213141932
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2096605564996517
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2093523808746207
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
@@ -12,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2016974209250281
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1995952206301404
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1981437239669853
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1952255995857011
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1948446032049519
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19368050611298
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0507825161846085
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0491392182350234
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.04797814129172265
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
