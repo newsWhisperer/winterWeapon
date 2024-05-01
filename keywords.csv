@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0351667879871033
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0351389307686424
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0344240369861291
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.03398788462492447
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.032777680007805
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0301378289841324
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0018242206763492
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0012549932195334
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012129332531545
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0004579369484185
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.00038924640615572504
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,8.8615627976115e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.97501605065438e-08
