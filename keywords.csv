@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.259107611806183
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.22629146662634958
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2140850954901434
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.2112406572079733
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2096605564996517
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2093523808746207
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2069193307903578
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2068286733183224
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2043637538783843
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1160262629723839
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1152819346957487
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.11411156034310138
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1141115603431013
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.1135677238810132
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1133711108396671
