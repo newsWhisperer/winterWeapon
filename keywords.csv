@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.2319985213141932
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2140850954901434
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.21124065720797333
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2096605564996517
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2093523808746207
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0791491389676497
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0783186842330185
-'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.07735434282631504
+'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.077354342826315
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0749081161214884
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
