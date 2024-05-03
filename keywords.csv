@@ -1,13 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.259107611806183
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.22629146662634958
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2262914666263495
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2140850954901434
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.2112406572079733
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2096605564996517
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2093523808746207
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2068286733183224
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2043637538783843
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1840101219296535
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.17580441732057403
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1729631045974681
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1690635079198868
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1658116573453593
