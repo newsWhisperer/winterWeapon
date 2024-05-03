@@ -21,9 +21,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1840101219296535
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1779723944662616
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.17580441732057403
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.175804417320574
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1729631045974681
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,3,0.1690635079198868
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1658116573453593
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1635014207020317
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
@@ -54,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1470764030500722
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1439737493161652
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1437048667319038
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
