@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.259107611806183
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.22659314183355025
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2262914666263495
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2140850954901434
@@ -7,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.2112406572079733
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2096605564996517
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2093523808746207
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2072768016223586
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2043637538783843
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0148456085086349
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0108884544306142
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.010408748344054055
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.010408748344054
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0090176714366883
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.006240488620836
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
