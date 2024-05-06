@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.259107611806183
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.245871451463827
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2265931418335502
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2262914666263495
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2140850954901434
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.21374173891266757
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2137417389126675
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2123270152963223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2096605564996517
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2043637538783843
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012129332531545
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003892464061557
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,8.8615627976115e-05
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.078763643056225e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.0787636430562253e-08
