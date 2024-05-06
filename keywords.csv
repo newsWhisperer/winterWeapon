@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2140850954901434
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2123270152963223
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.2112406572079733
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2096605564996517
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2043637538783843
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
@@ -16,10 +15,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1948446032049519
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19368050611298
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1921573099507319
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.18905104817223184
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1852507817138397
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1840101219296535
-'Blackout',de,Other,#545557,#6b6c6e,3,0.18176197193948915
+'Blackout',de,Other,#545557,#6b6c6e,3,0.1817619719394891
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.175804417320574
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1754252180471068
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0012129332531545
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003892464061557
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,8.8615627976115e-05
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.0787636430562253e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.078763643056225e-08
