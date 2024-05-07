@@ -27,11 +27,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1718535349952532
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1697515212230687
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1658116573453593
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.16541647311183505
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1635014207020317
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1606728996761627
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1597384131913287
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1594567427512147
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1580079859986823
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.032777680007805
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0301378289841324
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.017149291746434862
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0171492917464348
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0148456085086349
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
