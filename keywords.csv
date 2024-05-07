@@ -14,12 +14,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1952255995857011
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1948446032049519
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19368050611298
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.19102646373898965
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1910264637389896
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1890510481722318
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1852507817138397
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1840101219296535
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1817619719394891
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.175804417320574
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1754252180471068
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1597384131913287
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1594567427512147
+'Blackout',de,Other,#545557,#6b6c6e,3,0.15944901114856572
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1580079859986823
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1579370819528121
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1575174373820055
