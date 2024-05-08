@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2265931418335502
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2262914666263495
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.22166151383890545
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2216615138389054
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2140850954901434
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
@@ -86,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.1135677238810132
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1133711108396671
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1094842936440519
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
@@ -101,6 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0969477376040952
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.09306164959744412
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0915154166415418
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0893347509915968
