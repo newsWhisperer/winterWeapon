@@ -25,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1729631045974681
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1718535349952532
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1697515212230687
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.166253742529887
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1658116573453593
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.165416473111835
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1635014207020317
@@ -43,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1539683734704419
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1538442815327715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1523347008373002
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1519210463300238
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
@@ -75,7 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1268888611448272
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1263534270866658
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1256235350866629
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.12547813887631115
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1254781388763111
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1234931754050435
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1193306128994265
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1191934329000802
