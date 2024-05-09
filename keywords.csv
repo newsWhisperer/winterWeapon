@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1890510481722318
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1852507817138397
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1840101219296535
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.175804417320574
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1754252180471068
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1718535349952532
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1697515212230687
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.166253742529887
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.16590881318566
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1658116573453593
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.165416473111835
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1635014207020317
@@ -46,7 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1519210463300238
-'Gasstreit',de,Other,#545557,#6b6c7e,2,0.15118100826518133
+'Gasstreit',de,Other,#545557,#6b6c7e,2,0.1511810082651813
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1509505014713865
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
