@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1191934329000802
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1160262629723839
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1152819346957487
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.11449028949138639
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1141115603431013
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.1135677238810132
@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0783186842330185
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.06783546065169503
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.067835460651695
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0592167951688186
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
