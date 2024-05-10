@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2123270152963223
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2043637538783843
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.202316724484733
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1995952206301404
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1952255995857011
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.19510184399384123
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1948446032049519
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1910264637389896
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1890510481722318
@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.03907839454776551
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0390783945477655
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0351667879871033
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0351389307686424
