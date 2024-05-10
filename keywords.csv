@@ -52,7 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1493099386979806
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.14653901803960837
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1439737493161652
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1437048667319038
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
@@ -124,8 +124,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0491392182350234
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0459745818209006
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.03907839454776551
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0351667879871033
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0351389307686424
