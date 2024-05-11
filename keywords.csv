@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2137417389126675
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2123270152963223
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.20502393262804303
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2043637538783843
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2032941239474303
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1995952206301404
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1952255995857011
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
