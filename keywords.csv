@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1911662895927327
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1910264637389896
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1890510481722318
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1887529109060273
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1852507817138397
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1832163088323966
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1754252180471068
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1729631045974681
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1718535349952532
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.16993860881557776
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.166253742529887
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.16590881318566
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1658116573453593
