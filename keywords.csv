@@ -21,13 +21,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.175804417320574
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1754252180471068
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.17360479714505975
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1729631045974681
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1718535349952532
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.16993860881557776
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1699386088155777
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.166253742529887
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.16590881318566
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1658116573453593
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.165416473111835
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1635014207020317
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
