@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.175804417320574
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1754252180471068
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.17360479714505975
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1729631045974681
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1718535349952532
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1699386088155777
@@ -94,9 +94,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1020617060566868
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.10104409665265586
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0977386218391878
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0970084623721085
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0969477376040952
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
