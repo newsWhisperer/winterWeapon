@@ -25,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1729631045974681
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1718535349952532
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1699386088155777
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.16708161405076166
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.166253742529887
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.16590881318566
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1658116573453593
@@ -62,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1398970220709499
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1373128622275311
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1372136106479549
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
@@ -94,7 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1020617060566868
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.10104409665265586
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1010440966526558
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0977386218391878
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0969477376040952
