@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2262914666263495
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.22213737919330048
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2221373791933004
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2216615138389054
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202845332857904
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.166253742529887
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.16590881318566
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1658116573453593
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1635014207020317
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1575174373820055
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1570983932721717
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1559314021609417
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.15472757259672693
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1538442815327715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
