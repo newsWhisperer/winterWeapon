@@ -33,9 +33,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
+'Blackout',de,Other,#545557,#6b6c6e,3,0.1600330994762808
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1597384131913287
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1594567427512147
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1594490111485657
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1580079859986823
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1579370819528121
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1575174373820055
@@ -74,7 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1295521347776446
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1268888611448272
-'russisches Gas',de,Russland,#a6190f,#b32319,3,0.12599076666002956
+'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1259907666600295
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1256235350866629
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1254781388763111
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1234931754050435
