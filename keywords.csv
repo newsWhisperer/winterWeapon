@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2262914666263495
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2221373791933004
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2216615138389054
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202845332857904
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.205023932628043
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2043637538783843
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1995952206301404
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.19730197663239707
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1911662895927327
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1910264637389896
@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1575174373820055
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1570983932721717
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1559314021609417
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.15472757259672693
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1547275725967269
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1538442815327715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
