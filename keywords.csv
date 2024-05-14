@@ -5,14 +5,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2140850954901434
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2123270152963223
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.205023932628043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2048158362575855
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2043637538783843
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1995952206301404
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.197301976632397
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.19201596289340145
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1920159628934014
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1915115663352073
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1911662895927327
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1910264637389896
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1890510481722318
