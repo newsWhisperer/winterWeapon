@@ -7,11 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2123270152963223
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.205023932628043
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.20481583625758554
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2048158362575855
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2043637538783843
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1995952206301404
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.197301976632397
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.19201596289340145
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1911662895927327
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1910264637389896
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1890510481722318
@@ -62,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1398970220709499
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1373128622275311
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
