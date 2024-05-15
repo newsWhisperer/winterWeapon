@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.24501239185975987
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2450123918597598
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2216615138389054
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202845332857904
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
@@ -93,7 +93,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1020617060566868
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1010440966526558
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0977386218391878
@@ -104,6 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0915154166415418
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0893347509915968
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.08750252514818378
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.084685935976852
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0845273037613925
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.0844918472110862
