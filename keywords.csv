@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1718535349952532
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1699386088155777
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1670816140507616
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.166253742529887
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.16590881318566
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1658116573453593
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1547275725967269
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1538442815327715
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.15268996056216866
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1519210463300238
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.032777680007805
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.02561715463651254
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0256171546365125
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0171492917464348
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0148456085086349
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
