@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2140850954901434
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.20991069808079582
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2099106980807958
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.205023932628043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2048158362575855
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2043637538783843
@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1754252180471068
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1729631045974681
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1718535349952532
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1699386088155777
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1670816140507616
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.16590881318566
@@ -54,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1493099386979806
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1468265697459652
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1439737493161652
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1437048667319038
