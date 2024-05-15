@@ -103,7 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0915154166415418
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0893347509915968
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.08750252514818378
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0875025251481837
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.084685935976852
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0845273037613925
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.0844918472110862
@@ -132,8 +132,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0344240369861291
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.032777680007805
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0301378289841324
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.02561715463651254
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0171492917464348
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0148456085086349
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
