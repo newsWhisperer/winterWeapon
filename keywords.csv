@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2450123918597598
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2216615138389054
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202845332857904
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2140850954901434
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.20991069808079582
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.205023932628043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2048158362575855
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2043637538783843
@@ -43,7 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1547275725967269
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1538442815327715
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.15268996056216866
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1526899605621686
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1519210463300238
