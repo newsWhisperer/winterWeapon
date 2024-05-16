@@ -139,8 +139,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.010408748344054
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.009255186266022
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0090176714366883
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0078669083261187
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.006240488620836
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0040861842997182
