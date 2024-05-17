@@ -10,12 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1995952206301404
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.197301976632397
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19250328932571892
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1925032893257189
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1920159628934014
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1915115663352073
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1911662895927327
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1910264637389896
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1890510481722318
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1852507817138397
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1754252180471068
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1729631045974681
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.17019004549185157
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1699386088155777
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1670816140507616
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.16590881318566
