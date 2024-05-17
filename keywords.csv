@@ -10,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1995952206301404
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.197301976632397
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.19250328932571892
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1920159628934014
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1915115663352073
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1911662895927327
@@ -17,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1890510481722318
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1852507817138397
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1832163088323966
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.179574912717208
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.175804417320574
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1754252180471068
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0040861842997182
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0029792984714368
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0012549932195334
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.00112029952286287
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0011202995228628
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003892464061557
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,7.532328377969775e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,4.316949096597791e-08
