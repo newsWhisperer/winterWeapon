@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1754252180471068
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1729631045974681
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1701900454918515
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.16779458684989196
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1675824406750592
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1670816140507616
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.16590881318566
@@ -95,7 +95,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1010440966526558
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0977386218391878
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.09743265529886122
+'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0974326552988612
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0969477376040952
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0963757127816741
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
