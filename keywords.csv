@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1729631045974681
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1701900454918515
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.16758244067505923
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1675824406750592
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1670816140507616
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.16590881318566
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1658116573453593
@@ -85,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1141115603431013
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.1135677238810132
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1104069233046261
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
@@ -96,6 +95,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1010440966526558
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0977386218391878
+'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.09743265529886122
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0969477376040952
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0963757127816741
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
