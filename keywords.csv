@@ -85,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1141115603431013
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
-'Energiewende Russland',de,Klimawandel,#578223,#235c35,3,0.1104069233046261
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0963757127816741
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
+'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0930616495974441
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0893347509915968
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0040861842997182
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0029792984714368
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0012549932195334
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.00095225459443338
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0009522545944333
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003892464061557
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,6.402479121274309e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,4.316949096597791e-08
