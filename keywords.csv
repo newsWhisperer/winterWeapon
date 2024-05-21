@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2216615138389054
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202845332857904
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2174331299983637
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.215024867160263
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2140850954901434
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0171492917464348
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.01072595214748866
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0107259521474886
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.010408748344054
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0078669083261187
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.007815035721185
