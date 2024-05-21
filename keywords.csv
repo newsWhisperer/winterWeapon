@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1398970220709499
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.13577765121262939
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1357776512126293
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.1320161035058977
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0029792984714368
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0012549932195334
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0009522545944333
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003892464061557
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.000330859445232345
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,6.402479121274309e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,4.316949096597791e-08
