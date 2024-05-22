@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1925032893257189
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1920159628934014
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1915115663352073
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.1911662895927327
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1910264637389896
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1852507817138397
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844214144301626
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1675824406750592
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1670816140507616
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.16249152615382279
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1600330994762808
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1509505014713865
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1505910058822646
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.15052132075326555
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1505213207532655
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1498837997224879
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1468265697459652
