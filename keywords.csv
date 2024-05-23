@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.14261943194314738
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1426194319431473
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1398970220709499
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0034732566547604
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0029792984714368
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0012549932195334
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00106674423660339
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0009522545944333
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003308594452323
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,6.402479121274309e-05
