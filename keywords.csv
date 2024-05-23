@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.23629541377390106
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202845332857904
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2174331299983637
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.215024867160263
@@ -9,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.205023932628043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2048158362575855
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1995952206301404
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.197301976632397
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1925032893257189
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1920159628934014
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.006240488620836
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0034732566547604
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.00253240370072128
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0025324037007212
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010667442366033
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0009522545944333
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003308594452323
