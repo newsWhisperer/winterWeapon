@@ -50,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1505213207532655
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1498837997224879
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1468265697459652
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1439737493161652
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1437048667319038
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1295521347776446
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1269135528932835
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1268888611448272
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1256235350866629
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1254781388763111
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1193306128994265
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0034732566547604
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0029792984714368
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00106674423660339
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010667442366033
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0009522545944333
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003308594452323
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,6.402479121274309e-05
