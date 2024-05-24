@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.236295413773901
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2174331299983637
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.215024867160263
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.21492277102019458
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2140850954901434
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1677002289764044
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1675824406750592
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1627850863849262
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1624915261538227
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
@@ -58,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1426194319431473
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.14091757842718727
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1398970220709499
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
