@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2140850954901434
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2090078931820219
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.205023932628043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2048158362575855
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1995952206301404
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.19624383784108224
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1925032893257189
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1920159628934014
@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1426194319431473
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.14091757842718727
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1409175784271872
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1398970220709499
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
