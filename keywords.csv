@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.23629541377390106
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.236295413773901
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202845332857904
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2174331299983637
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.215024867160263
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0025324037007212
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010667442366033
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0009522545944333
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003308594452323
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.000281230528447455
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,6.402479121274309e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,4.316949096597791e-08
