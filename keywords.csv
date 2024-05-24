@@ -9,12 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.205023932628043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2048158362575855
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1995952206301404
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.19624383784108224
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1925032893257189
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1920159628934014
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1910264637389896
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,3,0.1852507817138397
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844391049929109
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1821764723313659
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1580079859986823
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1579370819528121
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1575174373820055
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.15746319445676377
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1570983932721717
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1559314021609417
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1547275725967269
