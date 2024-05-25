@@ -31,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1579370819528121
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1575174373820055
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1574631944567637
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1570983932721717
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1559314021609417
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1547275725967269
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1547132846133749
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1409175784271872
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1398970220709499
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.13848724928134595
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1357776512126293
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
@@ -102,7 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0930616495974441
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0893347509915968
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.08922381923014386
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0892238192301438
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0875025251481837
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.084685935976852
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0845273037613925
