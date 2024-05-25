@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.22398525988963405
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.223985259889634
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2174331299983637
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.215024867160263
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
@@ -90,7 +90,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1049691990942869
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1010440966526558
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.1010271270885778
@@ -103,6 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0930616495974441
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0893347509915968
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.08922381923014386
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0875025251481837
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.084685935976852
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0845273037613925
