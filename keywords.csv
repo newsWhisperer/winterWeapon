@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1624915261538227
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1600330994762808
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1594567427512147
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1580079859986823
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1579370819528121
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1398970220709499
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1384872492813459
+'Blackout',de,Other,#545557,#6b6c6e,3,0.13737925955483868
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1357776512126293
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
@@ -85,7 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.112046246661025
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.10845608697310312
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1084560869731031
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
