@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.223985259889634
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2174331299983637
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.215024867160263
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2048158362575855
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1995952206301404
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1953398259061889
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1925032893257189
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1920159628934014
