@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1624915261538227
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1594567427512147
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1580079859986823
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1579370819528121
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1575174373820055
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1505213207532655
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1498837997224879
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.14958059542944158
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1439737493161652
@@ -84,7 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1141115603431013
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.112046246661025
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.10966244277648209
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1084560869731031
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
