@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2245023862734931
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2174331299983637
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.21704214183680043
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.2170421418368004
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.215024867160263
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142892662810284
@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1920159628934014
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1910264637389896
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844391049929109
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.18358057648583345
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1821764723313659
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1731243454723156
