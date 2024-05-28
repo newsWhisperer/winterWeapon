@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1920159628934014
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844391049929109
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.18358057648583345
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1835805764858334
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1821764723313659
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1731243454723156
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0107259521474886
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.010408748344054
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0089974510924459
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0078669083261187
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.007815035721185
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.006240488620836
