@@ -115,9 +115,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0783186842330185
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.067835460651695
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.05766014155394075
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0507825161846085
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.032777680007805
 'Energie Waffe',de,Russland,#a6190f,#b24325,1,0.0292606564382097
-'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457086
+'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0217745814410356
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0171492917464348
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
