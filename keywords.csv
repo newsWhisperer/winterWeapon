@@ -131,8 +131,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0351389307686424
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.032777680007805
-'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0300509240864201
 'Energie Waffe',de,Russland,#a6190f,#b24325,1,0.0292606564382097
+'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457086
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0217745814410356
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0171492917464348
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
