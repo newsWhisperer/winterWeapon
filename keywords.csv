@@ -93,7 +93,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1010440966526558
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0974326552988612
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0969477376040952
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0963757127816741
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
@@ -107,6 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0860249446712333
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0858730580252911
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0845273037613925
+'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.08401787700403202
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0810843508934958
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.080227792856457
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
 'Energie Waffe',de,Russland,#a6190f,#b24325,1,0.0292606564382097
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.02786102800663425
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0278610280066342
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0217745814410356
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0171492917464348
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
