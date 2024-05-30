@@ -57,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1426194319431473
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1409175784271872
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1398970220709499
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1384872492813459
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
@@ -77,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1254781388763111
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1193306128994265
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1191934329000802
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.11891246876030741
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1160262629723839
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1158243724094634
@@ -98,7 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0930616495974441
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.09218821392713764
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0893347509915968
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0892238192301438
