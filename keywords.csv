@@ -92,7 +92,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1010440966526558
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0969477376040952
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0963757127816741
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
@@ -103,6 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0875025251481837
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0860249446712333
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.08588772215475743
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0858730580252911
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0845273037613925
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.084017877004032
