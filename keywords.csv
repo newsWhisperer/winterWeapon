@@ -74,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1256235350866629
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1254781388763111
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1226024404016808
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1193306128994265
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1191934329000802
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1189124687603074
@@ -100,7 +101,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0930616495974441
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0893347509915968
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0875025251481837
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0860249446712333
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0858730580252911
@@ -112,7 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0791491389676497
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0783186842330185
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.07584024634562223
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0758402463456222
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
