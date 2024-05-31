@@ -83,7 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1141115603431013
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
-'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.11251371798001306
+'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.112046246661025
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
@@ -117,11 +117,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0576601415539407
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0507825161846085
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0491392182350234
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.04901112032084959
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
