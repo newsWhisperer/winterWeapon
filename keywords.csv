@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.13389024177470465
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1338902417747046
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1307854342400493
@@ -81,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1158243724094634
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1154110035307349
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1141115603431013
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.112046246661025
@@ -92,6 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0971448412916361
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0969477376040952
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0963757127816741
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
