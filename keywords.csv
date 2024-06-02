@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1580079859986823
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1575174373820055
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1574631944567637
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1547275725967269
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1547132846133749
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.13389024177470465
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1307854342400493
