@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1580079859986823
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1574631944567637
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.15651592345330242
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1565159234533024
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1547132846133749
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1538442815327715
@@ -135,8 +135,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0278610280066342
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0217745814410356
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0171492917464348
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0138294405117602
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.01175502443499617
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0091170593253653
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0089974510924459
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0078669083261187
