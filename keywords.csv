@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1731243454723156
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1728332880708542
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1709903370202605
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1677002289764044
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1675824406750592
@@ -47,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
 'Blackout',de,Other,#545557,#6b6c6e,3,0.14899623789434
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
+'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.14534259646722142
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1439737493161652
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1437048667319038
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.002152543145613
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010667442366033
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0009522545944333
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.00023904594918028996
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0002390459491802
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,4.6257911651206885e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,4.316949096597791e-08
