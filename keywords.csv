@@ -51,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1437048667319038
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1426507761382973
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1426194319431473
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1409175784271872
@@ -73,6 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1256235350866629
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1254781388763111
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1226024404016808
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1224532797175527
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1193306128994265
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1191934329000802
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1189124687603074
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0217745814410356
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0171492917464348
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.01175502443499617
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0117550244349961
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0091170593253653
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0089974510924459
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0078669083261187
