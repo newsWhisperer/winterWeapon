@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1835805764858334
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1821764723313659
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.17729215358060108
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.177292153580601
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1731243454723156
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1728332880708542
@@ -97,7 +97,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.0959985354078815
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0930616495974441
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0875025251481837
@@ -110,6 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0810843508934958
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.080227792856457
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.07925241715782749
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0791491389676497
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0783186842330185
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0758402463456222
