@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2143745886116014
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.205023932628043
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.197334230262892
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1957802983324691
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1835805764858334
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1821764723313659
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.17729215358060108
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1731243454723156
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1728332880708542
@@ -46,7 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
 'Blackout',de,Other,#545557,#6b6c6e,3,0.14899623789434
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
-'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.14534259646722142
+'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1453425964672214
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1439737493161652
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1437048667319038
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
