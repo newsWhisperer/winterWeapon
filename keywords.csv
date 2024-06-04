@@ -109,7 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0810843508934958
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.080227792856457
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.07925241715782749
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0792524171578274
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0791491389676497
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0783186842330185
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0758402463456222
@@ -128,8 +128,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0390783945477655
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0351667879871033
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0351389307686424
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.029868091153346037
 'Energie Waffe',de,Russland,#a6190f,#b24325,1,0.0292606564382097
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0278610280066342
