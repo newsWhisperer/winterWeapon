@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,1,0.0292606564382097
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0278610280066342
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0217745814410356
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.01850839422488026
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0171492917464348
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0117550244349961
