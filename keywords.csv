@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0758402463456222
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
-'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.07147195325947144
+'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010667442366033
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0009522545944333
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0002390459491802
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,3.931922490352585e-05
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,3.3421341167996974e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.669406732108122e-08
