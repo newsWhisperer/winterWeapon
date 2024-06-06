@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2182706826356543
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2174331299983637
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.2170421418368004
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.215024867160263
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2143745886116014
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.21143017024030614
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.205023932628043
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1957802983324691
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0034732566547604
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.002152543145613
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010667442366033
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.000809416405268305
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0008094164052683
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0002390459491802
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,3.3421341167996974e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.669406732108122e-08
