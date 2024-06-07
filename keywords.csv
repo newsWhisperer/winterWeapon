@@ -1,17 +1,17 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2174331299983637
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.2170421418368004
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.215024867160263
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2143745886116014
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2114301702403061
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.20710121648166102
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.207101216481661
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.205023932628043
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1957802983324691
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1920159628934014
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.18556823549860912
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844391049929109
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1835805764858334
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
