@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1957802983324691
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1920159628934014
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.18556823549860912
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1855682354986091
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844391049929109
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1835805764858334
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1516064537692108
 'Gasstreit',de,Other,#545557,#6b6c7e,2,0.1511810082651813
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1509505014713865
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1505213207532655
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1498837997224879
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1295521347776446
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.12875797125067853
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1280023549999249
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1269135528932835
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
