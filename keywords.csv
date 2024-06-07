@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1295521347776446
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.12875797125067853
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1287579712506785
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1280023549999249
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1269135528932835
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
@@ -108,13 +108,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.080227792856457
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0792524171578274
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0791491389676497
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0783186842330185
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0758402463456222
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.06751456958415329
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
