@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1580079859986823
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1574631944567637
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1538442815327715
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1526899605621686
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1470813790262161
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1453425964672214
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.14494410930285576
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1439737493161652
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1437048667319038
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0741874582571997
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.06751456958415329
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0675145695841532
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
