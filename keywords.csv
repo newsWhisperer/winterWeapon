@@ -20,10 +20,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1731243454723156
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1728332880708542
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1712540096654521
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.16936931469466582
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1677002289764044
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1655794727556185
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1580079859986823
