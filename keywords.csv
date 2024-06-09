@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1951018439938412
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1920159628934014
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1855682354986091
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.18500218221896236
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1850021822189623
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1844862555612803
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844391049929109
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1835805764858334
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1712540096654521
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1677002289764044
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1675824406750592
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1655794727556185
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1628031593046489
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
