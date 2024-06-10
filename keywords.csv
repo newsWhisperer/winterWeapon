@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.215024867160263
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.27408688844985996
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2143745886116014
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844391049929109
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.177292153580601
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.17427073273383653
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1742707327338365
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1731243454723156
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1728332880708542
