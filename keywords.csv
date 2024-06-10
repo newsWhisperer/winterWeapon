@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.27408688844985996
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2740868884498599
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2143745886116014
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1920159628934014
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1855682354986091
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1850021822189623
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1844862555612803
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1844391049929109
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.177292153580601
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1580079859986823
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1574631944567637
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.15681372222708825
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1526899605621686
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
