@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1655794727556185
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1574631944567637
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.1568137222270882
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1567854645274513
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1338902417747046
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.13384373028824914
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1287579712506785
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1285038570254041
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1280023549999249
-'Blackout',de,Other,#545557,#6b6c6e,3,0.12769789721018898
+'Blackout',de,Other,#545557,#6b6c6e,3,0.1276978972101889
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1269135528932835
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1254781388763111
