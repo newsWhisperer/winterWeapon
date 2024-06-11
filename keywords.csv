@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2740868884498599
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2697443020005627
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2143745886116014
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1338902417747046
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.13384373028824914
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1338437302882491
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
