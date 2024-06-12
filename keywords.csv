@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2143745886116014
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.213691786429322
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2114301702403061
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.207101216481661
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2019031209220493
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1855682354986091
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1850021822189623
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.177292153580601
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1742707327338365
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0675145695841532
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.06446420939377887
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0644642093937788
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
