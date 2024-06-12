@@ -51,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1409175784271872
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1384872492813459
-'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1369269427993572
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1338902417747046
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1285038570254041
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1280023549999249
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1276978972101889
+'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.12742150471278693
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1269135528932835
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1254781388763111
