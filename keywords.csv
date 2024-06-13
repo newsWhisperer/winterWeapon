@@ -11,10 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1920159628934014
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1889992515167015
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1855682354986091
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1850021822189623
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.177292153580601
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1758406485224816
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1742707327338365
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1728332880708542
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0091170593253653
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0089974510924459
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0078669083261187
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.006351433808556119
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0063514338085561
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.006240488620836
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0034732566547604
