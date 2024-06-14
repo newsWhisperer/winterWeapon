@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.1568137222270882
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1526899605621686
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1525645635698984
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1519210463300238
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1516064537692108
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1409175784271872
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1391769685798682
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1384872492813459
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1343870695354056
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1343177498483335
@@ -115,7 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0675145695841532
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0644642093937788
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
-'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.06305933951861975
+'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0630593395186197
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
