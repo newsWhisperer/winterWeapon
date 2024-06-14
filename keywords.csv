@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1505213207532655
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.15037798974011157
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1503779897401115
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1498837997224879
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
@@ -113,10 +113,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0675145695841532
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0644642093937788
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0630593395186197
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.054794577984711976
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0491392182350234
