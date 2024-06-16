@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1712540096654521
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1693693146946658
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1677002289764044
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.16567866281176194
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1470813790262161
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1453425964672214
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.14528162990393642
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1452816299039364
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1449441093028557
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1439737493161652
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
