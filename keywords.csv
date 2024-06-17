@@ -37,7 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1498837997224879
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.14813046782376105
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.148130467823761
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1470813790262161
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1453425964672214
@@ -81,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1142293391050947
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
+'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.11215572146855796
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.112046246661025
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1111677241040419
@@ -90,7 +91,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
-'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1047321332785174
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0971448412916361
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0969477376040952
