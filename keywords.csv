@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.177292153580601
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1758406485224816
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1742707327338365
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1728332880708542
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1712540096654521
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1498837997224879
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.14813046782376105
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1470813790262161
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1453425964672214
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0278610280066342
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.012390363286799076
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.012390363286799
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0117550244349961
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0091170593253653
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0089974510924459
