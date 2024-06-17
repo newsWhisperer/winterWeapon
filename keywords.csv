@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1338902417747046
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1338437302882491
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
-'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.13144069718768706
+'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.131440697187687
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
@@ -134,8 +134,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0278610280066342
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0145768979844695
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.012390363286799076
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0117550244349961
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0091170593253653
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0089974510924459
