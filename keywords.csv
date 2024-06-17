@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1693693146946658
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1656786628117619
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.16321403345939117
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1632140334593911
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
@@ -57,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1338902417747046
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1338437302882491
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
+'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.13144069718768706
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
@@ -64,7 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1285038570254041
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1280023549999249
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1276978972101889
-'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.1274215047127869
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1269135528932835
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1254781388763111
