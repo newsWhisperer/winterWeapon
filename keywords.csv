@@ -32,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1516064537692108
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1505213207532655
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1503779897401115
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1498837997224879
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1338902417747046
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1338437302882491
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.13289562764027565
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.131440697187687
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.04176833549976989
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0417683354997698
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0390783945477655
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
