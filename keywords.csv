@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1338902417747046
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1338437302882491
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.13289562764027565
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1328956276402756
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.131440697187687
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
@@ -87,13 +87,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1111677241040419
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.10920575696348091
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0971448412916361
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0969477376040952
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.095962364955332
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.094588439430601
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
