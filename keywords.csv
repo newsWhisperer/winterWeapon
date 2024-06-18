@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2326293807744066
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.213691786429322
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.207101216481661
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2019031209220493
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1889992515167015
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1855682354986091
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1816380334649237
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.177292153580601
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1758406485224816
@@ -87,7 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1111677241040419
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.10920575696348091
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1092057569634809
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
