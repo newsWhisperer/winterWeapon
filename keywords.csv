@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1142293391050947
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
-'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.11215572146855796
+'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.112046246661025
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1111677241040419
@@ -119,12 +119,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0547945779847119
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0491392182350234
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0490111203208495
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0481188737569172
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.04176833549976989
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0390783945477655
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
