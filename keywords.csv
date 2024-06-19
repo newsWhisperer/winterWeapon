@@ -61,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1312936545664898
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1287579712506785
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1285038570254041
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1280023549999249
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1276978972101889
@@ -87,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1111677241040419
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.10944427556307673
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1092057569634809
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
@@ -105,7 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0845273037613925
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.084017877004032
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
-'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.08055018851601085
+'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0805501885160108
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.080227792856457
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0791491389676497
