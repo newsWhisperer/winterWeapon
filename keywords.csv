@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2478712253368419
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2338243997181338
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2326293807744066
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
@@ -86,7 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1111677241040419
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.10944427556307673
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1092057569634809
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
