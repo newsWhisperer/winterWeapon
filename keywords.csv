@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2326293807744066
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.20824832430586826
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.207101216481661
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2019031209220493
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.012390363286799
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0117550244349961
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.010141785769746683
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0091170593253653
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0089974510924459
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0078669083261187
