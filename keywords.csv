@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1545423434451851
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1526899605621686
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1519210463300238
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1516064537692108
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.131440697187687
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.12973294938052024
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1285038570254041
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1280023549999249
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1276978972101889
@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.112046246661025
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.11159984638151633
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1111677241040419
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
