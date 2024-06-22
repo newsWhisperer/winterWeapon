@@ -115,7 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0630593395186197
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0584333905973233
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.057537399146530215
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0575373991465302
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0547945779847119
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0089974510924459
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0078669083261187
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0063514338085561
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.006240488620836
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0053044153277106
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0052106984273853
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0029522681565463
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.002152543145613
