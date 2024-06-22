@@ -53,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1343177498483335
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1338902417747046
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1338437302882491
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1328956276402756
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.131440697187687
@@ -77,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1142293391050947
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.11376717074501175
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.112046246661025
