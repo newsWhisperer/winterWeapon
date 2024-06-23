@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1619699383023707
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1609702266202977
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.15941495202636125
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1594149520263612
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1545423434451851
@@ -125,10 +125,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0417683354997698
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.04021499566159122
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0390783945477655
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0307923547890378
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.029868091153346
 'Energie Waffe',de,Russland,#a6190f,#b24325,1,0.0292606564382097
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
