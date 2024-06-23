@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1594149520263612
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1545423434451851
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1526899605621686
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1516064537692108
@@ -54,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1328956276402756
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.13151100692840734
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.131440697187687
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0417683354997698
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.04021499566159122
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0402149956615912
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0390783945477655
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
