@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1328956276402756
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.13151100692840734
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1315110069284073
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.131440697187687
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
@@ -69,7 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1193306128994265
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1191934329000802
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1160262629723839
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1158243724094634
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1154110035307349
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
@@ -93,6 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0971448412916361
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.095962364955332
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
