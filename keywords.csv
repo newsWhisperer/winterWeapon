@@ -60,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1297329493805202
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1285038570254041
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1276978972101889
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1269135528932835
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1254781388763111
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1226024404016808
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1111677241040419
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.11027675995929095
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0066868720772008
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0063514338085561
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.004508753028554
-'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.004429093663277504
+'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0044290936632775
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0029522681565463
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.002152543145613
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010567476011128
