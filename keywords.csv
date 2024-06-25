@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1111677241040419
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.11027675995929095
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1102767599592909
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
@@ -119,12 +119,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0540120464827765
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0498183970077248
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0490111203208495
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0481188737569172
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0417683354997698
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.041659452272722074
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0402149956615912
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0390783945477655
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
