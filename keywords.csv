@@ -25,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1619699383023707
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1609702266202977
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.15634552127849372
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1526899605621686
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
@@ -45,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1409175784271872
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1391769685798682
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1357150040813936
@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0417683354997698
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.041659452272722074
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.041659452272722
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0402149956615912
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0390783945477655
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
