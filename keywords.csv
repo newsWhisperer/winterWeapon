@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.177292153580601
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1758406485224816
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1736047971450597
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.173263895942907
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1728332880708542
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1693693146946658
@@ -25,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1619699383023707
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1609702266202977
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.15634552127849372
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1563455212784937
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1526899605621686
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1498837997224879
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.14756464757330073
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1470813790262161
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1453425964672214
