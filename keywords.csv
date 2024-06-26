@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.21562508471694605
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.215625084716946
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
@@ -137,8 +137,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0101417857697466
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0091170593253653
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0089974510924459
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.007749500426560504
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0066868720772008
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0063514338085561
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.004508753028554
