@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.207101216481661
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.20224562655147094
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2022456265514709
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2019031209220493
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1995453733133161
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1980608696674922
@@ -128,9 +128,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0402149956615912
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0390783945477655
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
+'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.03436821251793279
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.029868091153346
-'Energie Waffe',de,Russland,#a6190f,#b24325,1,0.0292606564382097
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0278610280066342
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
