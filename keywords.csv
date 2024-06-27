@@ -41,7 +41,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1453425964672214
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1452816299039364
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1449441093028557
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1439737493161652
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1357150040813936
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1343177498483335
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.13295385790742734
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1328956276402756
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1315110069284073
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0089974510924459
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.00877053290428461
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0087705329042846
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0077495004265605
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0066868720772008
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0063514338085561
