@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.207101216481661
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.20371504673668456
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2022456265514709
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2019031209220493
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1995453733133161
@@ -50,7 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1357150040813936
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1343177498483335
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.13295385790742734
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1328956276402756
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1315110069284073
