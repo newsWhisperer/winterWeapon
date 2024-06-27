@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.215625084716946
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.20371504673668456
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2037150467366845
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2022456265514709
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.2019031209220493
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1995453733133161
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1980608696674922
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1889992515167015
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.18823778700940408
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1855682354986091
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
