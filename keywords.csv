@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.13933198844048245
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1393319884404824
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1391769685798682
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1357150040813936
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1349939030867196
@@ -65,7 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1226024404016808
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1224532797175527
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1215265471516752
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1193306128994265
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1191934329000802
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1158243724094634
@@ -92,6 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.10158103596451253
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0971448412916361
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.095962364955332
