@@ -12,14 +12,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1889992515167015
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.188237787009404
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.18111460732919643
+'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1811146073291964
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.177292153580601
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1758406485224816
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1728332880708542
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1693693146946658
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1621811336073387
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.16554112129351065
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1619699383023707
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1609702266202977
