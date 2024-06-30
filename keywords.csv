@@ -27,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1526899605621686
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.15176446296506818
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1516064537692108
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
@@ -65,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1226024404016808
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1224532797175527
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1215265471516752
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1191934329000802
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1158243724094634
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1154110035307349
