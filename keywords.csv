@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1526899605621686
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.15176446296506818
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1517644629650681
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1516064537692108
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
@@ -139,8 +139,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0089974510924459
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0087705329042846
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0077495004265605
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0056838412656206
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0055487337372726
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775105
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0044290936632775
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0038324400742709
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0029522681565463
