@@ -23,11 +23,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1609702266202977
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.15925094112682955
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1592509411268295
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1526899605621686
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1517644629650681
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1516064537692108
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1297329493805202
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1292998235203079
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1285038570254041
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1276978972101889
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
