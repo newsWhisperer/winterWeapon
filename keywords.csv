@@ -19,11 +19,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.177292153580601
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1758406485224816
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1728332880708542
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1693693146946658
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1609702266202977
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.15925094112682955
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1526899605621686
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1254781388763111
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1226024404016808
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1224532797175527
-'Gaskrise',de,Other,#545557,#6b7c6e,2,0.12217040821570833
+'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1215265471516752
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1158243724094634
