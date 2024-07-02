@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.154590259949822
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1526899605621686
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1510168909092965
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1503779897401115
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1499399491618712
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1297329493805202
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1292998235203079
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.12851437227290202
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1285038570254041
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1276978972101889
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0089974510924459
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0087705329042846
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.006587075362576425
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0065870753625764
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0055487337372726
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0044290936632775
