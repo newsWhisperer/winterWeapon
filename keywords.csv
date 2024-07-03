@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2481513047641146
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2299559170397737
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2273721155746321
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.21548853824354403
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.215488538243544
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
@@ -39,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1453425964672214
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1452816299039364
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1439737493161652
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1433800967866938
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1226024404016808
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1224532797175527
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.12187308226868973
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1215265471516752
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1158243724094634
