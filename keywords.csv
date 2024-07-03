@@ -2,6 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2621281056477449
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2481513047641146
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2299559170397737
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2273721155746321
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2156026187891962
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
@@ -20,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1758406485224816
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1728332880708542
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1619755650723226
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1609702266202977
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1592509411268295
@@ -58,7 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1297329493805202
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1292998235203079
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.12851437227290202
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.128514372272902
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1285038570254041
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1276978972101889
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
