@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2481513047641146
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2299559170397737
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2273721155746321
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.22355896480058315
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2235589648005831
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.215488538243544
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
@@ -51,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1328956276402756
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1315110069284073
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.131440697187687
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
@@ -78,6 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.112046246661025
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1117843558891462
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1102767599592909
