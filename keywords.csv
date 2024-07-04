@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1226024404016808
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1224532797175527
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.12187308226868973
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1218730822686897
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1215265471516752
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1158243724094634
@@ -99,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0875025251481837
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.08632252784328147
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0860249446712333
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0858877221547574
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0858730580252911
@@ -110,7 +111,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.080227792856457
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0791491389676497
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0727318562862135
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
