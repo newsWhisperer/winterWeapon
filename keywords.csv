@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2037150467366845
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2022456265514709
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1995453733133161
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1980608696674922
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1905165062051139
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.188237787009404
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1811146073291964
@@ -99,7 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0875025251481837
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.08632252784328147
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0863225278432814
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0860249446712333
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0858877221547574
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0858730580252911
