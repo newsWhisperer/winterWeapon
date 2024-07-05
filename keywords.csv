@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.11903225017441
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1154110035307349
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.11499623370789783
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1149962337078978
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1142293391050947
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
@@ -136,8 +136,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0089974510924459
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0087705329042846
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.007647833428579015
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0065870753625764
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0055487337372726
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
