@@ -42,7 +42,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1393319884404824
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1391769685798682
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1357150040813936
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1349939030867196
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1218730822686897
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1215265471516752
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.11903225017441003
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1154110035307349
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
