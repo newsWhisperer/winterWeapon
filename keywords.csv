@@ -68,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.11903225017441
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1154110035307349
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.11499623370789783
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1142293391050947
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
@@ -84,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1092057569634809
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1088020017499361
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1080736829718584
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
@@ -92,7 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1015810359645125
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.09799239852116054
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0971448412916361
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.095962364955332
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
