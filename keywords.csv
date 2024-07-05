@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1218730822686897
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1215265471516752
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.11903225017441003
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.11903225017441
 'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1154110035307349
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
@@ -81,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1102767599592909
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1094580453190124
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1092057569634809
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1088020017499361
@@ -93,6 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1015810359645125
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.09799239852116054
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0971448412916361
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.095962364955332
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
