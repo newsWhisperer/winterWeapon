@@ -49,7 +49,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1328956276402756
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1315345207019285
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1297329493805202
@@ -76,6 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.112046246661025
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.11180446259663923
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1117843558891462
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0055487337372726
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0038324400742709
-'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.003764729613785875
+'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0025094279330643
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.001829661673771
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010567476011128
