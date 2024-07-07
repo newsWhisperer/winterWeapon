@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.215488538243544
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.21092868404949738
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.2109286840494973
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2037150467366845
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1995453733133161
@@ -24,13 +24,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1609702266202977
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,3,0.1592509411268295
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1526899605621686
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1503779897401115
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1499399491618712
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.14837344511420694
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1475646475733007
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1470813790262161
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
