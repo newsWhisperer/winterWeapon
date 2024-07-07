@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2481513047641146
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2299559170397737
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2273721155746321
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2235589648005831
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.215488538243544
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.21092868404949738
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2037150467366845
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1995453733133161
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0087705329042846
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.007647833428579
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.00559901405818994
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0055990140581899
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0055487337372726
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0044290936632775
