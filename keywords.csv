@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1499399491618712
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.14837344511420694
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1483734451142069
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1475646475733007
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1470813790262161
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
@@ -114,11 +114,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0575373991465302
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0547945779847119
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0536004385908267
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0498183970077248
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.04905680427455067
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0481188737569172
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
