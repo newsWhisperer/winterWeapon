@@ -118,7 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0536004385908267
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0498183970077248
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.04905680427455067
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490568042745506
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0481188737569172
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
@@ -141,8 +141,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0055990140581899
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0055487337372726
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
-'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0044290936632775
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0038324400742709
+'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.003764729613785875
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0025094279330643
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.001829661673771
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010567476011128
