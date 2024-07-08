@@ -2,17 +2,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2299559170397737
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2273721155746321
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2235589648005831
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.21495868895799336
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.2109286840494973
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.21084586023428514
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2108458602342851
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2037150467366845
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1995453733133161
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1980608696674922
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1905165062051139
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.188237787009404
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1811146073291964
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
