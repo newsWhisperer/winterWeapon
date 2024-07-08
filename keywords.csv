@@ -2,10 +2,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2299559170397737
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2273721155746321
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2235589648005831
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.215488538243544
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.2109286840494973
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.21084586023428514
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2037150467366845
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1995453733133161
@@ -75,7 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.112046246661025
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.11180446259663923
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1118044625966392
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1117843558891462
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
