@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1774880049176658
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1758406485224816
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.17383217372532903
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.173832173725329
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1728332880708542
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1609702266202977
@@ -138,9 +138,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0087705329042846
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.007647833428579
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0055990140581899
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0055487337372726
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.004759161949461415
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0032575740631302
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0025094279330643
