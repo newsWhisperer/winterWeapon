@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1609702266202977
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1505487132447139
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.151102529439825
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1483734451142069
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.007647833428579
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0055487337372726
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.004759161949461415
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0047591619494614
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0032575740631302
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0025094279330643
