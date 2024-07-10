@@ -64,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1218730822686897
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1215265471516752
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.11903225017441
-'Russland Erdöl',de,Russland,#a6190f,#b24335,3,0.1186193719800027
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1154110035307349
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1149962337078978
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
@@ -90,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1015810359645125
+'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1008268261830023
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.029868091153346
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.02383188880563907
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.023831888805639
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
