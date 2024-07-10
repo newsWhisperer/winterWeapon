@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1995453733133161
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1980608696674922
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.19532652215320026
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1953265221532002
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1905165062051139
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1811146073291964
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.029868091153346
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0278610280066342
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.02383188880563907
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
