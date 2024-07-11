@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.2299559170397737
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2273721155746321
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2235589648005831
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2149586889579933
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2108458602342851
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2037150467366845
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.19966294948380764
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1995453733133161
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1980608696674922
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1102767599592909
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.10922827847159347
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1092282784715934
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1092057569634809
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1088020017499361
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
