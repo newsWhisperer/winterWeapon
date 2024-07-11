@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2149586889579933
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.2109286840494973
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2108458602342851
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2037150467366845
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1905165062051139
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1811146073291964
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1800394564420727
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1774880049176658
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.173832173725329
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1328956276402756
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.13106802834707584
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1310680283470758
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1297329493805202
