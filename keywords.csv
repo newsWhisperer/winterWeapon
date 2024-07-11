@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2108458602342851
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2037150467366845
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.19966294948380764
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1996629494838076
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1995453733133161
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1980608696674922
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.151102529439825
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1483734451142069
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1475646475733007
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1470813790262161
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1328956276402756
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.13106802834707584
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1297329493805202
