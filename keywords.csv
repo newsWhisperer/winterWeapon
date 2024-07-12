@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1953265221532002
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1905165062051139
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1819726311666219
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1895270964916286
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1811146073291964
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1800394564420727
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
@@ -110,7 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.080227792856457
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0791491389676497
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.07299209932149743
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0729920993214974
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
