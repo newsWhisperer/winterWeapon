@@ -81,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1102767599592909
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1092282784715934
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1092057569634809
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1088020017499361
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
@@ -96,6 +95,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0971448412916361
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.095962364955332
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0928440367008544
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0875025251481837
