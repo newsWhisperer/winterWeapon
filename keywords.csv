@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.24367168369298273
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2436716836929827
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2235589648005831
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2149586889579933
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
@@ -50,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1328956276402756
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1310680283470758
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
+'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1304265699944196
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1297329493805202
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.128514372272902
@@ -58,7 +59,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1254781388763111
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1226024404016808
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1224532797175527
-'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1222253876095339
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1218730822686897
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1215265471516752
