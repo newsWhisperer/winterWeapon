@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2037150467366845
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1996629494838076
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1995453733133161
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1980608696674922
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1953265221532002
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1905165062051139
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1774880049176658
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.173832173725329
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.17330290921736838
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1728332880708542
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1609702266202977
@@ -98,7 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0875025251481837
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.08634388056983562
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0863438805698356
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0863225278432814
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0860249446712333
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0858877221547574
