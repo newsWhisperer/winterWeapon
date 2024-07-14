@@ -74,7 +74,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.112046246661025
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1118044625966392
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1117843558891462
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1105049099922617
@@ -93,6 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0971448412916361
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.095962364955332
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.09501670250577426
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0928440367008544
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
