@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2235589648005831
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2339323679376385
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2149586889579933
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1452816299039364
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1439737493161652
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.14177589262725301
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1408993505028032
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
