@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1343177498483335
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1328956276402756
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1310680283470758
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1304265699944196
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1138070505084989
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1137671707450117
+'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.11296201849423426
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1122564543504416
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
@@ -92,7 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0971448412916361
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.095962364955332
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.09501670250577426
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0950167025057742
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0928440367008544
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
