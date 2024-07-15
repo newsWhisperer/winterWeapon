@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.151102529439825
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1475646475733007
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1349939030867196
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1343177498483335
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.13339187502385125
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1310680283470758
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
@@ -109,7 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0805501885160108
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.080227792856457
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.07527723637595615
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0729920993214974
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
