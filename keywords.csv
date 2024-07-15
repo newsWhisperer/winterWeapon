@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.128514372272902
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1278221162790947
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1254781388763111
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.12315656804486444
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1226024404016808
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1224532797175527
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1138070505084989
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1137671707450117
-'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.11296201849423426
+'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1129620184942342
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1122564543504416
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
