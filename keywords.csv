@@ -15,13 +15,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1895270964916286
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1836784866784079
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1811146073291964
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1800394564420727
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1774880049176658
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.173832173725329
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1733029092173683
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1540836429757618
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1349939030867196
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1343177498483335
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.13339187502385125
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1333918750238512
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1310680283470758
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.130768760602045
