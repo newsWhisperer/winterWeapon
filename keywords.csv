@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2339323679376385
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2149586889579933
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2105717711390353
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2037150467366845
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1998926177469927
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1996629494838076
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1995453733133161
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
@@ -127,7 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.041659452272722
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0402149956615912
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0390783945477655
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.036995882258985986
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0369958822589859
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0343682125179327
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.029868091153346
