@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1953265221532002
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1905165062051139
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1895270964916286
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.18871754074459685
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1887175407445968
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1836784866784079
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1811146073291964
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
@@ -127,7 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.041659452272722
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0402149956615912
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0390783945477655
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0377003497164541
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.036995882258985986
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0343682125179327
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.029868091153346
