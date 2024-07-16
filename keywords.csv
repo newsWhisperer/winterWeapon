@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2149586889579933
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2108458602342851
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2105717711390353
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2082483243058682
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2037150467366845
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1953265221532002
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1905165062051139
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1895270964916286
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.18871754074459685
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1836784866784079
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1811146073291964
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
