@@ -19,15 +19,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.173832173725329
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1699088300849438
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.16134950692567215
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1613495069256721
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.15627990890509563
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1540836429757618
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1475646475733007
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1470813790262161
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1465390180396083
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1453656357038291
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1453425964672214
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1452816299039364
