@@ -102,7 +102,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0860249446712333
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0858877221547574
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.084017877004032
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0835344650509559
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0833231900978906
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0825632967588658
@@ -113,6 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0729920993214974
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.07115431029331251
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0536004385908267
