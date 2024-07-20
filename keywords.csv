@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1453425964672214
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1452816299039364
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1439737493161652
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1436074708086473
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
@@ -39,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1384982058868213
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1362215503559332
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1357150040813936
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.135363764957805
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1349939030867196
