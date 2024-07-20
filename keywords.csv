@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2078170811834377
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2037150467366845
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1996629494838076
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1995453733133161
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1887175407445968
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1836784866784079
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.18365717640722778
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1811146073291964
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1785512719072886
@@ -112,7 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0729920993214974
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.07115431029331251
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0711543102933125
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0536004385908267
