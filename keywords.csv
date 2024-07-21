@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1887175407445968
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1836784866784079
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.18365717640722778
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1836571764072277
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1811146073291964
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1785512719072886
@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1408993505028032
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1391769685798682
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1384982058868213
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1362215503559332
@@ -54,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1297329493805202
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.128514372272902
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1278221162790947
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1231565680448644
