@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0087705329042846
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.007647833428579
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.00531648367668171
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0053164836766817
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0047591619494614
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010567476011128
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0003591423590421
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001727106982826
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,2.414691899387781e-05
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,2.052488114479614e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.118995722291904e-08
