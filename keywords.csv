@@ -70,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1122564543504416
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
-'russisches Gas',de,Russland,#a6190f,#b32319,3,0.112046246661025
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1118044625966392
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.095962364955332
+'russisches Gas',de,Russland,#a6190f,#b32319,2,0.09523998466187125
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0950167025057742
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0928440367008544
