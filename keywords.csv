@@ -89,8 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
-'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.095962364955332
-'russisches Gas',de,Russland,#a6190f,#b32319,2,0.09523998466187125
+'russisches Gas',de,Russland,#a6190f,#b32319,2,0.0952399846618712
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0950167025057742
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0928440367008544
@@ -101,6 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0863225278432814
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0860249446712333
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0858877221547574
+'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.08501885021203219
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.084017877004032
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0833231900978906
