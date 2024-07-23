@@ -8,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2012929240903319
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1996629494838076
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
+'Strommangellage',de,Other,#545557,#5b7c5e,2,0.1894701173710835
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1887175407445968
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1836784866784079
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1836571764072277
@@ -41,7 +42,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1357150040813936
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.135363764957805
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1349939030867196
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1343177498483335
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1333918750238512
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
