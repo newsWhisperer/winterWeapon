@@ -60,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1218730822686897
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.121850159197539
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1215265471516752
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.115245677674762
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1053778326482485
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.10329756507892392
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1008268261830023
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0465753912870051
-'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.045560372802202695
+'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0455603728022026
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0417683354997698
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.041659452272722
