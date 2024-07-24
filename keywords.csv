@@ -61,12 +61,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1218730822686897
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.121850159197539
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1215265471516752
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.11524567767476201
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.115245677674762
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1138070505084989
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1137671707450117
-'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1129620184942342
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1122564543504416
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
@@ -88,6 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
+'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.09601804572009907
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.0952399846618712
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0950167025057742
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
