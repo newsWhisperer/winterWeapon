@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.21832654202362434
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2183265420236243
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2105717711390353
@@ -56,12 +56,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1231565680448644
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1226024404016808
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1224532797175527
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1218730822686897
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.121850159197539
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1215265471516752
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.11524567767476201
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1138070505084989
