@@ -63,10 +63,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.115245677674762
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.11400488983423898
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1138070505084989
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1137671707450117
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1122564543504416
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1118044625966392
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1053778326482485
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.10329756507892392
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1032975650789239
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1028936218589001
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1008268261830023
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
