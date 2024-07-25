@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2183265420236243
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2149227710201945
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.21491204763989258
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2105717711390353
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2078170811834377
@@ -107,7 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.080227792856457
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.07891743119572624
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0789174311957262
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0729920993214974
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
