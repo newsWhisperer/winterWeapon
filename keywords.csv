@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.1894701173710835
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1887175407445968
-'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.18758474108804726
+'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1875847410880472
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1836784866784079
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1836571764072277
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1811146073291964
@@ -91,7 +91,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.0952399846618712
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0950167025057742
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0928440367008544
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0922391955607605
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
@@ -108,6 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.080227792856457
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.07891743119572624
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0729920993214974
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
