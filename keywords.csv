@@ -15,10 +15,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1811146073291964
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1797157347042602
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1785512719072886
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1731587047261818
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1699088300849438
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1643983620178843
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.16328575401725454
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1593654709002886
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1572542572119842
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0027689379536606
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0025094279330643
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0015552124227053
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008982354609458799
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008982354609458
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0003591423590421
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001727106982826
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,2.052488114479614e-05
