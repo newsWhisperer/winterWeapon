@@ -93,7 +93,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0900596255781375
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.08780293031708532
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0878029303170853
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0863438805698356
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0863225278432814
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0860249446712333
@@ -142,8 +142,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0047591619494614
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0027689379536606
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0025094279330643
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.00235359726061151
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0015552124227053
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008982354609458
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0003591423590421
