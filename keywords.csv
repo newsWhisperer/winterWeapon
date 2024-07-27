@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2078170811834377
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2012929240903319
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1996629494838076
-'Strommangellage',de,Other,#545557,#5b7c5e,2,0.1894701173710835
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1887175407445968
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1875847410880472
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1836784866784079
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1643983620178843
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1632857540172545
+'Strommangellage',de,Other,#545557,#5b7c5e,2,0.16134962976542097
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1593654709002886
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1572542572119842
