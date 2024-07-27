@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.238059638580065
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.226893012083717
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2263037367103744
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2194483873120904
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2105717711390353
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2078170811834377
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2012929240903319
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1996629494838076
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1962438378410822
 'Strommangellage',de,Other,#545557,#5b7c5e,2,0.1894701173710835
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1887175407445968
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1875847410880472
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0047591619494614
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0025094279330643
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.00235359726061151
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0023535972606115
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0015552124227053
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008982354609458
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0003591423590421
