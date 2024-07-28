@@ -31,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1485624136191237
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1452816299039364
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1439737493161652
-'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,2,0.1430009882561803
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1408993505028032
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1218730822686897
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.121850159197539
+'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.12155084001775325
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.115245677674762
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1144902894913863
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
