@@ -58,7 +58,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1231565680448644
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1224532797175527
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1218730822686897
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.121850159197539
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1215508400177532
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.115245677674762
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1053778326482485
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.10374213492838624
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1008268261830023
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0087705329042846
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.007647833428579
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.005269086125179445
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0052690861251794
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0047591619494614
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
