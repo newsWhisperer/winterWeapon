@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1408993505028032
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.13977193570063473
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1397719357006347
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1384982058868213
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
@@ -105,7 +105,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.080227792856457
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0789174311957262
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0787033462266464
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
@@ -113,6 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0684676602386091
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.06707981651636727
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0606311787493156
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
