@@ -34,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1408993505028032
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.13977193570063473
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1384982058868213
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
@@ -41,7 +42,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1357150040813936
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.135363764957805
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1349939030867196
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1333918750238512
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1140048898342389
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1138070505084989
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1137671707450117
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.11260972239359078
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.1126097223935907
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1118044625966392
