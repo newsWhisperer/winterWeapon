@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1053778326482485
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.10374213492838624
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1037421349283862
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1008268261830023
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
@@ -111,10 +111,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0729920993214974
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0711543102933125
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0684676602386091
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.060631178749315624
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0498183970077248
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490568042745506
