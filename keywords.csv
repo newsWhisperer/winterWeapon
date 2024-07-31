@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2194483873120904
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2105717711390353
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2013870679504882
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2012929240903319
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1996629494838076
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1875847410880472
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1836571764072277
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1811146073291964
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1785512719072886
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.17614891275791494
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1744536237238163
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1699088300849438
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1408993505028032
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1397719357006347
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.13883395923901098
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1384982058868213
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1371472153006077
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
