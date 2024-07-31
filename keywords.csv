@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1643983620178843
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1632857540172545
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.16107866367664672
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1593654709002886
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1572542572119842
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0087705329042846
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.007647833428579
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0052690861251794
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.00522879820640249
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0047591619494614
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
