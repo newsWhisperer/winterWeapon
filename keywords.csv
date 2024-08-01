@@ -33,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1408993505028032
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1397719357006347
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.13973884771520168
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1397388477152016
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1384982058868213
@@ -112,9 +112,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0684676602386091
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0670798165163672
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0606311787493156
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.057017844038912115
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0498183970077248
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490568042745506
