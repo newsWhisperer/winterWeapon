@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0606311787493156
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.057017844038912115
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0570178440389121
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0498183970077248
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490568042745506
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.029868091153346
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.023831888805639
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.020407120484793147
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
