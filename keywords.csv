@@ -46,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1333918750238512
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1310680283470758
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1304265699944196
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1297329493805202
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1138070505084989
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1137671707450117
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.1126097223935907
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.11260794409501441
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1118044625966392
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0339878846249244
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.029868091153346
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.020407120484793147
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0204071204847931
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
