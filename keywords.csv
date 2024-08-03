@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.238059638580065
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.226893012083717
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2263037367103744
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2194483873120904
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.218474981323828
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2105717711390353
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.20295075279305524
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1996629494838076
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1987806382040548
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1875847410880472
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1572542572119842
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1562799089050956
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1540836429757618
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.15394780622981694
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1539478062298169
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1491432262184662
