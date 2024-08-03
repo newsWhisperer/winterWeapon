@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2194483873120904
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.218474981323828
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2105717711390353
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.20295075279305524
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2066642381954527
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2029507527930552
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1996629494838076
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1987806382040548
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1875847410880472
