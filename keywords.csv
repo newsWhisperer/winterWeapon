@@ -39,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1371472153006077
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1362215503559332
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.13612890657625512
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.135363764957805
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1304265699944196
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.12975133468072592
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1297329493805202
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.1293397469311857
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.128514372272902
