@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1785512719072886
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1761489127579149
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1744536237238163
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.17389444087289138
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1738944408728913
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1699088300849438
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1697280469187404
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
@@ -94,7 +94,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0878029303170853
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0863438805698356
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0863225278432814
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0858877221547574
@@ -108,6 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0787033462266464
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.07463249076952251
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0729920993214974
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
