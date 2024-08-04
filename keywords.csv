@@ -107,7 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0787033462266464
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.07463249076952251
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0746324907695225
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0729920993214974
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0714719532594714
@@ -130,8 +130,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0369958822589859
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0355030851748043
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0343682125179327
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.029868091153346
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.025387877480344097
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0204071204847931
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
