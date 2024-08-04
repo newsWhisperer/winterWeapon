@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1593654709002886
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1572542572119842
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.157671917339864
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1562799089050956
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1540836429757618
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1539478062298169
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0355030851748043
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0343682125179327
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.025387877480344097
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.025387877480344
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0204071204847931
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
