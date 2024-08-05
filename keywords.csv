@@ -136,11 +136,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0087705329042846
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.007647833428579
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.00745495296864191
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0052287982064024
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.00404528765704219
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0040452876570421
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0023535972606115
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0021330137431046
