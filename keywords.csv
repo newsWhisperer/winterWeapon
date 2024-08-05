@@ -28,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
+'Blackout',de,Other,#545557,#6b6c6e,3,0.14141780423111464
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1408993505028032
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1397719357006347
@@ -37,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1384982058868213
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1371472153006077
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1362215503559332
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.135363764957805
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1339875260773862
