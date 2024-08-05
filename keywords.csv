@@ -4,11 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2194483873120904
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.218474981323828
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2066642381954527
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2029507527930552
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1996629494838076
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1987806382040548
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1875847410880472
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.18518794625923823
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1836571764072277
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1785512719072886
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1761489127579149
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.007647833428579
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.00745495296864191
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0074549529686419
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0052287982064024
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0040452876570421
