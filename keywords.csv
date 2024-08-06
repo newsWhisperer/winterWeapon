@@ -84,7 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1053778326482485
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1037421349283862
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1008268261830023
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.09881739106767835
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.0988173910676783
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0003591423590421
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001727106982826
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,2.052488114479614e-05
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.118995722291904e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.6511463639481182e-08
