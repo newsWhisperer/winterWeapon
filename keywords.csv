@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1699088300849438
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1697280469187404
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.16581552021210438
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1658155202121043
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1632857540172545
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1593654709002886
@@ -56,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1231565680448644
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1224532797175527
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1215508400177532
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.115245677674762
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1053778326482485
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1040854377599198
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1037421349283862
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1008268261830023
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.0988173910676783
