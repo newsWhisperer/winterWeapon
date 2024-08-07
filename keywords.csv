@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1987806382040548
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1875847410880472
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1851879462592382
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1836571764072277
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1785512719072886
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1761489127579149
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1744536237238163
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1738944408728913
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.17015069403705263
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1699088300849438
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1697280469187404
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
@@ -123,7 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0458538776933796
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0455603728022026
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.04234563745656608
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.042345637456566
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.041659452272722
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0402149956615912
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0395890825939543
