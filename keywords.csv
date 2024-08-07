@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1697280469187404
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1658155202121043
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.16378833493513675
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1637883349351367
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1632857540172545
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1593654709002886
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0040452876570421
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0023535972606115
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0021330137431046
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.00181306168163891
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0015552124227053
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0007635001418039
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0003591423590421
