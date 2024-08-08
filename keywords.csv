@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1333918750238512
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1304265699944196
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.12984427111502525
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1297513346807259
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1297329493805202
@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1267725222856962
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1231565680448644
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1215508400177532
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.115245677674762
@@ -79,6 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1066973652499613
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.10573318783813473
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1053778326482485
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1040854377599198
