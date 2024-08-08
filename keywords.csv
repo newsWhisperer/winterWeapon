@@ -10,12 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1875847410880472
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1851879462592382
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1744536237238163
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1738944408728913
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1701506940370526
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1699088300849438
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1697280469187404
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.16408135536210683
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1640813553621068
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1637883349351367
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1632857540172545
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1562799089050956
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1540836429757618
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1539478062298169
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
