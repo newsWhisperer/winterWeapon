@@ -22,12 +22,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.157671917339864
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1562799089050956
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.15520499852941463
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1552049985294146
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1540836429757618
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1539478062298169
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1522709437709626
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1495805954294415
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1414178042311146
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1412872322539178
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1333918750238512
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1304265699944196
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.12984427111502525
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1297513346807259
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1297329493805202
