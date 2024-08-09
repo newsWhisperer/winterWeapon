@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.252356569816614
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2558188057077582
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2263037367103744
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2194483873120904
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.218474981323828
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1637883349351367
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1632857540172545
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.16000335947804548
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1600033594780454
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1593654709002886
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.157671917339864
