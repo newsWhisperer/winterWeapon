@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1632857540172545
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1623301942561529
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1600033594780454
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.157671917339864
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1562799089050956
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1397388477152016
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1387031255563386
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1384982058868213
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1371472153006077
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0040452876570421
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.002000557671519775
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0020005576715197
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0018130616816389
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0015552124227053
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0007635001418039
