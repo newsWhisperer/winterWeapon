@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2581226255722022
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2558188057077582
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2263037367103744
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2194483873120904
@@ -9,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1987806382040548
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1851879462592382
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1701506940370526
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1699088300849438
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1697280469187404
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1689451094702946
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
