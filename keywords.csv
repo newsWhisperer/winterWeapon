@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1987806382040548
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1875847410880472
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1851879462592382
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1744536237238163
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1701506940370526
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1699088300849438
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1697280469187404
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1640813553621068
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1637883349351367
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1632857540172545
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.16233019425615294
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1600033594780454
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1053778326482485
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1040854377599198
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1037421349283862
-'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.10331821401509021
+'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1033182140150902
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1008268261830023
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.0988173910676783
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
