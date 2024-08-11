@@ -110,7 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0746324907695225
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0729920993214974
-'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.07024718481600523
+'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0702471848160052
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0684676602386091
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
@@ -119,13 +119,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490568042745506
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
-'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.046810574696215
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0458538776933796
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0455603728022026
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.042345637456566
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.041659452272722
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0402149956615912
+'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.039939003491782754
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0395890825939543
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0369958822589859
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0355030851748043
