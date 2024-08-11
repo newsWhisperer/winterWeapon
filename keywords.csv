@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.28112111152939756
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2811211115293975
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2581226255722022
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2558188057077582
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2263037367103744
@@ -116,12 +116,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0606311787493156
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0570178440389121
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0515999868419952
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490568042745506
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0458538776933796
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0455603728022026
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.044010003815695926
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.042345637456566
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.041659452272722
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0402149956615912
