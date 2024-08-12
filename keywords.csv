@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2581226255722022
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2558188057077582
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.23910295979998789
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2391029597999878
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2263037367103744
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2194483873120904
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.218474981323828
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0355030851748043
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0343682125179327
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.025387877480344
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0215796958582924
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0204071204847931
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
