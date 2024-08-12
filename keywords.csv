@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2811211115293975
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2581226255722022
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2558188057077582
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.23910295979998789
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2263037367103744
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2194483873120904
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.218474981323828
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0458538776933796
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0455603728022026
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.044010003815695926
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0440100038156959
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.042345637456566
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.041659452272722
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0402149956615912
