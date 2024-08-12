@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1996629494838076
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1987806382040548
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1851879462592382
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.17128445577702311
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1712844557770231
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1701506940370526
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1697280469187404
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
@@ -131,9 +131,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0355030851748043
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0343682125179327
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0215796958582924
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0204071204847931
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.01834274147954854
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.007647833428579
