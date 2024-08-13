@@ -107,7 +107,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0787033462266464
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0746324907695225
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0729920993214974
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0702471848160052
@@ -115,6 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.065904489883781
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.06343761715409411
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0606311787493156
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0570178440389121
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490568042745506
