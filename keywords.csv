@@ -38,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1362117152652453
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.135363764957805
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1339449421055482
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1333918750238512
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1304265699944196
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.128514372272902
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1278221162790947
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1273423523281775
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1267725222856962
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0052287982064024
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.003438494508485785
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0034384945084857
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0020005576715197
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0018130616816389
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0015552124227053
