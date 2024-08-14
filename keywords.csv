@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1712844557770231
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1701506940370526
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1697280469187404
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.16971373206123647
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1697137320612364
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1640813553621068
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1637883349351367
@@ -136,8 +136,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0183427414795485
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.007647833428579
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0074549529686419
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.00650065841429215
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0052287982064024
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
