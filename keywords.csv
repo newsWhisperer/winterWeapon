@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.24967171212432174
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2496717121243217
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2391029597999878
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2263037367103744
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2194483873120904
@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.218474981323828
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2029507527930552
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,3,0.1996629494838076
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1987806382040548
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1851879462592382
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1712844557770231
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1701506940370526
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1697280469187404
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.16971373206123647
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1677945868498919
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1640813553621068
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1637883349351367
