@@ -18,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1701506940370526
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1697280469187404
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1697137320612364
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.16647164864193906
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1640813553621068
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1632857540172545
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.157671917339864
@@ -116,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0634376171540941
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0570178440389121
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.05168651693691826
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0516865169369182
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490568042745506
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0458538776933796
