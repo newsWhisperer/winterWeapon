@@ -9,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2123720928766843
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2050583469318206
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2029507527930552
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.20171895988092933
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1987806382040548
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1929340551177299
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1903516598407989
@@ -16,9 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1712844557770231
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1701506940370526
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1697280469187404
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1697137320612364
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.16647164864193906
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.166471648641939
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1640813553621068
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
