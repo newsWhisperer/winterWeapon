@@ -115,8 +115,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.065904489883781
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0634376171540941
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0606311787493156
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0570178440389121
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.05168651693691826
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490568042745506
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0458538776933796
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0052287982064024
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808798
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0020005576715197
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0018130616816389
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0015552124227053
