@@ -11,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2029507527930552
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1987806382040548
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1929340551177299
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1903516598407989
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1851879462592382
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1712844557770231
@@ -23,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.157671917339864
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1562799089050956
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1539478062298169
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1414178042311146
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0105318087937791
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0065006584142921
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.006336710023345615
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0063367100233456
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0052287982064024
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
