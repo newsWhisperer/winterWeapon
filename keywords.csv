@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2391029597999878
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2314026617496765
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2263037367103744
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2194483873120904
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2187571714880041
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.214626626397981
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2123720928766843
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1697137320612364
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.166471648641939
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1640813553621068
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.16382391969323634
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1638239196932363
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.157671917339864
