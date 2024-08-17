@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2496717121243217
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2391029597999878
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2314026617496765
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2263037367103744
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2194483873120904
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
@@ -16,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1851879462592382
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1712844557770231
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1701506940370526
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1697137320612364
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.166471648641939
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1640813553621068
@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.065904489883781
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0634376171540941
-'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.058497541202817735
+'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0584975412028177
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0570178440389121
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0516865169369182
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490568042745506
