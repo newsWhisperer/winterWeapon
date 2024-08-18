@@ -20,13 +20,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1697137320612364
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.166471648641939
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1640813553621068
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1638239196932363
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.157671917339864
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1562799089050956
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.14191085873973952
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.14885629229480637
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1414178042311146
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1408993505028032
