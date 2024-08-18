@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2187571714880041
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.214626626397981
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2139420837442529
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2140747284553422
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2123720928766843
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.2029507527930552
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2017189598809293
@@ -115,7 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0584975412028177
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0570178440389121
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.053921974580979984
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0539219745809799
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0516865169369182
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490568042745506
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
