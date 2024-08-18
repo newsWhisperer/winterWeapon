@@ -26,10 +26,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.157671917339864
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1562799089050956
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.14191085873973952
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1414178042311146
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1408993505028032
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1397388477152016
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1387031255563386
