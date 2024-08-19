@@ -90,7 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.096018045720099
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.0952399846618712
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0950167025057742
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.09388526096539726
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0938852609653972
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0015552124227053
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0007635001418039
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0003052710051857
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001727106982826
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.00014680409354021
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.744614897307672e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.6511463639481186e-08
