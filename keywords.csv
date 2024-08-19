@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.157671917339864
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1562799089050956
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.14885629229480637
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1488562922948063
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1414178042311146
@@ -108,11 +108,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0787033462266464
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0729920993214974
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0702471848160052
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.065904489883781
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.06204328442327279
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0584975412028177
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0570178440389121
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0539219745809799
