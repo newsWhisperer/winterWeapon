@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1140048898342389
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1138070505084989
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1137671707450117
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.11301167922131321
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.1126097223935907
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1126079440950144
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
@@ -70,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1105049099922617
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1102767599592909
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1092057569634809
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.096018045720099
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.0952399846618712
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0950167025057742
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.09388526096539726
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
