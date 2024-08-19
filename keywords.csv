@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.135363764957805
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1333918750238512
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1329538579074273
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1304265699944196
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
@@ -62,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1140048898342389
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1138070505084989
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1137671707450117
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.11301167922131321
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.1126097223935907
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1126079440950144
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
@@ -112,7 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.065904489883781
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.06204328442327279
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0584975412028177
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0570178440389121
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0539219745809799
