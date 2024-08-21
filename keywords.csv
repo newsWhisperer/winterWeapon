@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.28931550231868675
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2893155023186867
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2496717121243217
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2367256078704849
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2201616558011384
@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1414178042311146
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.1408993505028032
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1387031255563386
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1273423523281775
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1267725222856962
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1203062953455395
