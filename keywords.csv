@@ -22,10 +22,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1640813553621068
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.157671917339864
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1562799089050956
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1488562922948063
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.14806308882979347
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1414178042311146
@@ -89,7 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,1,0.096018045720099
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.0952399846618712
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0950167025057742
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.09452232775101123
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.0945223277510112
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0938852609653972
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
