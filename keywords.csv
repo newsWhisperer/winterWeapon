@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.3099679360617927
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2496717121243217
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2201616558011384
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.219371852927992
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.21936314970369492
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2187571714880041
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2140747284553422
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2123720928766843
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1203062953455395
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1200942674158301
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.11745944021413425
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1174594402141342
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.115245677674762
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1140048898342389
