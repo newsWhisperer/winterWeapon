@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.3099679360617927
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2496717121243217
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2367256078704849
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.23346748668991218
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2201616558011384
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.219371852927992
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1562799089050956
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1488562922948063
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.14806308882979347
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1480630888297934
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1414178042311146
