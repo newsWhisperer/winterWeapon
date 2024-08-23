@@ -52,7 +52,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
-'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1221704082157083
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1203062953455395
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1200942674158301
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1174594402141342
@@ -79,6 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1057331878381347
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1040854377599198
+'Gaskrise',de,Other,#545557,#6b7c6e,1,0.10384489198335206
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1037421349283862
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1033182140150902
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1008268261830023
@@ -110,7 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0702471848160052
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.06676383824331912
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0667638382433191
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0584975412028177
