@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.32630785673646334
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.3263078567364633
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.25366740212699984
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2496717121243217
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
@@ -7,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2193631497036949
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2187571714880041
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2140747284553422
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2123720928766843
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2017189598809293
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1959212889767453
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1929340551177299
