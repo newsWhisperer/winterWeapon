@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.30959408049872106
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.309594080498721
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2536674021269998
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2496717121243217
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
@@ -23,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1562799089050956
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.15510250182058763
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1480630888297934
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
@@ -90,7 +91,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,2,0.0952399846618712
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0950167025057742
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.0945223277510112
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0938852609653972
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
