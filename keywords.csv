@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1729019162054911
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1725117158987899
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1725081698740969
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1712844557770231
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1697137320612364
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.166471648641939
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1640813553621068
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1562799089050956
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.15055146241046963
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1480630888297934
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
