@@ -12,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1929340551177299
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1903516598407989
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1851879462592382
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.18463810256933127
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1729019162054911
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1725117158987899
@@ -21,10 +22,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1640813553621068
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1562799089050956
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.15055146241046963
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1505514624104696
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1480630888297934
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
