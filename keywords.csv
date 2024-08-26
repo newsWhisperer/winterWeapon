@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2681146584239128
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.25050348633904973
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2505034863390497
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2496717121243217
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.238767364989768
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
@@ -143,8 +143,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0020005576715197
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0018130616816389
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0015552124227053
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0015411024293930649
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0007635001418039
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002594803544078
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001247834795091
