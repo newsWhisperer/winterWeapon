@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2681146584239128
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2505034863390497
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2496717121243217
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.24194820875123496
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.238767364989768
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0183427414795485
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.008952037474712234
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0089520374747122
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0063367100233456
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0055255596521482
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0052287982064024
