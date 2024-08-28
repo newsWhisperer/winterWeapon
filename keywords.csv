@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1846381025693312
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1729019162054911
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1725117158987899
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1725081698740969
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1697137320612364
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1686333056302335
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1640813553621068
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.15766905684730476
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1505514624104696
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1229859441004707
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1207634892257083
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1203062953455395
-'Blackout',de,Other,#545557,#6b6c6e,2,0.12020607859644741
+'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1200942674158301
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1174594402141342
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
