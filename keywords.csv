@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1480042152481857
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1414178042311146
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1387031255563386
@@ -54,8 +53,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1229859441004707
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.12076348922570837
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1207634892257083
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1203062953455395
+'Blackout',de,Other,#545557,#6b6c6e,2,0.12020607859644741
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1200942674158301
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1174594402141342
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
