@@ -54,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1229859441004707
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.12076348922570837
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1203062953455395
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1200942674158301
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1174594402141342
@@ -84,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1037421349283862
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1033182140150902
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1008268261830023
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.0988173910676783
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0063367100233456
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0052287982064024
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0046967257043259705
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0046967257043259
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0020005576715197
