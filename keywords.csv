@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2505034863390497
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2496717121243217
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2419482087512349
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.238767364989768
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.219371852927992
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.21788186338819224
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2140747284553422
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1999885848557125
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1929340551177299
@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1505514624104696
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1480630888297934
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.14800421524818577
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1480042152481857
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1414178042311146
