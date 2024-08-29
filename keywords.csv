@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2496717121243217
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2419482087512349
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.23990346303294618
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.238767364989768
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1640813553621068
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.15766905684730476
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1576690568473047
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1505514624104696
