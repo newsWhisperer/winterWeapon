@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2419482087512349
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.23990346303294618
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2399034630329461
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.238767364989768
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0063367100233456
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0052287982064024
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048312650757775
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0046967257043259
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.003992216848677015
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0020005576715197
