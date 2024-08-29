@@ -125,11 +125,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0440100038156959
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.042345637456566
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0399390034917827
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0395890825939543
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0369958822589859
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0355030851748043
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0354105344318136
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0343682125179327
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.03365072020486115
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0204071204847931
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
