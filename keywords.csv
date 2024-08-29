@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1576690568473047
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1505514624104696
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1480630888297934
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1480042152481857
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1387031255563386
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1384982058868213
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1374750125943537
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1371472153006077
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1105049099922617
-'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.11044384892798845
+'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.1104438489279884
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1092057569634809
