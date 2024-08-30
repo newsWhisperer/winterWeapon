@@ -5,6 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.219371852927992
+'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.21905554663811377
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2178818633881922
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2140747284553422
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1999885848557125
@@ -37,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1333918750238512
-'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1304265699944196
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1297513346807259
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0355030851748043
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0354105344318136
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0343682125179327
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.03365072020486115
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0336507202048611
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.028693600473457
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0204071204847931
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
