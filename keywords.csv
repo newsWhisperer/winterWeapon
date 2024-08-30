@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.042345637456566
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0399390034917827
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.03755851824334152
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0369958822589859
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0355030851748043
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0354105344318136
@@ -143,8 +143,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0020005576715197
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0015552124227053
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.001541102429393
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.001321930559299505
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0007635001418039
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002594803544078
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001247834795091
