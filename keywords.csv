@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1686333056302335
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.166471648641939
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1640813553621068
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.16257326477913966
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1625732647791396
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1576690568473047
@@ -108,11 +108,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0787033462266464
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
-'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0702471848160052
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0667638382433191
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
+'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.060010137093604414
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0584975412028177
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0539219745809799
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0516865169369182
