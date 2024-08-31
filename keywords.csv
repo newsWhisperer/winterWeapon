@@ -29,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1480630888297934
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.13998069121556903
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1387031255563386
@@ -47,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1278221162790947
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1273423523281775
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1267725222856962
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1265282684505853
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
