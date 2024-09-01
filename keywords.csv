@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2419482087512349
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2399034630329461
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.23476596257661395
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2347659625766139
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.219371852927992
@@ -83,7 +83,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1040854377599198
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.103844891983352
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1037421349283862
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1033182140150902
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1008268261830023
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
@@ -95,6 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.08818081468912826
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0863438805698356
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0863225278432814
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0858877221547574
