@@ -26,9 +26,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1576690568473047
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.14953035196845915
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1480630888297934
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.141775892627253
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.139980691215569
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
@@ -94,7 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0921882139271376
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.08818081468912826
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0881808146891282
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0863438805698356
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0863225278432814
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0858877221547574
