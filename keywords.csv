@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1929340551177299
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1903516598407989
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1851879462592382
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1846381025693312
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1729019162054911
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1725081698740969
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1576690568473047
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1569425521839315
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1495303519684591
@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.070974726583207
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.06704785929264945
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0670478592926494
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0667638382433191
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
