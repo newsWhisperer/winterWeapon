@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.21869312226152046
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2186931222615204
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2178818633881922
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2140747284553422
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1999885848557125
@@ -115,13 +115,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0600101370936044
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0584975412028177
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0539219745809799
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0516865169369182
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490568042745506
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0484651674330752
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0458538776933796
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0455603728022026
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.043933539396380464
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.042345637456566
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0399390034917827
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
