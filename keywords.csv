@@ -115,7 +115,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0600101370936044
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0584975412028177
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0539219745809799
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490568042745506
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0484651674330752
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0458538776933796
@@ -123,6 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0439335393963804
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.042345637456566
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.041998313633368006
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0399390034917827
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0369958822589859
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0020005576715197
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.001541102429393
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0013219305592995
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.001129186602453305
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0011291866024533
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002594803544078
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001247834795091
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.744614897307672e-05
