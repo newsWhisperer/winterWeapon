@@ -74,7 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.1104438489279884
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
-'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.10929436658935687
+'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1092943665893568
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1092057569634809
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1088020017499361
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0020005576715197
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.001541102429393
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0013219305592995
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0007989901205333
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.001129186602453305
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002594803544078
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001247834795091
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.744614897307672e-05
