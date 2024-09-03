@@ -64,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1137671707450117
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.1126097223935907
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1126079440950144
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1118044625966392
@@ -86,6 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.103844891983352
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1033182140150902
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1008268261830023
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.09916709748076223
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0439335393963804
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.042345637456566
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.041998313633368006
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.041998313633368
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0399390034917827
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0369958822589859
