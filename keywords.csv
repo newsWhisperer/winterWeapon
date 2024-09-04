@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1999885848557125
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1929340551177299
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1903516598407989
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.19011655816114184
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1901165581611418
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1851879462592382
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1729019162054911
@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1576690568473047
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1569425521839315
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1495303519684591
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1371472153006077
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.13490131935634178
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1333918750238512
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
