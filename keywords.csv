@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2419482087512349
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2399034630329461
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2347659625766139
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2178818633881922
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2140747284553422
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2136087472810309
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2044796425586559
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1999885848557125
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1929340551177299
@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1371472153006077
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.13490131935634178
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1349013193563417
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1333918750238512
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
