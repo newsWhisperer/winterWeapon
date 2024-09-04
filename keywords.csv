@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2186931222615204
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2178818633881922
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2140747284553422
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.20447964255865597
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1999885848557125
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1929340551177299
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1903516598407989
@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0343682125179327
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0336507202048611
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0300989542670415
-'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.02438987540243845
+'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0204071204847931
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0183427414795485
