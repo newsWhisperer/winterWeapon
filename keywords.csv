@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2419482087512349
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2399034630329461
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2178818633881922
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2151636719840042
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2140747284553422
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2136087472810309
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2044796425586559
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0089520374747122
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0063367100233456
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0052287982064024
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.004106575314410875
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0041065753144108
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.003992216848677
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808
