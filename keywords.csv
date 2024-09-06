@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2399034630329461
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2194043217363719
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2178818633881922
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2151636719840042
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2136087472810309
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2044796425586559
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1999885848557125
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.19624404847591612
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1929340551177299
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1903516598407989
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1901165581611418
@@ -105,7 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.07339229848436025
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.070974726583207
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0670478592926494
