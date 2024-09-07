@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1929340551177299
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1903516598407989
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1901165581611418
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.18988146751233625
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1898814675123362
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1729019162054911
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1725081698740969
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0183427414795485
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0173460524120741
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0089520374747122
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.00760923185350537
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0063367100233456
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0052287982064024
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0041065753144108
