@@ -57,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1203062953455395
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1200942674158301
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1174594402141342
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1140048898342389
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1138070505084989
@@ -85,6 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.103844891983352
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1033182140150902
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1008268261830023
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.09984074918201406
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0411953923181139
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0399390034917827
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.03734350848692334
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0373435084869233
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0369958822589859
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0355030851748043
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0343682125179327
