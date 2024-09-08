@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1929340551177299
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1903516598407989
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1901165581611418
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1898814675123362
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.18908423011275852
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1788803073034556
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1729019162054911
@@ -69,7 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1105049099922617
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.1104438489279884
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.11042302197344218
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1104230219734421
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1092943665893568
