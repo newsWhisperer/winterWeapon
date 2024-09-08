@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1929340551177299
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1903516598407989
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1901165581611418
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.18908423011275852
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1788803073034556
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1729019162054911
@@ -100,13 +100,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.084017877004032
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0825632967588658
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.081064227129908
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0796611640922756
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.070974726583207
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0693546380604218
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0670478592926494
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0667638382433191
