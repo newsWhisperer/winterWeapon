@@ -14,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1901165581611418
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1898814675123362
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1788803073034556
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1729019162054911
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1725081698740969
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1717109243203524
@@ -56,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1207634892257083
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1203062953455395
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1200942674158301
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1140048898342389
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1138070505084989
@@ -84,7 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.103844891983352
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1033182140150902
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1008268261830023
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.09984074918201406
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.099840749182014
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
