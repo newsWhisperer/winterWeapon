@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2334674866899121
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.22250951221436782
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2225095122143678
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2178818633881922
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2151636719840042
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.001541102429393
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0013219305592995
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0011291866024533
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002594803544078
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.00022055830124663
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001247834795091
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.744614897307672e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.6511463639481186e-08
