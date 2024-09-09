@@ -28,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1495303519684591
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1480630888297934
+'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1451989618010065
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1443884147856984
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.139980691215569
@@ -82,8 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1040854377599198
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.103844891983352
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1033182140150902
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.10239737614640783
-'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1008268261830023
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1023973761464078
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.099840749182014
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
