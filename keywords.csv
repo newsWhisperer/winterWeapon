@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2136087472810309
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2122699435640308
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2044796425586559
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1999885848557125
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1984478586864252
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1962440484759161
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1929340551177299
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1901165581611418
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.17949011667281015
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1788803073034556
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1729019162054911
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1725081698740969
@@ -50,7 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1273423523281775
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1265282684505853
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.12585454050532438
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1229859441004707
