@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2178818633881922
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2151636719840042
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.21512324845913083
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2140747284553422
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2136087472810309
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2122699435640308
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1901165581611418
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.17949011667281015
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1794901166728101
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1788803073034556
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1729019162054911
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1725081698740969
