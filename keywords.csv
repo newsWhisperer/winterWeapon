@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1495303519684591
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1480630888297934
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1451989618010065
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1443884147856984
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1273423523281775
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1265282684505853
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.12585454050532438
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1229859441004707
