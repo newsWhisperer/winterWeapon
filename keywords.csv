@@ -100,7 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0825632967588658
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.07510370748575897
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0751037074857589
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0726649144784342
@@ -138,9 +138,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0076092318535053
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0063367100233456
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0052287982064024
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0041065753144108
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.003992216848677
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0036406040172491795
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0020005576715197
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.001541102429393
