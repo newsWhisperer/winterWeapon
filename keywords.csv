@@ -15,10 +15,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1794901166728101
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1788803073034556
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.17670812866652816
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1729019162054911
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1717109243203524
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1683030421774332
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1646343845274663
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1625732647791396
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1593317654786393
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0359985965883628
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0355030851748043
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0343682125179327
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.028603112174131935
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0286031121741319
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0255841111269852
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0185083942248802
