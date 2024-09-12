@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1495303519684591
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.14810188310255498
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1469319743929823
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1451989618010065
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1443884147856984
@@ -36,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1384982058868213
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1371472153006077
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1363272715645032
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1349013193563417
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1333918750238512
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0052287982064024
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.003992216848677
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0036406040172491795
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0036406040172491
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0020005576715197
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.001541102429393
