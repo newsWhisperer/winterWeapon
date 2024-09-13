@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1794901166728101
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1788803073034556
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.17670812866652816
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1767081286665281
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1729019162054911
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1717109243203524
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1683030421774332
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002205583012466
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001060659575827
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.744614897307672e-05
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.6511463639481186e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.253474409355901e-08
