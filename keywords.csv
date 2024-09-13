@@ -26,9 +26,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1495303519684591
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1481018831025549
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1469319743929823
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1451989618010065
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.14492930020229797
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1449293002022979
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1443884147856984
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.139980691215569
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1265282684505853
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.12519220823403496
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1229859441004707
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002205583012466
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001060659575827
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.744614897307672e-05
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.2534744093559012e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.253474409355901e-08
