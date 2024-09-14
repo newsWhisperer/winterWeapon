@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1903516598407989
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,3,0.1807254588224081
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1794901166728101
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1788803073034556
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1767081286665281
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1729019162054911
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1717109243203524
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1683030421774332
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.16661212826279767
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1665498694369705
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1625732647791396
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1495303519684591
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1481018831025549
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.14561191104300078
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1456119110430007
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1451989618010065
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1449293002022979
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1443884147856984
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002205583012466
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001060659575827
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.744614897307672e-05
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.253474409355901e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.2534744093559012e-08
