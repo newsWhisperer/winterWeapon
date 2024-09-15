@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2151232484591308
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2140747284553422
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2122699435640308
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2081811298834614
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2044796425586559
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1984478586864252
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1962440484759161
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1929340551177299
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1903516598407989
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.042345637456566
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0411953923181139
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0399390034917827
-'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.03887633188187221
+'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0373435084869233
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0369958822589859
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002205583012466
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001060659575827
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.744614897307672e-05
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.2534744093559012e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.253474409355901e-08
