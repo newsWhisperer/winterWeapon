@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1625732647791396
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1602108276597415
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.15799956818299749
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1495303519684591
@@ -114,9 +114,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0600101370936044
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0584975412028177
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0539219745809799
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0479781412917226
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0458538776933796
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.04583367839383291
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.042345637456566
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0411953923181139
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002205583012466
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001060659575827
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.744614897307672e-05
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.253474409355901e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.2534744093559012e-08
