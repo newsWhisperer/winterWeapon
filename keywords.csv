@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1602108276597415
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1526107547419576
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1495303519684591
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1492168537746674
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1481018831025549
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1297513346807259
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.12971939653066394
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.1293397469311857
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.128514372272902
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
@@ -96,7 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0863225278432814
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0850188502120321
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.08331055183806696
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0833105518380669
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0825632967588658
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002205583012466
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001060659575827
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.744614897307672e-05
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.2534744093559012e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.253474409355901e-08
