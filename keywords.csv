@@ -18,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1665498694369705
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1625732647791396
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1610786636766467
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1602108276597415
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1596984889120034
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.15931493669259847
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1514523321138233
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0359985965883628
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0355030851748043
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0343682125179327
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.03384723492013802
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.033847234920138
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0317419822138848
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0286031121741319
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0255841111269852
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002205583012466
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,9.0156063945295e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.482922662711521e-05
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.2534744093559012e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.253474409355901e-08
