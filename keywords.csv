@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.1104438489279884
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1104230219734421
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.10968726143196669
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1096872614319666
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1092057569634809
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002205583012466
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,9.0156063945295e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.482922662711521e-05
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.2534744093559012e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.9154532479525156e-08
