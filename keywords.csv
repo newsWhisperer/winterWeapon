@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2122699435640308
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2081811298834614
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2044796425586559
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.19690044028117026
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1969004402811702
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1909314350979642
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1903516598407989
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
@@ -98,12 +98,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0850188502120321
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0833105518380669
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0825632967588658
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0751037074857589
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.07317910224503592
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0726649144784342
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0715652104534272
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.070974726583207
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002205583012466
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,9.0156063945295e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.482922662711521e-05
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.915453247952516e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.9154532479525162e-08
