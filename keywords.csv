@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1297513346807259
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.1297193965306639
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.1293397469311857
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.12908455070846728
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1273423523281775
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
@@ -69,7 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.1118044625966392
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
-'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.1104438489279884
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1104230219734421
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1096872614319666
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
@@ -90,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
+'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.09537742158879015
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.0945223277510112
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002205583012466
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,9.0156063945295e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.482922662711521e-05
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.9154532479525162e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.915453247952516e-08
