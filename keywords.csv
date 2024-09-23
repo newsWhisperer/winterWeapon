@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2178818633881922
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2144032173046158
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2122699435640308
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.20868391560263103
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.208683915602631
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2081811298834614
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2044796425586559
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1909314350979642
@@ -94,6 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.0891049238315437
+'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.08705347082081896
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0863225278432814
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0850188502120321
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
@@ -107,7 +108,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0726649144784342
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0715652104534272
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.070974726583207
-'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0683889159389314
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0670478592926494
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0667638382433191
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0002205583012466
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,9.0156063945295e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.482922662711521e-05
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.915453247952516e-08
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.9154532479525162e-08
