@@ -69,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1104230219734421
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.11036493680471188
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1096872614319666
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
@@ -83,7 +84,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.103844891983352
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1033182140150902
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1023973761464078
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.099840749182014
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
@@ -109,7 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0715652104534272
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.070974726583207
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0670478592926494
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.06641888327605201
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.066418883276052
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0600101370936044
