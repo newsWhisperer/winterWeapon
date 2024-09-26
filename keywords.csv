@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2732793455506772
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2690578605362574
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2459135335491371
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2282553925678436
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2262936429385171
@@ -69,7 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1104230219734421
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.11036493680471188
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1103649368047118
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1096872614319666
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
