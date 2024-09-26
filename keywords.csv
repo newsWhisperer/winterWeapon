@@ -120,12 +120,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.042544538475442
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0411953923181139
-'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0399390034917827
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0387094101856973
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0359985965883628
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.035993791838081095
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.035993791838081
+'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.033948152968015295
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.033847234920138
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0317419822138848
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0286031121741319
