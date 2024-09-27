@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.208683915602631
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2081811298834614
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2044796425586559
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1973042014977395
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1909314350979642
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1835484112079372
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.17266314627307855
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1717109243203524
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1683030421774332
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1668076662045286
