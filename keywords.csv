@@ -4,11 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2282553925678436
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2178818633881922
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2144032173046158
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.208683915602631
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2081811298834614
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2044796425586559
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1976840496077232
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.19628919379983253
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1909314350979642
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1835484112079372
