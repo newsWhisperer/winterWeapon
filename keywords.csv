@@ -51,10 +51,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1273423523281775
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1256882924854001
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1251922082340349
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1229859441004707
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1207634892257083
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.066418883276052
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.057140695398751995
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0571406953987519
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0510087365295637
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0509413092486547
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.049722910022395
