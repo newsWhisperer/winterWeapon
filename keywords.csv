@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1092057569634809
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1088020017499361
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
-'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.10835688815122717
+'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1083568881512271
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1057331878381347
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
@@ -120,11 +120,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0437501578613565
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.042544538475442
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0411953923181139
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0387094101856973
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0359985965883628
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.035016083470396815
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.033847234920138
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0317419822138848
