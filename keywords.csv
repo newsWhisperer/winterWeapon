@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2791059619103642
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.24581310533494832
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2458131053349483
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2282553925678436
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2128808616072361
@@ -132,9 +132,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.025928506788796
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0255841111269852
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0183427414795485
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0173460524120741
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0158821500911481
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.015591330257616226
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0076092318535053
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0053862035198437
