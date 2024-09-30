@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1251922082340349
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
-'Russland Erdöl',de,Russland,#a6190f,#b24335,1,0.12341946253085552
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1207634892257083
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
@@ -77,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1092057569634809
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1088020017499361
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
+'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.10835688815122717
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1057331878381347
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
