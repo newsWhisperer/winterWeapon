@@ -124,10 +124,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0387094101856973
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0359985965883628
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.035016083470396815
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0350160834703968
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.033847234920138
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0317419822138848
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.029670734682117297
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0286031121741319
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.025928506788796
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0255841111269852
