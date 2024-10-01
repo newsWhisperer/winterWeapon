@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1555051327615133
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1540073598250722
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1536166999990468
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1514523321138233
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1512072448059609
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1495303519684591
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1352606510437085
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1349013193563417
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1305742549991898
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1297513346807259
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0076092318535053
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.004578272991867145
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0045782729918671
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.003992216848677
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0032445284146617
