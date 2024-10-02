@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1962891937998325
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1909314350979642
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1835484112079372
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.18751629952674662
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1807447380623688
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1726631462730785
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1717109243203524
@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1495303519684591
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1466888219849771
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1441377051383908
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.14256799717597585
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1425679971759758
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1399284847280807
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
