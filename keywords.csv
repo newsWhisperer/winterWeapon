@@ -118,7 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0458336783938329
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0437501578613565
-'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.04256450351903575
+'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.042544538475442
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0387094101856973
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0032445284146617
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0020005576715197
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.001700474020791745
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0013219305592995
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.001309937064984
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0011291866024533
