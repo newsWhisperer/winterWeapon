@@ -51,12 +51,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1273423523281775
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.1256882924854001
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1251922082340349
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1207634892257083
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.11733534861259008
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1140048898342389
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1138070505084989
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0017004740207917
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.001309937064984
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0011291866024533
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.001123640975404575
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0011236409754045
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0001874745560596
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,9.0156063945295e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.482922662711521e-05
