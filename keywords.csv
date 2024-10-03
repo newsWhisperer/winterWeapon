@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1540073598250722
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.15370626911686475
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1514523321138233
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1495303519684591
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1466888219849771
@@ -38,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1352606510437085
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1349013193563417
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1322249150037981
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1305742549991898
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
