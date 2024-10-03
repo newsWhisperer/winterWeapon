@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1540073598250722
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.15370626911686475
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1537062691168647
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1514523321138233
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1495303519684591
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1466888219849771
@@ -139,8 +139,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0076092318535053
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0045782729918671
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.003992216848677
-'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0037647296137858
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0032445284146617
+'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.00320002017171793
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0017004740207917
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.001309937064984
