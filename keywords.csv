@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.26013321029841996
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2601332102984199
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2458131053349483
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2282553925678436
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
@@ -57,12 +57,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1207634892257083
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.11733534861259
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.11572377944899764
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1140048898342389
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1138070505084989
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1137671707450117
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.112674893469409
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.1126097223935907
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
