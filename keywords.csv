@@ -42,7 +42,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1305742549991898
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1297868037290569
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1297513346807259
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.1297193965306639
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.1293397469311857
@@ -70,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1104230219734421
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1103649368047118
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.11031878316969837
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1096872614319666
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.001309937064984
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0011291866024533
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0011236409754045
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.00015935337265066
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0001593533726506
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,9.0156063945295e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.482922662711521e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.3839149716456927e-08
