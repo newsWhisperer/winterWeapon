@@ -6,12 +6,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2128808616072361
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.208683915602631
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2081811298834614
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.20149131390213024
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1976840496077232
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1962891937998325
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1909314350979642
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1875162995267466
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.18655849845854128
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1807447380623688
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1726631462730785
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1717109243203524
@@ -26,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1514523321138233
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1495303519684591
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1466888219849771
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1441377051383908
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1425679971759758
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1399284847280807
