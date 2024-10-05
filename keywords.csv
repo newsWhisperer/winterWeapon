@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2128808616072361
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.208683915602631
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2081811298834614
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2044796425586559
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.20149131390213024
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1976840496077232
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1962891937998325
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1909314350979642
@@ -69,7 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1104230219734421
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1103649368047118
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.11031878316969837
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1096872614319666
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
