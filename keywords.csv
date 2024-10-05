@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1909314350979642
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1875162995267466
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.18655849845854128
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1865584984585412
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1807447380623688
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1726631462730785
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1717109243203524
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0076092318535053
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0045782729918671
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.003992216848677
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0035433993213754497
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0032445284146617
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808
