@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2601332102984199
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.23061049829911145
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2282553925678436
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2275466281710697
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0076092318535053
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.003891532043087035
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.003891532043087
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0035433993213754
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0032445284146617
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
