@@ -11,8 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1875162995267466
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1865584984585412
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.18233398326223635
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1807447380623688
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1823339832622363
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1726631462730785
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1717109243203524
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1683030421774332
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1540073598250722
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.15378304235301346
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1537062691168647
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1514523321138233
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1495303519684591
