@@ -60,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1140048898342389
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1138070505084989
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1137671707450117
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.1126097223935907
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
@@ -89,6 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.09670209513325995
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0959338832071433
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0953774215887901
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.0945223277510112
