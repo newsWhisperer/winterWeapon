@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2275466281710697
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2128808616072361
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.20993637577290084
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2081811298834614
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2009706785542447
@@ -11,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1875162995267466
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1865584984585412
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1823339832622363
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1726631462730785
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1717109243203524
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1683030421774332
@@ -110,7 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.070974726583207
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.066418883276052
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.06428819636289505
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.064288196362895
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0510087365295637
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0487196060889391
