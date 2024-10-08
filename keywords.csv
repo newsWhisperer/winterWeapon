@@ -101,7 +101,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0751037074857589
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.0744148240623568
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
@@ -111,6 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.070974726583207
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.066418883276052
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.06428819636289505
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0510087365295637
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0487196060889391
@@ -119,7 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0437501578613565
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.042544538475442
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.038958626634757965
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0389586266347579
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0387094101856973
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
