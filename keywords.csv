@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.09670209513325995
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0967020951332599
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0959338832071433
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0953774215887901
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.0945223277510112
@@ -115,11 +115,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0510087365295637
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0487196060889391
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0458538776933796
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0458336783938329
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0437501578613565
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.042544538475442
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.038958626634757965
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0387094101856973
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
