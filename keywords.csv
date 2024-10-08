@@ -116,13 +116,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0487196060889391
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0458538776933796
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0437501578613565
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.042544538475442
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0389586266347579
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0387094101856973
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.03718763418215302
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0359985965883628
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0350160834703968
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0032445284146617
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.001445402917672945
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0014454029176729
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.001309937064984
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0011291866024533
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0011236409754045
