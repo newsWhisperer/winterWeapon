@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1875162995267466
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1865584984585412
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.18272401249048137
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1827240124904813
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1726631462730785
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1683030421774332
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1665498694369705
@@ -77,7 +77,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1083568881512271
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1057331878381347
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1040854377599198
@@ -94,6 +93,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.0945223277510112
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0901732396624145
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.0891049238315437
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0870534708208189
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0863225278432814
