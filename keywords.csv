@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1875162995267466
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1865584984585412
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.18272401249048137
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1726631462730785
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1717109243203524
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1683030421774332
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1665498694369705
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1622917348332695
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0387094101856973
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.03718763418215302
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.037187634182153
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0359985965883628
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0350160834703968
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
