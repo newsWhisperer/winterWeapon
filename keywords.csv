@@ -129,16 +129,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0317419822138848
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0286031121741319
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.025928506788796
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0255841111269852
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0224892757704766
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0173460524120741
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0120299089408544
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0076092318535053
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0035433993213754
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.00330780223662395
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0033078022366239
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0032445284146617
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808
