@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2282553925678436
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2275466281710697
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.21389204807565562
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2138920480756556
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2128808616072361
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2099363757729008
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2081811298834614
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0014454029176729
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.001309937064984
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0011236409754045
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009598086120853
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008158373202725049
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0001593533726506
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,7.663265435350075e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.482922662711521e-05
