@@ -8,12 +8,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2009706785542447
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1962891937998325
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.19044873191160522
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1904487319116052
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1865584984585412
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1827240124904813
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.17528082312354548
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1726631462730785
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1683030421774332
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1665498694369705
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1622917348332695
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1610835325995794
