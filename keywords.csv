@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1865584984585412
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1827240124904813
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.17528082312354548
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1752808231235454
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1726631462730785
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1665498694369705
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1622917348332695
@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1514523321138233
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1466888219849771
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1411430732640993
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1399284847280807
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1297513346807259
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.1297193965306639
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.12957856283003996
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.1293397469311857
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1278907856448173
