@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2282553925678436
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2275466281710697
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.22454232368266708
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2138920480756556
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2099363757729008
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1278907856448173
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1273423523281775
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.12634533779891693
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1263453377989169
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1251922082340349
