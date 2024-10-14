@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0286031121741319
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0224892757704766
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.02174649445793742
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0217464944579374
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0173460524120741
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.001309937064984
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0011236409754045
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008158373202725
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.0001593533726506
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.00013545036675301
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,7.663265435350075e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.482922662711521e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.1763277258988388e-08
