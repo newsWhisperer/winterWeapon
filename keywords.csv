@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2275466281710697
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.224542323682667
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2138920480756556
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2099363757729008
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2081811298834614
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.20747195303631832
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2009706785542447
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1962891937998325
