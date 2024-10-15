@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2099363757729008
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2081811298834614
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2074719530363183
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.20361897654803945
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2009706785542447
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1962891937998325
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1904487319116052
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1827240124904813
@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1393320166379675
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1386762608327719
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.13824800460827907
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.138248004608279
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1379949305752028
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1371472153006077
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1371314628472862
