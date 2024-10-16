@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.224542323682667
-'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2190555466381137
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2138920480756556
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2099363757729008
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2081811298834614
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2074719530363183
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2036189765480394
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.20163656118085818
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2009706785542447
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1904487319116052
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0317419822138848
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0286031121741319
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.02529912030736162
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0252991203073616
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0224892757704766
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0217464944579374
