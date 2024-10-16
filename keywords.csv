@@ -78,7 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1083568881512271
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.10589883710010838
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1058988371001083
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1040854377599198
@@ -127,9 +127,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.037187634182153
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0317419822138848
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0297636709498372
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0286031121741319
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.02529912030736162
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0224892757704766
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0217464944579374
