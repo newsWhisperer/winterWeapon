@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.037187634182153
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.03311483263954421
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0331148326395442
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0317419822138848
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0286031121741319
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0120299089408544
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0076092318535053
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.006467847075479504
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0033078022366239
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0032445284146617
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
