@@ -137,11 +137,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0120299089408544
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.005497670014157575
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0033078022366239
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0054976700141575
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0032445284146617
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.003161904423169
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.002811631901130315
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0011236409754045
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0011134465052364
