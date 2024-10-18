@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.224542323682667
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2138920480756556
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2099363757729008
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2081811298834614
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2016365611808581
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2009706785542447
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.19206109513026695
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1904487319116052
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1827240124904813
@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.1297193965306639
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1295785628300399
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.1293397469311857
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,2,0.12912186135801862
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,2,0.1291218613580186
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1278907856448173
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
