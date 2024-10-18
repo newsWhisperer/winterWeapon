@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1827240124904813
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1752808231235454
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.16989733751393488
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1698973375139348
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1674869449596619
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1665498694369705
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1660059831580744
@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1540073598250722
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1537830423530134
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,2,0.1513786074800219
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1466888219849771
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.1297193965306639
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1295785628300399
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.1293397469311857
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,2,0.12912186135801862
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1278907856448173
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
