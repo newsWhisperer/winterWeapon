@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.2081811298834614
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2074719530363183
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2036189765480394
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2016365611808581
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.20158004758878387
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2015800475887838
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2009706785542447
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1920610951302669
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1913055254097617
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1904487319116052
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1827240124904813
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1752808231235454
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1698973375139348
