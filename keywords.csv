@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0731791022450359
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0715652104534272
-'Gas Putin',de,Russland,#a6190f,#a31223,3,0.07126315185212362
+'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0712631518521236
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.070974726583207
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.066418883276052
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0028116319011303
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0024843122823808
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0011236409754045
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0011134465052364
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.00094642952945094
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008158373202725
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.000135450366753
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,7.663265435350075e-05
