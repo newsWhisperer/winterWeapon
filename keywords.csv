@@ -66,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1117319698236634
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1104230219734421
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1103649368047118
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1098535581388833
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0967020951332599
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0959338832071433
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.09385956867742579
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0901732396624145
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0120299089408544
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.004673019512033875
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0032445284146617
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.003161904423169
