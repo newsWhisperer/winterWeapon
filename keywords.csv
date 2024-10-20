@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1610835325995794
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.159960336990135
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1551025018205876
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1540073598250722
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1537830423530134
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1349013193563417
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.13213715654749947
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1305742549991898
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0331148326395442
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0286031121741319
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.02713069988180208
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.027130699881802
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0252991203073616
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0224892757704766
