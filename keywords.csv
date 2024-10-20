@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2015800475887838
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2009706785542447
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1920610951302669
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1913055254097617
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1904487319116052
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1674869449596619
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1665498694369705
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1660059831580744
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.16445205086072687
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1610835325995794
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.159960336990135
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1349013193563417
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.13213715654749947
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1321371565474994
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1305742549991898
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
