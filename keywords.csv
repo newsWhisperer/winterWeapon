@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1827240124904813
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.18100532568436326
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1752808231235454
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1698973375139348
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1674869449596619
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1665498694369705
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1660059831580744
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1610835325995794
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.159960336990135
@@ -90,7 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0967020951332599
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0959338832071433
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.09385956867742579
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0938595686774257
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0901732396624145
