@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1827240124904813
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1810053256843632
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1752808231235454
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1698973375139348
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1674869449596619
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1665498694369705
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.159960336990135
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1540073598250722
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.14898916465501358
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1466888219849771
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1371314628472862
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.13562854759572596
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1356285475957259
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1349013193563417
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1321371565474994
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
