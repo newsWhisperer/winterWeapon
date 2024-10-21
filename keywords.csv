@@ -34,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1371314628472862
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.13562854759572596
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1349013193563417
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1321371565474994
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
@@ -109,7 +110,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0731791022450359
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0715652104534272
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0712631518521236
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.070974726583207
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.066418883276052
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
