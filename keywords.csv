@@ -13,12 +13,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1810053256843632
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1698973375139348
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1674869449596619
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1665498694369705
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1610835325995794
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.159960336990135
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1573228361940914
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.15560883811233403
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1540073598250722
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1489891646550135
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0120299089408544
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.00346180044002368
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0034618004400236
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0032445284146617
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.003161904423169
