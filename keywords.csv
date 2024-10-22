@@ -18,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1610835325995794
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.159960336990135
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.15732283619409143
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1540073598250722
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1489891646550135
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
@@ -50,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1273423523281775
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1263453377989169
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1260036942840704
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1251922082340349
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
@@ -119,7 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.042544538475442
-'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.04239921820329724
+'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0423992182032972
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0414116651755982
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
