@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.159960336990135
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1573228361940914
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.15560883811233403
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.155608838112334
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1540073598250722
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1489891646550135
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0120299089408544
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0034618004400236
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.00429266537402006
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0032445284146617
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.003161904423169
