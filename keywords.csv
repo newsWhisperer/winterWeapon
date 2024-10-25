@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1904487319116052
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1827240124904813
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1810053256843632
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1698973375139348
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1693585097078182
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1674869449596619
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.159960336990135
@@ -127,7 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0286031121741319
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.02844763774361257
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0284476377436125
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0252991203073616
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0233611248995317
