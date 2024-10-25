@@ -33,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1371472153006077
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1371314628472862
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.13644901580893903
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.136449015808939
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1358597508513113
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1356285475957259
@@ -119,8 +119,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.042544538475442
-'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0423992182032972
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0414116651755982
+'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.040989875472802625
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.037187634182153
