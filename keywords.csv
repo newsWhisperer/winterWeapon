@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2009706785542447
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1990693247310021
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.19522513295510355
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1952251329551035
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1913055254097617
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1904487319116052
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
@@ -17,12 +17,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.159960336990135
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.155608838112334
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.15183815497032407
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1489891646550135
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1466888219849771
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1432212753104322
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1407230443501139
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1399537030658736
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1399284847280807
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
