@@ -10,18 +10,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1810053256843632
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.17728269780525113
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1772826978052511
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1698973375139348
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1693585097078182
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1674869449596619
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.16145441550541234
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.157600045841852
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.155608838112334
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1489891646550135
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1466888219849771
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1432212753104322
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1399537030658736
