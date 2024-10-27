@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.22123121222565342
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2212312122256534
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2015800475887838
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2007591327931062
@@ -91,7 +91,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0967020951332599
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0959338832071433
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0938595686774257
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0901732396624145
@@ -103,6 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0803439785883595
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.07978063337581184
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.0744148240623568
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
