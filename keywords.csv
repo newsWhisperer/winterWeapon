@@ -16,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.159960336990135
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.15760004584185205
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.155608838112334
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1489891646550135
@@ -56,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1251922082340349
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1207634892257083
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1157237794489976
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
@@ -102,7 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0803439785883595
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.07978063337581184
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0797806333758118
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.0744148240623568
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
