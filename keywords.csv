@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1489891646550135
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1432212753104322
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1419108587397395
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1399284847280807
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1387216777096424
@@ -56,7 +55,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1251922082340349
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.12391630260599255
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1239163026059925
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.12062457492877857
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1157237794489976
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
