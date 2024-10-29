@@ -104,6 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0803439785883595
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0797806333758118
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.07463053708207062
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.0744148240623568
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
@@ -127,11 +128,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0286031121741319
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0284476377436125
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0252991203073616
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0233611248995317
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.01911588440490511
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0191158844049051
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0184845202892467
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0147441445502629
