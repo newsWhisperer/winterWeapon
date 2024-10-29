@@ -10,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1810053256843632
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1772826978052511
+'Gasstreit',de,Other,#545557,#6b6c7e,2,0.17165426726125735
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1698973375139348
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1693585097078182
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1692098710213518
@@ -104,7 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0803439785883595
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0797806333758118
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.07463053708207062
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0746305370820706
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.0744148240623568
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
@@ -128,7 +129,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0286031121741319
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0252991203073616
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0233611248995317
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0191158844049051
