@@ -19,11 +19,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1614544155054123
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.157600045841852
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.155608838112334
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1489891646550135
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1432212753104322
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.14182507525262675
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1399284847280807
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1387216777096424
@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1239163026059925
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.12371330600914715
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1237133060091471
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1157237794489976
