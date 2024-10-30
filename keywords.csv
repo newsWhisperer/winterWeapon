@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.22481630220998722
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2248163022099872
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2015800475887838
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2007591327931062
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1952251329551035
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1913055254097617
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1904487319116052
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1810053256843632
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1772826978052511
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1759276562157735
 'Gasstreit',de,Other,#545557,#6b6c7e,2,0.1716542672612573
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1698973375139348
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1693585097078182
