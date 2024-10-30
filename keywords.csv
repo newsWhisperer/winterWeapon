@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1810053256843632
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1772826978052511
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1759276562157735
-'Gasstreit',de,Other,#545557,#6b6c7e,2,0.1716542672612573
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1698973375139348
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1693585097078182
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1692098710213518
@@ -22,8 +21,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1489891646550135
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
+'Gasstreit',de,Other,#545557,#6b6c7e,2,0.1460561421720687
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1432212753104322
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.14182507525262675
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1418250752526267
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1399284847280807
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1387216777096424
