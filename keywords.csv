@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2007591327931062
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1952251329551035
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1913055254097617
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1857428797801156
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1810053256843632
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1772826978052511
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1759276562157735
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1251922082340349
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.12414773584625839
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1241477358462583
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1239163026059925
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1237133060091471
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
