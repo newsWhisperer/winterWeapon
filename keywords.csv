@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.23695456778758
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.22454473080126117
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2015800475887838
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2007591327931062
@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.037187634182153
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0364628877041256
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.035349930399258475
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0353499303992584
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
