@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1321371565474994
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1308656010000614
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1305742549991898
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.1297193965306639
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1295785628300399
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.1126097223935907
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.11188820674931133
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1103649368047118
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.024312645348012113
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0243126453480121
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0233611248995317
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0191158844049051
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0184845202892467
