@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2015800475887838
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2007591327931062
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.18909262119365614
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1890926211936561
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1857428797801156
@@ -83,7 +83,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1040854377599198
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.103844891983352
-'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1033182140150902
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1023973761464078
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
@@ -96,6 +95,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0901732396624145
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0897533211581403
+'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.08917061691282667
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.0891049238315437
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0870534708208189
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0863225278432814
