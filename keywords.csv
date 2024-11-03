@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1241477358462583
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1239163026059925
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1237133060091471
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.12328386257856358
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1232838625785635
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1176608189170371
@@ -69,7 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1103649368047118
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1098535581388833
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1097536571543158
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1096872614319666
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1094442755630767
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0967020951332599
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0959338832071433
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.09404068358116843
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0901732396624145
