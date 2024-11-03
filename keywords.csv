@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2007591327931062
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1890926211936561
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1890842301127585
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1857428797801156
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.18386035877766288
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1810053256843632
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1772826978052511
@@ -90,7 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0967020951332599
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0959338832071433
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.09404068358116843
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0940406835811684
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0901732396624145
