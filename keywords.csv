@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1674869449596619
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1614544155054123
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.16018847767991798
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.157600045841852
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1432212753104322
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1418250752526267
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1411129360279302
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1399284847280807
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1387216777096424
