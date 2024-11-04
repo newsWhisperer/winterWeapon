@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2007591327931062
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1890926211936561
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.18905578593862535
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1890557859386253
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1857428797801156
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1838603587776628
@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1411129360279302
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1399284847280807
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1387216777096424
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1379949305752028
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1371472153006077
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1371314628472862
@@ -58,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1232838625785635
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.11941407105319603
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1176608189170371
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1157237794489976
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
