@@ -86,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0967020951332599
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0959338832071433
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0940406835811684
@@ -101,6 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0863225278432814
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0850188502120321
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0826468258632709
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0803439785883595
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.0772942895439123
