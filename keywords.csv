@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.157600045841852
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1489891646550135
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1418250752526267
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1411129360279302
@@ -29,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1371472153006077
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.136449015808939
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.13619835281390433
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1358597508513113
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1356285475957259
@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0364628877041256
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.03160948905483005
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.03160948905483
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
