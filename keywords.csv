@@ -99,7 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0870534708208189
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0863225278432814
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0850188502120321
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.08428730474868909
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.084287304748689
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0826468258632709
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
@@ -123,9 +123,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0409898754728026
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.037187634182153
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0364628877041256
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.03160948905483005
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
