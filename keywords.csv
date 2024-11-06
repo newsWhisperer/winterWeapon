@@ -2,13 +2,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2015800475887838
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2014913139021302
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2007591327931062
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20038685997417538
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1890926211936561
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1890557859386253
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1857428797801156
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1810053256843632
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.17982571052350355
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.174874913597377
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1698973375139348
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1693585097078182
