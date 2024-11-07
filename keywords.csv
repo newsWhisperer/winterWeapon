@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1857428797801156
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1810053256843632
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1798257105235035
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.174874913597377
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1738046468317087
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1716339859789182
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1698973375139348
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1692098710213518
