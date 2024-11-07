@@ -104,7 +104,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0826468258632709
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0803439785883595
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0752772363759561
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0746305370820706
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
@@ -113,6 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0711304090979007
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.06781353836944
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.066418883276052
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.06443569591956268
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0550950119084607
