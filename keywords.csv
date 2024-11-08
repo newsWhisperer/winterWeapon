@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.22679726871305234
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2034945140895379
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2007591327931062
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1944760436322844
@@ -92,7 +93,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0901732396624145
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0897533211581403
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.0891049238315437
