@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1614544155054123
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.157600045841852
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.15360113155777044
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1536011315577704
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1418250752526267
@@ -139,10 +139,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0105254525997262
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.004998900567917
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0032445284146617
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.003161904423169
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0028116319011303
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0027578491524624447
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0009550948290938
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008158373202725
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
