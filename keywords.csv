@@ -1,9 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.20349451408953795
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2034945140895379
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2007591327931062
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1944760436322844
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1890926211936561
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1890557859386253
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1857428797801156
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1692098710213518
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1674869449596619
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1614544155054123
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.157600045841852
