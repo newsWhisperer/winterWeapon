@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1857428797801156
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1798257105235035
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1738046468317087
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1716339859789182
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1698973375139348
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1692098710213518
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1536011315577704
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1489340698069524
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1418250752526267
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1411129360279302
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0028116319011303
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0027578491524624
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008158373202725
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.00081183060472973
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0008118306047297
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.00011513281174
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,5.536709277040429e-05
