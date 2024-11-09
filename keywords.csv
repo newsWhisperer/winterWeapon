@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1176608189170371
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1157237794489976
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.11556621145289045
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1155662114528904
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008158373202725
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,0.00011513281174
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,6.513775620047563e-05
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,5.536709277040429e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.2604842633047928e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,9.99878567014013e-09
