@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1614544155054123
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.157600045841852
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1536011315577704
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1358597508513113
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1356285475957259
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1350111339655742
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1321371565474994
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1308656010000614
