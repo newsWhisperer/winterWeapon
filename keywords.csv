@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2034945140895379
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2007591327931062
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1944760436322844
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.19292769340609445
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1929276934060944
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1890926211936561
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1857428797801156
@@ -104,7 +104,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0826468258632709
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0803439785883595
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0746305370820706
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0731791022450359
@@ -114,6 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.066418883276052
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0644356959195626
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.06388600151976
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0550950119084607
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0510087365295637
