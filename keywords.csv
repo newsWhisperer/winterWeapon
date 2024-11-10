@@ -17,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1614544155054123
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1536011315577704
+'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.15189038298441926
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1489340698069524
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
@@ -93,7 +94,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0897533211581403
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.0891049238315437
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0870534708208189
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0243126453480121
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0233611248995317
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0184845202892467
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.016248501744169332
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0162485017441693
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0147441445502629
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
