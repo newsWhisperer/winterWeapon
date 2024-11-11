@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2142885933397435
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2007591327931062
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1944760436322844
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1929276934060944
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.19164539388423651
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1890926211936561
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1857428797801156
@@ -78,7 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1083568881512271
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1058988371001083
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.10567559046931956
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1056755904693195
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1040854377599198
