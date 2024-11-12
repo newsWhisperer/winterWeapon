@@ -14,11 +14,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1639885543951802
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1614544155054123
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1536011315577704
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1518903829844192
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.15127794227050956
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1489340698069524
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1455550207369146
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1418250752526267
@@ -89,7 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0959338832071433
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.09492510341895877
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0949251034189587
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0940406835811684
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
