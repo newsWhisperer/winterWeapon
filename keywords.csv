@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1536011315577704
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1518903829844192
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.15127794227050956
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1489340698069524
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1455550207369146
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1418250752526267
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1356285475957259
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1350111339655742
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1321371565474994
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.13128701592993305
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1308656010000614
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
