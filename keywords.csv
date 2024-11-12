@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.22560213287414024
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2256021328741402
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1944760436322844
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1916453938842365
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1890926211936561
@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1518903829844192
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1489340698069524
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.148830841727205
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1418250752526267
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1411129360279302
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1278907856448173
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1273423523281775
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.12650632046812427
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1263453377989169
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1251922082340349
