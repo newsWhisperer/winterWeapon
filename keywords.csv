@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2256021328741402
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.21785312980160101
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.217853129801601
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1944760436322844
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1917500789911713
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1890926211936561
@@ -107,8 +107,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0731791022450359
-'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0712631518521236
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0711304090979007
+'Gas Putin',de,Russland,#a6190f,#a31223,3,0.07007139861975961
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.06781353836944
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.066418883276052
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0644356959195626
