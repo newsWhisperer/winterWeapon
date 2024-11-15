@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.217853129801601
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.20580960703392825
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2058096070339282
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1944760436322844
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1917500789911713
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1890926211936561
@@ -68,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1103649368047118
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1098535581388833
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1096872614319666
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1088020017499361
@@ -76,6 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1083568881512271
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1074169735089599
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1058988371001083
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1056755904693195
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
