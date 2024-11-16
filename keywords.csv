@@ -95,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.0891049238315437
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0863225278432814
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.084287304748689
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0826468258632709
@@ -105,6 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.075195570197696
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.07382468866678919
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0731791022450359
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0711304090979007
