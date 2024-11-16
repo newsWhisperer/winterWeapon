@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.22194784214954266
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2219478421495426
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2058096070339282
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1944760436322844
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1917500789911713
@@ -89,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0959338832071433
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.09515698616460194
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0949251034189587
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
@@ -130,7 +131,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0243126453480121
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0233611248995317
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0184845202892467
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0162485017441693
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
