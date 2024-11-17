@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1857428797801156
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1798257105235035
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1674869449596619
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1669615435499672
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1639885543951802
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.16095175185207627
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1536011315577704
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1518903829844192
