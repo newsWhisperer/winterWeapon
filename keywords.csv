@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.2373350334268186
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2219478421495426
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2058096070339282
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1944760436322844
@@ -9,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1857428797801156
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1798257105235035
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.17930904610838122
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1793090461083812
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1609517518520762
@@ -17,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1536011315577704
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1518903829844192
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1489340698069524
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1455550207369146
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1449743137161951
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1418250752526267
