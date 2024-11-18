@@ -52,15 +52,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1239163026059925
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.12372762871603829
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1237133060091471
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1232838625785635
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1220900220188686
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1215129884201932
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1176608189170371
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.11598166343759815
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1159816634375981
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1157237794489976
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
