@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1857428797801156
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1798257105235035
-'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.1669615435499672
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.17930904610838122
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1609517518520762
@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0731791022450359
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0711304090979007
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.07069984698378026
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0706998469837802
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0700713986197596
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.06781353836944
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0644356959195626
