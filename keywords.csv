@@ -54,7 +54,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1239163026059925
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1237276287160382
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1237133060091471
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,3,0.1232838625785635
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1215129884201932
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
@@ -80,6 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1058988371001083
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1056755904693195
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.10479209319177897
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1040854377599198
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1023973761464078
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.03160948905483
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.03159351454850676
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0315935145485067
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
