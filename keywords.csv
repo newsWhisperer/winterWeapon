@@ -43,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1278907856448173
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1274034766351627
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1273423523281775
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1265063204681242
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1263453377989169
@@ -58,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.11778903968534282
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1176608189170371
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1159816634375981
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1157237794489976
@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.09728080512219159
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0972808051221915
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.0951569861646019
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0949251034189587
