@@ -11,13 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1798257105235035
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1793090461083812
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.16588861867816004
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.16588861867816
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1609517518520762
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1579995681829974
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1536011315577704
-'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1518903829844192
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1455550207369146
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1449743137161951
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.1297193965306639
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1295785628300399
+'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.12955687053675632
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.1293397469311857
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
