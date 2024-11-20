@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.2373350334268186
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2219478421495426
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2058096070339282
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.2035349584127958
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1944760436322844
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1917500789911713
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1902740327959355
@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.1297193965306639
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1295785628300399
-'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.12955687053675632
+'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1295568705367563
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.1293397469311857
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
