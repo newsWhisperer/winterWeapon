@@ -11,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1798257105235035
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1793090461083812
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.16588861867816004
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1609517518520762
@@ -27,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1361983528139043
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1361092392782593
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1358597508513113
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1356285475957259
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1350111339655742
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1321371565474994
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1215129884201932
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.11946432880051763
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1194643288005176
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1177890396853428
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1176608189170371
