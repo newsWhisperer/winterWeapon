@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.20724747446347486
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2072474744634748
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2058096070339282
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.2035349584127958
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1944760436322844
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1917500789911713
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1902740327959355
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1798257105235035
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1793090461083812
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.17480489465087645
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.16588861867816
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
