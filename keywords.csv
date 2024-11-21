@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1798257105235035
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1793090461083812
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.17480489465087645
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1748048946508764
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.16588861867816
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.003161904423169
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0028116319011303
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.002344171779593
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0019925460126540497
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008158373202725
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0008118306047297
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
