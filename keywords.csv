@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1917500789911713
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1902740327959355
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1890926211936561
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.18727116074967493
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1872711607496749
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1857428797801156
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
@@ -86,9 +86,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0991313697349568
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0984508515480439
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0972808051221915
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.09717188035429884
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.0951569861646019
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0949251034189587
