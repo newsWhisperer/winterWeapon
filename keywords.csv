@@ -35,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1308656010000614
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1295785628300399
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1295568705367563
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.1293397469311857
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1103649368047118
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.11014219840553392
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1096872614319666
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1088020017499361
@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0972808051221915
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.09717188035429884
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0971718803542988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.0951569861646019
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0949251034189587
