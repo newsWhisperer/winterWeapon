@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1798257105235035
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1793090461083812
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1748048946508764
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.16588861867816
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.16868600360370872
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1609517518520762
@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1103649368047118
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.11014219840553392
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1101421984055339
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1096872614319666
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1088020017499361
