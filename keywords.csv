@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1455550207369146
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1418250752526267
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,2,0.1388339592390109
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.14114422353497744
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.138675272650231
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.136947411333045
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1361983528139043
@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1177890396853428
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1176608189170371
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.11717519300551654
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1171751930055165
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1159816634375981
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1157237794489976
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1140991752616477
