@@ -79,6 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1058988371001083
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1056755904693195
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1052203865316282
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1047920931917789
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1040854377599198
@@ -112,7 +113,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0706998469837802
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0700713986197596
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.06781353836944
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0644356959195626
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0564560657846442
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0028116319011303
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0026876187596936497
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0026876187596936
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.001992546012654
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008158373202725
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0008118306047297
