@@ -90,7 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0972808051221915
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0971718803542988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.09527917048368327
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.0951569861646019
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0949251034189587
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
@@ -113,7 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0706998469837802
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0700713986197596
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.06781353836944
-'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0644219737032651
+'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.06579228098110868
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0564560657846442
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.054753146291796
