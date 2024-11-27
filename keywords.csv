@@ -113,7 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0706998469837802
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0700713986197596
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.06781353836944
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.06665530376664539
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0666553037666453
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0657922809811086
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0564560657846442
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0006934617222316
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,9.7862889979e-05
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,5.536709277040429e-05
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,9.106998802377129e-06
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,7.74094898202056e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,9.99878567014013e-09
