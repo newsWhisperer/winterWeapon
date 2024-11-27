@@ -143,9 +143,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0028116319011303
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0026876187596936
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.001992546012654
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008158373202725
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0008118306047297
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0006934617222316249
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,9.7862889979e-05
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,5.536709277040429e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,9.106998802377129e-06
