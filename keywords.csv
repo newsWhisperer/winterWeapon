@@ -21,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1553967777106283
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1529393916397583
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1469832411434653
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1455550207369146
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1418250752526267
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1263453377989169
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1251922082340349
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1239163026059925
