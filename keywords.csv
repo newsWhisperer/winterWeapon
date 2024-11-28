@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0026876187596936
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0023898871159607547
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0023898871159607
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.001992546012654
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0008118306047297
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,9.7862889979e-05
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,5.536709277040429e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,7.74094898202056e-06
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,9.99878567014013e-09
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,8.49896781961911e-09
