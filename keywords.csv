@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.22248477668795014
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2224847766879501
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2034470038074363
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1988088086152346
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1946081109150139
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0026876187596936
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0023898871159607
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.002031404048566595
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.001992546012654
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0008118306047297
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
