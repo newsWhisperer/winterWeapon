@@ -9,14 +9,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1811159632939535
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1798257105235035
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.17933691665097132
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1793090461083812
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1793369166509713
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1748048946508764
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1686860036037087
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.164294728540443
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.162164054192124
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1572494670510643
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1553967777106283
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1529393916397583
