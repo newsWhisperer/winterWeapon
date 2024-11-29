@@ -17,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.164294728540443
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.162164054192124
+'Brownout',de,Other,#3d9a9c,#3fa1c5,2,0.1595466947097673
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1572494670510643
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1553967777106283
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1529393916397583
@@ -136,7 +137,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0147441445502629
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0105254525997262
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0049991404827294
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
