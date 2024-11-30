@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2224847766879501
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20780300894497797
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2034470038074363
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1988088086152346
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1946081109150139
@@ -8,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1811159632939535
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1798257105235035
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1793369166509713
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1748048946508764
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1159816634375981
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1159013319498803
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1157237794489976
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.11416229782345047
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1141622978234504
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
