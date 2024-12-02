@@ -13,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1748048946508764
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1686860036037087
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.16765701948357956
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.164294728540443
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
@@ -21,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1553967777106283
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1529393916397583
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1486332919058155
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1465355192699011
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1455550207369146
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1418250752526267
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.020665748545810284
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0206657485458102
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0184845202892467
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0162485017441693
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
