@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2361290771486857
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2224847766879501
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2034470038074363
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1988088086152346
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.19860919473021213
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1914054789099509
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1902740327959355
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
@@ -84,7 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1047920931917789
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1040854377599198
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.09985293193837295
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0991313697349568
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
