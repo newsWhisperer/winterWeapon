@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1748048946508764
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1686860036037087
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.16765701948357956
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1676570194835795
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.164294728540443
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
@@ -31,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1356285475957259
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1321371565474994
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.13058176148744569
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1298103639827277
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1295568705367563
@@ -71,7 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1101421984055339
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1096872614319666
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1088020017499361
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1083568881512271
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
