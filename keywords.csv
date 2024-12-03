@@ -22,10 +22,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1553967777106283
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1529393916397583
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1465355192699011
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1455550207369146
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1418250752526267
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.14123947533810177
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1412394753381017
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.138675272650231
 'Brownout',de,Other,#3d9a9c,#3fa1c5,2,0.1362147505033022
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1298103639827277
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1295568705367563
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.12950748637941595
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,2,0.1293397469311857
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
