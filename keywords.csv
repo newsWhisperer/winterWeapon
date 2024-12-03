@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1356285475957259
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1321371565474994
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.13058176148744569
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1305817614874456
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1298103639827277
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1295568705367563
@@ -98,13 +98,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.0891049238315437
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.084287304748689
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0806846560439931
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0803439785883595
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.07573948525681214
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.075195570197696
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0738246886667891
