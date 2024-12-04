@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2361290771486857
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2312831357098219
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2034470038074363
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.19981467970895136
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1988088086152346
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1902740327959355
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0026876187596936
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0020314040485665
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.001992546012654
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0016936641107558998
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0008118306047297
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0006934617222316
