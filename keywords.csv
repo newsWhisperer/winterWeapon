@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2361290771486857
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2312831357098219
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2192971892127465
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2034470038074363
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1988088086152346
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1455550207369146
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1418250752526267
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.14158427559948858
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1415842755994885
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1412394753381017
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.138675272650231
