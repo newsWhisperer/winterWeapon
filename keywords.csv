@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.138675272650231
 'Brownout',de,Other,#3d9a9c,#3fa1c5,2,0.1362147505033022
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1356285475957259
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1309064147961097
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.13440336575851142
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1305817614874456
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1298103639827277
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0016936641107558
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0008118306047297
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00058944246389686
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0005894424638968
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,8.318345648214999e-05
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,5.536709277040429e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,7.74094898202056e-06
