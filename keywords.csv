@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1412394753381017
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.138675272650231
-'Brownout',de,Other,#3d9a9c,#3fa1c5,2,0.1362147505033022
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1356285475957259
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1341939708947346
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1305817614874456
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1171751930055165
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1159816634375981
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1159013319498803
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.11578264292780686
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1157237794489976
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1141622978234504
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
@@ -96,7 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.08973735855188397
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0897373585518839
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.084287304748689
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
