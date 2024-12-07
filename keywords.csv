@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1988088086152346
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1902740327959355
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.18887935755047727
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1888793575504772
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1793369166509713
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0162485017441693
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0147441445502629
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0132135038056979
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.011681523234843215
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0049991404827294
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
