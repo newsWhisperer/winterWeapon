@@ -92,7 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.0951569861646019
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.09455039672254428
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0945503967225442
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0016936641107558
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0008118306047297
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0005894424638968
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00050102609431228
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,8.318345648214999e-05
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,5.536709277040429e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,7.74094898202056e-06
