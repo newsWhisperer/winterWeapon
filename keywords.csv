@@ -67,7 +67,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1112357608500521
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1103649368047118
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1101421984055339
@@ -93,6 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.0951569861646019
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.09455039672254428
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0162485017441693
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0147441445502629
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.011681523234843215
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0116815232348432
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0049991404827294
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
