@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,2,0.22409455726432875
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2151792189897122
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2034470038074363
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
@@ -29,7 +30,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.138675272650231
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1356285475957259
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1341939708947346
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1305817614874456
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1298103639827277
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1295568705367563
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0409898754728026
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.039559148195822603
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0395591481958226
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
