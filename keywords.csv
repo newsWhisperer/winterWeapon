@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2151792189897122
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2034470038074363
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1988088086152346
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.19694576523216445
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1913538858308345
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.19048043367467937
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1904804336746793
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1902740327959355
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1888793575504772
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
