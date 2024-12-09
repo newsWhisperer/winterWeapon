@@ -44,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1264206783389824
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1263453377989169
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1251922082340349
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
@@ -77,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1074169735089599
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.10641337699892967
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1058988371001083
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1056755904693195
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
