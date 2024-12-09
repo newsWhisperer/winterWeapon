@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2034470038074363
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.20061324096359356
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1988088086152346
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1969457652321644
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0162485017441693
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0147441445502629
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.010379339749616719
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0067995244103199
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
