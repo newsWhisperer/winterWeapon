@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.20061324096359356
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2006132409635935
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1988088086152346
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1969457652321644
@@ -82,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1047920931917789
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.10309624334088319
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0991313697349568
@@ -99,7 +100,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0897373585518839
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.084287304748689
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,1,0.0833772541978305
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0806846560439931
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0803439785883595
