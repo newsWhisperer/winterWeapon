@@ -50,7 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1239163026059925
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1237991231688376
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1237276287160382
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.12151046628400503
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121510466284005
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1205516439647327
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
@@ -88,7 +88,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0991313697349568
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0972808051221915
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0971718803542988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0897373585518839
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.084287304748689
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.08298871435386278
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0806846560439931
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0803439785883595
