@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1913538858308345
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1904804336746793
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1902740327959355
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1888793575504772
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.18486702605836336
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1817665300561347
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1793369166509713
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1783150400661348
@@ -99,7 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0897373585518839
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.084287304748689
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.08298871435386278
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0829887143538627
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0806846560439931
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0803439785883595
