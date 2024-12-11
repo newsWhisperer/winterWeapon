@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2120892821496088
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2072953766372363
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.20341007800898564
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1988088086152346
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1969457652321644
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1529393916397583
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1516536607489549
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.14802570698683795
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1480257069868379
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1455550207369146
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1412394753381017
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
