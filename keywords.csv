@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1455550207369146
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1412394753381017
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.14093106507082198
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1409310650708219
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.138675272650231
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1356285475957259
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1341939708947346
@@ -117,8 +117,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0666553037666453
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0657922809811086
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0564560657846442
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0510087365295637
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.04828768591694756
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0409898754728026
