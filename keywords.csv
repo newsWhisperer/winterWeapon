@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2072953766372363
-'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.20575671914113122
+'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.2057567191411312
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2034100780089856
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1969457652321644
@@ -91,7 +91,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0971718803542988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.0951569861646019
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0945503967225442
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.084287304748689
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0829887143538627
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0808834682399116
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0806846560439931
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0803439785883595
