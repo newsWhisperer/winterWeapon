@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2072953766372363
+'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.20575671914113122
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2034100780089856
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
-'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.1988088086152346
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1969457652321644
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1913538858308345
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.164294728540443
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.162164054192124
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.15945725054771448
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1594572505477144
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1572494670510643
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1529393916397583
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
