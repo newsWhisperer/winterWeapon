@@ -16,9 +16,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1676570194835795
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.164294728540443
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.16322238569282996
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.162164054192124
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1594572505477144
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1572494670510643
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1529393916397583
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.151838154970324
@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
-'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.11042336995624286
+'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1101421984055339
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1096872614319666
