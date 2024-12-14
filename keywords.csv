@@ -116,6 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.06781353836944
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0666553037666453
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0657922809811086
+'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.06494081500116354
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0620432844232727
 'Russland Öltanker',de,Russland,#a6190f,#b25335,1,0.0510087365295637
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0482876859169475
@@ -130,7 +131,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0271680956966055
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
-'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0243898754024384
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0206657485458102
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0184845202892467
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
