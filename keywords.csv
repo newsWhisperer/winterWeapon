@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,2,0.2057567191411312
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2034100780089856
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.19933948832346904
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.199339488323469
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1969457652321644
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1913538858308345
@@ -23,12 +23,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1572494670510643
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1516536607489549
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1480257069868379
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1479992778937945
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1455550207369146
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1412394753381017
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1409310650708219
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.13986502502972128
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1377621494429504
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1356285475957259
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1341939708947346
