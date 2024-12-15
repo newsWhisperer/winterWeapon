@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1412394753381017
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1409310650708219
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.13986502502972128
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1398650250297212
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1377621494429504
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1356285475957259
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1341939708947346
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0026876187596936
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0020314040485665
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0016936641107558
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.00143961449414243
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0008118306047297
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0005010260943122
