@@ -5,10 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1969457652321644
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1913538858308345
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1904804336746793
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1888793575504772
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.18438976081541605
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.184389760815416
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1793369166509713
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1783150400661348
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.164294728540443
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1625084286234774
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.162164054192124
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1591899131163327
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1572494670510643
