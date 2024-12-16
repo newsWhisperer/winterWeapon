@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1888793575504772
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.184389760815416
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.18382709792467894
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1801316668805983
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1783150400661348
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1704576343179156
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1676570194835795
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.164294728540443
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
