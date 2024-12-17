@@ -31,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1409310650708219
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1398650250297212
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1377621494429504
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,2,0.1356285475957259
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1341939708947346
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1295074863794159
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1159013319498803
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.1157826429278068
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1157237794489976
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.115284325456367
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1141622978234504
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1141008922899351
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
