@@ -86,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0991313697349568
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0986223235265263
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0971718803542988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
@@ -98,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0897373585518839
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.084287304748689
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.08397898999754737
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0829887143538627
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0808834682399116
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
