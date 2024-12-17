@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2034100780089856
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.199339488323469
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1969457652321644
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1888793575504772
@@ -39,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1273423523281775
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1265063204681242
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1264206783389824
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1263453377989169
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,8.318345648214999e-05
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,5.536709277040429e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,7.74094898202056e-06
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,7.2241226466762445e-09
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,7.224122646676243e-09
