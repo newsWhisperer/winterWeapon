@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.210759176438585
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2085115288653002
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2034100780089856
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1888793575504772
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.184389760815416
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.18410281497279724
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1838270979246789
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1783150400661348
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1056755904693195
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.10311717819015837
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1031171781901583
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
