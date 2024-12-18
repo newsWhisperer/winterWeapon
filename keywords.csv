@@ -9,10 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1888793575504772
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1864549054009422
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.184389760815416
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.18410281497279724
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1841028149727972
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1838270979246789
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1783150400661348
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1720426203101986
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1704576343179156
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.164294728540443
@@ -27,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1455550207369146
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1412394753381017
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1409310650708219
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1398650250297212
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1387322243299558
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1377621494429504
