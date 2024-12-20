@@ -92,7 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0945503967225442
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.09075140044909016
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0907514004490901
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0897373585518839
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083298507487719
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
-'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0032000201717179
+'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602148
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0026876187596936
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0020314040485665
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0014396144941424
