@@ -13,20 +13,20 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1838270979246789
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1783150400661348
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.17415146425937655
+'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1741514642593765
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1720426203101986
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1704576343179156
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.162164054192124
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1591899131163327
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1572494670510643
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1516536607489549
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1479992778937945
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1412394753381017
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1402635261488828
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1398650250297212
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1398221276263774
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1387322243299558
