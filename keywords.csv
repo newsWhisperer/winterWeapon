@@ -75,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1080019114023677
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1074169735089599
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.1064133769989296
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1058988371001083
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1056755904693195
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
@@ -93,6 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0945503967225442
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.09075140044909016
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0897373585518839
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
