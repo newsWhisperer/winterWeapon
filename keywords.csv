@@ -89,7 +89,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0971718803542988
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0945503967225442
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0907514004490901
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0839789899975473
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0808834682399116
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.08036783721416257
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0803439785883595
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0757394852568121
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083298507487719
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
-'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602148
+'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0026876187596936
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0020314040485665
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0014396144941424
