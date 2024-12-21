@@ -99,8 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0839789899975473
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0808834682399116
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.08036783721416257
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0803439785883595
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0803678372141625
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0757394852568121
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.075195570197696
@@ -112,6 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0711304090979007
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0706998469837802
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0700713986197596
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.06874242680010556
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0687319726373941
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0666553037666453
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0657922809811086
