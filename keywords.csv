@@ -63,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1141622978234504
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1141008922899351
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
-'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.112513717980013
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
@@ -87,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0991313697349568
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0971718803542988
+'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.09683678028301104
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0711304090979007
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0706998469837802
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0700713986197596
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.06874242680010556
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0687424268001055
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0687319726373941
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0666553037666453
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0657922809811086
