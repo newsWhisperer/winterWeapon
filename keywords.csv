@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.184389760815416
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1841028149727972
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1838270979246789
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.18273539717759282
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1827353971775928
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1783150400661348
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1741514642593765
@@ -24,11 +24,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1516536607489549
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1479992778937945
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1438888986548346
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1412394753381017
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1402635261488828
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1398650250297212
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1398221276263774
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1387322243299558
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1377621494429504
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1341939708947346
