@@ -7,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1952559164089827
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1888793575504772
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1865499562097253
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.184389760815416
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1838270979246789
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1827353971775928
@@ -23,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1572494670510643
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1516536607489549
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1479992778937945
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1438888986548346
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1412394753381017
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
