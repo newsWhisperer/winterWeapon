@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2085115288653002
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.22764145999005062
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2034100780089856
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0395591481958226
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.03222477050684027
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0322247705068402
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0271680956966055
