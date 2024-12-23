@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1194643288005176
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.11852245068046242
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1185224506804624
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1176608189170371
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1159816634375981
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1159013319498803
@@ -125,8 +125,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0409898754728026
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0395591481958226
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0375585182433415
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.03222477050684027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0271680956966055
