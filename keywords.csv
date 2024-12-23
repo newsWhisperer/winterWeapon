@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1783150400661348
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1741514642593765
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1720426203101986
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1704576343179156
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1572494670510643
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1516536607489549
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.14773736726366882
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1438888986548346
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1412394753381017
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0022844759457395
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0017266934412815248
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0017266934412815
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0014396144941424
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0008118306047297
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
