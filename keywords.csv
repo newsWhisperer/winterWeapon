@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.22764145999005062
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2276414599900506
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2034100780089856
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
@@ -29,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1402635261488828
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1398650250297212
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.13823546651100257
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1377621494429504
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1341939708947346
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
@@ -42,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1263453377989169
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.1247170579273827
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1239163026059925
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1237991231688376
