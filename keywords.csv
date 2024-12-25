@@ -16,13 +16,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1741514642593765
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1705035990373864
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1704576343179156
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1688342322171716
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1627976280478315
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.162164054192124
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1572494670510643
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.15439305371568282
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1516536607489549
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
@@ -118,7 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.05273679175978179
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0527367917597817
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0482876859169475
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
