@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2034100780089856
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.19733751060875995
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1973375106087599
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1969457652321644
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1952559164089827
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
@@ -120,11 +120,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0527367917597817
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0482876859169475
-'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0446217241534071
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0409898754728026
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0395591481958226
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
+'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.03807848053039604
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0322247705068402
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
