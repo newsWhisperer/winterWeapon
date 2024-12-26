@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1516536607489549
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1438888986548346
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.14350915738459585
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1435091573845958
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1402635261488828
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1398650250297212
@@ -122,10 +122,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0482876859169475
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0409898754728026
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0395591481958226
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.038078480530396
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.03362527596644921
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0322247705068402
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
