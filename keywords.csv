@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.184389760815416
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1827353971775928
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1796266959086958
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.17939103141779528
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1783150400661348
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1741514642593765
@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1292091757191721
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1273423523281775
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1264206783389824
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1263453377989169
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.10944161447895087
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1083568881512271
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
