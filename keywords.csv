@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1438888986548346
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1435091573845958
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1402635261488828
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1398650250297212
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1237991231688376
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1237276287160382
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.12258284377690642
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121510466284005
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1205516439647327
