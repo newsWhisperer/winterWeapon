@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1865499562097253
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.184389760815416
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1827353971775928
+'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.18102953962047003
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1796266959086958
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1783150400661348
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1741514642593765
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1705035990373864
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.10944161447895087
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1094416144789508
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1083568881512271
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
