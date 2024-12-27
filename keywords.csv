@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1865499562097253
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.184389760815416
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1827353971775928
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.18102953962047003
+'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.18102953962047
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1796266959086958
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1783150400661348
@@ -108,7 +108,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0731791022450359
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0714404972007833
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0711304090979007
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0706998469837802
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0700713986197596
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0689009630039248
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0687424268001055
@@ -117,6 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0657922809811086
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.06009486993621317
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0527367917597817
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0482876859169475
