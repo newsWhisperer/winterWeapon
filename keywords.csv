@@ -27,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1438888986548346
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.14345257778125328
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1402635261488828
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1398650250297212
@@ -41,7 +42,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1264206783389824
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1263453377989169
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
@@ -116,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0600948699362131
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.05871583355333608
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.058715833553336
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0527367917597817
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0482876859169475
