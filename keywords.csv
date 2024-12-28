@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2276414599900506
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2075382650824521
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2034100780089856
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1237991231688376
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1237276287160382
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.12258284377690642
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1225828437769064
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121510466284005
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1205516439647327
