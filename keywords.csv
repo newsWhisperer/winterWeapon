@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1973375106087599
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1969457652321644
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1952559164089827
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1888793575504772
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1796266959086958
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1783150400661348
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1769024749927943
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1705035990373864
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
@@ -33,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1377621494429504
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1341939708947346
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.13292841536617211
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1329284153661721
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1295074863794159
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
