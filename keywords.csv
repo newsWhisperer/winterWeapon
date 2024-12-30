@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2034100780089856
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.19865281981752614
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1986528198175261
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1973375106087599
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1952559164089827
@@ -24,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1543930537156828
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1536645124770204
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.1518768147691013
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1438888986548346
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1434525777812532
@@ -93,7 +94,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0907514004490901
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.090014011535092
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0897373585518839
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.084287304748689
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0839789899975473
