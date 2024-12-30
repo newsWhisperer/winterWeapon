@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2034100780089856
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.19865281981752614
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1973375106087599
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1952559164089827
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1904503094109933
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1888793575504772
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1884022811820662
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1865499562097253
@@ -78,7 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1031171781901583
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.10149422843243606
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.101494228432436
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.099748929054689
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
