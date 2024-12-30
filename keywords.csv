@@ -75,10 +75,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1074169735089599
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1056755904693195
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1055517510969836
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1031171781901583
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.10149422843243606
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.099748929054689
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0184845202892467
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0155913302576162
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.010652644437564888
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0106526444375648
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083298507487719
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
