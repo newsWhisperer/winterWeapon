@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.1518768147691013
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.14492811918177845
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1449281191817784
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1438888986548346
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1434525777812532
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1411442235349774
@@ -125,9 +125,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.038078480530396
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0336252759664492
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.02858148457148182
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0275410699308141
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0271680956966055
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
