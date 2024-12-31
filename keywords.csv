@@ -57,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1185224506804624
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1176608189170371
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1159816634375981
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1159013319498803
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.1157826429278068
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1157237794489976
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.115284325456367
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1083568881512271
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.10812209271295381
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1074169735089599
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1056755904693195
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0336252759664492
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.02754106993081417
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0275410699308141
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0271680956966055
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0206657485458102
