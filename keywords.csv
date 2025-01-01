@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.20966881812581956
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2096688181258195
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1986528198175261
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
@@ -111,10 +111,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0700713986197596
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0687424268001055
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0687319726373941
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0666553037666453
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0657922809811086
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0616123182016485
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0600948699362131
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.058715833553336
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
