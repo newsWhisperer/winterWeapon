@@ -96,7 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.084287304748689
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0839789899975473
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.08379621830115398
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0837962183011539
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0803678372141625
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
@@ -116,9 +116,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0616123182016485
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0600948699362131
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.058715833553336
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0527367917597817
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0500584735203356
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0482876859169475
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0409898754728026
