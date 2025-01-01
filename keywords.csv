@@ -33,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1382354665110025
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1377621494429504
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.13401727909563987
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1340172790956398
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1329284153661721
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1295074863794159
@@ -85,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0991313697349568
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0971718803542988
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.096836780283011
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
@@ -97,6 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.084287304748689
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0839789899975473
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.08379621830115398
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0803678372141625
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
