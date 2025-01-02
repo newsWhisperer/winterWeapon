@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0206657485458102
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0184845202892467
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.013252630718973769
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0132526307189737
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0106526444375648
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083298507487719
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0014396144941424
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0008118306047297
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0005010260943122
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00042587218016536997
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001970770288548
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,8.318345648214999e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,5.592835639509855e-06
