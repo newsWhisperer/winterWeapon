@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1543930537156828
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1536645124770204
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.15209181955387857
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.1518768147691013
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1508339570787062
@@ -140,7 +141,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083298507487719
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0022844759457395
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0014676894250892
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0014396144941424
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0008118306047297
