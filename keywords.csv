@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.22407965631603746
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2240796563160374
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1986528198175261
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
@@ -120,7 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0527367917597817
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0500584735203356
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0482876859169475
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.04599526802940537
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0409898754728026
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
