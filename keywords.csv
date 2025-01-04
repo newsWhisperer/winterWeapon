@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.22723797468681362
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2272379746868136
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1986528198175261
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004258721801653
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001970770288548
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,8.318345648214999e-05
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,5.592835639509855e-06
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,4.7539102935833765e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,6.1405042496748065e-09
