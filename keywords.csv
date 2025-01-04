@@ -81,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1031171781901583
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.101494228432436
+'Gas Putin',de,Russland,#a6190f,#a31223,3,0.10088272519043201
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.099748929054689
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
@@ -109,7 +110,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0731791022450359
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0714404972007833
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0711304090979007
-'Gas Putin',de,Russland,#a6190f,#a31223,3,0.0700713986197596
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0687424268001055
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0687319726373941
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0657922809811086
