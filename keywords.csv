@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0275410699308141
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0271680956966055
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.02429426188575953
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0242942618857595
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0206657485458102
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0184845202892467
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0106526444375648
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083298507487719
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0046730195120338
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.00397206658522873
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0014676894250892
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0014396144941424
