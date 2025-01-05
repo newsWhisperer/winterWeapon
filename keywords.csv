@@ -122,6 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0527367917597817
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0500584735203356
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0459952680294053
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.045056992680686914
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.038078480530396
@@ -139,11 +140,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0106526444375648
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083298507487719
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.00397206658522873
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0039720665852287
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0014676894250892
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0014396144941424
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0008118306047297
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004258721801653
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001970770288548
