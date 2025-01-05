@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1237991231688376
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1237276287160382
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.12363894630451162
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1225828437769064
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121510466284005
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
@@ -128,10 +128,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0285814845714818
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0275410699308141
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0271680956966055
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.02429426188575953
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0206657485458102
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0184845202892467
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
