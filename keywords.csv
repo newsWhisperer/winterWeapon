@@ -45,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1237991231688376
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1237276287160382
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1225828437769064
@@ -63,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.115284325456367
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1152358931103612
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1141622978234504
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0132526307189737
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.009054747771930079
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.00905474777193
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083298507487719
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0039720665852287
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
