@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.1157826429278068
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1157237794489976
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.115284325456367
-'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.11523589311036121
+'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1152358931103612
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1141622978234504
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
@@ -137,8 +137,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0184845202892467
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0132526307189737
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0106526444375648
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.009054747771930079
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083298507487719
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0039720665852287
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
