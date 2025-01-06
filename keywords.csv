@@ -61,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.1157826429278068
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1157237794489976
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.115284325456367
+'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.11523589311036121
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1141622978234504
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
@@ -72,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1094416144789508
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
-'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1083568881512271
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1081220927129538
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1074169735089599
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0039720665852287
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0014676894250892
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.00122367232002104
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.001223672320021
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004258721801653
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001970770288548
