@@ -15,10 +15,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1783150400661348
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1769024749927943
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.17689871089262896
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1696331176810958
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1648391871464084
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1543930537156828
