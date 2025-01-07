@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2272379746868136
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2140161156875563
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.20264977302924608
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1986528198175261
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1225828437769064
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.122527378230049
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.12230589385660941
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1223058938566094
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121510466284005
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1205516439647327
