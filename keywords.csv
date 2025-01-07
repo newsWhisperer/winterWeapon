@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2140161156875563
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.20264977302924608
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.202649773029246
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1986528198175261
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
@@ -16,11 +16,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1769024749927943
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1768987108926289
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1696331176810958
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1656102231471236
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.15823444411984053
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1543930537156828
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1536645124770204
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.1520918195538785
