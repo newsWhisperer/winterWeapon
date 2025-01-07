@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.1518768147691013
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1508339570787062
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1438888986548346
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1434525777812532
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1382354665110025
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1377621494429504
@@ -48,7 +47,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1237276287160382
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1225828437769064
-'Gas Putin',de,Russland,#a6190f,#a31223,3,0.12252737823004903
+'Gas Putin',de,Russland,#a6190f,#a31223,3,0.122527378230049
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.12230589385660941
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121510466284005
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1205516439647327
