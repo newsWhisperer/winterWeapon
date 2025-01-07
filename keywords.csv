@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1696331176810958
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.16561022314712368
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1656102231471236
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1543930537156828
@@ -48,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1237276287160382
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1225828437769064
+'Gas Putin',de,Russland,#a6190f,#a31223,3,0.12252737823004903
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121510466284005
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1205516439647327
@@ -81,7 +82,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1031171781901583
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.101494228432436
-'Gas Putin',de,Russland,#a6190f,#a31223,3,0.100882725190432
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.099748929054689
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
