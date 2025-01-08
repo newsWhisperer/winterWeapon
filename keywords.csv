@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2140161156875563
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.202649773029246
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1998146797089513
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1986528198175261
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1888793575504772
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1884022811820662
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.18686966833442284
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1865499562097253
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.184389760815416
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.18102953962047
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0271680956966055
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0242942618857595
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.023559924441191985
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235599244411919
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0206657485458102
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0184845202892467
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
