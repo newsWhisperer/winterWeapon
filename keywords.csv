@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1888793575504772
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1884022811820662
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.18686966833442284
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1868696683344228
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1865499562097253
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.184389760815416
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.18102953962047
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083298507487719
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0039720665852287
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0014676894250892
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.00124753601132582
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.001223672320021
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004258721801653
