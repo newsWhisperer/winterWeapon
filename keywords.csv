@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasstreit',de,Other,#545557,#6b6c7e,2,0.2029243118989215
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1986528198175261
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1952559164089827
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1769024749927943
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1768987108926289
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
+'Gasstreit',de,Other,#545557,#6b6c7e,2,0.17308572511408327
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1656102231471236
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1225828437769064
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.122527378230049
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1223058938566094
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.12193493111406521
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1219349311140652
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121510466284005
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1205516439647327
