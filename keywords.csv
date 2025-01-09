@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasstreit',de,Other,#545557,#6b6c7e,2,0.20292431189892157
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1986528198175261
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1952559164089827
@@ -77,14 +78,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1081220927129538
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1074169735089599
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1056755904693195
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1031171781901583
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.101494228432436
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.099748929054689
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.09932218676365837
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.0993221867636583
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0991313697349568
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
