@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1656102231471236
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.16048946387704896
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1582344441198405
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1543930537156828
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1536645124770204
@@ -131,9 +131,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0271680956966055
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0242942618857595
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235599244411919
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0206657485458102
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.020650122602895577
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0184845202892467
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0132526307189737
