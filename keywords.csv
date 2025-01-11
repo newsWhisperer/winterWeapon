@@ -13,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1796266959086958
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1772043770748591
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.17711498560546732
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1769024749927943
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1768987108926289
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
@@ -24,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1582344441198405
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1543930537156828
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1536645124770204
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.1518768147691013
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
@@ -92,7 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.09344796715778163
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0934479671577816
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0907514004490901
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.090014011535092
