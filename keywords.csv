@@ -19,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1740694394259911
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.16651042146093187
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1656102231471236
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
@@ -31,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,2,0.1477229263469707
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1382354665110025
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1377621494429504
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.13612467624306446
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1361246762430644
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1340172790956398
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
@@ -52,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1219349311140652
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121510466284005
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1205516439647327
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1194643288005176
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
