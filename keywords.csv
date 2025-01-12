@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1740694394259911
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.16651042146093187
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1665104214609318
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1656102231471236
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235599244411919
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0206657485458102
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0206501226028955
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0184845202892467
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.015711842245859694
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0132526307189737
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
