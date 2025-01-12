@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2654991189179056
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.33971687017112884
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1952559164089827
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1582344441198405
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.15437372884014855
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1543737288401485
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.1518768147691013
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
