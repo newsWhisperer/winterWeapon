@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.1518768147691013
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
-'Gasstreit',de,Other,#545557,#6b6c7e,2,0.1477229263469707
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1382354665110025
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1377621494429504
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1361246762430644
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1264206783389824
+'Gasstreit',de,Other,#545557,#6b6c7e,2,0.1261645473949251
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
