@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.3397168701711288
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.35280195873636855
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1952559164089827
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0206501226028955
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0157118422458596
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.011264736111127644
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0112647361111276
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.00905474777193
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083298507487719
