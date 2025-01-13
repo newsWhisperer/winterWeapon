@@ -96,7 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.090014011535092
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.08478658969648566
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0839789899975473
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0837962183011539
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0206501226028955
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0157118422458596
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0132526307189737
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.011264736111127644
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.00905474777193
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083298507487719
