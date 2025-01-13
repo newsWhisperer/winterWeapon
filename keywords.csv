@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.35280195873636855
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.3528019587363685
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1952559164089827
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004258721801653
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001970770288548
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,8.318345648214999e-05
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,7.07059380098275e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,4.7539102935833765e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,6.1405042496748065e-09
