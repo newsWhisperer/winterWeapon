@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.3528019587363685
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.22422126553549768
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1952559164089827
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1937907835176978
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1884022811820662
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1868696683344228
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1865499562097253
@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1081220927129538
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1074169735089599
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.10723992528568634
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1072399252856863
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1031171781901583
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
