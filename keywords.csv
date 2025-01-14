@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.31392434401682234
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.3139243440168223
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2242212655354976
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.20016188444789573
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1952559164089827
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1884022811820662
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1868696683344228
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1865499562097253
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.184389760815416
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1838912768435177
