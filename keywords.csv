@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.184389760815416
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1838912768435177
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1828983259358062
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.18102953962047
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1796266959086958
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1772043770748591
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1582344441198405
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1543569126959444
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.15387555867739952
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.1518768147691013
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
