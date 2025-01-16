@@ -27,7 +27,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1538755586773995
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.1518768147691013
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.15144782776464719
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1514478277646471
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1492913541985471
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1382354665110025
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1377621494429504
@@ -50,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.122527378230049
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1223058938566094
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1219349311140652
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121510466284005
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1194643288005176
