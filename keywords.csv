@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.3139243440168223
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2242212655354976
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2118275498567262
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2001618844478957
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1952559164089827
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1930840021351718
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1865499562097253
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1828983259358062
@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1340172790956398
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1326751449712452
-'Energiesicherheit',de,Other,#545557,#6b6c6e,1,0.13079468987578957
+'Energiesicherheit',de,Other,#545557,#6b6c6e,1,0.1307946898757895
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.1294280616207967
