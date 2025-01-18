@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2899692205961171
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2242212655354976
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.22350529692569332
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.2184626766320381
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2118275498567262
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2058701624999807
@@ -12,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1795984584722246
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1772043770748591
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1769024749927943
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1768987108926289
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1740694394259911
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0206657485458102
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0206501226028955
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.020025935775013114
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0200259357750131
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0157118422458596
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0112647361111276
