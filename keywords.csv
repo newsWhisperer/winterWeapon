@@ -121,9 +121,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0527367917597817
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0500584735203356
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0450569926806869
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0440467128249945
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.04069868377858386
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.038078480530396
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0112647361111276
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.00905474777193
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.007080373136456115
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0070803731364561
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0039720665852287
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.001223672320021
