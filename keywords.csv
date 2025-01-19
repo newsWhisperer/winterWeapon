@@ -106,7 +106,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0757394852568121
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.075195570197696
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0738246886667891
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0731791022450359
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0714404972007833
@@ -115,6 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0687319726373941
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.06320152536677073
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0616123182016485
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0600948699362131
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0112647361111276
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.007696535606140499
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0076965356061404
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0070803731364561
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0039720665852287
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
