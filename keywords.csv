@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.15949766027749715
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1594976602774971
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1582344441198405
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1543569126959444
@@ -30,9 +30,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1514478277646471
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1492913541985471
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.1382354665110025
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1377621494429504
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1361246762430644
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.13609366517071575
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1340172790956398
 'Energiesicherheit',de,Other,#545557,#6b6c6e,1,0.1307946898757895
