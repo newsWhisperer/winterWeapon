@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1772043770748591
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1768987108926289
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1764693714494619
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1665104214609318
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1662282212385581
@@ -22,8 +21,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.15949766027749715
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1582344441198405
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.15745656305754696
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1543569126959444
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,2,0.1518768147691013
