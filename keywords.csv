@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2899692205961171
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2242212655354976
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.22350529692569332
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2235052969256933
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.2184626766320381
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2118275498567262
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2058701624999807
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0112647361111276
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.00905474777193
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.007696535606140499
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0070803731364561
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0039720665852287
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
