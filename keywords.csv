@@ -6,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2058701624999807
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2040270114777484
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2001618844478957
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.19824652738435994
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1930840021351718
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1865499562097253
@@ -19,10 +20,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1662282212385581
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1656102231471236
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1632223856928299
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1594976602774971
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.15763625568368259
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1576362556836825
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1543569126959444
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1520784891160797
