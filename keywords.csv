@@ -10,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1930840021351718
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1865499562097253
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.18260966441641074
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1796266959086958
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1795984584722246
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
@@ -17,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1768987108926289
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1665104214609318
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1662282212385581
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1656102231471236
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
@@ -37,7 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.1294280616207967
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.12926760074866775
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1292676007486677
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1290955175537361
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
