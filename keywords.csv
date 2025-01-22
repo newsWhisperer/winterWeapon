@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1795984584722246
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1772043770748591
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1768987108926289
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1689662728950982
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1656102231471236
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1576362556836825
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1543569126959444
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.15434835395607777
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1543483539560777
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1514478277646471
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1492913541985471
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
