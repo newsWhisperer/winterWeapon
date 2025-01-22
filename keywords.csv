@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2242212655354976
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.22320885442614913
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2232088544261491
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.2184626766320381
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2167014437923
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2118275498567262
@@ -80,10 +80,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1072399252856863
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.10301139238547317
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1019308966910851
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.101494228432436
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.0993221867636583
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0991313697349568
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
