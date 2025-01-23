@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2232088544261491
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.2184626766320381
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.21826851343244566
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2182685134324456
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2167014437923
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2118275498567262
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2058701624999807
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1930840021351718
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1865499562097253
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.18569329013723238
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1826096644164107
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1796266959086958
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
