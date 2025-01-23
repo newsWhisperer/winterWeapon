@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2242212655354976
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2232088544261491
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.2184626766320381
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.21826851343244566
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2167014437923
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2118275498567262
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2058701624999807
@@ -80,7 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1072399252856863
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.10301139238547317
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1030113923854731
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1019308966910851
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.101494228432436
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
