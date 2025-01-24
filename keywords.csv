@@ -5,13 +5,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2118275498567262
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2058701624999807
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2040270114777484
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.19854712243148231
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1982465273843599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1930840021351718
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1865499562097253
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1856932901372323
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1826096644164107
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1796266959086958
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1772043770748591
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1750986417807113
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1543483539560777
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1514478277646471
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.14979681942791637
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1492913541985471
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1377621494429504
