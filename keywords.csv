@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2118275498567262
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2058701624999807
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2040270114777484
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.19991161783071926
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1999116178307192
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1985471224314823
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1982465273843599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
@@ -101,7 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.0876500064616345
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0839789899975473
-'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0806140856889748
+'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.07801927238108312
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0757394852568121
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.075195570197696
