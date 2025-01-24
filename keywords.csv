@@ -5,6 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2118275498567262
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2058701624999807
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2040270114777484
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.19991161783071926
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1985471224314823
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1982465273843599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
@@ -24,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1576362556836825
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1543483539560777
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1514478277646471
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1492913541985471
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0157118422458596
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.009575025694458459
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0095750256944584
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0076965356061404
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0060183171659876
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0039720665852287
