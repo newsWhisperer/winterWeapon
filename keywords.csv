@@ -24,16 +24,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1594976602774971
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1576362556836825
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1543483539560777
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1492913541985471
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.14401059657695178
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1377621494429504
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1361246762430644
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1360936651707157
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1340172790956398
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.13162919124247066
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1316291912424706
 'Energiesicherheit',de,Other,#545557,#6b6c6e,1,0.1307946898757895
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
