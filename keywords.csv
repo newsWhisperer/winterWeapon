@@ -83,6 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1030113923854731
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1019308966910851
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.101494228432436
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.09992149125829793
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0991313697349568
@@ -92,7 +93,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938463498089322
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0937054619845522
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0934479671577816
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0907514004490901
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0904879668813941
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0206657485458102
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0200259357750131
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.017552604212461177
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0175526042124611
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0157118422458596
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
