@@ -33,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1360936651707157
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1340172790956398
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.13162919124247066
 'Energiesicherheit',de,Other,#545557,#6b6c6e,1,0.1307946898757895
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
@@ -67,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1119921982347161
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1115998463815163
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.1100138673776772
@@ -83,7 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1030113923854731
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1019308966910851
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.101494228432436
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.09992149125829793
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0999214912582979
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0991313697349568
