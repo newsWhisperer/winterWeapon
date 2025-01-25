@@ -10,8 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1930840021351718
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1865499562097253
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1856932901372323
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.18341353169457286
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1826096644164107
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1772043770748591
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1594976602774971
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.15828934161664746
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1576362556836825
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
