@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1582893416166474
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1576362556836825
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.15573755654545846
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1492913541985471
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0200259357750131
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0175526042124611
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0157118422458596
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0141112564825439
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.011994568010162314
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0095750256944584
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0076965356061404
