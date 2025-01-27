@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1982465273843599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1930840021351718
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1865499562097253
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1783525379357672
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1772043770748591
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.17715498141463012
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1750986417807113
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1689662728950982
@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1290955175537361
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.12689813106876505
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.126898131068765
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1264206783389824
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
