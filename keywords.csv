@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1783525379357672
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1772043770748591
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.17715498141463012
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1771549814146301
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1750986417807113
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1689662728950982
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0010604056096269
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004258721801653
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001970770288548
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.00016751547452657997
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,7.07059380098275e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,4.7539102935833765e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,6.1405042496748065e-09
