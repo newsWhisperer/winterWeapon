@@ -123,9 +123,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0500584735203356
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0406986837785838
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0405900209012453
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.038078480530396
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0345017727660585
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
