@@ -39,18 +39,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1290955175537361
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.12709250295993615
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.126898131068765
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1264206783389824
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.12450921709040895
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1245092170904089
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1237276287160382
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1225828437769064
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.122527378230049
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1223058938566094
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1219349311140652
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
