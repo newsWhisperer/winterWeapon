@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1576362556836825
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.15553282920243558
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1555328292024355
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
@@ -108,13 +108,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0731791022450359
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0714404972007833
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0711304090979007
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0687424268001055
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0687319726373941
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0632015253667707
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.06312466262066581
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0616123182016485
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0600948699362131
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
