@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2481238263068017
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2232088544261491
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2182685134324456
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2167014437923
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2118275498567262
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.20831562989859037
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2040270114777484
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1985471224314823
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1982465273843599
@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0632015253667707
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.06312466262066581
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0631246626206658
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0616123182016485
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0600948699362131
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
