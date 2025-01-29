@@ -9,12 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1982465273843599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1930840021351718
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.18662929558414595
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1866292955841459
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1783525379357672
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1772043770748591
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1771549814146301
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1750986417807113
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1689662728950982
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1576362556836825
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.15553282920243558
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
