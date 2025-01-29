@@ -9,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1982465273843599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1930840021351718
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.18662929558414595
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1783525379357672
@@ -17,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1750986417807113
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1689662728950982
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1656102231471236
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1594976602774971
@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1219349311140652
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.12007682876556061
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1200768287655606
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1194643288005176
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1185224506804624
