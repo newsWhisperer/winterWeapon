@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2182685134324456
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2167014437923
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2118275498567262
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20911341693848234
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2091134169384823
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2083156298985903
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2040270114777484
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1985471224314823
@@ -23,10 +23,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1576362556836825
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.1555328292024355
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,3,0.13715399982207016
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1361246762430644
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1360936651707157
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1349959853741503
