@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1689662728950982
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.16370103181736223
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1637010318173622
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1594976602774971
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1576362556836825
@@ -102,7 +102,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0839789899975473
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0780192723810831
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0766619248048282
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0757394852568121
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.075195570197696
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
@@ -111,6 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0711304090979007
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0687424268001055
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0687319726373941
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.06531265108410397
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0632015253667707
