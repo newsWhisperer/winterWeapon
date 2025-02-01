@@ -12,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1866292955841459
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.17895681408413505
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1772043770748591
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1750986417807113
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1701886008817657
@@ -35,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1340172790956398
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1316291912424706
 'Energiesicherheit',de,Other,#545557,#6b6c6e,1,0.1307946898757895
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1298442711150252
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1290955175537361
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0527367917597817
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0500584735203356
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.050048012743431014
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.050048012743431
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0406986837785838
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
