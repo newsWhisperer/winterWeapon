@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1866292955841459
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.17895681408413505
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.178956814084135
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1772043770748591
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1750986417807113
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1701886008817657
@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1290955175537361
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1270925029599361
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.126898131068765
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1264206783389824
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1185224506804624
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1176608189170371
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.11752474206140022
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.1157826429278068
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1150845639219583
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
