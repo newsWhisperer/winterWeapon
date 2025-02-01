@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1185224506804624
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1176608189170371
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.11752474206140022
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1175247420614002
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.1157826429278068
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1150845639219583
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
@@ -78,9 +78,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1081220927129538
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1074169735089599
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.10614753216401578
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1030113923854731
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1019308966910851
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.101494228432436
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0999214912582979
