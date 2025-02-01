@@ -118,10 +118,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0600948699362131
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.057776349675448
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0560562032275659
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0527367917597817
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0500584735203356
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.050048012743431014
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0406986837785838
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0206657485458102
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0175526042124611
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.017022045408761136
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0170220454087611
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0157118422458596
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0119945680101623
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
