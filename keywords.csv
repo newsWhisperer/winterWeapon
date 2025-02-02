@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1982465273843599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1964852564227211
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1930840021351718
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.19180776454216875
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1866292955841459
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
@@ -86,7 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0991313697349568
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.09856526148863577
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0985652614886357
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.096836780283011
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
