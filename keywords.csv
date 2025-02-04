@@ -20,9 +20,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1637010318173622
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1616109665169693
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1594976602774971
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.15416249487223618
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1496130257495008
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0028698181078276
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.001223672320021
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0009013447681828649
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0009013447681828
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004258721801653
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001675154745265
