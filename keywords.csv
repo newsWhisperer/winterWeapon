@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.15416249487223618
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1541624948722361
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1496130257495008
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0206657485458102
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0175526042124611
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0170220454087611
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.014618753597446936
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0133550659089806
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0119945680101623
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
