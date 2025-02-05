@@ -108,6 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0731791022450359
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0711304090979007
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.06957251378717419
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0687424268001055
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0687319726373941
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0653126510841039
@@ -121,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0500584735203356
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.050048012743431
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.044826272995814445
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0448262729958144
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0406986837785838
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
@@ -136,7 +137,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0146187535974469
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0133550659089806
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0119945680101623
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0103793397496167
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0076965356061404
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0069179560642461
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0060183171659876
