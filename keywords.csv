@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2091134169384823
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2083156298985903
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2040270114777484
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1982465273843599
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2007427305494332
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1974450781121913
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1964852564227211
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1918077645421687
@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0731791022450359
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0711304090979007
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.06957251378717419
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0695725137871741
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0687424268001055
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0687319726373941
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0653126510841039
