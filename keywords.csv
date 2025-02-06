@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2268455777812151
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.21992613111437037
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2199261311143703
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2167014437923
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.2118275498567262
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2091134169384823
@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1866292955841459
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1750986417807113
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1689662728950982
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1541624948722361
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1537947205136046
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1496130257495008
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
