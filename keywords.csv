@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1496130257495008
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.14932264607292756
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1493226460729275
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1361246762430644
@@ -133,11 +133,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0206657485458102
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.019356550979505054
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0175526042124611
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0146187535974469
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0133550659089806
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0119945680101623
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0076965356061404
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0069179560642461
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0060183171659876
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0028698181078276
