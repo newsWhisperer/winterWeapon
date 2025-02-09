@@ -133,10 +133,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.019356550979505
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0175658862639386
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0175526042124611
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.014931003324347809
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0133550659089806
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012575955557829864
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0125759555578298
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0119945680101623
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0069179560642461
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0060183171659876
