@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2454048380647058
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2209665840416368
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2201057432423824
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2199261311143703
@@ -9,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2007427305494332
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1964852564227211
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1918077645421687
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1866292955841459
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1814460410959461
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1175247420614002
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1150845639219583
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.11504661756802777
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1150466175680277
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1141622978234504
