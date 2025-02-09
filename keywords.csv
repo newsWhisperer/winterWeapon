@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.15069556721037045
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1496130257495008
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1493226460729275
@@ -49,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1237276287160382
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1225828437769064
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1219349311140652
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
