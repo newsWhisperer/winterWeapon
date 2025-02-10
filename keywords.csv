@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1637010318173622
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1616109665169693
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.15915761143471566
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1591576114347156
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1506955672103704
@@ -127,8 +127,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0406986837785838
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.038078480530396
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0345017727660585
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.032926866851149726
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
