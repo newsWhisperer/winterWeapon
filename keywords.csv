@@ -18,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1678287213953626
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1637010318173622
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1623456789923003
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1616109665169693
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1591576114347156
@@ -26,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1506955672103704
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1496130257495008
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1477373672636688
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1361246762430644
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1360936651707157
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.038078480530396
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.032926866851149726
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0329268668511497
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
