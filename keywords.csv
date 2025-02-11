@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.253135911506288
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2454048380647058
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.22196497295931295
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2219649729593129
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2209665840416368
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2201057432423824
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2199261311143703
@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2083156298985903
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2040270114777484
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2007427305494332
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.19834593761421682
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1918077645421687
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1814460410959461
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1800538673782172
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1793910314177952
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1678287213953626
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
