@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1918077645421687
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1872438839431645
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1814460410959461
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1800538673782172
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.17281923356791778
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1678287213953626
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
@@ -117,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0632015253667707
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0616123182016485
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0600948699362131
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.059040960831916345
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0590409608319163
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.057776349675448
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
