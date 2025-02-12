@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2454048380647058
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2219649729593129
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2209665840416368
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.22013454478034478
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2201345447803447
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2201057432423824
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2199261311143703
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2083156298985903
@@ -117,11 +117,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0632015253667707
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0616123182016485
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0600948699362131
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.059040960831916345
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.057776349675448
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0500584735203356
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.050048012743431
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0448262729958144
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0406986837785838
