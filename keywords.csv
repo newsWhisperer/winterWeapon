@@ -90,7 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
-'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.09381092142850145
+'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938109214285014
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0934479671577816
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0907514004490901
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
@@ -127,10 +127,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0406986837785838
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.038078480530396
-'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0339481529680152
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0329268668511497
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
+'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.029155960022812916
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.019356550979505
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0175526042124611
