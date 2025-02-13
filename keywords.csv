@@ -8,12 +8,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2083156298985903
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.2040270114777484
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1983459376142168
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.19275920444182093
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1918077645421687
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1872438839431645
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1800538673782172
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1728192335679177
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1678287213953626
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0329268668511497
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
-'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.029155960022812916
+'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0291559600228129
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.019356550979505
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0175526042124611
