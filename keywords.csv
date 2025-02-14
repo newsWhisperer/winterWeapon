@@ -22,12 +22,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1616109665169693
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1591576114347156
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1578649120426805
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1506955672103704
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1496130257495008
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.13883313452684753
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1388331345268475
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1361246762430644
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1360936651707157
@@ -42,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.126898131068765
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1264206783389824
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
