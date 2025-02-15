@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2209665840416368
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2201345447803447
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2201057432423824
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2199261311143703
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.219168578719942
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2083156298985903
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1983459376142168
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1918077645421687
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1200768287655606
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1194643288005176
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.11917225174178497
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1191722517417849
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1185224506804624
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1176608189170371
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1175247420614002
