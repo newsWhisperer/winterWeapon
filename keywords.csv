@@ -25,13 +25,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1578649120426805
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.151412405630333
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1388331345268475
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1361246762430644
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1360936651707157
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.13365238978578306
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1325042758676574
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1316291912424706
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0119945680101623
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0112896222241553
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0058802626546091
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.00571562959108946
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0028698181078276
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0010401214720178
