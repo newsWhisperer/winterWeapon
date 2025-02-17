@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1290955175537361
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.12869129212881483
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.126898131068765
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
@@ -116,10 +116,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0632015253667707
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0616123182016485
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0600948699362131
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0590409608319163
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.05108063944578114
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0500584735203356
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0498599722241308
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0448262729958144
