@@ -119,7 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0590409608319163
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.05108063944578114
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0500584735203356
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0498599722241308
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0448262729958144
@@ -136,8 +136,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0175526042124611
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0133550659089806
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0125759555578298
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0119945680101623
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.011289622224155329
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0060183171659876
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0058802626546091
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0028698181078276
