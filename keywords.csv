@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1800538673782172
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.174762938961637
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.17061020541709668
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1678287213953626
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
@@ -23,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1591576114347156
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1578649120426805
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1574565630575469
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1388331345268475
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0291559600228129
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0185532783325792
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.015219743580591935
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0152197435805919
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0133550659089806
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0119945680101623
