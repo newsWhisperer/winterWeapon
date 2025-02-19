@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2043565362244797
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2028492777835497
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1917305301539024
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1912517669119506
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.19065294835808977
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1874680238469952
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1872438839431645
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
