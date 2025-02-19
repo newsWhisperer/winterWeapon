@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2201345447803447
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2201057432423824
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.215556658092659
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.21180452019723411
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2043565362244797
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2028492777835497
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1917305301539024
@@ -68,12 +68,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1141240082255584
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1136517360409962
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
-'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1121557214685579
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1119921982347161
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.1100138673776772
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
+'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1081220927129538
