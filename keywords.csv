@@ -69,16 +69,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1136517360409962
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1119921982347161
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.11179994999637333
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.1100138673776772
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.109662442776482
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.1074169735089599
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1061475321640157
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.10594561789691981
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1059456178969198
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1019308966910851
