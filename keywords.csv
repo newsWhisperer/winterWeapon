@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.22737299611601722
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2273729961160172
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2209665840416368
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2201345447803447
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2201057432423824
@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2043565362244797
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1912517669119506
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1906529483580897
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1874680238469952
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1872438839431645
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1706102054170966
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1678287213953626
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.16700988110437626
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.163887331913761
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1637010318173622
