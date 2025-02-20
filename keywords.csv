@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1706102054170966
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1678287213953626
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.16700988110437626
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1670098811043762
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.163887331913761
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1637010318173622
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0291559600228129
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0185532783325792
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.017870496582692318
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0152197435805919
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0133550659089806
