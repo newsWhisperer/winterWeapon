@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.22737299611601722
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2209665840416368
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2201345447803447
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2201057432423824
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.215556658092659
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2043565362244797
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2028492777835497
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1912517669119506
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1906529483580897
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1874680238469952
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0009013447681828
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003619913531405
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.000142388153347525
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001423881533475
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,6.0100047308353365e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,4.7539102935833765e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,6.1405042496748065e-09
