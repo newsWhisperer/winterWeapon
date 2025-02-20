@@ -69,7 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1136517360409962
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1119921982347161
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.11179994999637333
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1117999499963733
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.1100138673776772
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0009013447681828
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003619913531405
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001675154745265
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.000142388153347525
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,6.0100047308353365e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,4.7539102935833765e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,6.1405042496748065e-09
