@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.22459073825357312
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2245907382535731
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2201345447803447
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2201057432423824
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.215556658092659
@@ -14,13 +14,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1800538673782172
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.174762938961637
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1706102054170966
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1678287213953626
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1670098811043762
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.163887331913761
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1637010318173622
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.16360904324089573
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1591576114347156
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1578649120426805
