@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2043565362244797
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1912517669119506
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1874680238469952
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1872438839431645
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.182291069533508
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1821253168870756
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1800538673782172
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.163887331913761
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1637010318173622
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.16360904324089573
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1591576114347156
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1578649120426805
