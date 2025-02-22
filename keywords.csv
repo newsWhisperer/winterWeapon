@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1678287213953626
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1670098811043762
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.163887331913761
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1637010318173622
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1578649120426805
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.14425778712669685
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1388331345268475
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1361246762430644
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0329268668511497
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.029404799030026768
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0294047990300267
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0291559600228129
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0178704965826923
