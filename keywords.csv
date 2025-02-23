@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1765962672714846
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.174762938961637
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1693765013060027
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.171657678837375
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1678287213953626
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1670098811043762
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1644520508607268
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1578649120426805
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1497968194279163
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.14425778712669685
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1442577871266968
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1388331345268475
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1361246762430644
