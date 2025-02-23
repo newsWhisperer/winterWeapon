@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2201345447803447
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2201057432423824
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.215556658092659
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2132529825155371
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2118545803349782
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2043565362244797
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.182291069533508
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1821253168870756
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.18126586013820653
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1765962672714846
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.174762938961637
