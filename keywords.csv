@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.215556658092659
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2118545803349782
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2043565362244797
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1912517669119506
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1877495898817168
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1874680238469952
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.182291069533508
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1442577871266968
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1413743106046379
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1397843782316178
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.13974593704475788
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1388331345268475
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1361246762430644
