@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1912517669119506
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1877495898817168
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1874680238469952
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1834135316945728
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.182291069533508
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1821253168870756
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.162966867446781
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1578649120426805
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.15695160694038687
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1485494281173914
