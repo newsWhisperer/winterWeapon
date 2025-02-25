@@ -12,13 +12,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1821253168870756
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1759262766470091
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.171657678837375
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1670098811043762
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.162966867446781
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1578649120426805
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.15695160694038687
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1569516069403868
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1485494281173914
@@ -33,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.133652389785783
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1325042758676574
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1316291912424706
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
 'Energiesicherheit',de,Other,#545557,#6b6c6e,1,0.1307946898757895
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.12979521912529
