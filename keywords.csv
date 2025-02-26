@@ -23,8 +23,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1485494281173914
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1442577871266968
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1413743106046379
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.14120875269405592
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1397843782316178
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1388331345268475
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0119945680101623
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0112896222241553
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.004998223256417735
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0028698181078276
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0010401214720178
