@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.215556658092659
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2118545803349782
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2022969158783659
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1912517669119506
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1877495898817168
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1874680238469952
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1759262766470091
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.171952558496611
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.171657678837375
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.162966867446781
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0007661430529553
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003619913531405
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001423881533475
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,5.1085040212100356e-05
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,5.108504021210036e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,4.7539102935833765e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,6.1405042496748065e-09
