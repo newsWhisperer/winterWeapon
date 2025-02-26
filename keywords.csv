@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1759262766470091
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.171657678837375
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1670098811043762
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.162966867446781
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1604894638770489
@@ -23,8 +22,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1485494281173914
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.14691318393871974
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1413743106046379
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.14120875269405592
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1412087526940559
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1397843782316178
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1388331345268475
