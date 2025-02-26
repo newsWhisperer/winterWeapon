@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1485494281173914
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.14691318393871974
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1413743106046379
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1412087526940559
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1397843782316178
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0007661430529553
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003619913531405
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001423881533475
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,6.0100047308353365e-05
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,5.1085040212100356e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,4.7539102935833765e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,6.1405042496748065e-09
