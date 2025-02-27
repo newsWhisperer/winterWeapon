@@ -16,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.171657678837375
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.162966867446781
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.15816458085366064
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1578649120426805
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1569516069403868
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
@@ -86,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0999214912582979
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0991313697349568
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0178704965826923
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0133550659089806
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.012936782043503115
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0129367820435031
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0119945680101623
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0112896222241553
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
