@@ -56,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1200768287655606
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1194643288005176
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1191722517417849
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1185224506804624
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1175247420614002
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1019308966910851
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.10174645898051717
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.101494228432436
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1003117260794815
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0999214912582979
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0007661430529553
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003619913531405
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.000121029930345375
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001210299303453
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,5.108504021210036e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,4.7539102935833765e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,6.1405042496748065e-09
