@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1759262766470091
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.171952558496611
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.171657678837375
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.162966867446781
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1550036229318552
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1485494281173914
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.14795985472211937
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1413743106046379
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1412087526940559
@@ -87,7 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.09778962493282355
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0977896249328235
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
