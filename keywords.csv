@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2201057432423824
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.219992991196942
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2193155190287523
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2118545803349782
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.201172027154202
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1019308966910851
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.10174645898051717
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1017464589805171
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.101494228432436
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1003117260794815
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0999214912582979
