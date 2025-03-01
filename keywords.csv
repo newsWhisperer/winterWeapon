@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.223391339360855
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.219992991196942
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.21864340844716673
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2186434084471667
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2118545803349782
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.201172027154202
@@ -135,9 +135,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0178704965826923
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0129367820435031
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0119945680101623
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0112896222241553
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.010996264736977634
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0028698181078276
