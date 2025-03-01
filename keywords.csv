@@ -13,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1759262766470091
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.171657678837375
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.16971681149687512
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.162966867446781
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,2,0.1615018210226335
@@ -26,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1413743106046379
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1412087526940559
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1397843782316178
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1388331345268475
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0119945680101623
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0112896222241553
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.010996264736977634
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0028698181078276
