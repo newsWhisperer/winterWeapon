@@ -15,13 +15,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.171657678837375
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.162966867446781
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,2,0.1615018210226335
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1578649120426805
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1569516069403868
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1550036229318552
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1485494281173914
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.14795985472211937
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1479598547221193
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1413743106046379
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1412087526940559
@@ -134,7 +135,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0178704965826923
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0133550659089806
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0129367820435031
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0119945680101623
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0112896222241553
