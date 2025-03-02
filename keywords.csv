@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.223391339360855
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.219992991196942
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2186434084471667
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2118545803349782
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.201172027154202
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.19483463345672675
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1912517669119506
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1877495898817168
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.182291069533508
@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1117999499963733
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
-'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.11017004361599377
+'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1101700436159937
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.1100138673776772
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
