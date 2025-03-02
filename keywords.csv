@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2118545803349782
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.201172027154202
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.19483463345672675
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1948346334567267
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1912517669119506
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1877495898817168
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.182291069533508
@@ -123,10 +123,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0500584735203356
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0448262729958144
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0429810363905111
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.038078480530396
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.03668389593193444
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0329268668511497
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0296707346821172
