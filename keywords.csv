@@ -101,7 +101,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0842305172653403
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0839789899975473
-'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0796150418491849
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0780192723810831
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0757394852568121
@@ -112,6 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0711304090979007
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0695725137871741
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0687424268001055
+'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.06767313057180717
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0653126510841039
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
