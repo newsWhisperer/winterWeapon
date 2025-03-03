@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1821253168870756
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1759262766470091
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.171657678837375
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1697168114968751
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1569516069403868
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1550036229318552
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.15418780014995773
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1485494281173914
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1237276287160382
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1219349311140652
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.12101878352043474
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1210187835204347
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1200768287655606
