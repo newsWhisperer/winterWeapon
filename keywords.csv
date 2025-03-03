@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1550036229318552
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1485494281173914
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1479598547221193
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1413743106046379
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1412087526940559
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.12756605651380143
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.126898131068765
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1258545405053243
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0711304090979007
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0695725137871741
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0687424268001055
-'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.06767313057180717
+'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0653126510841039
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
