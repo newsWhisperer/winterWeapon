@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2146726652446734
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2118545803349782
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.201172027154202
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2077780398992535
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1948346334567267
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1912517669119506
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1907992971800917
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1569516069403868
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1550036229318552
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.15418780014995773
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1541878001499577
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1485494281173914
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
