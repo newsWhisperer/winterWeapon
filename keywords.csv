@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.2118545803349782
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.22139112464836783
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2077780398992535
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1948346334567267
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1907992971800917
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1877495898817168
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.18532304045797238
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1853230404579723
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.182291069533508
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1821253168870756
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
