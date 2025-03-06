@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2077780398992535
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.19767900549656717
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1976790054965671
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1948346334567267
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1907992971800917
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
@@ -117,11 +117,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0616123182016485
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0590409608319163
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.058241567614024
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0500584735203356
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0495053324719204
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0448262729958144
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
