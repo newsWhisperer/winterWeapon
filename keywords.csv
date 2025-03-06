@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2077780398992535
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.20277317387264204
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1976790054965671
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1948346334567267
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1907992971800917
@@ -108,13 +108,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.075195570197696
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
-'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0711304090979007
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0695725137871741
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0687424268001055
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0653126510841039
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
+'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.06196099773321559
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0616123182016485
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0590409608319163
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
