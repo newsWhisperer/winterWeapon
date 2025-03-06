@@ -133,10 +133,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0294047990300267
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0291559600228129
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.020341200732637267
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0178704965826923
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0119945680101623
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0112896222241553
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0010401214720178
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0006512215950120051
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.000651221595012
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003619913531405
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001210299303453
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,5.108504021210036e-05
