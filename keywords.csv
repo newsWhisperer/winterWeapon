@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1368401337256115
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1361246762430644
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.13526005012746406
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.135260050127464
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.133652389785783
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1325042758676574
@@ -121,9 +121,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0500584735203356
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0495053324719204
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0448262729958144
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.042079532601132334
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0388763318818722
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.038078480530396
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0366838959319344
