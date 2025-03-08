@@ -8,14 +8,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1877495898817168
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1853230404579723
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.18295940977234382
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.182291069533508
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1821253168870756
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1810695644086324
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.171657678837375
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1697168114968751
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.16620185505703655
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1662018550570365
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1569516069403868
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
