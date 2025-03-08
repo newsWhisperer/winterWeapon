@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1877495898817168
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1853230404579723
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.18295940977234382
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1829594097723438
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.182291069533508
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1821253168870756
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001210299303453
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,5.108504021210036e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,4.0408237495458695e-06
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,6.1405042496748065e-09
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.219428612223585e-09
