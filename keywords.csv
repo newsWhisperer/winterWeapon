@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1413743106046379
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1412087526940559
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1388331345268475
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,2,0.1374265628692384
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1368401337256115
@@ -57,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1200768287655606
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1185224506804624
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.11800846434782038
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1175247420614002
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1150845639219583
@@ -115,7 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0619609977332155
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0616123182016485
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.05913663671909799
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0591366367190979
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0590409608319163
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
