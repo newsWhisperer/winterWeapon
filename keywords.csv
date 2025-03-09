@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.1175247420614002
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.11640488981659951
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1164048898165995
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1150845639219583
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
@@ -97,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0907514004490901
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.0876500064616345
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.08552880246829028
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0842305172653403
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
@@ -104,7 +105,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0815691735749471
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0780192723810831
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0757394852568121
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.075195570197696
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
