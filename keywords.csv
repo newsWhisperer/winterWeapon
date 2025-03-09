@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2077780398992535
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1976790054965671
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1948346334567267
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1907992971800917
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1810695644086324
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.171657678837375
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.16802811467208204
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1662018550570365
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1361246762430644
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.135260050127464
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.13370889589932877
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1337088958993287
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.133652389785783
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1325042758676574
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
