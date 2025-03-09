@@ -51,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1219349311140652
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1210187835204347
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.12069932653599164
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1200768287655606
@@ -82,7 +83,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1030448294804399
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1017464589805171
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.101494228432436
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1003117260794815
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0999214912582979
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
@@ -97,7 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0907514004490901
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.0876500064616345
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.08552880246829028
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0855288024682902
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0842305172653403
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
