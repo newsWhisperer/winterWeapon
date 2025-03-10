@@ -81,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1059456178969198
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1030448294804399
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1017464589805171
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1003117260794815
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.0999214912582979
@@ -95,6 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938109214285014
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0934479671577816
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0907514004490901
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.08923827005837391
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.0876500064616345
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0855288024682902
