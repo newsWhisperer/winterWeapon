@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1810695644086324
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.171657678837375
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1662018550570365
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.16450154064813238
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1550036229318552
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0294047990300267
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0291559600228129
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.02642073947979962
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0203412007326372
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0129114337809951
