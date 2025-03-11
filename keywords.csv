@@ -93,7 +93,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938109214285014
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0934479671577816
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0907514004490901
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0892382700583739
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.0876500064616345
@@ -105,6 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0815691735749471
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0780192723810831
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.07713869038172658
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.075195570197696
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0119945680101623
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.010974718713845835
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0109747187138458
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0028698181078276
