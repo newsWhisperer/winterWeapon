@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1412087526940559
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.13876105265030586
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1387610526503058
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1368401337256115
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.135260050127464
@@ -64,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1150845639219583
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.1141240082255584
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1136517360409962
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1119921982347161
@@ -85,6 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1003117260794815
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.09895560199172464
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0977896249328235
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
