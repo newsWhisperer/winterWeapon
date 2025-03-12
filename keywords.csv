@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2118045201972341
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.23498658716764897
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2077780398992535
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1948346334567267
@@ -84,7 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1003117260794815
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.09895560199172464
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0977896249328235
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
