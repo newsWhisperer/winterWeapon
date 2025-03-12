@@ -22,9 +22,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1485494281173914
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1413743106046379
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1412087526940559
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.13876105265030586
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1368401337256115
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.135260050127464
@@ -96,7 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0891706169128266
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.0876500064616345
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0855288024682902
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.08493326756955322
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0849332675695532
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0842305172653403
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
