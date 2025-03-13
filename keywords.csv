@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.149327569096367
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1387610526503058
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1376412933115474
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1368401337256115
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1337088958993287
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.133652389785783
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1325042758676574
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.13199383384366903
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1318036697899475
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.12979521912529
