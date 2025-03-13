@@ -13,13 +13,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1662018550570365
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1645015406481323
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1550036229318552
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.152313567148689
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.14932756909636702
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1485494281173914
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0109747187138458
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.010345397808637954
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0103453978086379
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0028698181078276
