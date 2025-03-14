@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1662018550570365
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1550036229318552
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.152313567148689
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.15076979134393556
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.149327569096367
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0977896249328235
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.09445474248261591
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0944547424826159
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938109214285014
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0934479671577816
