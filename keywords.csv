@@ -21,10 +21,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.149327569096367
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.14284860919308554
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1376412933115474
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1368401337256115
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.135260050127464
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1337088958993287
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.000651221595012
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003619913531405
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.00010287544079350499
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001028754407935
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,5.108504021210036e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,4.0408237495458695e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.219428612223585e-09
