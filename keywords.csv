@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0291559600228129
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.024994079175522693
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0249940791755226
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0203412007326372
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.000651221595012
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003619913531405
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001210299303453
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.00010287544079350499
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,5.108504021210036e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,4.0408237495458695e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.219428612223585e-09
