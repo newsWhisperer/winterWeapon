@@ -66,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1136517360409962
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1119921982347161
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1117999499963733
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1101700436159937
@@ -88,6 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0977896249328235
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.0950303174969173
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0944547424826159
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938109214285014
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0028698181078276
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0010401214720178
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.00068379533502822
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0006837953350282
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.000651221595012
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003619913531405
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001028754407935
