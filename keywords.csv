@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.13810337079016258
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1381033707901625
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1376412933115474
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1372951408500372
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0028698181078276
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0010401214720178
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0008044651000332
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.00068379533502822
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.000651221595012
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003619913531405
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001028754407935
