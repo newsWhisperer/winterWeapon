@@ -2,6 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2349865871676489
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2077780398992535
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.19269971749228526
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1877495898817168
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1829594097723438
@@ -13,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.176223236693987
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.15943152221934967
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1594315222193496
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.152313567148689
@@ -120,7 +121,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0500584735203356
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0448262729958144
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
