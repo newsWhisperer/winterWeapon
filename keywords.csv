@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.176223236693987
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.15943152221934967
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1550036229318552
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.152313567148689
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1507697913439355
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1200768287655606
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.11978228585834128
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1197822858583412
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1185224506804624
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
