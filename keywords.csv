@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2349865871676489
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2077780398992535
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.19269971749228526
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1926997174922852
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1877495898817168
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1829594097723438
@@ -140,8 +140,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0103453978086379
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0028698181078276
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.00243934539165346
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0010401214720178
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0006837953350282
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.000651221595012
