@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.176223236693987
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.16168979934911293
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1616897993491129
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1594315222193496
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0024393453916534
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0010401214720178
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0006837953350282
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.000651221595012
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0005535383557602
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003619913531405
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001028754407935
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,4.342228418028531e-05
