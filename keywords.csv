@@ -13,12 +13,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1790985899766792
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.176223236693987
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.16947067400598154
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1616897993491129
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1594315222193496
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1507697913439355
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.149327569096367
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.12309973908290603
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.123099739082906
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1219349311140652
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1210187835204347
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
