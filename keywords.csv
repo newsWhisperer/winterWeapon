@@ -5,15 +5,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1926997174922852
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1877495898817168
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.18445709875290459
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1829594097723438
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.182291069533508
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1821253168870756
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1790985899766792
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.176223236693987
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.16947067400598154
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1694706740059815
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1616897993491129
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1594315222193496
