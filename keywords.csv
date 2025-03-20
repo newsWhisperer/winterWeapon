@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.149327569096367
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.14525465049935932
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1452546504993593
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1381033707901625
@@ -47,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.12309973908290603
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1219349311140652
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1210187835204347
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
@@ -87,7 +88,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0977896249328235
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.0950303174969173
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938109214285014
