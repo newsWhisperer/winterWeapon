@@ -88,6 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0952791704836832
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.0950303174969173
+'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.09455535152392064
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0938109214285014
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0934479671577816
@@ -102,7 +103,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0815691735749471
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0802869211102235
-'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0780192723810831
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0771386903817265
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.075195570197696
