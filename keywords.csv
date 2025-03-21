@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1926997174922852
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1877495898817168
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.18445709875290459
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1844570987529045
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1829594097723438
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.182291069533508
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1821253168870756
@@ -109,7 +109,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0713821414979152
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0687424268001055
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0653126510841039
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
@@ -118,6 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0616123182016485
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0591366367190979
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0590409608319163
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.05843106278008968
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
