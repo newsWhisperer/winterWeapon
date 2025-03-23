@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1616897993491129
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,3,0.1557375565454584
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1452546504993593
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.133652389785783
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1325042758676574
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.13237782306363963
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1318036697899475
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1164048898165995
-'Gas Putin',de,Russland,#a6190f,#a31223,3,0.11519494427121041
+'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1150845639219583
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
