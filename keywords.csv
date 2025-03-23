@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1926997174922852
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1877495898817168
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.18643062327736648
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1864306232773664
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1844570987529045
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1829594097723438
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.182291069533508
@@ -60,11 +60,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1164048898165995
+'Gas Putin',de,Russland,#a6190f,#a31223,3,0.11519494427121041
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1150845639219583
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1141026065144293
-'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1136517360409962
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1119921982347161
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
