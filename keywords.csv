@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2077780398992535
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1926997174922852
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.19181635867218655
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1877495898817168
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1864306232773664
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1844570987529045
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1829594097723438
@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.133652389785783
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1325042758676574
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.13237782306363963
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1323778230636396
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1318036697899475
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
