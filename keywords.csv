@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2077780398992535
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.20111664585484815
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2011166458548481
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1926997174922852
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1918163586721865
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0284931902846526
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0249940791755226
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.021244967299194208
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0196902606227416
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
