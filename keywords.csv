@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1801378305124727
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.176223236693987
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.17353594773984543
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1735359477398454
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1694706740059815
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
@@ -115,12 +115,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0619609977332155
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0618684300168557
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0591366367190979
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0590409608319163
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0584310627800896
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.05026614121123321
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0381023320464422
