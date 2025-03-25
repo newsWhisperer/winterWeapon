@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1926997174922852
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1918163586721865
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1864306232773664
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1844570987529045
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1829594097723438
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1821253168870756
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.176223236693987
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1735359477398454
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.17251346387667052
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1694706740059815
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
@@ -101,7 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0815691735749471
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0802869211102235
-'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.07973968821422618
+'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0771386903817265
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.075195570197696
