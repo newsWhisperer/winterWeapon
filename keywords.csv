@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.20884927118709276
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,2,0.2109748502732279
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2088492711870927
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2011166458548481
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1926997174922852
@@ -108,7 +109,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0743496470980466
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0713821414979152
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0653126510841039
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
