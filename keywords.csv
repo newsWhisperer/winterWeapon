@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1694706740059815
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.16261898548105636
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1616897993491129
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
@@ -29,12 +29,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1392162646680416
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1381033707901625
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.133652389785783
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1325042758676574
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1323778230636396
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.13188831517163813
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1318036697899475
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1297225644860174
