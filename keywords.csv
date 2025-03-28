@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0743496470980466
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.07159593967553925
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0715959396755392
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0653126510841039
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003619913531405
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,8.744412467447499e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,3.690894155324251e-05
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,2.9194951590468906e-06
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,2.4815708851898568e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,5.219428612223585e-09
