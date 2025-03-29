@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1616897993491129
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1544373355372649
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1527293848224071
@@ -30,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1392162646680416
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.13743661444674596
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.133652389785783
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1325042758676574
