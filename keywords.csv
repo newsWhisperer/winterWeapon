@@ -19,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1616897993491129
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1544373355372649
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1527293848224071
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
@@ -65,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1150845639219583
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1141026065144293
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1119921982347161
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.001762427045469505
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0017624270454695
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0010401214720178
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0006837953350282
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0005535383557602
