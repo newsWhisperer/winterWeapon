@@ -56,9 +56,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1200768287655606
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.11967140727973401
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.119671407279734
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.1185224506804624
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1164048898165995
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.10181563297959
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1017464589805171
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.10074408307839304
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.0998960457521901
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0994407194230247
