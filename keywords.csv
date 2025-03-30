@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.202125846478129
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1926997174922852
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.19250303520426082
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1907276725986312
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1844570987529045
@@ -12,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.176223236693987
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1735359477398454
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1725134638766705
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1694706740059815
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.10181563297959
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1017464589805171
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.10074408307839304
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.100744083078393
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.0998960457521901
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0994407194230247
