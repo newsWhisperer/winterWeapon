@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1735359477398454
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1694706740059815
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.16379478986844243
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1637947898684424
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
@@ -130,8 +130,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0291559600228129
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0284931902846526
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0271545173662306
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.02308133976129601
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0212449672991942
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0170367515293303
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
