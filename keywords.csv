@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.176223236693987
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1735359477398454
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1694706740059815
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.16609445421523222
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1637947898684424
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1392162646680416
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.13514484144695543
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1351448414469554
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.133652389785783
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1325042758676574
