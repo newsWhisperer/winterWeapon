@@ -29,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1392162646680416
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.13514484144695543
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.133652389785783
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1325042758676574
@@ -50,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.123099739082906
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1219349311140652
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1210187835204347
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0010401214720178
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0006837953350282
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0005535383557602
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00045770765016942504
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004577076501694
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,8.744412467447499e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,3.690894155324251e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,2.4815708851898568e-06
