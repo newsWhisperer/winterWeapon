@@ -43,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1290955175537361
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.12819928071579073
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1275660565138014
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
@@ -65,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1150845639219583
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.11395258954961782
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1139525895496178
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1119921982347161
@@ -84,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.0998960457521901
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0994407194230247
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.0991670974807622
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
