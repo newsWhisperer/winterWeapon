@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.176223236693987
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1694706740059815
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.16609445421523222
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1660944542152322
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1637947898684424
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
@@ -65,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1150845639219583
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.11395258954961782
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1119921982347161
@@ -91,7 +92,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0935117872710256
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0934479671577816
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0892382700583739
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.0876500064616345
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.085632470616634
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0849332675695532
