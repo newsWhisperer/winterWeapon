@@ -43,7 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1290955175537361
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.12819928071579073
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1281992807157907
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1275660565138014
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
@@ -97,7 +97,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0849332675695532
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0835712261928999
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0815691735749471
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0802869211102235
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
@@ -109,6 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0727302475924253
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0715959396755392
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.07148558726396491
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0653126510841039
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
