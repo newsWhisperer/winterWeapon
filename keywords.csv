@@ -57,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1200768287655606
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.119671407279734
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
@@ -78,6 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1061475321640157
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1059456178969198
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1048710111877739
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1040884451444087
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.10181563297959
@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0727302475924253
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0715959396755392
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.07148558726396491
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0714855872639649
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0653126510841039
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
