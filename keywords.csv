@@ -35,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1323778230636396
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1318883151716381
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1318036697899475
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1297225644860174
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1281992807157907
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1275660565138014
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.12607621841236447
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1164048898165995
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.11637326522991209
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.116373265229912
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1150845639219583
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
