@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1527293848224071
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1452546504993593
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1450134034319016
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1425498635292237
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1243067239040238
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.12346685792445539
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.123099739082906
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1220330550246275
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0291559600228129
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0284931902846526
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.026339916299955617
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0263399162999556
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0212449672991942
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0169537957275363
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
