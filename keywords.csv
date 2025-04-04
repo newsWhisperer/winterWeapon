@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.123099739082906
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.12203305502462755
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1220330550246275
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
@@ -136,8 +136,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0147812687999307
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0103453978086379
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0093285109067689
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.008943603137342215
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
