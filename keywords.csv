@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.176223236693987
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1694706740059815
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.16431492426476554
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1643149242647655
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1637947898684424
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
@@ -23,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1450134034319016
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.14422101069424353
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1425498635292237
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
@@ -70,7 +71,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1119921982347161
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1103187831696983
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1101700436159937
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
