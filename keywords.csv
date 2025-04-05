@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2372289992628812
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.23566171388936158
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.202125846478129
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1913124726508944
@@ -23,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1450134034319016
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.14422101069424353
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1442210106942435
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1425498635292237
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
@@ -82,7 +83,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.10181563297959
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1017464589805171
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.0998960457521901
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
