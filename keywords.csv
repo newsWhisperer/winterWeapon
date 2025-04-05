@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.176223236693987
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1694706740059815
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1660944542152322
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.16431492426476554
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1637947898684424
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
@@ -56,7 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1200768287655606
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
-'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.11893388496783536
+'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1189338849678353
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1164048898165995
