@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1425498635292237
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1397459370447578
-'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1392162646680416
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1342626019934046
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.133652389785783
@@ -57,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1200768287655606
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
+'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.11893388496783536
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1164048898165995
@@ -113,7 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0653126510841039
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.06208665005978189
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0619609977332155
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0590409608319163
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0584310627800896
