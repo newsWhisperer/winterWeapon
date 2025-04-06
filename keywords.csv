@@ -89,7 +89,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0935117872710256
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0934479671577816
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.0876500064616345
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.085632470616634
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0815691735749471
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0802869211102235
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.07948501918037176
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0771386903817265
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0147812687999307
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0089436031373422
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.007929234270753564
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0079292342707535
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
