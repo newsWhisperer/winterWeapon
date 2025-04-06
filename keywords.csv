@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2372289992628812
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.23566171388936158
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.2356617138893615
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.202125846478129
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1913124726508944
@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1544373355372649
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1527293848224071
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1469131839387197
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1450134034319016
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1318883151716381
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.13012000709904606
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1290955175537361
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
