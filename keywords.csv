@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1290955175537361
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1281992807157907
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1275660565138014
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1260762184123644
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1101700436159937
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.10896947860842209
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1061475321640157
@@ -96,7 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0845246115095709
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.08282245407716657
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0828224540771665
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0802869211102235
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0794850191803717
