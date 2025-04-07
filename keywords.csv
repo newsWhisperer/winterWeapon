@@ -73,7 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1101700436159937
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.10896947860842209
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.108969478608422
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1061475321640157
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0212449672991942
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0169537957275363
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0147812687999307
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012864108479941095
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0089436031373422
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0079292342707535
