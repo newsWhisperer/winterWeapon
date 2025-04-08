@@ -90,7 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0934479671577816
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.0876500064616345
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.09308963412875296
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.085632470616634
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0849332675695532
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
