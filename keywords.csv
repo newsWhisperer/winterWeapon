@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1913124726508944
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1907276725986312
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.18646472038997589
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1844570987529045
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1829594097723438
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.176223236693987
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1761121630256401
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1694706740059815
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1643149242647655
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1637947898684424
@@ -106,7 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0727302475924253
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.07184591978313526
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0718459197831352
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0715959396755392
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0714855872639649
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
