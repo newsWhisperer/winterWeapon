@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2372289992628812
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,2,0.2356617138893615
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2338701366461763
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2324859520812869
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.202125846478129
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012864108479941
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0079292342707535
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077520776667408696
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077520776667408
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
