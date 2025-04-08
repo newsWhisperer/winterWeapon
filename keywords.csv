@@ -90,11 +90,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0934479671577816
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.09308963412875296
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.0930896341287529
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.085632470616634
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0849332675695532
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0845246115095709
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0828224540771665
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0802869211102235
@@ -107,6 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0727302475924253
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.07184591978313526
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0715959396755392
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0714855872639649
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
