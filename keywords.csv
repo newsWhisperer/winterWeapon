@@ -80,7 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1059456178969198
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1048710111877739
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
-'russisches Gas',de,Russland,#a6190f,#b32319,3,0.10252115746365648
+'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1025211574636564
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.10181563297959
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1017464589805171
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
@@ -136,8 +136,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012864108479941
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0089436031373422
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0079292342707535
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077520776667408696
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
