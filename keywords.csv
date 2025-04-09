@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1844570987529045
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1829594097723438
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1821939399542791
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.18201576346261622
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.176223236693987
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1694706740059815
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1643149242647655
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1637947898684424
@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1318883151716381
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.130120007099046
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.12983160634791174
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1298316063479117
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1290955175537361
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
