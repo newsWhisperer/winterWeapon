@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1913124726508944
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1907276725986312
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.18646472038997589
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1864647203899758
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1844570987529045
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1829594097723438
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0017624270454695
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0010401214720178
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.00088410325121513
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0006837953350282
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0005535383557602
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004577076501694
