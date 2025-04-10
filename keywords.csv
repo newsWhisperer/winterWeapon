@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2338701366461763
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2324859520812869
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.202125846478129
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1913124726508944
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1907276725986312
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1902473646024307
@@ -11,7 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1844570987529045
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1829594097723438
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1821939399542791
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.18201576346261622
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1813225690518642
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1694706740059815
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1643149242647655
