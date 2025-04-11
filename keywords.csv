@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2324859520812869
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2235407383064922
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.2003125318059572
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.191635640779319
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1913124726508944
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1907276725986312
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1813225690518642
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1812658601382065
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1710157270350636
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1643149242647655
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1637947898684424
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
