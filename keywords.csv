@@ -33,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1318883151716381
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.13140662949820608
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.131406629498206
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.130120007099046
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1298316063479117
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
@@ -136,8 +136,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012864108479941
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0079292342707535
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077520776667408
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.006739849130140475
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
