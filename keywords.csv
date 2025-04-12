@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1345720652066751
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1325042758676574
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1323778230636396
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1318883151716381
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1139525895496178
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.11327171960409366
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1119921982347161
