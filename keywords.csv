@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1139525895496178
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.11327171960409366
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1119921982347161
@@ -95,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0849332675695532
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0828224540771665
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0802869211102235
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0794850191803717
@@ -106,6 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0727302475924253
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.07204925096559152
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0718459197831352
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0714855872639649
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
