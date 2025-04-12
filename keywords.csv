@@ -33,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1318883151716381
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.13140662949820608
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.130120007099046
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1298316063479117
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
@@ -50,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1234668579244553
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.123099739082906
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1220330550246275
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
