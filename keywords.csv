@@ -107,7 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0714855872639649
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.06756226630331594
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0675622663033159
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0653126510841039
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012864108479941
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077520776667408
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0067398491301404
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.00572887176061934
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
