@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1580927819959934
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.15407647611747552
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1540764761174755
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1450134034319016
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1442210106942435
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077520776667408
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0057288717606193
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0049982232564177
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.004248489767955045
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0017624270454695
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0008841032512151
