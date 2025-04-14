@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.1243067239040238
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.12424817395478385
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1234668579244553
@@ -79,7 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1048710111877739
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1025211574636564
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.10206530445072651
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1020653044507265
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.10181563297959
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1017464589805171
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1001173954454252
