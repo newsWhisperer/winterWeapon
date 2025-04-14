@@ -53,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1200768287655606
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1192340914880441
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1189338849678353
@@ -80,6 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1048710111877739
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1025211574636564
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.10206530445072651
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.10181563297959
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1017464589805171
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1001173954454252
@@ -112,7 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0619609977332155
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.061212794174370165
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0610690318156649
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0608565487242083
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0590409608319163
