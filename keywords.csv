@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2338701366461763
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.25374218114924985
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2324859520812869
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2235407383064922
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.12424817395478385
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.1242481739547838
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1234668579244553
