@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2537421811492498
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2324859520812869
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.22517890352231687
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2235407383064922
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.191635640779319
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1020653044507265
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.10181563297959
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1017464589805171
-'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.10014398349950869
+'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1001439834995086
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1001173954454252
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
