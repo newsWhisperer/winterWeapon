@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.16205846242386712
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1580927819959934
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1540764761174755
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1450134034319016
@@ -73,7 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1061475321640157
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.10614320935883485
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1061432093588348
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1059456178969198
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1048710111877739
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
