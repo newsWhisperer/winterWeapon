@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2251789035223168
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.21654412308683416
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2165441230868341
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2116566083600029
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.191635640779319
@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1242481739547838
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1236389463045116
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1234668579244553
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.123099739082906
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1061475321640157
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.10614320935883485
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1059456178969198
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1048710111877739
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
