@@ -7,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1907276725986312
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1864647203899758
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1857550999350784
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.18520914809074923
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1848474630938842
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1844570987529045
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
@@ -24,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1450134034319016
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1442210106942435
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1425498635292237
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1345720652066751
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077520776667408
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.004869540996526405
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0048695409965264
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0036112163027617
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.001498062988649
