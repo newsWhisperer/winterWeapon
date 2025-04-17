@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1844570987529045
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1813225690518642
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.18098285198868702
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1710157270350636
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1643149242647655
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1637947898684424
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
@@ -116,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0608565487242083
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0590409608319163
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0584310627800896
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.05742792635781851
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0574279263578185
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
