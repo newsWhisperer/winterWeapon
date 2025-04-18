@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2165441230868341
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.21453633117578746
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2145363311757874
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2116566083600029
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.191635640779319
@@ -133,8 +133,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.018058222204315
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0149310033243478
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0147107563684058
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012864108479941
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.01280417291314493
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077520776667408
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0057156295910894
