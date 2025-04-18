@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2251789035223168
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2165441230868341
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.21453633117578746
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2116566083600029
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.191635640779319
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1234668579244553
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.123099739082906
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.12288788909010698
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
