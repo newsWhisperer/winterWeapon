@@ -7,14 +7,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1907276725986312
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1864647203899758
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1857550999350784
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.18520914809074923
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1852091480907492
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1848474630938842
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1844570987529045
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1813225690518642
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.180982851988687
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1710157270350636
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1637947898684424
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.16363368869408457
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
