@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1345720652066751
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1325042758676574
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1318883151716381
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1234668579244553
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.123099739082906
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.12212747903296334
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
@@ -117,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0574279263578185
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.051908677043315164
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0519086770433151
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0502661412112332
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
