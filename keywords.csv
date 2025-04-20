@@ -8,16 +8,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1864647203899758
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1857550999350784
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1848474630938842
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1844570987529045
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.180982851988687
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.18079482764964624
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1710157270350636
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1637947898684424
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1636336886940845
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636090432408957
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.16237857087713684
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1623785708771368
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1620584624238671
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1540764761174755
