@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1620584624238671
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1540764761174755
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.15273881937431624
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1527388193743162
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1450134034319016
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
@@ -112,12 +112,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0619609977332155
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0608565487242083
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0590409608319163
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0574279263578185
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0519086770433151
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.051728066415577055
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0502661412112332
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
