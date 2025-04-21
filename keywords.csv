@@ -21,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1620584624238671
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1540764761174755
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.15273881937431624
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1501073071807619
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1450134034319016
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
@@ -45,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1242481739547838
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1234668579244553
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.123099739082906
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1221274790329633
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
