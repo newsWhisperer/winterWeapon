@@ -23,9 +23,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1552695488309203
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1540764761174755
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1527388193743162
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1450134034319016
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.13730413200802546
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1345720652066751
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1164048898165995
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.11556406337978213
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1155640633797821
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1150845639219583
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
