@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1623785708771368
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1620584624238671
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.15526954883092034
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1552695488309203
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1540764761174755
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1527388193743162
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1450134034319016
@@ -28,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1345720652066751
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.13313390985856727
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.131406629498206
@@ -65,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1121053378958923
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1101700436159937
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
