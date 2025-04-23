@@ -113,7 +113,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0619609977332155
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0590409608319163
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0574279263578185
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0519086770433151
@@ -121,6 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0502661412112332
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.04881373740414573
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0381023320464422
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0051583151524259
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0048695409965264
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.00260910377874529
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0026091037787452
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.001498062988649
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0008841032512151
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0006837953350282
