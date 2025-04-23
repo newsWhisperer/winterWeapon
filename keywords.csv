@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1373041320080254
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1345720652066751
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.131406629498206
@@ -55,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1192340914880441
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1189338849678353
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.11753657042567384
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1164048898165995
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1155640633797821
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.018058222204315
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012864108479941
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0128041729131449
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.01269135282569563
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0126913528256956
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0065892660167296
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0051583151524259
