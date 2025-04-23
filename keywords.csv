@@ -120,7 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0502661412112332
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.04881373740414573
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0488137374041457
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0381023320464422
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0026091037787452
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.001498062988649
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0008841032512151
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0006837953350282
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.00058122603477397
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0004705076023961
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004577076501694
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,7.432750597330374e-05
