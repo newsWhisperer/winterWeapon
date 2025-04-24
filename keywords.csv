@@ -103,7 +103,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0727876000241389
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0727302475924253
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0653126510841039
@@ -111,6 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0619609977332155
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0618207104535615
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0590409608319163
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0026091037787452
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.001498062988649
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0008841032512151
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.00058122603477397
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0005812260347739
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0004705076023961
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004577076501694
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,7.432750597330374e-05
