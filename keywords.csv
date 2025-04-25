@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1552695488309203
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1527388193743162
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.146113442979804
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.14500643879076325
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1450064387907632
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1373041320080254
@@ -81,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1020653044507265
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.10181563297959
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1017464589805171
-'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.1001439834995086
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1001173954454252
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0934479671577816
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.0930896341287529
+'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0849332675695532
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
