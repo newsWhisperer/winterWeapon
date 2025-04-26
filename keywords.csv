@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1373041320080254
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1358107973381162
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.131406629498206
@@ -64,7 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1139525895496178
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,2,0.1130116792213132
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1101700436159937
