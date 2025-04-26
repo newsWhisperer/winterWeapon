@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.23617350005875215
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2361735000587521
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2165441230868341
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2145363311757874
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
@@ -75,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1061475321640157
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1061432093588348
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1059456178969198
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1048710111877739
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1025211574636564
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1020653044507265
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0934479671577816
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.0930896341287529
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.0891405545096078
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0849332675695532
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
