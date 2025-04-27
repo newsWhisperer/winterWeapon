@@ -19,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1620584624238671
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1527388193743162
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.14903103868946171
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.146113442979804
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1450064387907632
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
@@ -49,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1222695869587312
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1221274790329633
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1206245749287785
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1192340914880441
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0056008761142201
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0051583151524259
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.00413910984704744
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0041391098470474
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0026091037787452
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.001498062988649
