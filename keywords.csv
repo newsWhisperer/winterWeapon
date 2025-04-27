@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.146113442979804
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1450064387907632
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1414755610517368
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1373041320080254
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1275660565138014
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1260762184123644
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1252052168939763
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1242481739547838
