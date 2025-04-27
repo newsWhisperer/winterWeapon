@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2165441230868341
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2145363311757874
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.21024408459539384
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2102440845953938
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1988924035270183
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1943027125261321
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0109962647369776
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0056008761142201
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0051583151524259
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0048695409965264
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.00413910984704744
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0026091037787452
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.001498062988649
