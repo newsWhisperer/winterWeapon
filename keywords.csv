@@ -94,8 +94,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0849332675695532
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0802869211102235
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.07799425794368997
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0771386903817265
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0026091037787452
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.001498062988649
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0008841032512151
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00068908150264399
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0006890815026439
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0005812260347739
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0004705076023961
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,7.432750597330374e-05
