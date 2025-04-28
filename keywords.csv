@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1527388193743162
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1490310386894617
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1485644763002158
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.146113442979804
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1450064387907632
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1260762184123644
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1252052168939763
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1249465015328334
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1242481739547838
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.04149167679352384
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0414916767935238
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0381023320464422
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.038078480530396
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0366838959319344
