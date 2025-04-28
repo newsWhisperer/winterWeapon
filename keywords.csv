@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2165441230868341
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2145363311757874
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2102440845953938
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1988924035270183
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.19755116116227053
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1943027125261321
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.191635640779319
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1857550999350784
@@ -95,7 +95,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.07799425794368997
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0779942579436899
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0771386903817265
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
