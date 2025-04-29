@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1988924035270183
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1943027125261321
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.19185337604487382
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1918533760448738
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.191635640779319
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1857550999350784
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1848474630938842
@@ -118,8 +118,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0519086770433151
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.051728066415577
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0502661412112332
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.04272622002954822
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0425645035190357
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0414916767935238
