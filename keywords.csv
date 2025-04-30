@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.22002221826972107
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.220022218269721
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1988924035270183
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0263399162999556
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0243692267419547
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.018058222204315
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.01534948887366775
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012864108479941
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0128041729131449
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0126913528256956
