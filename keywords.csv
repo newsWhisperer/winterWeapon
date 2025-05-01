@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.2488719843336646
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.220022218269721
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.2125912916836149
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1988924035270183
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0026091037787452
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.001498062988649
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008857492772473151
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008857492772473
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0008841032512151
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0005812260347739
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0004705076023961
