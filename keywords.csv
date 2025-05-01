@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1738680351726636
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1637947898684424
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.16284741494481664
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1628474149448166
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1620584624238671
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
@@ -142,8 +142,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0027200171459602
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0026091037787452
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.001498062988649
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008857492772473151
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0008841032512151
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0006890815026439
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0005812260347739
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0004705076023961
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,6.317838007730818e-05
