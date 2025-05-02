@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1738680351726636
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.16787786328129303
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.167877863281293
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1637947898684424
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1628474149448166
@@ -124,8 +124,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0414916767935238
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0381023320464422
-'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.038078480530396
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0366838959319344
+'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0263399162999556
