@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.2125912916836149
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.202773173872642
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1988924035270183
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.19549011097356386
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1943027125261321
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1918533760448738
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.191635640779319
