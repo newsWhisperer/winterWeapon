@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.167877863281293
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1637947898684424
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1628474149448166
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1443867449340943
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.13922557138817604
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
