@@ -101,11 +101,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0743496470980466
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
+'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.07346815574051183
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
-'Russland Öltanker',de,Russland,#a6190f,#b25335,2,0.0645655083578214
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0619609977332155
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.061869460020518
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0022177382119334
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.001498062988649
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008857492772473
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.000751487763532835
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0007514877635328
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0005812260347739
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0004705076023961
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,6.317838007730818e-05
