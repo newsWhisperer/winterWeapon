@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1620584624238671
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.15275647489676406
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.152756474896764
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1527388193743162
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1490310386894617
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1450064387907632
@@ -52,7 +52,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
 'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1192340914880441
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1189338849678353
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
@@ -80,6 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1020653044507265
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.10181563297959
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1017464589805171
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1014989927648375
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1001173954454252
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
