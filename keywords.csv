@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1443867449340943
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.13922557138817604
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.139225571388176
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0022177382119334
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.001498062988649
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008857492772473
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0008841032512151
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.000751487763532835
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0005812260347739
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0004705076023961
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,6.317838007730818e-05
