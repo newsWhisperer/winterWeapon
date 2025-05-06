@@ -2,6 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.2006527179310726
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1988924035270183
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.19732140781412266
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1954901109735638
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1943027125261321
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1918533760448738
@@ -21,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1472472326057415
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1450064387907632
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1443867449340943
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1428486091930855
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.139225571388176
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008857492772473
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0007514877635328
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0005812260347739
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.000399931462036685
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0003999314620366
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,6.317838007730818e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,3.690894155324251e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.7929349645496717e-06
