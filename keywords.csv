@@ -66,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1106020060341891
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
-'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.1101700436159937
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.108969478608422
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1085239703179081
@@ -86,6 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0979923985211605
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
+'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.09394456707359465
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0934479671577816
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.0930896341287529
