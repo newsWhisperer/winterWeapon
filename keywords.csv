@@ -26,8 +26,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1314670153905514
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.131406629498206
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1303354867183323
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1298316063479117
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1290955175537361
@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1001173954454252
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.09733872283389551
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0973387228338955
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0939445670735946
