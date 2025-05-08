@@ -20,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1527388193743162
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1491550593146138
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1472472326057415
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.14712860221390675
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1450064387907632
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1443867449340943
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
@@ -28,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.131406629498206
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1303354867183323
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1298316063479117
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1290955175537361
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
