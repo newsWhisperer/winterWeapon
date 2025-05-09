@@ -37,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1277974078383425
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1275660565138014
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.12548484670712887
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1252052168939763
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1249465015328334
@@ -78,7 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.10181563297959
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1017464589805171
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1014989927648375
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.10052318200923403
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.100523182009234
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1001173954454252
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
@@ -112,7 +113,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.061869460020518
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0618207104535615
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0590409608319163
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0555157534214883
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
