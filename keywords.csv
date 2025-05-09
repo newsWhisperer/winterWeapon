@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1628474149448166
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.15949684002643097
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.1594968400264309
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.152756474896764
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1527388193743162
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0243692267419547
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0241891088549622
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0153494888736677
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.013047065542617545
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012864108479941
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0128041729131449
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0126913528256956
