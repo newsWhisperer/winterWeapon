@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1303354867183323
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.13029967883232793
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1302996788323279
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1290955175537361
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
@@ -66,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1106020060341891
-'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.1104233699562428
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.108969478608422
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
@@ -86,6 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0973387228338955
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
+'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.09400987946280638
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0939445670735946
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0934479671577816
