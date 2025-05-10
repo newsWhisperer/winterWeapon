@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.21097109176415185
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.2006527179310726
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1988924035270183
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
@@ -10,10 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1848474630938842
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.17465424519266684
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1746542451926668
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.167877863281293
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1666471050734751
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1632010197225316
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1628474149448166
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.1594968400264309
