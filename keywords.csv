@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1189338849678353
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.1175365704256738
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1164048898165995
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1155640633797821
@@ -78,9 +77,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.10181563297959
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.1017464589805171
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1014989927648375
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.10059047532795716
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1005904753279571
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.100523182009234
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1001173954454252
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.09990608486182272
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0973387228338955
