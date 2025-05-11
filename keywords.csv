@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1988924035270183
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1973214078141226
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.19726638401805519
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1972663840180551
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1918533760448738
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.191635640779319
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
@@ -116,10 +116,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0555157534214883
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.051728066415577
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0441223754868178
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.043968856453240446
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0427262200295482
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0414916767935238
