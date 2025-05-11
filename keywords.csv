@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.22116581272071067
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2211658127207106
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.2109710917641518
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.2006527179310726
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1988924035270183
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1973214078141226
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1954901109735638
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1918533760448738
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.191635640779319
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1888200555292628
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.18020903341843833
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1746542451926668
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.167877863281293
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1666471050734751
