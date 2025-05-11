@@ -133,9 +133,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0243692267419547
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0241891088549622
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0130470655426175
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012864108479941
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0128041729131449
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0126913528256956
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.010934492207949849
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0056008761142201
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.004384567879562
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0035182433699902
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0005812260347739
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0003399417427311
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,6.317838007730818e-05
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,2.2666703731385058e-05
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,2.2666703731385055e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.7929349645496717e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,4.436514320390047e-09
