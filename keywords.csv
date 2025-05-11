@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1888200555292628
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.18020903341843833
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1802090334184383
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1746542451926668
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.167877863281293
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1666471050734751
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0005812260347739
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0003399417427311
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,6.317838007730818e-05
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,2.6666710272217715e-05
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,2.2666703731385058e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.7929349645496717e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,4.436514320390047e-09
