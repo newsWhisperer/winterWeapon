@@ -23,8 +23,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1491550593146138
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1472472326057415
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1471286022139067
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.14586158637579835
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1450064387907632
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1443867449340943
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
@@ -115,7 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0555157534214883
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.052589041017440295
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0525890410174402
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0441223754868178
