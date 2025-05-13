@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2211658127207106
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2111266889944222
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.2109710917641518
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.2006527179310726
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1988924035270183
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0031405218644916
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0023120145740661
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0022177382119334
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.00127335354035165
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0012733535403516
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008857492772473
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0007514877635328
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0005812260347739
