@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.2109710917641518
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.2006527179310726
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1988924035270183
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1918533760448738
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1889570851907134
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.181275622999529
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1802090334184383
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1771914646624211
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0130470655426175
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0128041729131449
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0092943183767573
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.00916950241656502
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.009169502416565
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0056008761142201
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.004384567879562
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0031405218644916
