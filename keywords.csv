@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1303354867183323
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1302996788323279
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1290955175537361
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1275660565138014
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1139525895496178
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.11153136992067568
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1106020060341891
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.108969478608422
