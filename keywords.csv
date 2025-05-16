@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.22376257586603004
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.22376257586603
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.2006527179310726
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.1973214078141226
@@ -29,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
+'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1324032789417424
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1303354867183323
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1302996788323279
@@ -74,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1025211574636564
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1020653044507265
-'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.10181563297959
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1014989927648375
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1005904753279571
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.100523182009234
