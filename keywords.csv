@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0619609977332155
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0618207104535615
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.05950147236431594
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0595014723643159
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0555157534214883
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
@@ -122,10 +122,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0439688564532404
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0427262200295482
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0414916767935238
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0381023320464422
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0366838959319344
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.03526792527449523
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
