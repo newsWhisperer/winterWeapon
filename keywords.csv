@@ -75,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1025211574636564
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.1020653044507265
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1014989927648375
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1005904753279571
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.100523182009234
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1001173954454252
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.0891405545096078
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0866345051334395
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.08627414385011187
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0849332675695532
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
