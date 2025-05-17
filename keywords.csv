@@ -20,11 +20,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.152756474896764
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1527388193743162
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1491550593146138
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1472472326057415
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1471286022139067
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1458615863757983
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1453979134807729
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1450064387907632
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1387454743148153
@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0381023320464422
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0366838959319344
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.03526792527449523
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0352679252744952
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
