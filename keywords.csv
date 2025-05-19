@@ -39,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1275660565138014
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1254848467071288
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1252052168939763
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1249465015328334
@@ -70,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.108969478608422
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.10666214970105949
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1061475321640157
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1061432093588348
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1059456178969198
@@ -91,7 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.0891405545096078
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0866345051334395
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0862741438501118
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.08550190402876354
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0855019040287635
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0801529120125554
