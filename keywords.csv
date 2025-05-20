@@ -110,9 +110,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0619609977332155
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0618207104535615
+'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.06163529887000896
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0595014723643159
-'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0559921291518822
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0555157534214883
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0525890410174402
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0037268826976277
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0028194585848178
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0023120145740661
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0018850774801433899
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0018850774801433
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0012733535403516
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008857492772473
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0007514877635328
