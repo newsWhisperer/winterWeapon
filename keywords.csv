@@ -124,9 +124,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0373735279852543
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0366838959319344
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0363172870251159
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0352679252744952
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.030869693971348512
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
