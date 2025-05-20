@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0366838959319344
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0352679252744952
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.032536997239475875
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0325369972394758
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0308696939713485
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0241891088549622
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0130470655426175
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0108835469761731
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0092943183767573
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.007900170620243705
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077940770540802
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0056008761142201
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0037268826976277
