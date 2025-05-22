@@ -1,11 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.214696261926843
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2058232566420042
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.20483495568541732
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2048349556854173
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.2006527179310726
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1972663840180551
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1964733508721488
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1947986020840884
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1918533760448738
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1895574584137667
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1889570851907134
@@ -22,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1527388193743162
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1524678267940032
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1491550593146138
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1474933074341202
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1472472326057415
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1471286022139067
