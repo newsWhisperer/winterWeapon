@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.21622985889880017
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.214696261926843
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2058232566420042
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2048349556854173
@@ -37,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1290845507084672
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1275660565138014
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1252052168939763
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1249465015328334
@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1242481739547838
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.12350385187427224
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1235038518742722
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1234668579244553
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1221274790329633
