@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.21622985889880017
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.214696261926843
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2058232566420042
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2048349556854173
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.2006527179310726
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.19849064265018698
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1972663840180551
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1964733508721488
