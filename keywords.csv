@@ -85,7 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.0930896341287529
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.09085668922482375
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0908566892248237
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.0891405545096078
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0867555087831175
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0003399417427311
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,6.317838007730818e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,2.266670373138505e-05
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.5239947198672209e-06
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.2953955118871377e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,3.7710371723315395e-09
