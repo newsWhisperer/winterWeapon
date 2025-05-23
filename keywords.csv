@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.1594968400264309
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.152756474896764
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1527388193743162
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1524678267940032
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1472472326057415
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1471286022139067
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1458615863757983
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.14389598775315848
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1361531661876488
@@ -127,7 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0308696939713485
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.030127751483320923
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0301277514833209
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0243692267419547
