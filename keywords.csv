@@ -81,14 +81,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0973387228338955
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.095718429034552
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.0930896341287529
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.09085668922482375
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.0891405545096078
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.08675550878311751
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0867555087831175
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0866345051334395
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0862741438501118
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0855019040287635
