@@ -16,10 +16,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.167877863281293
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1672202074965816
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.16674494805796414
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1666471050734751
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.1594968400264309
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1582600597473375
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1527388193743162
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1524678267940032
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1472472326057415
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1471286022139067
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1458615863757983
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.14389598775315848
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1438959877531584
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1361531661876488
