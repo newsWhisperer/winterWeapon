@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.214696261926843
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2058232566420042
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2048349556854173
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.2006527179310726
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1984906426501869
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1972663840180551
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1947986020840884
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1895574584137667
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1889570851907134
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.18336930595569742
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.181275622999529
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
