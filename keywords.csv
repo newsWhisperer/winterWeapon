@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.22257329918359728
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.214696261926843
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2058232566420042
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2048349556854173
@@ -8,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1972663840180551
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1964733508721488
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1947986020840884
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1918533760448738
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1895574584137667
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1889570851907134
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.167877863281293
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1672202074965816
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.16674494805796414
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1667449480579641
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1666471050734751
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.1594968400264309
