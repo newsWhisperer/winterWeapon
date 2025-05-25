@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2225732991835972
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.214696261926843
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.20777629294242125
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2058232566420042
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2048349556854173
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1984906426501869
@@ -58,7 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1155640633797821
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.11482863409313136
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1148286340931313
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1139525895496178
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
