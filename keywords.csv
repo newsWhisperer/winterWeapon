@@ -27,13 +27,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1472472326057415
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1471286022139067
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1463281464681687
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1458615863757983
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1438959877531584
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.14257015205579218
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1324032789417424
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.13186493633768742
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1318649363376874
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1303354867183323
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1302996788323279
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
