@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1474933074341202
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1472472326057415
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1471286022139067
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.14632814646816875
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1463281464681687
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1458615863757983
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1438959877531584
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
@@ -44,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1242481739547838
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1235038518742722
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1234668579244553
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1221274790329633
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1155640633797821
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.11482863409313136
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1139525895496178
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
