@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.214696261926843
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.20777629294242125
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2077762929424212
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2058232566420042
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2048349556854173
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1984906426501869
@@ -33,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1324032789417424
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.13186493633768742
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1303354867183323
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1302996788323279
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
@@ -100,7 +101,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0771386903817265
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.0743496470980466
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0734681557405118
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
