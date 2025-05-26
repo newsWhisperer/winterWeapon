@@ -10,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1947986020840884
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1895574584137667
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1889570851907134
+'Blackout',de,Other,#545557,#6b6c6e,3,0.18894960362516208
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1833693059556974
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.181275622999529
@@ -28,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1471286022139067
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1463281464681687
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1438959877531584
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.14257015205579218
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1324032789417424
@@ -49,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1221274790329633
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
-'Blackout',de,Other,#545557,#6b6c6e,2,0.1202060785964474
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1189338849678353
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
