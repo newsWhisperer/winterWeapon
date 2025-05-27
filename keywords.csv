@@ -8,13 +8,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1972663840180551
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1964733508721488
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1937571364250726
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1931019892436445
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1895574584137667
 'Blackout',de,Other,#545557,#6b6c6e,3,0.188949603625162
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1833693059556974
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.181275622999529
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.167877863281293
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1672202074965816
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1667789317714751
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1667449480579641
