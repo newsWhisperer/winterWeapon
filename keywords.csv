@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Strommangellage',de,Other,#545557,#5b7c5e,2,0.22221861624201275
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2077762929424212
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2058232566420042
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2056275108196347
@@ -93,7 +94,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0866345051334395
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0862741438501118
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0855019040287635
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0847865896964856
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0801529120125554
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
@@ -117,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.04470068486482417
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0447006848648241
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0441223754868178
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0373735279852543
