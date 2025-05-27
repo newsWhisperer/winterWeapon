@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2077762929424212
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2058232566420042
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.20562751081963473
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2056275108196347
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2048349556854173
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2019322437757427
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
@@ -115,9 +115,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0595014723643159
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0555157534214883
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0525890410174402
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.04470068486482417
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0441223754868178
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0373735279852543
