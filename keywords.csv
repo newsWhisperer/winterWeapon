@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.21286358415041737
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.2128635841504173
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2077762929424212
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2058232566420042
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2056275108196347
@@ -126,9 +126,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0325369972394758
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0308696939713485
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0301974558393696
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0301277514833209
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.025967867463464158
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0243692267419547
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0241891088549622
