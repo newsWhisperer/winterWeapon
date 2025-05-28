@@ -95,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0862741438501118
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0855019040287635
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
-'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0801529120125554
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0794307720841143
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
@@ -105,6 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0734681557405118
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
+'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.06933009521067209
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
