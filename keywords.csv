@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2077762929424212
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2058232566420042
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2056275108196347
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.2048349556854173
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2019322437757427
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1972663840180551
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.181275622999529
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.17411058233260468
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1672202074965816
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1667789317714751
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1667449480579641
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0308696939713485
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0301277514833209
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.025967867463464158
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0259678674634641
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0243692267419547
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0241891088549622
