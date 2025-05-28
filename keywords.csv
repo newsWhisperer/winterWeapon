@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.21286358415041737
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2077762929424212
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2058232566420042
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2056275108196347
@@ -6,12 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2019322437757427
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1972663840180551
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1964733508721488
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1937571364250726
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1931019892436445
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1895574584137667
 'Blackout',de,Other,#545557,#6b6c6e,3,0.188949603625162
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.18888583880571078
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1888858388057107
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1833693059556974
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.181275622999529
