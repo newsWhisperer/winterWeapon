@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.22701706445560346
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.2128635841504173
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2077762929424212
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2058232566420042
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2056275108196347
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2019322437757427
@@ -104,7 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0734681557405118
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0733922984843602
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
-'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.06933009521067209
+'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.069330095210672
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0649408150011635
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
