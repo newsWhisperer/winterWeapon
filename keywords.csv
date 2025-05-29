@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.22701706445560346
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2270170644556034
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.2128635841504173
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2058232566420042
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2056275108196347
@@ -71,7 +71,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.108969478608422
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1066621497010594
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1061475321640157
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1061432093588348
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1059456178969198
@@ -87,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.0939277242286152
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.0930896341287529
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0909628572459005
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0908566892248237
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.0891405545096078
