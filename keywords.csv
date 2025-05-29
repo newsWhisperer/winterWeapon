@@ -87,7 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.0930896341287529
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0909628572459005
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0908566892248237
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.09052175795500958
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.0891405545096078
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0867555087831175
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0037268826976277
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0028194585848178
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0023120145740661
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0018850774801433
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.001602315858121805
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0012733535403516
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008857492772473
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0007514877635328
