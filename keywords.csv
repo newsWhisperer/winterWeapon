@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.1594968400264309
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1524678267940032
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.14821218425239446
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1482121842523944
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1474933074341202
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1472472326057415
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1471286022139067
@@ -134,8 +134,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0241891088549622
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0130470655426175
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0108835469761731
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0079001706202437
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077940770540802
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.006865160027207145
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0056008761142201
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0037268826976277
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0028194585848178
