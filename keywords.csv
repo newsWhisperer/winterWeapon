@@ -22,9 +22,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.163597069235787
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.1594968400264309
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1524997830776833
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1524678267940032
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.14821218425239446
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1474933074341202
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1472472326057415
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1471286022139067
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0308696939713485
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0301277514833209
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.027806462653554426
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0259678674634641
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
