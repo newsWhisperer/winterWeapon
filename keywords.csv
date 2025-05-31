@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
-'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1324032789417424
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1318649363376874
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1303354867183323
@@ -50,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1221274790329633
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.11965485695247532
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.1196548569524753
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1189338849678353
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1139525895496178
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
+'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.11314334210048103
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1115313699206756
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.1106020060341891
