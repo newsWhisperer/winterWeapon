@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.163597069235787
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.1594968400264309
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.15940102992974714
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1594010299297471
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1524678267940032
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1516383459175489
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
@@ -112,7 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0619609977332155
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0616352988700089
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0595014723643159
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.06032662650966851
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0555157534214883
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
