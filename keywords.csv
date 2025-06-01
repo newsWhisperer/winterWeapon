@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.188949603625162
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1888858388057107
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1833693059556974
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1820157634626162
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.18239418167049648
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.181275622999529
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1697448649827139
@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0595014723643159
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0555157534214883
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.052547603885527275
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0447006848648241
