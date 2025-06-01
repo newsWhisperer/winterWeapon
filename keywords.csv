@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.188949603625162
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1888858388057107
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1833693059556974
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.18239418167049648
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1823941816704964
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.181275622999529
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1697448649827139
@@ -21,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.163597069235787
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.1594968400264309
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.15940102992974714
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1524678267940032
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1516383459175489
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
@@ -133,7 +134,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0243692267419547
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0241891088549622
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0130470655426175
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0108835469761731
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077940770540802
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0068651600272071
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0056008761142201
