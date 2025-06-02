@@ -1,11 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,2,0.2058232566420042
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2056275108196347
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2019322437757427
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1995225701642183
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1972663840180551
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.19636413775099157
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1963641377509915
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1937571364250726
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1931019892436445
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1895574584137667
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1823941816704964
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.181275622999529
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.17494982814570356
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1697448649827139
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1667789317714751
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1666471050734751
