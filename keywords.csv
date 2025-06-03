@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1749498281457035
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1697448649827139
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1667789317714751
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1666471050734751
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.16478329749427204
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.163597069235787
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.1594968400264309
@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0366838959319344
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.031917513787466156
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0319175137874661
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0308696939713485
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0301277514833209
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
