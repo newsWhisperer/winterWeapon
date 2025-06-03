@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2056275108196347
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2019322437757427
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1995225701642183
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1972663840180551
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1963641377509915
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1823941816704964
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.181275622999529
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.17909176918504008
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1749498281457035
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1697448649827139
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1667789317714751
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0008857492772473
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0006387645990028
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0005812260347739
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.00028895048132143497
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0002889504813214
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,4.564637960585516e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,2.266670373138505e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.2953955118871377e-06
