@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2206454151057804
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.20386991948210856
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2038699194821085
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1975511611622705
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1972663840180551
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1963641377509915
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1937571364250726
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1931019892436445
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.19250160283991335
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1895574584137667
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1888858388057107
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1882868808086604
