@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1963641377509915
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1937571364250726
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1931019892436445
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.19250160283991335
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1925016028399133
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1895574584137667
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1888858388057107
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1882868808086604
@@ -126,10 +126,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0319175137874661
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0308696939713485
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0301277514833209
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0259678674634641
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.025758603760822764
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0243692267419547
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0241891088549622
