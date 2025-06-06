@@ -25,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1516383459175489
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.149307413923848
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.14763843540826505
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1474933074341202
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1472472326057415
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1471286022139067
@@ -113,7 +114,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0616352988700089
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0603266265096685
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0555157534214883
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0130470655426175
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077940770540802
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0056008761142201
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.005237605869657099
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.005237605869657
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0037268826976277
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0023965397970951
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0023120145740661
