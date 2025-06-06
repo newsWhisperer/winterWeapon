@@ -57,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1164048898165995
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,1,0.1155640633797821
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1148286340931313
@@ -75,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1061475321640157
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1059456178969198
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1033673470228943
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1025211574636564
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.100523182009234
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.005985401023126
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0056008761142201
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0037268826976277
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.00239653979709513
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0023965397970951
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0023120145740661
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0013619684794035
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0012733535403516
