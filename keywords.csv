@@ -25,10 +25,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1516383459175489
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.149307413923848
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.14763843540826505
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.14819495506363886
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.147638435408265
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1474933074341202
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1472472326057415
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1471286022139067
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1466844658492695
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1463281464681687
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1438959877531584
