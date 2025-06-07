@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1697448649827139
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1667789317714751
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.164783297494272
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.163597069235787
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,2,0.1594968400264309
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1594010299297471
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1438959877531584
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1437554963512439
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.14085768885041897
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
