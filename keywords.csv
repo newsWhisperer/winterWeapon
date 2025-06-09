@@ -25,10 +25,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1516383459175489
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.149307413923848
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1481949550636388
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1474933074341202
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1466844658492695
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1463281464681687
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.14455558544045663
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1438959877531584
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1437554963512439
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
@@ -118,7 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.049581585762011986
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0495815857620119
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0447006848648241
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0441223754868178
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
