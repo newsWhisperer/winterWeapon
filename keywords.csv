@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.181275622999529
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.17909176918504
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.17621951633316663
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1762195163331666
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1697448649827139
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1667789317714751
@@ -78,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1033673470228943
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
-'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1025211574636564
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.100523182009234
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1001173954454252
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.0999060848618227
@@ -88,6 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.0930896341287529
+'russisches Gas',de,Russland,#a6190f,#b32319,3,0.09209605884410794
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0908566892248237
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
