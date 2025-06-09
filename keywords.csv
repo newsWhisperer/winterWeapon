@@ -87,7 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.0930896341287529
-'russisches Gas',de,Russland,#a6190f,#b32319,3,0.09209605884410794
+'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0920960588441079
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0908566892248237
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077940770540802
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0056008761142201
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.005237605869657
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0033178652929835
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.002970200499035975
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0023965397970951
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0023120145740661
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0013619684794035
