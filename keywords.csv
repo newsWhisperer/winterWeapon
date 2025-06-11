@@ -92,7 +92,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0867555087831175
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0866345051334395
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0862741438501118
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0855019040287635
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
@@ -103,6 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0771386903817265
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.07363932936342357
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0734681557405118
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.069330095210672
@@ -113,7 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0616352988700089
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0603266265096685
-'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.055199767750988976
+'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0551997677509889
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
