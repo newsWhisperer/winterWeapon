@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1895574584137667
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1882868808086604
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1865312689397404
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1833693059556974
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1827897161052467
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1823941816704964
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.181275622999529
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.160552962984854
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1594010299297471
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.15676400006234278
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1524678267940032
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1516383459175489
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
