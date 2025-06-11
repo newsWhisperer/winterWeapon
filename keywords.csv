@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2350701871325493
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2089910977789832
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1963641377509915
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1931019892436445
@@ -80,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.100523182009234
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1001173954454252
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.0999060848618227
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0973387228338955
@@ -102,7 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0771386903817265
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0741713079705483
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.07363932936342357
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0736393293634235
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0734681557405118
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.069330095210672
