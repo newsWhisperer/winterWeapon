@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.160552962984854
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1594010299297471
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.15676400006234278
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1567640000623427
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1524678267940032
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1516383459175489
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
@@ -64,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1148286340931313
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1139525895496178
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.113143342100481
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
@@ -83,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1001173954454252
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.09835985111717513
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0973387228338955
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
