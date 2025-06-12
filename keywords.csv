@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1524678267940032
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1516383459175489
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
-'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.149307413923848
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1474933074341202
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1466844658492695
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1463281464681687
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1302996788323279
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
+'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1278113918352708
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1259811066145352
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1254927150970252
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1001173954454252
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.09835985111717513
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0983598511171751
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0973387228338955
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
