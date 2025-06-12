@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2350701871325493
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2089910977789832
-'Blackout',de,Other,#545557,#6b6c6e,3,0.20590484459645225
+'Blackout',de,Other,#545557,#6b6c6e,3,0.2059048445964522
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1963641377509915
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1931019892436445
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1925016028399133
@@ -87,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.0930896341287529
-'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0920960588441079
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0908566892248237
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
@@ -95,6 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0862741438501118
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0855019040287635
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
+'russisches Gas',de,Russland,#a6190f,#b32319,3,0.08323519001749172
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0794307720841143
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0774684436590154
