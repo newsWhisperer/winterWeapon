@@ -106,7 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.069330095210672
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.06766617127149716
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0676661712714971
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0623834537117061
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0619609977332155
@@ -120,8 +120,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0495815857620119
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0447006848648241
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0441223754868178
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.03750401916379513
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0366838959319344
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
