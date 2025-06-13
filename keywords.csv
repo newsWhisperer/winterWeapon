@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2350701871325493
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2089910977789832
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2059048445964522
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1998096740626669
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1963641377509915
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1931019892436445
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1925016028399133
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0495815857620119
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0447006848648241
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.03750401916379513
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0366838959319344
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
