@@ -30,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1437554963512439
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1436448018658118
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1414039102123818
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1383937785753711
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
@@ -72,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.108969478608422
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1061475321640157
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1059456178969198
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1033673470228943
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
