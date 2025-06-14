@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2089910977789832
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2059048445964522
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1998096740626669
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1963641377509915
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1931019892436445
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1925016028399133
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.17909176918504
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1762195163331666
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.16998823795326687
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1697448649827139
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1667789317714751
@@ -43,7 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1254927150970252
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1252052168939763
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.12511403806542118
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1249465015328334
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
