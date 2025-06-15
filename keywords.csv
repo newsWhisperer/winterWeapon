@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1594010299297471
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1567640000623427
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1474933074341202
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1466844658492695
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1463281464681687
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1445555854404566
@@ -30,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1437554963512439
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1436448018658118
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.14186946131900216
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1414039102123818
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1383937785753711
@@ -89,7 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0908566892248237
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.08769296940881117
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0876929694088111
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0867555087831175
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0862741438501118
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0855019040287635
