@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blackout',de,Other,#545557,#6b6c6e,3,0.21633441927062072
+'Blackout',de,Other,#545557,#6b6c6e,3,0.2163344192706207
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1963641377509915
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1931019892436445
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1925016028399133
@@ -125,9 +125,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0366838959319344
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0319175137874661
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0308696939713485
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.027429916719346185
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0257586037608227
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
