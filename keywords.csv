@@ -67,11 +67,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1115313699206756
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.11087889509258059
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1098718831021971
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.108969478608422
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.108577842889667
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1061475321640157
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1033673470228943
