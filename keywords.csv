@@ -35,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1355723440224663
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1318649363376874
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.13122383355307676
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1302996788323279
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
@@ -45,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1252052168939763
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1249465015328334
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1249367299719455
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
