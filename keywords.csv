@@ -12,18 +12,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.17909176918504
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.1776432281121357
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1762195163331666
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,3,0.1697448649827139
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.164783297494272
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.160552962984854
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1594010299297471
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1567640000623427
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.15330181677067065
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1533018167706706
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1473854169548907
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1466844658492695
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1445555854404566
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1442836152353068
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1438959877531584
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1437554963512439
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
