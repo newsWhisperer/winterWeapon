@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1438959877531584
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1437554963512439
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,2,0.1418694613190021
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1414039102123818
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1383937785753711
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.12058917712115179
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1196548569524753
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1189338849678353
