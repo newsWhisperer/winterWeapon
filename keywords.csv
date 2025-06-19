@@ -23,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1466844658492695
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1445555854404566
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1442836152353068
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.14428137154214424
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1438959877531584
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1437554963512439
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
@@ -123,7 +124,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0366838959319344
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0274299167193461
