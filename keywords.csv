@@ -12,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.17909176918504
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.1776432281121357
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1762195163331666
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.17443865396713115
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.160552962984854
@@ -19,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1567640000623427
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1541078669610402
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1533018167706706
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1473854169548907
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1466844658492695
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1445555854404566
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0243692267419547
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0222227023439444
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.018957850810154317
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0189578508101543
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0130470655426175
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077940770540802
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.005237605869657
