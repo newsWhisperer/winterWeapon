@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.1776432281121357
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1762195163331666
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.164783297494272
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.160552962984854
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1594010299297471
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1567640000623427
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.15410786696104029
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1533018167706706
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1512679741859297
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1473854169548907
@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.12058917712115179
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1205891771211517
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1196548569524753
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1189338849678353
