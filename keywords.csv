@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blackout',de,Other,#545557,#6b6c6e,3,0.25015167532888805
+'Blackout',de,Other,#545557,#6b6c6e,3,0.250151675328888
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2148708382349142
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1963641377509915
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1931019892436445
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0189578508101543
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0130470655426175
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077940770540802
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.005237605869657
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.00685220498920845
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.004760744697087
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0026746854241805
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0023965397970951
