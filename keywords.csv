@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blackout',de,Other,#545557,#6b6c6e,3,0.21758097902955478
+'Blackout',de,Other,#545557,#6b6c6e,3,0.2175809790295547
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2148708382349142
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1963641377509915
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1931019892436445
@@ -75,6 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.108969478608422
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1061475321640157
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.10502627900943996
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1033673470228943
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
@@ -86,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0940117051290607
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.0930896341287529
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0908566892248237
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
