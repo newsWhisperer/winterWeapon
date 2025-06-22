@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blackout',de,Other,#545557,#6b6c6e,3,0.2456893929002961
+'Blackout',de,Other,#545557,#6b6c6e,3,0.25015167532888805
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2148708382349142
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1963641377509915
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1931019892436445
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,4.564637960585516e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,2.266670373138505e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.2953955118871377e-06
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.3158882034581065e-09
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.315888203458106e-09
