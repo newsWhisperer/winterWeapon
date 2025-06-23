@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1744386539671311
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.16080180359877932
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.160552962984854
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1594010299297471
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1567640000623427
@@ -134,8 +134,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0222227023439444
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0189578508101543
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0130470655426175
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.00837462924082714
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077940770540802
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0068522049892084
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.004760744697087
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0026746854241805
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0023965397970951
