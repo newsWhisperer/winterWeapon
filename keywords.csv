@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1931019892436445
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1925016028399133
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1895574584137667
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1865312689397404
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1823941816704964
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.181275622999529
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1744386539671311
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.16080180359877932
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.160552962984854
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1594010299297471
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1567640000623427
@@ -75,7 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.108969478608422
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1061475321640157
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.10502627900943996
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1050262790094399
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1033673470228943
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
