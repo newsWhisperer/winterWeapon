@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Strommangellage',de,Other,#545557,#5b7c5e,2,0.2866200335371259
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2175809790295547
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2148708382349142
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1963641377509915
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.160552962984854
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1594010299297471
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1567640000623427
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1473854169548907
@@ -38,7 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1294441201691952
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1293429656438423
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.12727264459018464
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1272726445901846
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.12705384158594
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1259811066145352
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1254927150970252
