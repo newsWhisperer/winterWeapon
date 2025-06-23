@@ -115,11 +115,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0603266265096685
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0576662605807725
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0551997677509889
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0540218215617551
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0495815857620119
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.04591880332749183
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0447006848648241
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0222227023439444
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0189578508101543
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0130470655426175
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.00837462924082714
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083746292408271
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077940770540802
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.004760744697087
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0026746854241805
