@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1414039102123818
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1383937785753711
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.13770622987108866
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1377062298710886
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.135940920440285
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1355723440224663
@@ -92,6 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0876929694088111
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0867555087831175
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.08666769271096245
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0862741438501118
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0855019040287635
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
@@ -121,7 +122,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0495815857620119
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0447006848648241
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0420795326011323
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
