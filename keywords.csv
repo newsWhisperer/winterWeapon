@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2281793249480069
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.23526775756944224
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2175809790295547
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2148708382349142
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.2072330019805734
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.12263924081082257
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1226392408108225
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
