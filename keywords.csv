@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2148708382349142
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2094747584794804
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.2072330019805734
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.19458890481561553
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945889048156155
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1925016028399133
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1895574584137667
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1823941816704964
@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1403219889460925
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1383937785753711
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1377062298710886
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.135940920440285
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1355723440224663
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1323706571698426
@@ -58,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1178517562689279
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.11606835194023472
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1148286340931313
