@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1473854169548907
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1466844658492695
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1442836152353068
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1442813715421442
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1437554963512439
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1432298711066242
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
@@ -31,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1363739316943938
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.135940920440285
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1355723440224663
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.13237065716984267
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1323706571698426
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1318649363376874
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.12263924081082257
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
