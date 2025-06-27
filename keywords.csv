@@ -51,13 +51,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1226392408108225
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.119414071053196
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1189338849678353
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1178517562689279
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.11606835194023472
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1160683519402347
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1148286340931313
@@ -79,6 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1026508155529789
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.101707198409604
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0989441863441095
