@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2148708382349142
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2094747584794804
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.2072330019805734
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1978947364698835
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945889048156155
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1925016028399133
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1823941816704964
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.1776432281121357
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1762195163331666
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1744386539671311
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.17316324099940097
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1634959926981563
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
