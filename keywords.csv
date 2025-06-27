@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,2,0.1776432281121357
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1762195163331666
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1744386539671311
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.17316324099940097
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1731632409994009
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1634959926981563
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
@@ -51,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1226392408108225
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
-'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1189338849678353
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1178517562689279
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
@@ -79,6 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1026508155529789
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.101707198409604
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
+'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.10109384722266
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0989441863441095
