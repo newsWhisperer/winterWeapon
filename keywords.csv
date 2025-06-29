@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1318649363376874
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1312238335530767
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1293429656438423
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.12877186014963315
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1287718601496331
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1272726445901846
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.12705384158594
@@ -57,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1160683519402347
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.11574445545648476
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1148286340931313
@@ -88,7 +89,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0940117051290607
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0908566892248237
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0876929694088111
