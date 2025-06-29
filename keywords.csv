@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blackout',de,Other,#545557,#6b6c6e,3,0.2175809790295547
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2148708382349142
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2094747584794804
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.2072330019805734
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945889048156155
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1925016028399133
+'Blackout',de,Other,#545557,#6b6c6e,3,0.1898956621751215
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1854976888953153
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1823941816704964
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1567640000623427
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.15069296490915238
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1506929649091523
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1473854169548907
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1466844658492695
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1442836152353068
