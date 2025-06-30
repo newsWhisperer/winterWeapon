@@ -19,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1567640000623427
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1506929649091523
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.14781470915369727
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1473854169548907
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1466844658492695
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1442836152353068
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1437554963512439
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1432298711066242
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1148286340931313
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.11433542088703427
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1143354208870342
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1115313699206756
