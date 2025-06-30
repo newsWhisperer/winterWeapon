@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2094747584794804
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.2072330019805734
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2054419698744674
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2012310311360407
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945889048156155
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1925016028399133
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1898956621751215
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1854976888953153
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1823941816704964
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1799843695495996
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.17909176918504
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0257586037608227
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0243692267419547
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.023465444211444184
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0234654442114441
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0222227023439444
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0189578508101543
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0130470655426175
