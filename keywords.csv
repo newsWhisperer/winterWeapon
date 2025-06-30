@@ -32,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1323706571698426
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1318649363376874
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1312238335530767
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1293429656438423
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1287718601496331
@@ -57,11 +56,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1160683519402347
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.11574445545648476
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.1157444554564847
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1148286340931313
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.11433542088703427
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1115313699206756
