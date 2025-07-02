@@ -121,8 +121,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0449946328977101
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0447006848648241
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.04109572296305358
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0243692267419547
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0234654442114441
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.01903931199235274
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0190393119923527
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0189578508101543
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0130470655426175
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083746292408271
