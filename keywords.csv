@@ -29,9 +29,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1349934296891991
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1332494000529913
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1323706571698426
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.131993833843669
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1312238335530767
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1307868824034823
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1293429656438423
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1287718601496331
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
