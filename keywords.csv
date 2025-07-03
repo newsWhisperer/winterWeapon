@@ -8,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1898956621751215
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1799843695495996
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.17909176918504
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1766277394116571
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1762195163331666
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1744386539671311
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.173773890561018
@@ -18,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1506929649091523
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1473854169548907
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1442836152353068
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1437554963512439
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1432298711066242
@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.069330095210672
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.06599819211016308
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.065998192110163
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0623834537117061
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0619609977332155
