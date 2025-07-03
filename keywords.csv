@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.173773890561018
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1731632409994009
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.16771814759310835
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1677181475931083
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1634959926981563
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1396845368715517
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1377062298710886
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.135940920440285
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1355723440224663
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1349934296891991
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1332494000529913
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1160683519402347
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.11584981237424224
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.1157444554564847
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
