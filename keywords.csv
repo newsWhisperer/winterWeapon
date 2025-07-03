@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945889048156155
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1925016028399133
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1898956621751215
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1807948276496462
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1799843695495996
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.17909176918504
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1762195163331666
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.173773890561018
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1731632409994009
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.16771814759310835
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1634959926981563
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0012733535403516
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009029018856602
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004940421295578
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.00017745171434141
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0001774517143414
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,3.879942266497689e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.63766934459257e-05
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,1.2953955118871377e-06
