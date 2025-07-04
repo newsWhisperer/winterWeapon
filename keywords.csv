@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1634959926981563
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.15677498049596816
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1567749804959681
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1506929649091523
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1442836152353068
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1437554963512439
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1148286340931313
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1124874449111307
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1121144781744611
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1115313699206756
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1108788950925805
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
