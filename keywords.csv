@@ -18,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1634959926981563
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.15677498049596816
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1506929649091523
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1442836152353068
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1437554963512439
@@ -56,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1160683519402347
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1158498123742422
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.1157444554564847
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.11523649241909634
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1152364924190963
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1148286340931313
@@ -136,7 +137,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0189578508101543
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0130470655426175
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083746292408271
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0077940770540802
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.004760744697087
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0026746854241805
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0023965397970951
