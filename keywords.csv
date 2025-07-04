@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2102778319802856
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.2072330019805734
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2054419698744674
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2012310311360407
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.19776029757511546
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945889048156155
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1925016028399133
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1898956621751215
