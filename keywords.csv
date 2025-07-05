@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2102778319802856
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.2072330019805734
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2012310311360407
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.19776029757511546
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1977602975751154
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945889048156155
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1925016028399133
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1898956621751215
@@ -21,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1567749804959681
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1506929649091523
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1442836152353068
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1437554963512439
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1432298711066242
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1396845368715517
@@ -30,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1332494000529913
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1323706571698426
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.13169097144401187
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1312238335530767
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1307868824034823
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1293429656438423
