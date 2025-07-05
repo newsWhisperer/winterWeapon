@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1332494000529913
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1323706571698426
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.13169097144401187
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1316909714440118
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1312238335530767
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1307868824034823
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1293429656438423
@@ -53,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1178517562689279
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1173805740105116
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1160683519402347
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1158498123742422
@@ -65,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1121144781744611
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1115313699206756
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1108788950925805
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1098718831021971
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
