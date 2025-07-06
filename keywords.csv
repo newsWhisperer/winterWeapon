@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2102778319802856
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2094898033230172
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.2072330019805734
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2012310311360407
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1977602975751154
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1965439895289581
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945889048156155
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1925016028399133
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1898956621751215
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1799843695495996
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.17909176918504
@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1249465015328334
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.12369657544063055
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1236965754406305
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
