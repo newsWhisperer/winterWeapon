@@ -21,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1567749804959681
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1506929649091523
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1432298711066242
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1396845368715517
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1377062298710886
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1249465015328334
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1238692784522053
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.12369657544063055
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
