@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2102778319802856
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2094898033230172
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.2072330019805734
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2012310311360407
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1965439895289581
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1898956621751215
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1885345472750913
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.18338761218324276
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1799843695495996
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.17909176918504
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1766277394116571
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1293429656438423
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1287718601496331
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.12823903517277946
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1282390351727794
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1272726445901846
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.12705384158594
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1268272821564788
