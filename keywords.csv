@@ -72,7 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.108969478608422
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,3,0.1061475321640157
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1050262790094399
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1033673470228943
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0940117051290607
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.09022580733941335
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0876929694088111
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0867555087831175
@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.069330095210672
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
-'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.06739604677496605
+'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.067396046774966
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.065998192110163
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0623834537117061
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
