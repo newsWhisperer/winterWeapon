@@ -90,7 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0940117051290607
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.09022580733941335
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.0902258073394133
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0876929694088111
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0867555087831175
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0243692267419547
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0190393119923527
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0189578508101543
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0172313111927682
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.01479662951385297
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0130470655426175
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083746292408271
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.004760744697087
