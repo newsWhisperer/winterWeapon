@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.173773890561018
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1731632409994009
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1677181475931083
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1634959926981563
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1611485290905057
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1567749804959681
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1497867988831916
