@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.2072330019805734
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2012310311360407
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1977602975751154
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1975953703040362
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1965439895289581
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1898956621751215
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1885345472750913
@@ -12,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1766277394116571
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1744386539671311
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.173773890561018
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1731632409994009
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1634959926981563
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
