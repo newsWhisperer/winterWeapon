@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.2072330019805734
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2012310311360407
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2012025010063828
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1977602975751154
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1799843695495996
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.17909176918504
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1766277394116571
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.17629806668348738
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1744386539671311
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.173773890561018
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
