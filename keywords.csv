@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2012310311360407
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.20327402373836184
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2012025010063828
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1977602975751154
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1975953703040362
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1634959926981563
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.16172446335273855
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1617244633527385
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1611485290905057
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1567749804959681
