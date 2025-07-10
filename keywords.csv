@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.20327402373836184
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2032740237383618
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2012025010063828
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1977602975751154
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1975953703040362
@@ -48,12 +48,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1201934736805245
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1174687035943662
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1173805740105116
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.11646463262844582
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1160683519402347
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1158498123742422
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.1157444554564847
