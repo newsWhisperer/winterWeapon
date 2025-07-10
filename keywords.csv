@@ -20,9 +20,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1567749804959681
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1497867988831916
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.14472957811769804
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1396845368715517
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1377062298710886
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1349934296891991
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1332494000529913
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1174687035943662
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1173805740105116
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.11646463262844582
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1164646326284458
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1160683519402347
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1158498123742422
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.1157444554564847
