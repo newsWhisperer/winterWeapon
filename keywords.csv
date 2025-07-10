@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1567749804959681
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1497867988831916
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.14472957811769804
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1396845368715517
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1349934296891991
@@ -64,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1142173019194978
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1115313699206756
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1098718831021971
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
@@ -85,6 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0983598511171751
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
 'Winter Gas',de,Wetter,#2d8f29,#318c15,1,0.0961721707854088
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.09600178443257425
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0940117051290607
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
