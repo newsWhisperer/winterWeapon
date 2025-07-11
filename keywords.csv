@@ -60,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1152364924190963
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1148286340931313
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1142173019194978
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0989441863441095
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0983598511171751
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,1,0.0976048189791616
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
 'Winter Gas',de,Wetter,#2d8f29,#318c15,1,0.0961721707854088
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0960017844325742
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.030524243090806088
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.030524243090806
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0257586037608227
