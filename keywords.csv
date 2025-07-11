@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2032740237383618
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.21864708108669842
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2012025010063828
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1977602975751154
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1975953703040362
@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0447006848648241
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.035381409518595475
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0353814095185954
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
