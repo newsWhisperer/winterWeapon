@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
-'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.12118554424742328
+'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1211855442474232
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0023120145740661
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0013619684794035
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0012733535403516
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009029018856602
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00091748160281117
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004940421295578
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0001774517143414
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,3.879942266497689e-05
