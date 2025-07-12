@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1965439895289581
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1898956621751215
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1885345472750913
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.18506759494633446
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1850675949463344
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1833876121832427
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1799843695495996
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1766277394116571
@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1425701520557921
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1396845368715517
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1349934296891991
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1332494000529913
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1316909714440118
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1307868824034823
@@ -63,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1142173019194978
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1098718831021971
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
