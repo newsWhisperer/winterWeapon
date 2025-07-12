@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1833876121832427
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1799843695495996
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1766277394116571
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1762980666834873
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1744386539671311
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1634959926981563
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1611485290905057
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1567749804959681
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1497867988831916
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1489089169768652
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
