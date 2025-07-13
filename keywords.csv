@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1560530874861913
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1497867988831916
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1489089169768652
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1396845368715517
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1349934296891991
@@ -30,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1287718601496331
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1282390351727794
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.12777368943033543
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1272726445901846
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.12705384158594
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1268272821564788
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.004760744697087
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0026746854241805
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0023120145740661
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.002037058827530835
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0020370588275308
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0013619684794035
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0012733535403516
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009174816028111
