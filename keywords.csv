@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1611485290905057
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1567749804959681
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.15605308748619134
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1560530874861913
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1497867988831916
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1489089169768652
@@ -139,8 +139,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083746292408271
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.004760744697087
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0026746854241805
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0023965397970951
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0023120145740661
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.002037058827530835
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0013619684794035
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0012733535403516
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009174816028111
