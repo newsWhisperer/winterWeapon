@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1885345472750913
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1850675949463344
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1833876121832427
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.18259388553968503
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.182593885539685
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1799843695495996
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1766277394116571
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1744386539671311
@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1611485290905057
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1567749804959681
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1560530874861913
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1507718624908245
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1396845368715517
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1349934296891991
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.13325874842157287
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1316909714440118
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1307868824034823
