@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1396845368715517
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1349934296891991
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.13325874842157287
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1332587484215728
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1316909714440118
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1307868824034823
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0023120145740661
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0020370588275308
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0013619684794035
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0012733535403516
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.00108235050929886
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009174816028111
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004940421295578
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0001774517143414
