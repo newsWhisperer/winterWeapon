@@ -89,7 +89,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0940117051290607
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.0902258073394133
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0900731359745823
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0876929694088111
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0867555087831175
@@ -99,6 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0839280029810481
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0832351900174917
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0816425962385013
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0771386903817265
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0023120145740661
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0020370588275308
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0013619684794035
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.00108235050929886
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0010823505092988
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009174816028111
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004940421295578
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0001774517143414
