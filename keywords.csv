@@ -17,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1567749804959681
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1560530874861913
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1507718624908245
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1497867988831916
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1484679183388874
@@ -27,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1316909714440118
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1307868824034823
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1293429656438423
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1287718601496331
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1282390351727794
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1272726445901846
