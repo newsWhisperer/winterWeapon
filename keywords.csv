@@ -9,10 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1799843695495996
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1766277394116571
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.16706267609961437
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1670626760996143
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1611485290905057
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1582459300024962
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1560530874861913
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1497867988831916
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1484679183388874
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.14192849972692984
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1396845368715517
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1349934296891991
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1332587484215728
