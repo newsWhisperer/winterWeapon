@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1977602975751154
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1975953703040362
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1965439895289581
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1898956621751215
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1885345472750913
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1850675949463344
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1799843695495996
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1766277394116571
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.16706267609961437
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1611485290905057
