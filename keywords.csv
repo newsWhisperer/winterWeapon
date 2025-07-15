@@ -79,7 +79,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.10109384722266
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0989441863441095
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0983598511171751
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,1,0.0976048189791616
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
@@ -95,6 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0866676927109624
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0862741438501118
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0855019040287635
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.08455260339249307
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0839280029810481
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0832351900174917
