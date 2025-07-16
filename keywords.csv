@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1977602975751154
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1975953703040362
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.19123104112066627
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1898956621751215
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1885345472750913
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1850675949463344
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1497867988831916
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1484679183388874
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.14192849972692984
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1419284997269298
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1396845368715517
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1349934296891991
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1332587484215728
