@@ -26,10 +26,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1332587484215728
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1316909714440118
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.13139849329363856
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1313984932936385
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1307868824034823
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1293429656438423
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1285297144336296
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,2,0.1282390351727794
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1272726445901846
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.12705384158594
