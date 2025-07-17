@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1975953703040362
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1912310411206662
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1898956621751215
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1885345472750913
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1850675949463344
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1833876121832427
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.182593885539685
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.18199953884933986
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1799843695495996
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1766277394116571
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.108969478608422
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.10635454130290839
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1050262790094399
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1033673470228943
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
