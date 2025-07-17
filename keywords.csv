@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1252052168939763
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1249465015328334
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1244608803482547
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1236965754406305
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.108969478608422
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.10635454130290839
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1050262790094399
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1033673470228943
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
