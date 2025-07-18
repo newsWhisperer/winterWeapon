@@ -5,13 +5,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1850675949463344
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1833876121832427
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.182593885539685
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1819995388493398
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1799843695495996
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1766277394116571
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.15965212802193882
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1582459300024962
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1560530874861913
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1507718624908245
@@ -80,7 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.10109384722266
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.09877237051810588
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.0987723705181058
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0983598511171751
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,1,0.0976048189791616
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
