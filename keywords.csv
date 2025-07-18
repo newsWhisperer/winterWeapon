@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1160683519402347
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.1157444554564847
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.11549508773417891
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1154950877341789
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1152364924190963
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
@@ -126,9 +126,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0447006848648241
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
-'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0323667684508366
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.030524243090806
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
+'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.02766176818321111
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0257586037608227
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
