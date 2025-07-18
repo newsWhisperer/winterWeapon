@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.15965212802193882
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1582459300024962
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1560530874861913
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1507718624908245
@@ -53,9 +53,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1174687035943662
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1173805740105116
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1164646326284458
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1160683519402347
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.1157444554564847
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.11549508773417891
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1152364924190963
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
