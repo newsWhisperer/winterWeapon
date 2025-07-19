@@ -129,14 +129,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0276617681832111
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.026095621627185102
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0260956216271851
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0257586037608227
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0243692267419547
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0189578508101543
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0147966295138529
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0130470655426175
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.011090005711224874
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083746292408271
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.004760744697087
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0026746854241805
