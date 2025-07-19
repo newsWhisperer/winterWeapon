@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.20321886905071287
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.2032188690507128
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1898956621751215
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1879338429111003
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1856814431343844
@@ -117,11 +117,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0616352988700089
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0603266265096685
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0576662605807725
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0551997677509889
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.049016321493656624
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0447006848648241
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
