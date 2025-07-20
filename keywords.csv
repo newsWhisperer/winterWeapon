@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1419284997269298
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1396845368715517
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.13803846729429609
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1349934296891991
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1332587484215728
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
@@ -36,7 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1268272821564788
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1259811066145352
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1254927150970252
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.12539825298197127
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1253982529819712
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1252052168939763
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
@@ -72,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1050262790094399
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1033673470228943
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1030962433408831
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1026508155529789
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.101707198409604
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
