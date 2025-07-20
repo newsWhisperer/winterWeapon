@@ -56,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1160683519402347
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.1157444554564847
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1154950877341789
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.1152364924190963
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.0987723705181058
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0983598511171751
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.09795101855623185
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,1,0.0976048189791616
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
 'Winter Gas',de,Wetter,#2d8f29,#318c15,1,0.0961721707854088
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0496664033630761
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.049016321493656624
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0490163214936566
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0447006848648241
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
