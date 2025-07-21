@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.18569471513350883
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1856947151335088
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1856814431343844
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1850675949463344
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1833876121832427
@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1419284997269298
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1396845368715517
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.138038467294296
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1349934296891991
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1332587484215728
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1316909714440118
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1154950877341789
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.11474441523581924
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1142173019194978
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
