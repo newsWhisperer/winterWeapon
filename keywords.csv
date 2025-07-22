@@ -81,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.0987723705181058
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0983598511171751
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0979510185562318
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,1,0.0976048189791616
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
 'Winter Gas',de,Wetter,#2d8f29,#318c15,1,0.0961721707854088
@@ -97,6 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.084552603392493
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0839280029810481
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.08325836577279702
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0832351900174917
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0816425962385013
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
@@ -110,7 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.067396046774966
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0627434449589099
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.06268085509580233
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0626808550958023
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0623834537117061
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0619609977332155
