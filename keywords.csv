@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1856947151335088
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1856814431343844
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1850675949463344
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1833876121832427
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1736361286931058
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1692412160198897
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.16733067254090184
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
@@ -96,7 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.084552603392493
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0839280029810481
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.08325836577279702
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.083258365772797
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0832351900174917
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0816425962385013
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
