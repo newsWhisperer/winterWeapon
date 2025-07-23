@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1850675949463344
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1895334379771115
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1833876121832427
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.182593885539685
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1799997014852169
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1692412160198897
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,3,0.1678438809613117
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1673306725409018
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.16732835620968126
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1673283562096812
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
