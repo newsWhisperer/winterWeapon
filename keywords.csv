@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.12705384158594
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1268272821564788
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1259811066145352
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.12559121976789034
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1255912197678903
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1254927150970252
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1253982529819712
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0020370588275308
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0013619684794035
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0010823505092988
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009174816028111
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.000929874362389435
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004940421295578
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0001774517143414
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,3.297950926523035e-05
