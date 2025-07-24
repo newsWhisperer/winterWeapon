@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1736361286931058
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1673306725409018
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1673283562096812
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.16605673728054476
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1660567372805447
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
@@ -35,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1268272821564788
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1259811066145352
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1255912197678903
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1254927150970252
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1253982529819712
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1252052168939763
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.108969478608422
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.10726886783247142
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1050262790094399
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1033673470228943
