@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1582459300024962
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1560530874861913
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.15519275077937209
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.155192750779372
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1507718624908245
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,2,0.1501511160861851
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.138038467294296
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1332587484215728
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1316909714440118
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1313984932936385
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1285297144336296
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1174687035943662
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1173805740105116
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1160683519402347
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.1157444554564847
