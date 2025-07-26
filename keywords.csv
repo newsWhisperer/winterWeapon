@@ -58,7 +58,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1147444152358192
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1142173019194978
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
@@ -73,6 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1050262790094399
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1033673470228943
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.10203778163157314
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.101707198409604
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.10109384722266
