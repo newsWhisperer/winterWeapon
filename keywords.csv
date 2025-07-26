@@ -8,13 +8,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1736361286931058
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1673306725409018
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1673283562096812
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1660567372805447
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1608018035987793
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1582459300024962
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1560530874861913
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.15519275077937209
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1507718624908245
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,2,0.1501511160861851
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
@@ -105,7 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0734681557405118
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.07076961090687744
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0707696109068774
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.069330095210672
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0676731305718071
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.067396046774966
