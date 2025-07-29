@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.138038467294296
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1327961293632626
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1313984932936385
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1285297144336296
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.128275047306354
@@ -58,8 +57,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1147444152358192
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.11326993615833686
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1132699361583368
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.11183873429959273
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1098718831021971
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
