@@ -13,12 +13,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1626189854810563
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1582459300024962
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.155192750779372
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1507718624908245
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1426675838171149
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1418646945226371
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.14141293770792074
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.138038467294296
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1327961293632626
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0221812783831073
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0207138427306614
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.013697047210336434
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0136970472103364
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0125771350867749
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0110900057112248
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083746292408271
