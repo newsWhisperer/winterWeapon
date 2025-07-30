@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1426675838171149
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1418646945226371
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.14141293770792074
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.138038467294296
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1327961293632626
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
@@ -110,7 +110,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.069330095210672
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.067396046774966
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0627434449589099
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0626808550958023
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0623834537117061
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0619609977332155
@@ -118,6 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0603266265096685
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0551997677509889
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.053278726831431956
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0490163214936566
