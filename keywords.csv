@@ -14,16 +14,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1582459300024962
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.146020119086767
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1426675838171149
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1418646945226371
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.138038467294296
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.13765402766265536
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1376540276626553
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1327961293632626
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.13195670925507
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1285297144336296
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.128275047306354
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,2,0.1277784636732573
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1272726445901846
