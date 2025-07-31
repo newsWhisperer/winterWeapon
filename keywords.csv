@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1582459300024962
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.14955725447287888
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,2,0.1495572544728788
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1477269322043524
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.146020119086767
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
@@ -131,8 +131,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0264207394797996
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0257586037608227
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0221812783831073
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0207138427306614
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.018854086625641205
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0136970472103364
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0125771350867749
