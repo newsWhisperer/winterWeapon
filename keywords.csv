@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1888560341950328
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.20638868497486879
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848054995029573
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1833876121832427
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.182593885539685
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0276617681832111
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.027408903557829663
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0274089035578296
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0257586037608227
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0207138427306614
