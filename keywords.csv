@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.194018800865002
-'Blackout',de,Other,#545557,#6b6c6e,3,0.18522427353516163
+'Blackout',de,Other,#545557,#6b6c6e,3,0.1852242735351616
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848054995029573
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1833876121832427
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.182593885539685
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1799843695495996
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1751606965768316
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1736361286931058
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.16924910179964134
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1673283562096812
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1653643448415847
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
