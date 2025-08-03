@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,2,0.2062417932960165
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.194018800865002
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848054995029573
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1833876121832427
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.182593885539685
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1799997014852169
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1799843695495996
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.17530556930161403
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1751606965768316
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1736361286931058
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1673283562096812
