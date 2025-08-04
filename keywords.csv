@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1449288082694137
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1426675838171149
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.14184594481749993
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1418459448174999
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1376540276626553
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1327961293632626
@@ -82,7 +82,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0983598511171751
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
 'Winter Gas',de,Wetter,#2d8f29,#318c15,1,0.0961721707854088
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0960017844325742
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0940117051290607
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
@@ -95,6 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.084552603392493
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0832351900174917
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.08220157676768808
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0816425962385013
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0805377233773403
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
