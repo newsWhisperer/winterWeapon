@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1751606965768316
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1736361286931058
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.16924910179964134
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1692491017996413
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1673283562096812
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1653643448415847
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
@@ -20,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1449288082694137
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1426675838171149
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.14184594481749993
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1376540276626553
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1327961293632626
@@ -35,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1252052168939763
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1228878890901069
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1211855442474232
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
