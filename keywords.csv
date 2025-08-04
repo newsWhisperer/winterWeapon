@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.194018800865002
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1852242735351616
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848054995029573
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.18373678911715963
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1837367891171596
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1833876121832427
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1751606965768316
@@ -30,8 +30,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1272726445901846
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.12705384158594
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1268272821564788
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1255912197678903
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1253982529819712
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1253399054390704
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1252052168939763
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
