@@ -106,7 +106,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.074083097272595
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0734681557405118
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0707696109068774
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.069330095210672
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0667827693041756
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
@@ -116,6 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0616352988700089
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0603266265096685
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.06015416927084579
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0551997677509889
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0532787268314319
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0207138427306614
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.01602597363179502
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.016025973631795
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0136970472103364
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0110900057112248
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0106905648237586
