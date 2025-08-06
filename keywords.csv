@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0447006848648241
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0422164428586146
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
-'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0369299029911803
+'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.03154043254250326
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0276617681832111
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0274089035578296
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0110900057112248
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0106905648237586
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083746292408271
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.00404663299252395
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0040466329925239
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0026746854241805
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0023120145740661
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0020370588275308
