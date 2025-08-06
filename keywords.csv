@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.18547593101132756
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1854759310113275
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1852242735351616
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848054995029573
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1837367891171596
@@ -30,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,2,0.1277784636732573
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.12705384158594
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1268272821564788
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.12647099033140485
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1253982529819712
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1253399054390704
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
@@ -40,7 +41,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1211855442474232
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1206710845884145
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1193304707752836
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1176511748940817
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
