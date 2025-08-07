@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1736361286931058
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1692491017996413
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1673283562096812
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.16715190090508292
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1671519009050829
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1653643448415847
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
@@ -90,7 +90,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0866676927109624
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0855019040287635
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.084552603392493
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0832351900174917
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.082201576767688
@@ -105,6 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.074083097272595
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0734681557405118
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.07306983288361905
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.069330095210672
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0667827693041756
