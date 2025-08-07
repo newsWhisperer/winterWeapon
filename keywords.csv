@@ -99,7 +99,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0794922789974894
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0771386903817265
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.074083097272595
@@ -108,6 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.069330095210672
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0667827693041756
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.06556788682446751
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0627434449589099
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0623834537117061
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0207138427306614
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0136970472103364
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.01362207758702575
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0136220775870257
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0110900057112248
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0106905648237586
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083746292408271
