@@ -104,7 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.074083097272595
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0734681557405118
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.07306983288361905
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.069330095210672
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0667827693041756
@@ -133,8 +133,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0207138427306614
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.016025973631795
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0136970472103364
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.01362207758702575
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0110900057112248
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0106905648237586
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083746292408271
