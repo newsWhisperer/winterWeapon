@@ -60,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1132699361583368
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1118387342995927
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1098718831021971
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0983598511171751
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
 'Winter Gas',de,Wetter,#2d8f29,#318c15,1,0.0961721707854088
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.09506296915465379
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0940117051290607
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0026746854241805
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0023120145740661
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0020370588275308
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.001157673207492975
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0011576732074929
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009298743623894
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0009199979329039
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004940421295578
