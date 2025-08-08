@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1391559267312385
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1376540276626553
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.13662107084740152
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1366210708474015
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1327961293632626
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.128275047306354
@@ -134,9 +134,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0207138427306614
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0136970472103364
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0115787659489718
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0110900057112248
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0106905648237586
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.00984195105662603
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083746292408271
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0040466329925239
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0026746854241805
