@@ -94,7 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.082201576767688
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0816425962385013
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.08125356878145565
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0812535687814556
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0805377233773403
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0794922789974894
@@ -135,8 +135,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0136970472103364
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0110900057112248
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0106905648237586
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.009841951056626
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.009086980100194809
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083746292408271
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0040466329925239
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0026746854241805
