@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1751606965768316
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1736361286931058
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1714833715957964
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.17127924732030358
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1692491017996413
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1671519009050829
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1653643448415847
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1582459300024962
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1517279323236835
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1487051405555177
@@ -84,7 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0940117051290607
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.0927144711322873
-'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.09124268471305202
+'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.091242684713052
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0866676927109624
