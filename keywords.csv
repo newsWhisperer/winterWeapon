@@ -72,9 +72,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1033673470228943
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1020377816315731
-'Gazprom',de,Russland,#a6190f,#A33223,2,0.101707198409604
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.10109384722266
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.1004939627390725
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.0987723705181058
