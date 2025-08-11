@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1653643448415847
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.15692634574958564
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1569263457495856
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1517279323236835
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1487051405555177
@@ -50,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,3,0.1157444554564847
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1154950877341789
-'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1151949442712104
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1147444152358192
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.1086116941222686
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.107500776781694
+'Gas Putin',de,Russland,#a6190f,#a31223,3,0.10741621217598338
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1072688678324714
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1050262790094399
