@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1870761972200633
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848054995029573
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1833876121832427
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1751606965768316
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1736361286931058
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1712792473203035
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.17111588298626845
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1711158829862684
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1692491017996413
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1671519009050829
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1653643448415847
+'Blackout',de,Other,#545557,#6b6c6e,3,0.1639664176370538
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1569263457495856
