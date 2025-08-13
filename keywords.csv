@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1426675838171149
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1391559267312385
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1327961293632626
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.128275047306354
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1252052168939763
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.12323304772155273
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1211855442474232
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0090869801001948
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083746292408271
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0040466329925239
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.002273482610553425
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0022734826105534
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0020370588275308
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0011576732074929
