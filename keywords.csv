@@ -113,11 +113,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0616352988700089
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0601541692708457
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0589307159290712
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0551997677509889
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0532787268314319
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.05113104388021884
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0490163214936566
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0011576732074929
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009298743623894
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0007819982429683151
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0007819982429683
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004940421295578
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0001508339571901
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,2.80325828754458e-05
