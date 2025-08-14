@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.19719435171939267
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1971943517193926
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848054995029573
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1751606965768316
@@ -62,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1090031798968624
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.1086116941222686
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.107500776781694
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1074162121759833
@@ -83,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.0927144711322873
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.09231994000392832
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.091242684713052
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
