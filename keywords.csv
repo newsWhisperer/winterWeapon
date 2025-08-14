@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1232330477215527
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.12237315450422775
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1223731545042277
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1211855442474232
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0011576732074929
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009298743623894
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0009199979329039
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0007819982429683151
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004940421295578
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0001508339571901
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,2.80325828754458e-05
