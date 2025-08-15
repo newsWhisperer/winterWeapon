@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1751606965768316
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1736361286931058
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.17154239925696785
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1712792473203035
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1711158829862684
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1692491017996413
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1671519009050829
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1653643448415847
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1648723971580239
@@ -117,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0551997677509889
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0532787268314319
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.05113104388021884
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0511310438802188
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0490163214936566
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
