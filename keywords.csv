@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1569263457495856
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.15179627895102465
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1517962789510246
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1517279323236835
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1487051405555177
@@ -89,9 +89,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0866676927109624
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0855019040287635
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0832351900174917
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.082201576767688
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0816425962385013
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0812535687814556
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0805377233773403
