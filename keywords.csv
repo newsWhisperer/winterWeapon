@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1751606965768316
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1736361286931058
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.17154239925696785
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1715423992569678
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1712792473203035
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1711158829862684
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1671519009050829
@@ -111,9 +111,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0627434449589099
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0623834537117061
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
-'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0616352988700089
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0589307159290712
+'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.057341174039507566
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0551997677509889
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0532787268314319
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
