@@ -90,7 +90,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0855019040287635
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
-'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0832351900174917
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.082201576767688
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0812535687814556
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0794922789974894
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
+'russisches Gas',de,Russland,#a6190f,#b32319,3,0.07570415651486795
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.074083097272595
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0734681557405118
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0490163214936566
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0458814571532354
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.04346138729818598
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0434613872981859
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0422164428586146
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0379955821351004
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
