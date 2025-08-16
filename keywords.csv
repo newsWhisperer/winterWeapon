@@ -99,7 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0794922789974894
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,3,0.0772176126802272
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
-'russisches Gas',de,Russland,#a6190f,#b32319,3,0.07570415651486795
+'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.074083097272595
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0734681557405118
@@ -134,8 +134,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0176067663210621
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0136970472103364
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0110900057112248
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.009841951056626
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.009426504854541079
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0090869801001948
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083746292408271
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0040466329925239
