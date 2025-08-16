@@ -135,13 +135,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0136970472103364
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.009841951056626
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.009426504854541079
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.009426504854541
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0090869801001948
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0083746292408271
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0040466329925239
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0022734826105534
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0020370588275308
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.00173150000340118
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0011576732074929
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009298743623894
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0007819982429683
