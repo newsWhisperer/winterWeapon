@@ -60,9 +60,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1098718831021971
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.10938759830949259
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1093875983094925
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1090031798968624
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.107500776781694
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1074162121759833
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.0927144711322873
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.09265270291233303
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0923199400039283
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.091242684713052
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
