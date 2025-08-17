@@ -62,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1093875983094925
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
+'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.10845588523657788
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.107500776781694
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1074162121759833
@@ -81,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.0927144711322873
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.09265270291233303
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.092652702912333
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0923199400039283
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.091242684713052
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
@@ -102,7 +103,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.074083097272595
-'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.0734681557405118
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0667827693041756
