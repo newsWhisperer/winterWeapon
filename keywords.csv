@@ -131,8 +131,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0274089035578296
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0257586037608227
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
-'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0176067663210621
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
+'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.014965751372902784
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0136970472103364
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.009841951056626
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.009426504854541
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009298743623894
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0007819982429683
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004940421295578
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.000128208863611585
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0001282088636115
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,2.80325828754458e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.3920189429036844e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.315888203458106e-09
