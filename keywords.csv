@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1426675838171149
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1286912921288148
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.128275047306354
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.12705384158594
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1268272821564788
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1098718831021971
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.10938759830949259
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.1090031798968624
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0257586037608227
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
-'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.014965751372902784
+'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0136970472103364
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.009841951056626
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.009426504854541
