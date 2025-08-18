@@ -57,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1132699361583368
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.11124333664375025
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1098718831021971
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
@@ -64,7 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.107500776781694
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1074162121759833
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1072688678324714
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
