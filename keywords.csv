@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2467770648406716
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20893023032512
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1848054995029573
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1751606965768316
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1736361286931058
@@ -62,7 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1093875983094925
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
-'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.10845588523657788
+'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.107500776781694
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1074162121759833
