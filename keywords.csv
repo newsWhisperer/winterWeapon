@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.2097608051145708
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20893023032512
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.19816183209030686
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1981618320903068
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1736361286931058
@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1569263457495856
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1517962789510246
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1517279323236835
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.15012715904353327
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1487051405555177
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1449615547198387
@@ -26,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.128275047306354
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.12705384158594
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1268272821564788
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1253982529819712
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1253399054390704
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
