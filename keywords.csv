@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2467770648406716
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.20976080511457088
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20893023032512
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1751606965768316
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0458814571532354
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0434613872981859
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0422164428586146
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.04166387326960811
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0416638732696081
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0379955821351004
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
