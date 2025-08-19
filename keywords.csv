@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1569263457495856
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1517962789510246
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1517279323236835
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.15012715904353327
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1501271590435332
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1487051405555177
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1449615547198387
@@ -76,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1004939627390725
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
+'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.09881253295572943
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.0987723705181058
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0983598511171751
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
@@ -127,7 +128,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
-'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0276617681832111
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0274089035578296
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0257586037608227
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
