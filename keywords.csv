@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1004939627390725
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
-'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.09881253295572943
+'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.0987723705181058
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0983598511171751
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
@@ -128,9 +128,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0274089035578296
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0257586037608227
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.023298558024155158
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0136970472103364
