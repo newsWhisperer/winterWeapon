@@ -4,8 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1981618320903068
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1736361286931058
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.17312697326560086
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1731269732656008
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1715423992569678
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1671519009050829
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1653643448415847
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1501271590435332
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1500033716809642
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1487051405555177
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.14759076938913993
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1449615547198387
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1449288082694137
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
