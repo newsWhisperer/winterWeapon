@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1449288082694137
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1443226249914957
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604007
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1426675838171149
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1253982529819712
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1253399054390704
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,3,0.1252052168939763
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1232330477215527
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
@@ -67,6 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1074162121759833
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1072688678324714
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.10642486935987984
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1033673470228943
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
