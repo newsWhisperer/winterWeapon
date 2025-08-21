@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.22380488516266864
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2238048851626686
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20893023032512
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1981618320903068
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0232985580241551
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0136970472103364
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.011642490128785939
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.009841951056626
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.009426504854541
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0090869801001948
