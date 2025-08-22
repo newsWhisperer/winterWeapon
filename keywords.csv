@@ -30,7 +30,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1253399054390704
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1232330477215527
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1223731545042277
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1072688678324714
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1064248693598798
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.10474828556331979
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1033673470228943
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1020377816315731
@@ -105,7 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.074083097272595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.06694157785416055
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0669415778541605
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0667827693041756
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0655678868244675
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
