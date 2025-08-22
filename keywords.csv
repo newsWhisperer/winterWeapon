@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1731269732656008
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.17278423538807425
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1715423992569678
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1671519009050829
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1653643448415847
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1648723971580239
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
@@ -89,7 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0866676927109624
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0855019040287635
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.08410652994038993
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.0841065299403899
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.082201576767688
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
