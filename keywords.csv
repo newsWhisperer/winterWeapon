@@ -9,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1715423992569678
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1671519009050829
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1648723971580239
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1639895346232098
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1569263457495856
@@ -27,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.128275047306354
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1276528809288195
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1253982529819712
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1253399054390704
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004940421295578
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0001089775340697
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,2.80325828754458e-05
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.1832161014681317e-05
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.1832161014681315e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.315888203458106e-09
