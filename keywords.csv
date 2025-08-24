@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1569263457495856
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1517962789510246
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1501271590435332
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1487051405555177
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1475907693891399
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1449615547198387
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1426675838171149
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1303083551870032
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.128275047306354
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1276528809288195
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1253982529819712
