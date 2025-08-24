@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.2238048851626686
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20893023032512
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.20275433055381442
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.2027543305538144
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1981618320903068
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
@@ -53,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1139633828668094
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.113918895000387
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1132699361583368
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1112433366437502
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
@@ -79,6 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0983598511171751
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.09627944573458629
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.0927144711322873
