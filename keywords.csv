@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20893023032512
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.2027543305538144
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1981618320903068
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1894091422757607
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1731269732656008
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1715423992569678
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1671519009050829
@@ -78,7 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0983598511171751
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.09627944573458629
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0962794457345862
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.0927144711322873
