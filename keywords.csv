@@ -70,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1020377816315731
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
-'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.10109384722266
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1004939627390725
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0998529319383729
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
@@ -85,6 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0923199400039283
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.091242684713052
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.0905217579550095
+'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.087429920139261
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0866676927109624
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0855019040287635
