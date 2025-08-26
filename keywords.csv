@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1449615547198387
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1449288082694137
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1443226249914957
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1426675838171149
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
+'Blackout',de,Other,#545557,#6b6c6e,2,0.12267499624277134
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1223731545042277
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1211855442474232
@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1139633828668094
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.113918895000387
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.11331235690895272
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1133123569089527
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1112433366437502
