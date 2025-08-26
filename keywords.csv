@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20893023032512
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.2027543305538144
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20072381895817018
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1999037731574991
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1981618320903068
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1894091422757607
@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
-'Blackout',de,Other,#545557,#6b6c6e,2,0.12267499624277134
+'Blackout',de,Other,#545557,#6b6c6e,2,0.1226749962427713
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1223731545042277
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1211855442474232
