@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1426675838171149
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1303083551870032
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.128275047306354
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1276528809288195
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1253982529819712
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1139633828668094
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.113918895000387
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.11331235690895272
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1112433366437502
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.009426504854541
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0077239330851655
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.007268449854703
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0034396380436453153
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0034396380436453
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0022734826105534
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0017315000034011
