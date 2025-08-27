@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.21201752124454765
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2120175212445476
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.2027543305538144
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2007238189581701
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1999037731574991
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.009841951056626
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.009426504854541
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0077239330851655
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0063281973764975
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0055289827700228745
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0034396380436453
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0022734826105534
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
