@@ -103,7 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.074083097272595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.06936556346423726
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0693655634642372
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0669415778541605
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0667827693041756
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.009841951056626
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.009426504854541
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0077239330851655
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.007268449854703
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.00632819737649755
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0034396380436453
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0022734826105534
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
