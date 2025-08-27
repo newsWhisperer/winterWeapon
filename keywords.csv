@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1715423992569678
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.16521292895113862
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1652129289511386
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1648723971580239
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1639895346232098
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
@@ -127,10 +127,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0379955821351004
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.029473890089762603
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0257586037608227
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0247825660193909
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,2,0.0232985580241551
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0116424901287859
