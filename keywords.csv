@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1715423992569678
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1671519009050829
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.16521292895113862
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1648723971580239
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1639895346232098
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.009841951056626
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.009426504854541
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0077239330851655
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0055289827700228745
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0055289827700228
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0034396380436453
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0022734826105534
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
