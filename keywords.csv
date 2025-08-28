@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2120175212445476
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.2027543305538144
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2007238189581701
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1999037731574991
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1981618320903068
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1894091422757607
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.18021496805786544
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.175305569301614
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1715423992569678
@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0623834537117061
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0612127941743701
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.059260758944601616
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0592607589446016
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0589307159290712
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0573411740395075
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0551997677509889
