@@ -93,6 +93,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.082201576767688
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0814391771442822
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0805377233773403
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0799099493597015
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
@@ -102,7 +103,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.074083097272595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0720492509655915
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0669415778541605
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0667827693041756
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
@@ -117,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0533319282150734
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0532787268314319
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.05203087504821459
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0520308750482145
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0458814571532354
