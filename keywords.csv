@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1370516031564695
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1253982529819712
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.13116740146324693
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
@@ -102,7 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.074083097272595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0726766184244489
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.07149056544933143
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0714905654493314
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0669415778541605
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0667827693041756
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
