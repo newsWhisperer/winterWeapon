@@ -23,8 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.13705160315646955
-'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.128275047306354
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1370516031564695
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1253982529819712
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1147444152358192
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
+'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1139857252104009
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1139633828668094
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.113918895000387
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1133123569089527
