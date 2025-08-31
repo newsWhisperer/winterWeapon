@@ -85,7 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.087429920139261
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0866676927109624
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.08487505214761695
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0848750521476169
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.082201576767688
@@ -102,7 +102,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.074083097272595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0726766184244489
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0714905654493314
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0669415778541605
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0667827693041756
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
@@ -110,6 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0623834537117061
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0620866500597818
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.06091699563193169
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0592607589446016
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0589307159290712
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0573411740395075
