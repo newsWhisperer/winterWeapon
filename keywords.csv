@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.21327066268170572
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2062819299238196
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.2027543305538144
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2007238189581701
@@ -88,7 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.082201576767688
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.08183752887439827
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0818375288743982
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0814391771442822
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0805377233773403
@@ -99,7 +100,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.074083097272595
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0726766184244489
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0669415778541605
