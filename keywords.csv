@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.2062819299238196
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.2027543305538144
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2007238189581701
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1999037731574991
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.19441865718387424
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1894091422757607
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1815800932794498
@@ -96,7 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0794922789974894
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.078471949003339
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.07694349426175807
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
