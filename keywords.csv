@@ -9,13 +9,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1802149680578654
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1689467875502408
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.16697223374898748
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1669722337489874
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1652129289511386
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1648723971580239
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1639895346232098
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1634623049694601
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
+'Blackout',de,Other,#545557,#6b6c6e,2,0.15467938726090105
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.152160710290189
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1487051405555177
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1475907693891399
@@ -29,7 +30,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1251140380654211
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
-'Blackout',de,Other,#545557,#6b6c6e,2,0.1226749962427713
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1223731545042277
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.121529215522856
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1211855442474232
