@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.2027543305538144
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2007238189581701
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1944186571838742
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.19396708676351476
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1939670867635147
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1894091422757607
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1815800932794498
@@ -95,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0799099493597015
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0794922789974894
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.078471949003339
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
@@ -104,6 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0726766184244489
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0669415778541605
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0667827693041756
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.06670115665283814
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0655678868244675
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
