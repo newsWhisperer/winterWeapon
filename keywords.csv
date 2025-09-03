@@ -83,7 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.091242684713052
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.087429920139261
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0866676927109624
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.08504132321608275
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0848750521476169
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
@@ -112,7 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0592607589446016
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0589307159290712
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0573411740395075
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.05690034117603642
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0569003411760364
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0551997677509889
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0532787268314319
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
