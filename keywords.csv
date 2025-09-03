@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1634623049694601
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
-'Blackout',de,Other,#545557,#6b6c6e,2,0.15467938726090105
+'Blackout',de,Other,#545557,#6b6c6e,2,0.154679387260901
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.152160710290189
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1487051405555177
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1475907693891399
@@ -117,10 +117,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0532787268314319
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0520308750482145
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0510806394457811
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0458814571532354
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0453321389828123
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.04341854352891393
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0422164428586146
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0416638732696081
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0379955821351004
