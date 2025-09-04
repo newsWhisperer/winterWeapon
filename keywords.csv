@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1944186571838742
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1894091422757607
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.18637324376858
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1815800932794498
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1802149680578654
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.17535395083965663
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1689467875502408
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1669722337489874
@@ -116,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0532787268314319
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0520308750482145
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.04836528999963094
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0483652899996309
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0458814571532354
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0453321389828123
