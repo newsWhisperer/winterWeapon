@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.2040629245421708
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2007238189581701
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1977673027525784
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1944186571838742
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1894091422757607
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1815800932794498
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1802149680578654
@@ -101,7 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0726766184244489
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.06681750164172362
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0668175016417236
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0667827693041756
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0667011566528381
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
