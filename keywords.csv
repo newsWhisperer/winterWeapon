@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1475907693891399
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1449615547198387
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.144729578117698
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.14396040735560792
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
@@ -116,11 +116,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0551997677509889
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0532787268314319
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0520308750482145
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0483652899996309
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0458814571532354
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0453321389828123
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.04422624379098232
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0422164428586146
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0416638732696081
