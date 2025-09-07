@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20283914338717185
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2028391433871718
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1977673027525784
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1944186571838742
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010904232080309
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0009840222263689
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0007819982429683
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004940421295578
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.00041993581012413
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0001089775340697
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,2.382769544412893e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.1832161014681315e-05
