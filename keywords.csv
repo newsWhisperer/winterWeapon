@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1815800932794498
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1802149680578654
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1753539508396566
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.17345380086084516
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1734538008608451
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1689467875502408
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1669722337489874
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0007819982429683
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004940421295578
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0001089775340697
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,2.80325828754458e-05
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,2.382769544412893e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.1832161014681315e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.315888203458106e-09
