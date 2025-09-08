@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.13894303422404106
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.138943034224041
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1363001331944276
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1252174454853301
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1245135234776016
@@ -113,8 +113,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0592607589446016
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0589307159290712
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0573411740395075
-'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0551997677509889
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
+'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.04886999758834056
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0483652899996309
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0458814571532354
