@@ -1,9 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20009172960636876
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2000917296063687
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1977673027525784
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1944186571838742
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,2,0.1815800932794498
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1802149680578654
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1753539508396566
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1734538008608451
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
 'Blackout',de,Other,#545557,#6b6c6e,2,0.154679387260901
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1543431542875323
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.152160710290189
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1487051405555177
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1475907693891399
