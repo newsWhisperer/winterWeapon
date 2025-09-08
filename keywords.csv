@@ -101,7 +101,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0726766184244489
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0723448581966993
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0668175016417236
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0667827693041756
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0667011566528381
@@ -109,12 +108,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0655678868244675
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0623834537117061
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0616431444671944
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0609169956319316
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0592607589446016
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0589307159290712
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0573411740395075
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
-'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.04886999758834056
+'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0483652899996309
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0458814571532354
