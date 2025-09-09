@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.13939191442972831
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1393919144297283
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.138943034224041
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1363001331944276
@@ -45,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1154950877341789
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1147444152358192
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1140572861471876
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1139857252104009
@@ -75,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.0986585191491994
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.098383147138012
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0983598511171751
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.09768276795044632
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
