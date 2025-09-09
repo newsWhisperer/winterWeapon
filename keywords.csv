@@ -73,8 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.0986585191491994
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.098383147138012
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0983598511171751
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.09768276795044632
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0976827679504463
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
@@ -86,6 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.0850413232160827
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0848750521476169
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.08375588844959883
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.082201576767688
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0818375288743982
