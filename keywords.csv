@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2000917296063687
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1977673027525784
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1944186571838742
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.18866557880177703
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1802149680578654
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1753539508396566
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1064248693598798
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1047482855633197
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.10404745187144558
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1040474518714455
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1020377816315731
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
