@@ -41,7 +41,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1174687035943662
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1173805740105116
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1165816198487595
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1154950877341789
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1064248693598798
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1047482855633197
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.10404745187144558
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1020377816315731
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
