@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.138943034224041
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1363001331944276
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.13358056184130712
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1335805618413071
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1245135234776016
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1223731545042277
@@ -72,11 +72,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.0986585191491994
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.098383147138012
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0976827679504463
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0933760500673102
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.0927144711322873
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0913285526576006
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.091242684713052
