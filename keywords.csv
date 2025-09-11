@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1977673027525784
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,2,0.1944186571838742
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.18866557880177703
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.188665578801777
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1802149680578654
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1753539508396566
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0077239330851655
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0055289827700228
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0034396380436453
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0022734826105534
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.00208247521897039
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0017315000034011
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010904232080309
