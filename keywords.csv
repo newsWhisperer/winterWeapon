@@ -28,11 +28,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.138943034224041
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1363001331944276
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.13358056184130712
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1245135234776016
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1223731545042277
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1211855442474232
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1206993265359916
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1206710845884145
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.118144522682999
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0077239330851655
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0055289827700228
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0034396380436453
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.00208247521897039
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0020824752189703
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0017315000034011
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010904232080309
