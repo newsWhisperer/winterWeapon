@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1753539508396566
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1734538008608451
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.17265623688119508
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.172656236881195
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1712861971449774
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1669722337489874
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.165256158606293
@@ -69,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1020377816315731
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.10062141525253479
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1004939627390725
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
@@ -88,7 +89,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0837558884495988
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.082201576767688
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0818375288743982
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0814391771442822
