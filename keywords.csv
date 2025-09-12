@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1712861971449774
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1669722337489874
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.16525615860629306
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.165256158606293
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1652129289511386
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1648723971580239
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.163558746015785
@@ -51,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1133123569089527
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.11249002352696033
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1114925912437598
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1098718831021971
@@ -77,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,2,0.0933760500673102
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.0927144711322873
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0913285526576006
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.091242684713052
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.087429920139261
