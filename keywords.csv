@@ -74,7 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.0986585191491994
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.09827384867276087
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.0982738486727608
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0976827679504463
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
@@ -123,9 +123,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0442262437909823
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0422164428586146
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0379955821351004
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.03229624481483534
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0314008523229393
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
