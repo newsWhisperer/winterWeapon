@@ -45,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1154950877341789
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1140572861471876
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1139857252104009
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1139633828668094
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1133123569089527
@@ -77,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.0982738486727608
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0976827679504463
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.09694905322510947
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0922119403252847
