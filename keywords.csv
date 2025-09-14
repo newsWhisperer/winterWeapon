@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.172656236881195
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1712861971449774
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1669722337489874
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.16670324184068996
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1667032418406899
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.165256158606293
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1648723971580239
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1619417561444024
@@ -122,10 +122,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0452869178067171
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0442262437909823
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0375040191637951
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0322962448148353
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.03187841628922584
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0314008523229393
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
