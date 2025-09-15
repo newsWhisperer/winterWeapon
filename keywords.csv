@@ -100,7 +100,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0726766184244489
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0668175016417236
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0667827693041756
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0667011566528381
@@ -108,6 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0655678868244675
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0623834537117061
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.06177512566078157
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0609169956319316
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0589307159290712
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0573411740395075
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0085617141180478
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0077239330851655
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0055289827700228
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0029236923370985052
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0029236923370985
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0020824752189703
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0017315000034011
