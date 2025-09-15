@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1405802555190062
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1393919144297283
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.13840056772274204
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.138400567722742
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.1363001331944276
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1335805618413071
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1245135234776016
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0085617141180478
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0077239330851655
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0055289827700228
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0034396380436453
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0029236923370985052
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0020824752189703
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0017315000034011
