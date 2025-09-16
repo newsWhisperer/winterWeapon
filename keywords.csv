@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1809176930539773
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1802149680578654
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1783121074624079
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1753539508396566
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1734538008608451
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
@@ -10,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1712861971449774
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1669722337489874
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1667032418406899
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.165256158606293
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1648723971580239
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
 'Blackout',de,Other,#545557,#6b6c6e,2,0.154679387260901
@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0314008523229393
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
-'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.021065181116482264
+'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0210651811164822
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.009841951056626
