@@ -52,11 +52,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1124900235269603
+'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.11155833412466944
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1114925912437598
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1093875983094925
-'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1093759123391833
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1086549637894965
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
