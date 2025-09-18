@@ -101,7 +101,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0668175016417236
-'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0667827693041756
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0667011566528381
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0655678868244675
@@ -110,6 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0609169956319316
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0589307159290712
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0573411740395075
+'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.056765578908549254
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0525088568116642
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0523966727971152
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0506716751029113
@@ -119,7 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0458814571532354
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0453321389828123
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0452869178067171
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.04466546330269812
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0442262437909823
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
