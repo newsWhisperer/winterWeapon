@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1669722337489874
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1667032418406899
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1648723971580239
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.16259889467638003
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.16259889467638
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
 'Blackout',de,Other,#545557,#6b6c6e,2,0.154679387260901
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.152160710290189
@@ -116,12 +116,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0483652899996309
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0458814571532354
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0453321389828123
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0452869178067171
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0442262437909823
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.04079941858025009
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0322962448148353
