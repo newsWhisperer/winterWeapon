@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1393457587183341
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.138400567722742
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.13706289549095238
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1370628954909523
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1335805618413071
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1245135234776016
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
@@ -110,7 +110,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0609169956319316
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0589307159290712
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0573411740395075
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0525476038855272
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0525088568116642
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0523966727971152
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0506716751029113
@@ -120,6 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0458814571532354
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0453321389828123
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0452869178067171
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.04466546330269812
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0442262437909823
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
