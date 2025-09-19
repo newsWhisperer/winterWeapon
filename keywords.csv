@@ -28,8 +28,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1393457587183341
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.138400567722742
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.13804392756511102
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1370628954909523
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1335805618413071
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1245135234776016
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1223731545042277
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0442262437909823
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.04079941858025009
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.04079941858025
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0322962448148353
