@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1393919144297283
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1393457587183341
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1392616484021094
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.138400567722742
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.138043927565111
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1370628954909523
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1245135234776016
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1211855442474232
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1197555032152634
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1183905575643307
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1176511748940817
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
@@ -99,7 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.06956189954323846
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0695618995432384
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0668175016417236
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0667011566528381
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
