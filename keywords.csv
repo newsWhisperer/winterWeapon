@@ -88,7 +88,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0837558884495988
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0818375288743982
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0814391771442822
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0799099493597015
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.06956189954323846
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0668175016417236
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0667011566528381
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0029236923370985
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0020824752189703
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.001471775002890935
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0014717750028909
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010904232080309
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0009840222263689
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0007819982429683
