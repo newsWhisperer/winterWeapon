@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1633510382137081
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.16259889467638
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.15863004674491732
 'Blackout',de,Other,#545557,#6b6c6e,2,0.154679387260901
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.152160710290189
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1487051405555177
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1475907693891399
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1449615547198387
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
@@ -96,7 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
-'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.07506550711837186
+'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0750655071183718
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0695618995432384
