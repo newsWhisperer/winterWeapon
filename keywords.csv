@@ -13,10 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1633510382137081
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.16259889467638
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1596521280219388
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.15863004674491732
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Blackout',de,Other,#545557,#6b6c6e,2,0.154679387260901
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.152160710290189
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1475907693891399
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.14727147370451854
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1449615547198387
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1432044654807124
@@ -76,7 +77,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.0986585191491994
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.0982738486727608
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0976827679504463
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.097185302753979
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.0969490532251094
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
