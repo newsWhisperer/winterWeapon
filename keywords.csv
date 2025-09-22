@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.19671097073171834
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1913798580933748
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1809176930539773
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.172656236881195
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1724741106368298
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1712861971449774
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.16960456512196057
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1669722337489874
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1667032418406899
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1633510382137081
