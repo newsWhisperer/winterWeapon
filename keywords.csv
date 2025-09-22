@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.19671097073171834
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1913798580933748
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1809176930539773
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1802149680578654
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1734538008608451
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.172656236881195
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1724741106368298
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Blackout',de,Other,#545557,#6b6c6e,2,0.154679387260901
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.152160710290189
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.15059775341452025
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1505977534145202
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1475907693891399
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1472714737045185
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1449615547198387
