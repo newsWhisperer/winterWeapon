@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1633510382137081
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.16259889467638
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1615624360193879
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Blackout',de,Other,#545557,#6b6c6e,2,0.154679387260901
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.152160710290189
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1505977534145202
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1475907693891399
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1472714737045185
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1074162121759833
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.10701834689857606
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.107018346898576
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1064248693598798
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1047482855633197
