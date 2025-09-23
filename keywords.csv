@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1154950877341789
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1147282792389665
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1139857252104009
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1139633828668094
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
@@ -62,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1074162121759833
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.10701834689857606
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1064248693598798
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1047482855633197
