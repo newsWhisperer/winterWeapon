@@ -55,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1115583341246694
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1114925912437598
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.11008450796861571
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1093875983094925
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1086549637894965
@@ -77,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.0986585191491994
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.0982738486727608
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0976827679504463
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,1,0.0969490532251094
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0922119403252847
