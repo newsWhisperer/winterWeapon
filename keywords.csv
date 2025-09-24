@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1115583341246694
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1114925912437598
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.11008450796861571
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1100845079686157
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1093875983094925
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1086549637894965
@@ -82,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0922119403252847
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0913285526576006
+'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.09012909498209218
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0848750521476169
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
@@ -90,7 +91,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0814391771442822
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0799099493597015
-'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0797396882142261
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0794922789974894
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0793700475572136
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
