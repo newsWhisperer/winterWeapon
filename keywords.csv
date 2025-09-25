@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,2,0.154679387260901
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1505977534145202
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1475907693891399
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1472714737045185
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1449615547198387
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1432044654807124
@@ -30,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1370381485469476
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1347797458275189
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.128538725645337
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.12518115764884075
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1245135234776016
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1223731545042277
@@ -42,7 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1174687035943662
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1173805740105116
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.11733774343034434
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1173377434303443
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1154950877341789
