@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0922119403252847
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0913285526576006
-'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.09012909498209218
+'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0901290949820921
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0848750521476169
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0001089775340697
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,2.025354112750959e-05
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.1832161014681315e-05
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.0057336862479118e-05
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,2.315888203458106e-09
