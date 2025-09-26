@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.16259889467638
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Blackout',de,Other,#545557,#6b6c6e,2,0.154679387260901
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.15070711453799632
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1507071145379963
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1505977534145202
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1475907693891399
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1449615547198387
@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1223731545042277
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
-'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1211855442474232
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1197555032152634
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1183905575643307
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1139633828668094
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
+'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.11250462215576426
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1124900235269603
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1115583341246694
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1114925912437598
