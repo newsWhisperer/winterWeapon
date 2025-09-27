@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1432044654807124
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1414129377079207
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.13884853248165188
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1388485324816518
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1370628954909523
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1370381485469476
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1347797458275189
@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1223731545042277
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1197555032152634
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1183905575643307
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1176511748940817
@@ -67,6 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1047482855633197
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1040474518714455
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.10344283773297389
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1020377816315731
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
