@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1809176930539773
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1802149680578654
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1730250776336433
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.172656236881195
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1724741106368298
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1507071145379963
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1505977534145202
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.149521402609404
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.14782139098859678
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1475907693891399
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1449615547198387
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
