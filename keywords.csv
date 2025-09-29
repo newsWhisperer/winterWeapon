@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.172656236881195
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1724741106368298
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1719112495301036
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1712861971449774
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1696045651219605
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1633920142740077
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.16259889467638
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1550954421186853
 'Blackout',de,Other,#545557,#6b6c6e,2,0.154679387260901
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1524290643244598
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1507071145379963
