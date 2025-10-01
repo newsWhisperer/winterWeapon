@@ -23,10 +23,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1370381485469476
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1347797458275189
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.13333860873926104
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1321950300300056
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1285933422179934
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.128538725645337
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1263982573403071
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1257521839807689
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1256887742422129
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1251811576488407
@@ -109,7 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0589307159290712
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0573411740395075
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.05669598315491239
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0566959831549123
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0525088568116642
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0523966727971152
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0506716751029113
