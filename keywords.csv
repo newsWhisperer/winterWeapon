@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.128538725645337
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1263982573403071
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1257521839807689
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.12568877424221295
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1256887742422129
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1251811576488407
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1244323235923249
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
@@ -101,7 +101,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0695618995432384
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0668175016417236
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0667011566528381
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0655678868244675
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
@@ -110,6 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0589307159290712
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0573411740395075
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.05669598315491239
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0525088568116642
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0523966727971152
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0506716751029113
