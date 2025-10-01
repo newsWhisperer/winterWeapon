@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2003537891159001
-'Blackout',de,Other,#545557,#6b6c6e,3,0.19413244336182806
+'Blackout',de,Other,#545557,#6b6c6e,3,0.194132443361828
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1809176930539773
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1802149680578654
@@ -27,8 +27,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1285933422179934
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.128538725645337
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1263982573403071
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1260007007127639
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1257521839807689
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.12568877424221295
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1251811576488407
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1244323235923249
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
