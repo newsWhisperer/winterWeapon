@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1550954421186853
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1507071145379963
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1505977534145202
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1475907693891399
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1449615547198387
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1436111337666999
@@ -29,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.128538725645337
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1263982573403071
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1260007007127639
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.12575218398076893
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1251811576488407
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1244323235923249
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
