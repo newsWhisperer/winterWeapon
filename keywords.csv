@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1696045651219605
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1633920142740077
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.16259889467638
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1550954421186853
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1507071145379963
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1436111337666999
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1432044654807124
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.139559195474923
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1370381485469476
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1347797458275189
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.133338608739261
@@ -62,7 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.107018346898576
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1064248693598798
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.10480306305521127
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1048030630552112
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1047482855633197
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1040474518714455
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1034428377329738
