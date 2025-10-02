@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1370381485469476
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1347797458275189
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.13333860873926104
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.133338608739261
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1321950300300056
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1285933422179934
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.128538725645337
@@ -38,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1176511748940817
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1174687035943662
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1173805740105116
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1173377434303443
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
@@ -63,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.107018346898576
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1064248693598798
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.10480306305521127
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1047482855633197
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1040474518714455
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1034428377329738
