@@ -9,13 +9,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1724741106368298
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1719112495301036
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1696045651219605
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.16594641000435567
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1659464100043556
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1633920142740077
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.15568824312961488
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1554563687845901
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1550954421186853
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1505977534145202
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1436111337666999
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1432044654807124
