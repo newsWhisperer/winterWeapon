@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1633920142740077
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.15545636878459018
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1554563687845901
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1550954421186853
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1507071145379963
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1505977534145202
@@ -58,7 +58,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1086549637894965
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1074894163836535
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.107018346898576
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1064248693598798
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
@@ -81,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0922119403252847
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.09196606392610547
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0913285526576006
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0901290949820921
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
