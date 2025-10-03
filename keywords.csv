@@ -9,12 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1724741106368298
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1719112495301036
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1696045651219605
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.16594641000435567
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1633920142740077
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1554563687845901
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1550954421186853
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1507071145379963
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1505977534145202
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1436111337666999
@@ -80,7 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0922119403252847
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.09196606392610547
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.0919660639261054
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0913285526576006
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0901290949820921
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
