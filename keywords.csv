@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1633920142740077
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.15568824312961488
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1556882431296148
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1554563687845901
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1550954421186853
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
@@ -26,10 +26,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.133338608739261
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1321950300300056
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1285933422179934
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.128538725645337
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1256887742422129
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1251811576488407
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1244323235923249
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.12375836679853644
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1223731545042277
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
