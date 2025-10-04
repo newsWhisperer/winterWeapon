@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2439327978491856
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2003537891159001
 'Blackout',de,Other,#545557,#6b6c6e,3,0.194132443361828
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1809176930539773
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1802149680578654
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.172656236881195
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1724741106368298
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1230940296712352
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1223731545042277
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.12027548115368453
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1202754811536845
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1183905575643307
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1176511748940817
