@@ -36,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1176511748940817
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1173805740105116
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1173377434303443
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1050111839546987
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1048030630552112
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1047482855633197
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.10472725290893486
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1040474518714455
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1034428377329738
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
