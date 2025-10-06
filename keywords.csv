@@ -22,9 +22,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1432044654807124
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1370381485469476
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1347797458275189
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1334558477807488
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1321950300300056
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.12984931258975468
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1285933422179934
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1256887742422129
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1251811576488407
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0442262437909823
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.04079941858025
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.03883234813539045
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0388323481353904
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
