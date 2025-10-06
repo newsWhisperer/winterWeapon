@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1724741106368298
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1719112495301036
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1696045651219605
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1633920142740077
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.16656390486017927
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1556882431296148
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1370381485469476
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1334558477807488
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1321950300300056
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.12984931258975468
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1298493125897546
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1285933422179934
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1256887742422129
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1251811576488407
