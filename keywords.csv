@@ -5,12 +5,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1860127913608451
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1809176930539773
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.17898330362174303
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.172656236881195
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1724741106368298
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1719112495301036
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1696045651219605
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.16656390486017927
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1556882431296148
