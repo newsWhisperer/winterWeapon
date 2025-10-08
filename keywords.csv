@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2025254130212423
-'Blackout',de,Other,#545557,#6b6c6e,3,0.194132443361828
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1860127913608451
+'Blackout',de,Other,#545557,#6b6c6e,3,0.18360323049391744
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1809176930539773
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.178983303621743
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1788301463140326
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1554563687845901
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1550954421186853
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1542977109744222
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.14427339878270554
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1442733987827055
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1432044654807124
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
