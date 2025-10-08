@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1554563687845901
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1550954421186853
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1542977109744222
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1485371730776928
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.14427339878270554
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1432044654807124
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
@@ -123,7 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.04079941858025
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.03330752591508184
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0333075259150818
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
