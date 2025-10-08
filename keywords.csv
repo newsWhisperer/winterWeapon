@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20252541302124236
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2025254130212423
 'Blackout',de,Other,#545557,#6b6c6e,3,0.194132443361828
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1860127913608451
@@ -121,9 +121,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0442262437909823
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.04079941858025
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0388323481353904
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.03330752591508184
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
