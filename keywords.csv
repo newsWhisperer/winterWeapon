@@ -21,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1432044654807124
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.13770799644608472
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1370381485469476
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1334558477807488
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1321950300300056
@@ -50,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1125046221557642
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1124900235269603
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1115583341246694
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1114925912437598
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1100845079686157
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0230321557689656
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0226871158033236
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0210651811164822
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.01802603631765037
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0180260363176503
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.009426504854541
