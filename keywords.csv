@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1860127913608451
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1809176930539773
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.178983303621743
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1788301463140326
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1765415401960365
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1719112495301036
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1610170959198298
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.15696027436692772
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1556882431296148
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1554563687845901
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1550954421186853
