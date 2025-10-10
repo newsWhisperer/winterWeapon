@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1154950877341789
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.11545813499164005
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.11545813499164
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1142379074283718
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1140516555698751
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0001089775340697
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,2.025354112750959e-05
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,8.54873633310725e-06
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,7.266425883141163e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.96850497293939e-09
