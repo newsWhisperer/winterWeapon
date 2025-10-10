@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1610170959198298
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.15696027436692772
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1569602743669277
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1556882431296148
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1554563687845901
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1550954421186853
@@ -41,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.1154950877341789
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.11545813499164005
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1142379074283718
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1140516555698751
@@ -54,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1100845079686157
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1093875983094925
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1086549637894965
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
