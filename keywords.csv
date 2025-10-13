@@ -96,7 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.07539266090395925
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.0753926609039592
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0750655071183718
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0180260363176503
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.009426504854541
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.008012529126359849
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0077239330851655
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0074274720003406
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0049996653545193
