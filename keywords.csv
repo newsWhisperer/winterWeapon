@@ -20,8 +20,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1442733987827055
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1432044654807124
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1430977437715909
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1411247183409091
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1370381485469476
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1321950300300056
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1317298052975576
@@ -110,7 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0573411740395075
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0566959831549123
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.05317595065495019
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0523966727971152
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0506716751029113
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
