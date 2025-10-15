@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1020377816315731
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.10057106457405206
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,1,0.100571064574052
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1004939627390725
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0009840222263689
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0007819982429683
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,2.025354112750959e-05
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.721550995838315e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,6.176462000669988e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.96850497293939e-09
