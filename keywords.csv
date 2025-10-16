@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1903352649294456
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.18539210818103347
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1853921081810334
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1809176930539773
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1781822778954916
@@ -17,10 +17,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1550954421186853
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1542977109744222
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1455140153536664
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.14477417038767046
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1442733987827055
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1432044654807124
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1430977437715909
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1321950300300056
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1317298052975576
