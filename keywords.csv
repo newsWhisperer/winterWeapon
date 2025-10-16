@@ -9,12 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1727842353880742
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1719112495301036
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1640602280736098
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1569602743669277
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1556882431296148
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1554563687845901
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1550954421186853
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1542977109744222
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1455140153536664
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1447741703876704
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.02745180809261
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0226871158033236
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0210651811164822
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.01957733240362076
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0195773324036207
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0180260363176503
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
