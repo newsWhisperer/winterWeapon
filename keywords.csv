@@ -28,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1292544608852943
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1271509795104117
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1256887742422129
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.12421151395589783
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1237583667985364
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1221543590015145
@@ -59,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1076740222332931
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1064248693598798
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1050111839546987
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1047482855633197
