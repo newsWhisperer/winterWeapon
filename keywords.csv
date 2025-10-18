@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1292544608852943
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1271509795104117
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1256887742422129
-'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.12421151395589783
+'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242115139558978
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1237583667985364
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1221543590015145
@@ -77,7 +77,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.0986585191491994
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0978236605726398
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0976827679504463
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0940098794628063
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0922119403252847
@@ -88,6 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0848750521476169
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0837558884495988
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.08363041275787934
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0799099493597015
