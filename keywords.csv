@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1237583667985364
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1221543590015145
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.12171604965072376
+'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1217160496507237
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.120952186979172
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1202754811536845
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1183905575643307
@@ -111,7 +111,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0566959831549123
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0506716751029113
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0483652899996309
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
@@ -120,6 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0445371718775479
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0442262437909823
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0438209988374746
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.04079941858025
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
