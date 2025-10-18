@@ -27,11 +27,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1305355453558145
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1292544608852943
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1271509795104117
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.12667510065860552
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1256887742422129
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1237583667985364
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1221543590015145
+'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.12171604965072376
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.120952186979172
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1202754811536845
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1183905575643307
