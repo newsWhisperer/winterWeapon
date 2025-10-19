@@ -5,13 +5,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1809176930539773
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1781822778954916
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.17356165736534213
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1735616573653421
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1719112495301036
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.16059350015879267
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1569602743669277
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1563660146253176
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1556882431296148
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1554563687845901
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1542977109744222
