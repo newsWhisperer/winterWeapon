@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1809176930539773
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1781822778954916
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.17356165736534213
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1719112495301036
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1716263760447875
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
@@ -87,7 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0848750521476169
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0837558884495988
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.08363041275787934
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0836304127578793
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0799099493597015
