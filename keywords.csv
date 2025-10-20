@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.23918605772882173
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.2391860577288217
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.194009352462756
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
@@ -10,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1719112495301036
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.16073244896529967
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1605935001587926
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1569602743669277
@@ -19,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1455140153536664
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1447741703876704
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1442733987827055
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1321950300300056
