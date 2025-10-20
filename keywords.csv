@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.23918605772882173
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.194009352462756
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
@@ -62,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1076740222332931
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1050111839546987
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1047482855633197
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1047272529089348
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1040474518714455
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1034428377329738
@@ -109,7 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0573411740395075
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0566959831549123
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.055732703800797374
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0557327038007973
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0483652899996309
