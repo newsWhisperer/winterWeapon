@@ -32,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242115139558978
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1237583667985364
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1221543590015145
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1217160496507237
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.120952186979172
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1202754811536845
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1050111839546987
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1047272529089348
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1040474518714455
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.10383158015128732
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1034428377329738
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1021206350082103
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0080125291263598
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0074274720003406
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.00613559715403201
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.006135597154032
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0049996653545193
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0024851384865337
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
