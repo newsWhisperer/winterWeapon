@@ -110,7 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0566959831549123
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0557327038007973
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.05192946128714186
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0519294612871418
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0452869178067171
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0019201189361247
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0012510087524572
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010768747268262
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0009840222263689
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0008364188924135649
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0007819982429683
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.721550995838315e-05
