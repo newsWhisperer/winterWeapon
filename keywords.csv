@@ -18,9 +18,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1554563687845901
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1542977109744222
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1455140153536664
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1447741703876704
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.14363703305061643
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1357581103111226
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1321950300300056
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0019201189361247
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0012510087524572
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010768747268262
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0008364188924135649
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0008364188924135
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0007819982429683
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.721550995838315e-05
