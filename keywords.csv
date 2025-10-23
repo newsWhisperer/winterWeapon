@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1237583667985364
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1217160496507237
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.120952186979172
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1202754811536845
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1183905575643307
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1082182781858492
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1076740222332931
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.10520959893229619
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1050111839546987
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1047272529089348
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1040474518714455
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.02745180809261
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0210651811164822
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0195773324036207
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.01928404843282506
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.019284048432825
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,2,0.0180260363176503
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0166334601934997
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
