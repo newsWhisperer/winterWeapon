@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1781822778954916
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1779202015728908
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1752065564878135
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.17296195445907364
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1729619544590736
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1607324489652996
@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1542977109744222
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1436370330506164
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.14301232156604
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1357581103111226
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1321950300300056
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1292544608852943
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242115139558978
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1237583667985364
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.12329159809302394
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1217160496507237
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1202754811536845
