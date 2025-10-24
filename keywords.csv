@@ -100,7 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0695618995432384
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.06855977666187751
+'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0685597766618775
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0668175016417236
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0007819982429683
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.721550995838315e-05
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,6.176462000669988e-06
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,5.24999270056949e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.96850497293939e-09
