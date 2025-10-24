@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.2033081640694984
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.194009352462756
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1781822778954916
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1779202015728908
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1752065564878135
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.17296195445907364
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1607324489652996
