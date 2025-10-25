@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1607324489652996
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1605935001587926
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1598269311941743
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1569602743669277
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1556882431296148
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1554563687845901
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1552896071022471
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1542977109744222
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0012510087524572
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010768747268262
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0008364188924135
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.000664698506523055
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.000664698506523
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.4633183464625675e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,5.24999270056949e-06
