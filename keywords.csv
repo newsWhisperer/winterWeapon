@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.194009352462756
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1880415677751608
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1869029615858943
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1828950389187698
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0008364188924135
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0007819982429683
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.4633183464625677e-05
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.4633183464625675e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,5.24999270056949e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.96850497293939e-09
