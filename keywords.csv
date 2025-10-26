@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1607324489652996
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1605935001587926
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.15899642469686634
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1589964246968663
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1569602743669277
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1556882431296148
@@ -99,11 +99,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0750655071183718
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0695618995432384
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0685597766618775
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0668175016417236
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.05912761461175264
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0589307159290712
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0573411740395075
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
