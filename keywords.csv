@@ -35,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1218641700709593
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1217160496507237
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1202754811536845
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.11962231870759368
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1176511748940817
@@ -51,7 +52,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1139633828668094
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,2,0.1124900235269603
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1115583341246694
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
