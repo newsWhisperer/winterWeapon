@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1828950389187698
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1809176930539773
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1781822778954916
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1779202015728908
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1752065564878135
+'Blackout',de,Other,#545557,#6b6c6e,3,0.17459030939298603
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1729619544590736
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1218641700709593
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1217160496507237
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1202754811536845
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.11962231870759368
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1176511748940817
