@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1537859906038612
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1537446496287
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.15213226133695715
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1521322613369571
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1428856264579718
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1388613534778491
@@ -103,7 +103,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0668175016417236
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0591276146117526
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0589307159290712
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0573411740395075
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
@@ -111,6 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0557327038007973
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0519294612871418
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.05025847241998971
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0452869178067171
