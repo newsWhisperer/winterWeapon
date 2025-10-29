@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1828950389187698
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1779202015728908
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1769177222776989
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1752065564878135
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1537859906038612
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1537446496287
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.15213226133695715
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1428856264579718
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1388613534778491
