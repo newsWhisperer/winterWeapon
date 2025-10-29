@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1729619544590736
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1631898099739401
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1607324489652996
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1605935001587926
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1428856264579718
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1388613534778491
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1357581103111226
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1318367957639298
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1317298052975576
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0411104964996862
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0378565960959157
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.035710703174230536
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0357107031742305
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0333075259150818
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
