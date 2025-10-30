@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1828950389187698
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.18104725598326937
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1769177222776989
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1752065564878135
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
@@ -27,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1317298052975576
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1305355453558145
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1299699912876991
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1292544608852943
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1237583667985364
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1232915980930239
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0012510087524572
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010768747268262
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0008364188924135
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.00056499373054455
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0005649937305445
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.4633183464625675e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,4.462493795484066e-06
