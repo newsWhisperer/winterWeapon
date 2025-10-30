@@ -3,17 +3,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1828950389187698
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.18104725598326937
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1810472559832693
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1769177222776989
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1752065564878135
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1729619544590736
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1691053034783544
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1607324489652996
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1605935001587926
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1569602743669277
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1556882431296148
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1552896071022471
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1542977109744222
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1537859906038612
