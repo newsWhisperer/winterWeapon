@@ -93,6 +93,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0794922789974894
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0793700475572136
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.07629273454642732
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.0753926609039592
@@ -110,11 +111,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0557327038007973
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0519294612871418
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.05025847241998971
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0502584724199897
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0452869178067171
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0449325582899145
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0442262437909823
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0438209988374746
