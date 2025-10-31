@@ -31,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1237583667985364
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1232915980930239
+'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.12307601071951721
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1218641700709593
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1217160496507237
@@ -94,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0793700475572136
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0762927345464273
-'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0757950243759026
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.0753926609039592
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0750655071183718
