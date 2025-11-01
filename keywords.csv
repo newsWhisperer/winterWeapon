@@ -33,13 +33,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1232915980930239
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1230760107195172
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1218641700709593
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1217160496507237
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1202754811536845
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1176511748940817
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1176285286512245
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1173377434303443
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1038315801512873
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1034428377329738
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.10266167730455597
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1026616773045559
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1021206350082103
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1020377816315731
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
