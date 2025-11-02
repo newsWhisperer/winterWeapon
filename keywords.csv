@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1875143753361594
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1828950389187698
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1810472559832693
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1769177222776989
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1729619544590736
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1691053034783544
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.16495826262640886
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1607324489652996
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1605935001587926
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1230760107195172
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1217160496507237
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.12124267724532184
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1212426772453218
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1202754811536845
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
