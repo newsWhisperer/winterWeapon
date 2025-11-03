@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2282293297589605
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1939949902951164
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1875478790118533
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1875143753361594
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0349439220247332
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0333075259150818
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,3,0.029823075870002755
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,3,0.0298230758700027
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.02745180809261
