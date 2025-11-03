@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.2282293297589605
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.18754787901185338
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1875478790118533
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1875143753361594
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
@@ -120,10 +120,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0442262437909823
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0411104964996862
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0357107031742305
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.034943922024733266
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0333075259150818
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
