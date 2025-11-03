@@ -10,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1729619544590736
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1691053034783544
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.16748969383146384
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1649582626264088
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1607324489652996
@@ -18,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1569602743669277
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1552896071022471
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1542977109744222
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1537859906038612
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1537446496287
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1521322613369571
@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1237583667985364
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1232915980930239
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.12313591684178762
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1230760107195172
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1217160496507237
