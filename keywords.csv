@@ -34,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1237583667985364
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1232915980930239
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.12313591684178762
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1230760107195172
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1217160496507237
@@ -42,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1176511748940817
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1176285286512245
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1173377434303443
