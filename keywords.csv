@@ -93,7 +93,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0799099493597015
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0794922789974894
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0793700475572136
-'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.07838031427649199
+'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0762927345464273
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
@@ -107,10 +107,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0629281816815283
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0589307159290712
-'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0573411740395075
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0566959831549123
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0557327038007973
+'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.05369185793358138
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0519294612871418
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0502584724199897
