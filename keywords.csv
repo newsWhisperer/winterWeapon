@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1729619544590736
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1691053034783544
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.16748969383146384
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1674896938314638
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1649582626264088
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1607324489652996
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0038897859686401
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0024851384865337
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0019201189361247
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.001632101095705995
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0012510087524572
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010768747268262
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0008364188924135
