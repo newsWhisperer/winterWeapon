@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1305355453558145
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1237583667985364
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1232915980930239
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1230760107195172
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1076740222332931
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.10614799337907031
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1052095989322961
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1040474518714455
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1038315801512873
@@ -110,7 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0566959831549123
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0557327038007973
-'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.05369185793358138
+'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0536918579335813
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0519294612871418
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0502584724199897
