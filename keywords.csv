@@ -71,10 +71,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1026616773045559
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1021206350082103
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1020377816315731
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1012357798879442
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1007819889296811
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.10077725347774623
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1004939627390725
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0989556019917246
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0038897859686401
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0024851384865337
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.001632101095705995
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0016321010957059
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0012510087524572
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010768747268262
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0008364188924135
