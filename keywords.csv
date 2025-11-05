@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1939949902951164
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1875478790118533
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1875143753361594
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1691053034783544
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1674896938314638
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.16549580175084896
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1649582626264088
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1607324489652996
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1605935001587926
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.02745180809261
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0210651811164822
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0195773324036207
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.016391441167901248
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0163914411679012
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0080125291263598
