@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1769177222776989
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1729619544590736
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.17205974619645964
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1720597461964596
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1691053034783544
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1674896938314638
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
@@ -27,9 +27,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1388613534778491
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.136239474742894
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1357581103111226
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.13510398268474214
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1336088457763624
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1318367957639298
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1317298052975576
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1305355453558145
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1237583667985364
