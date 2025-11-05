@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1810472559832693
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1769177222776989
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1752065564878135
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1729619544590736
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.17205974619645964
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1691053034783544
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1674896938314638
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1076740222332931
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.10614799337907031
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1061479933790703
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1052095989322961
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1040474518714455
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1038315801512873
