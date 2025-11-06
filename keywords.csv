@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1729619544590736
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1720597461964596
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1691053034783544
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.16792996614644068
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1679299661464406
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1674896938314638
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1654958017508489
@@ -21,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1537446496287
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1521322613369571
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.14570696312859419
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1439604073556079
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1428856264579718
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1388613534778491
@@ -66,7 +67,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1061479933790703
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1052095989322961
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1040474518714455
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1038315801512873
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1034428377329738
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1026616773045559
