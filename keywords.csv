@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1521322613369571
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1457069631285941
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.14550033943408489
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1455003394340848
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1428856264579718
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1388613534778491
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1369226116205046
@@ -32,8 +32,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1336088457763624
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1318367957639298
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1305355453558145
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.12832749496057413
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,2,0.1237583667985364
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1230760107195172
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
