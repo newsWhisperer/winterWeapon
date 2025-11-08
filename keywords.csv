@@ -16,9 +16,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1605935001587926
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1597157271600753
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.15837306491166772
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1569602743669277
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1552896071022471
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1537446496287
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1521322613369571
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1457069631285941
@@ -87,7 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0859124416929659
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0848750521476169
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.08409245722233495
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0840924572223349
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0836304127578793
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
