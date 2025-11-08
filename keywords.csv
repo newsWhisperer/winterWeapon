@@ -11,12 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1679299661464406
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1674896938314638
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1654958017508489
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1649582626264088
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1605935001587926
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1597157271600753
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.15837306491166772
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1583730649116677
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1569602743669277
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1552896071022471
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1457069631285941
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1455003394340848
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1428856264579718
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.14127149148822157
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1388613534778491
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1369226116205046
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.136239474742894
