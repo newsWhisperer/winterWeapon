@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1875143753361594
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.18357960693654649
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1835796069365464
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1810472559832693
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
@@ -87,6 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0859124416929659
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0848750521476169
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.08409245722233495
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0836304127578793
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
@@ -118,7 +119,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0452869178067171
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0442262437909823
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0357107031742305
