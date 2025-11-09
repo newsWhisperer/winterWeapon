@@ -82,13 +82,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0978236605726398
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.0919660639261054
-'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.09140541990334689
+'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0914054199033468
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0901290949820921
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0859124416929659
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0848750521476169
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0840924572223349
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0836304127578793
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
@@ -103,6 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0750655071183718
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.07297873863898467
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0713425201821589
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0685597766618775
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
