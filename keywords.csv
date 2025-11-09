@@ -86,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0901290949820921
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0859124416929659
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0848750521476169
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0836304127578793
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
@@ -101,8 +100,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.0753926609039592
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0750655071183718
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.07409398932547437
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.07297873863898467
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0729787386389846
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0713425201821589
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0685597766618775
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
