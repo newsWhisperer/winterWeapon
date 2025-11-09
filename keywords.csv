@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1810472559832693
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1729619544590736
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1720597461964596
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1691053034783544
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1679299661464406
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1552896071022471
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1521322613369571
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.14701766129021257
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1457069631285941
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1455003394340848
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1428856264579718
@@ -118,7 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0452869178067171
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.04414004209407053
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0441400420940705
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0357107031742305
