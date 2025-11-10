@@ -35,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1230760107195172
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1223139929095948
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1217160496507237
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1212426772453218
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1202754811536845
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1061479933790703
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1052095989322961
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.10471696897315558
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1040474518714455
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1034428377329738
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
@@ -100,7 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,2,0.0753926609039592
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0750655071183718
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.07409398932547437
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0740939893254743
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0729787386389846
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0713425201821589
