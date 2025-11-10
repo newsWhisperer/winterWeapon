@@ -19,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1552896071022471
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1521322613369571
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.14719151183777468
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1457069631285941
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1455003394340848
@@ -37,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1230760107195172
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1217160496507237
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1212426772453218
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1202754811536845
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
