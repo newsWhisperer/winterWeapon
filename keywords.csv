@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1063545413029083
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1061479933790703
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1052095989322961
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.10471696897315558
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1047169689731555
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1040474518714455
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1034428377329738
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
@@ -125,11 +125,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,3,0.0298230758700027
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0297023337210232
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0283113970278195
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.02745180809261
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.025396998662869718
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0210651811164822
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0195773324036207
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0163914411679012
