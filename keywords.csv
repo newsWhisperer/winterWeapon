@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1552896071022471
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1521322613369571
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.14719151183777468
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1471915118377746
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1457069631285941
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1455003394340848
@@ -49,11 +49,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1159535685314599
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
+'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1142379074283718
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1140516555698751
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1139857252104009
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1139633828668094
-'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1132717196040936
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1115583341246694
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1107287775571828
