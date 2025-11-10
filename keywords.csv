@@ -87,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0859124416929659
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0836304127578793
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0799099493597015
@@ -103,6 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0740939893254743
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0729787386389846
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0722859708441974
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0713425201821589
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0685597766618775
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0283113970278195
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.02745180809261
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.025396998662869718
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0253969986628697
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0210651811164822
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0195773324036207
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0163914411679012
