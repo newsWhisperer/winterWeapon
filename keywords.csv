@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1843614303512088
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1835796069365464
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1810472559832693
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.17529621943489113
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1720597461964596
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1679299661464406
