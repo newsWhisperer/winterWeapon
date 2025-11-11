@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1810472559832693
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1720597461964596
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1691053034783544
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1679299661464406
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1674896938314638
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1668730961384194
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1649582626264088
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1643394090357354
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1457069631285941
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1455003394340848
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1428856264579718
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.14145956013497368
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1414595601349736
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1412714914882215
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1388613534778491
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1369226116205046
