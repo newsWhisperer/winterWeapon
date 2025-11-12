@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1414595601349736
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1412714914882215
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1388613534778491
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.13852943694627237
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1385294369462723
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1369226116205046
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1351039826847421
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1336088457763624
@@ -114,6 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0536918579335813
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0502584724199897
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.048941316334459556
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0452869178067171
@@ -121,7 +122,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0441400420940705
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0357107031742305
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,3,0.0298230758700027
