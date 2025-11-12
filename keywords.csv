@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1674896938314638
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1668730961384194
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1649582626264088
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1643394090357354
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.16334833641426566
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1597157271600753
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1583730649116677
@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0536918579335813
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0502584724199897
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.048941316334459556
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0489413163344595
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0452869178067171
