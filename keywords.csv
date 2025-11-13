@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1569602743669277
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1552896071022471
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.15277381093203227
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1527738109320322
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1521322613369571
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1513549312462448
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1471915118377746
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.2438205944931824e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,4.462493795484066e-06
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.96850497293939e-09
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.6732292269984814e-09
