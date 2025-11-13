@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1513549312462448
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1471915118377746
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
-'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1428856264579718
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1414595601349736
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1412714914882215
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1388613534778491
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1288813343729399
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
+'Gaskrise',de,Other,#545557,#6b7c6e,1,0.12325296248927602
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1230760107195172
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1217160496507237
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.2438205944931824e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,4.462493795484066e-06
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.6732292269984814e-09
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.6732292269984812e-09
