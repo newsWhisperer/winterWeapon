@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.18372370362333718
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1837237036233371
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1830212910851724
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1810472559832693
@@ -17,11 +17,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1569602743669277
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1552896071022471
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.15277381093203227
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1521322613369571
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1513549312462448
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1471915118377746
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1457069631285941
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1428856264579718
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1414595601349736
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1412714914882215
