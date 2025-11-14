@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1837237036233371
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.19293686989801834
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1830212910851724
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1810472559832693
@@ -118,7 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0452869178067171
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.04460091388429058
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0446009138842905
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0441400420940705
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
