@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1830212910851724
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1810472559832693
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1752962194348911
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1679299661464406
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1674896938314638
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1583730649116677
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1569602743669277
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1552896071022471
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.15395487651965742
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1527738109320322
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1521322613369571
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.02745180809261
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0253969986628697
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.024214702473646574
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0242147024736465
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0210651811164822
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0195773324036207
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0163914411679012
