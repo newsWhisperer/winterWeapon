@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1929368698980183
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.19004998758625788
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1900499875862578
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1830212910851724
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1810472559832693
@@ -78,7 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1004939627390725
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.0986585191491994
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.09790149036772858
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0978236605726398
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.0919660639261054
