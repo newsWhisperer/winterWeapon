@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1929368698980183
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.19004998758625788
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1830212910851724
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1810472559832693
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1749726484972018
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1674896938314638
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1668730961384194
