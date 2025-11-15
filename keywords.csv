@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1583730649116677
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1569602743669277
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1552896071022471
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.15395487651965742
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1539548765196574
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1527738109320322
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1521322613369571
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0052152575809272
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0038897859686401
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0024851384865337
-'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0019652123879561
+'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.001670430529762685
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0016321010957059
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0012510087524572
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010768747268262
