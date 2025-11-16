@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1810472559832693
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.16961134651330562
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1696113465133056
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1674896938314638
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1668730961384194
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
@@ -101,11 +101,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0740939893254743
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0729787386389846
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0722859708441974
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0713425201821589
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0685597766618775
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0636820928431369
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0629281816815283
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
