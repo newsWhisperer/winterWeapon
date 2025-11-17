@@ -105,11 +105,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0713425201821589
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0685597766618775
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0636820928431369
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0629281816815283
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0566959831549123
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.055779943916666366
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0557327038007973
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0536918579335813
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
