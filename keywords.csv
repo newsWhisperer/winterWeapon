@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.20781619363703868
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.2078161936370386
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1929368698980183
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1900499875862578
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
@@ -21,10 +21,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1527738109320322
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1521322613369571
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1513549312462448
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.15083084276498826
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1471915118377746
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1414595601349736
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1412714914882215
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1388613534778491
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1369226116205046
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1336088457763624
