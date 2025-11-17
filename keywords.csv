@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.2226226941184412
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.20781619363703868
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1929368698980183
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1900499875862578
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
@@ -80,7 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0978236605726398
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.09235671922107203
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.0919660639261054
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0914054199033468
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0901290949820921
