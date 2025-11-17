@@ -58,7 +58,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1115583341246694
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.1086549637894965
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1076740222332931
@@ -81,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0978236605726398
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.09235671922107203
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.0919660639261054
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0914054199033468
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0901290949820921
@@ -109,7 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0629281816815283
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0566959831549123
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.055779943916666366
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0557799439166663
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0557327038007973
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0536918579335813
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
