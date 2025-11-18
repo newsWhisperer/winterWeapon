@@ -5,6 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1810472559832693
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.17422467595889404
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1696113465133056
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1674896938314638
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1668730961384194
@@ -18,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1569602743669277
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1539548765196574
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1527738109320322
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1513549312462448
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1508308427649882
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1471915118377746
@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1336088457763624
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1318367957639298
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.12931242213641353
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1288813343729399
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1272485809497859
