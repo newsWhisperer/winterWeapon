@@ -4,6 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1900499875862578
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1743880250621084
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.174224675958894
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1696113465133056
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1674896938314638
@@ -21,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1513549312462448
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1508308427649882
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1471915118377746
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1414595601349736
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1388613534778491
@@ -120,7 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0446009138842905
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0441400420940705
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.038493880135709535
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0384938801357095
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
