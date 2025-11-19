@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.2078161936370386
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1929368698980183
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1900499875862578
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.18611338985850617
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1861133898585061
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.174224675958894
@@ -89,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0812759519833342
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0799099493597015
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0794922789974894
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0793700475572136
@@ -100,7 +101,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0750655071183718
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0740939893254743
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.073069832883619
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0722859708441974
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0713425201821589
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0685597766618775
