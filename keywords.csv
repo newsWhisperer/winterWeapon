@@ -101,12 +101,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0750655071183718
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0740939893254743
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0722859708441974
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0713425201821589
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0685597766618775
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0629281816815283
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.062493180217567786
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0566959831549123
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0557799439166663
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0016321010957059
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010768747268262
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0010633574395886199
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0010633574395886
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0008364188924135
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004802446709628
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
