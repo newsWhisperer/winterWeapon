@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1217160496507237
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1212426772453218
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.11904676376245345
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1190467637624534
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1176285286512245
@@ -142,8 +142,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0024851384865337
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0016321010957059
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0012510087524572
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010768747268262
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0010633574395886199
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0008364188924135
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004802446709628
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
