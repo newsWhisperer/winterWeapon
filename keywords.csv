@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1929368698980183
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1900499875862578
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.17739433459148282
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1773943345914828
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1743880250621084
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.174224675958894
@@ -18,11 +18,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1596823787641827
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1583730649116677
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.1581968763797301
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1539548765196574
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1513549312462448
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.14395651960018993
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1414595601349736
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1388613534778491
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1369226116205046
