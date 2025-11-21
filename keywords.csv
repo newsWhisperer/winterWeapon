@@ -12,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1665639048601792
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1643394090357354
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1633483364142656
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.16180734469564725
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1610966409391612
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1597157271600753
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1596823787641827
@@ -42,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1190467637624534
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1180084643478203
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1176285286512245
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1173377434303443
@@ -106,7 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0629281816815283
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.062493180217567786
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0624931802175677
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0566959831549123
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0557799439166663
