@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1513549312462448
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.14337569929654573
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1433756992965457
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1388613534778491
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1369226116205046
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1336088457763624
@@ -78,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.1004939627390725
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0978236605726398
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.0919660639261054
@@ -86,6 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0901290949820921
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0859124416929659
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.08420071148674382
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
