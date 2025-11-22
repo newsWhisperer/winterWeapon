@@ -95,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0793700475572136
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0762927345464273
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0750655071183718
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
@@ -103,6 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0713425201821589
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0685597766618775
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0649988393644632
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0640837617683653
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0629281816815283
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.005366348520246
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0052152575809272
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0038897859686401
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.002262382713553645
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0022623827135536
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0016321010957059
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010768747268262
