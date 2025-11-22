@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0502584724199897
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.04861307232916635
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0486130723291663
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0446009138842905
@@ -142,8 +142,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0022623827135536
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0016321010957059
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0010768747268262
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0010633574395886
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009153435178022699
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0008364188924135
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004802446709628
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
