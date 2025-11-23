@@ -99,7 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0740939893254743
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0713425201821589
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.07013515918583407
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.070135159185834
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0685597766618775
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0649988393644632
@@ -140,8 +140,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0052152575809272
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0038897859686401
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0022623827135536
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.001987345931350015
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0016321010957059
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0010633574395886
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009153435178022
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0008364188924135
