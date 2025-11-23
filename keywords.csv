@@ -50,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1167044899551415
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1159535685314599
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1149407761553714
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1142379074283718
@@ -80,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.0919660639261054
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0914054199033468
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0901290949820921
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
@@ -96,7 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
 'kalter Winter',de,Wetter,#2d8f29,#186b15,1,0.0750655071183718
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.07452572543902101
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.074525725439021
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0740939893254743
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0713425201821589
