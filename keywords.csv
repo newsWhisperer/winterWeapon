@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2665342348774289
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1900499875862578
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.18713112759513376
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1871311275951337
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1773943345914828
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
@@ -25,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1433756992965457
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1388613534778491
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1369226116205046
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1336088457763624
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1318367957639298
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
