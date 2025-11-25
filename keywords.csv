@@ -38,7 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.123252962489276
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1230760107195172
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.12204655083947877
+'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1220465508394787
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1212426772453218
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1190467637624534
@@ -98,7 +98,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.074525725439021
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0740939893254743
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0713425201821589
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.0705052164124958
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.070135159185834
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0685597766618775
@@ -108,6 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0629281816815283
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0624931802175677
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.06064114215483507
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0566959831549123
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0536918579335813
