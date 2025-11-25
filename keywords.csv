@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1743880250621084
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.174224675958894
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.17004756248401695
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1696113465133056
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1674896938314638
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1668730961384194
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1643394090357354
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1633483364142656
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1539548765196574
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1513549312462448
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.15107793867660688
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1510779386766068
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1433756992965457
