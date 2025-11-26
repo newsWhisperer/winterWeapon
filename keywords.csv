@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2267041146458145
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1900499875862578
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1871311275951337
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.18265905367121318
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.18674114618313636
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1826590536712131
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1773943345914828
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
