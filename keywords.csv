@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1318367957639298
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1289562913502399
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.128501420107472
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1272485809497859
@@ -42,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1190467637624534
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.11803215045617171
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1180321504561717
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1176285286512245
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1173377434303443
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1139633828668094
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1115583341246694
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1103629226477039
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
