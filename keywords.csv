@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.2267041146458145
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.19284851244894233
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1900499875862578
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1867411461831363
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1826590536712131
@@ -107,7 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0629281816815283
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0624931802175677
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.060641142154835
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.059025885162595874
+'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0590258851625958
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0566959831549123
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0536918579335813
