@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1900499875862578
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1867411461831363
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1826590536712131
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1773943345914828
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.174224675958894
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.17104493399377366
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1700475624840169
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1696113465133056
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1668730961384194
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0278064626535544
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.02745180809261
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0242147024736465
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.021737463863439246
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0217374638634392
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0210651811164822
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0195773324036207
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
