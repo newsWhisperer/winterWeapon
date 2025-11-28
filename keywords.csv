@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0566959831549123
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0536918579335813
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.05154497083160975
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0515449708316097
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0502584724199897
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0486130723291663
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0010633574395886
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009153435178022
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0008364188924135
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.000710956058551475
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004802446709628
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.2438205944931824e-05
