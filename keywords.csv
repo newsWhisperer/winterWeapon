@@ -139,11 +139,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.005366348520246
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0038897859686401
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0037680236022198
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0033394090416474995
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0022623827135536
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.00198734593135
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009153435178022
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0009038538236503099
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0009038538236503
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0007109560585514
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004802446709628
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
