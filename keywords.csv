@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1867411461831363
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1826590536712131
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.1773943345914828
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1668730961384194
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1643394090357354
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1639212505816009
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.16368202925566586
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1633483364142656
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1618073446956472
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1610966409391612
@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0590258851625958
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0566959831549123
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.05539902845979372
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0553990284597937
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0536918579335813
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0515449708316097
