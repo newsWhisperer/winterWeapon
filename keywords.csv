@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1596823787641827
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1583730649116677
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.15781045062053115
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1578104506205311
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1539548765196574
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1513549312462448
@@ -114,11 +114,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0515449708316097
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0502584724199897
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0486130723291663
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0446009138842905
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.04162114147979135
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0384938801357095
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0379690807799599
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
