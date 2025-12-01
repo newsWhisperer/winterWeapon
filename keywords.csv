@@ -40,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1230760107195172
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1220465508394787
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1212426772453218
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.12066390136345595
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1190467637624534
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
@@ -67,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1061479933790703
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1052095989322961
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1047169689731555
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1040474518714455
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1034428377329738
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1021206350082103
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0233340368787185
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0217374638634392
-'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.01790540394900987
+'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0179054039490098
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0166407325430775
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
