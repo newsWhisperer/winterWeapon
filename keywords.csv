@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.20100389045539194
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.2010038904553919
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1854849008999461
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
@@ -142,8 +142,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0033394090416474
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0022623827135536
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0009153435178022
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0009038538236503
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00077804199013187
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0007109560585514
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004802446709628
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
