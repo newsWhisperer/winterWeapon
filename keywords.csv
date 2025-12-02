@@ -112,12 +112,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0536918579335813
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0515449708316097
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0502584724199897
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0446009138842905
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0434185435289139
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.042719701556991244
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0416211414797913
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0379690807799599
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0022623827135536
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0009038538236503
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00077804199013187
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0007780419901318
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0007109560585514
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004802446709628
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
