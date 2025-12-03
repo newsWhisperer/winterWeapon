@@ -119,7 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0427197015569912
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0416211414797913
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0379690807799599
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.03690576199957682
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0369057619995768
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.032719798115353
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.2438205944931824e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,3.793119726161456e-06
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.673229226998481e-09
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.4222448429487087e-09
