@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,3,0.2010038904553919
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1961864829913001
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1854849008999461
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.174224675958894
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1710449339937736
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.17085360688708312
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1700475624840169
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1668730961384194
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1643394090357354
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1585418877689815
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1583730649116677
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1578104506205311
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.15609637060238848
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1560963706023884
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1534975629534774
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1513549312462448
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1490663723992347
