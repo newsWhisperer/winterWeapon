@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.19579947434925302
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1854849008999461
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Blackout',de,Other,#545557,#6b6c6e,3,0.174590309392986
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.174224675958894
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1710449339937736
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1700475624840169
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.169158750542605
@@ -79,7 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
-'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.09330613105061603
+'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.093306131050616
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0922165657088725
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0914054199033468
