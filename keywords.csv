@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.195799474349253
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.20320433501504684
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1854849008999461
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1786640318377871
@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1643394090357354
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1639212505816009
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636820292556658
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.16341390967682803
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.163413909676828
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1633483364142656
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1610966409391612
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1597157271600753
