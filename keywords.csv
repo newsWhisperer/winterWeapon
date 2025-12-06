@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1433756992965457
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.14129863571717718
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1412986357171771
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1336088457763624
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1318367957639298
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0242147024736465
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0233340368787185
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0217374638634392
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.01862685928392332
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0179054039490098
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0166407325430775
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
