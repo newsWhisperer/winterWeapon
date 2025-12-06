@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1433756992965457
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.14129863571717718
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1336088457763624
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1318367957639298
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1190467637624534
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1180321504561717
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1176285286512245
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1173377434303443
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.03151991269964028
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,3,0.0298230758700027
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.02781182839805
