@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1972391891908246
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1854849008999461
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1786640318377871
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1700475624840169
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.169158750542605
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1678033258122009
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1668730961384194
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1643394090357354
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1639212505816009
@@ -100,7 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0740939893254743
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.0705052164124958
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.070135159185834
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.06792345695574627
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0640837617683653
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
