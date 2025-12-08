@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1854849008999461
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1786640318377871
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1760808957113108
+'Blackout',de,Other,#545557,#6b6c6e,3,0.17280234953643236
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1700475624840169
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.169158750542605
