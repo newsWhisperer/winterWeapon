@@ -20,12 +20,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1581564412377285
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1578104506205311
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1560963706023884
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1559844602983713
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1513549312462448
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1490663723992347
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1433756992965457
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.14208814079907012
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.136058398086064
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1318367957639298
