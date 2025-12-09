@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.203522846674045
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1820013605298283
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.18238091917762678
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1786640318377871
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1433756992965457
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.14208814079907012
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1420881407990701
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.136058398086064
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1318367957639298
