@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1715319964218161
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1700475624840169
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.169158750542605
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1678033258122009
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1668730961384194
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.163413909676828
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1633483364142656
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.15858462220232344
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1583730649116677
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1581564412377285
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1578104506205311
