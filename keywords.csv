@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.128501420107472
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1272485809497859
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.12537936245933842
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1253793624593384
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.123252962489276
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
@@ -130,9 +130,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0242147024736465
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0233340368787185
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0186268592839233
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0179054039490098
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0166407325430775
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.015832830391334804
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.013932724992716
