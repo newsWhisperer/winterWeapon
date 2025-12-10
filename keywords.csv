@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1578104506205311
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1560963706023884
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1513549312462448
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.15075545195854367
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1507554519585436
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1490663723992347
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
@@ -35,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.128501420107472
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1272485809497859
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.12537936245933842
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.123252962489276
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
@@ -52,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1167044899551415
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1149407761553714
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1142379074283718
