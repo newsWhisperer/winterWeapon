@@ -74,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1021206350082103
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1012357798879442
+'russisches Gas',de,Russland,#a6190f,#b32319,3,0.10111911485581954
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1007819889296811
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1007772534777462
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
@@ -94,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0793700475572136
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
-'russisches Gas',de,Russland,#a6190f,#b32319,3,0.0757041565148679
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.074525725439021
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0740939893254743
@@ -112,7 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0536918579335813
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0515449708316097
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.05062204738820643
+'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0506220473882064
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
