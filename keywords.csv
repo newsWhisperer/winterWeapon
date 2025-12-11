@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.203522846674045
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1823809191776267
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.18270360402825542
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1786640318377871
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.177433434798287
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0233340368787185
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0179054039490098
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0166407325430775
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.015832830391334804
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0158328303913348
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.013932724992716
