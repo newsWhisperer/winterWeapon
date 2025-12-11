@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.203522846674045
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.18270360402825542
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1827036040282554
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1786640318377871
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.177433434798287
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004802446709628
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.057247505319205e-05
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,3.224151767237237e-06
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,2.7405290021516513e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.4222448429487087e-09
