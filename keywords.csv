@@ -21,10 +21,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1560963706023884
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1513549312462448
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1507554519585436
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.14954969212933658
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1490663723992347
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1433756992965457
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1420881407990701
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.136058398086064
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004802446709628
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.057247505319205e-05
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,2.7405290021516513e-06
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,2.7405290021516517e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.4222448429487087e-09
