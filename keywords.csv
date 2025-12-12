@@ -25,10 +25,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1490663723992347
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1428113513993403
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1420881407990701
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.136058398086064
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1318367957639298
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1293106082517409
@@ -127,7 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.02781182839805
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0242147024736465
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.023635493255521237
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0236354932555212
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0233340368787185
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0179054039490098
