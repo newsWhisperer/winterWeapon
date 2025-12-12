@@ -32,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1293106082517409
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.12878898442929906
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.128501420107472
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1272485809497859
@@ -104,7 +105,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0640837617683653
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0629281816815283
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0624931802175677
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0567655789085492
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0564976354380105
@@ -113,7 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0515449708316097
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0506220473882064
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.048191585681675454
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0481915856816754
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0427197015569912
