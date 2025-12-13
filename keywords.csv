@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1216450542948871
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1206639013634559
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1201045903596005
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.11971331520686825
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1197133152068682
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1190467637624534
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0242147024736465
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0236354932555212
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0233340368787185
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.019833931346910725
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0179054039490098
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0166407325430775
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0158328303913348
