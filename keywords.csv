@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0236354932555212
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0179054039490098
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.016858841644874095
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.016858841644874
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0166407325430775
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0158328303913348
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.057247505319205e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,2.740529002151652e-06
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.4222448429487087e-09
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.2089081165064023e-09
