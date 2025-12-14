@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.203522846674045
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1827036040282554
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1786640318377871
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.17794624967293823
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.177433434798287
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
