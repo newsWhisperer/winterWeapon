@@ -118,7 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0416211414797913
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0379690807799599
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.03631174632344252
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0363117463234425
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
@@ -129,8 +129,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0242147024736465
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0236354932555212
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0198339313469107
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0179054039490098
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.016858841644874095
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0166407325430775
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0158328303913348
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
