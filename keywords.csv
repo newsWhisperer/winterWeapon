@@ -22,12 +22,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1513549312462448
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1495496921293365
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1490663723992347
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1484577274064823
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1470176612902125
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1428113513993403
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1420881407990701
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.136058398086064
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.13309538916476205
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.133095389164762
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
