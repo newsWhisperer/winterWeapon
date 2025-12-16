@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636820292556658
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1633483364142656
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1585846222023234
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,2,0.15858462220232336
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1583730649116677
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1581564412377285
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1578104506205311
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1115883153517071
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1115583341246694
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1103629226477039
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.11012629709135122
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1101262970913512
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
