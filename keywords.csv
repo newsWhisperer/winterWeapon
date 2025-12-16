@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636820292556658
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1633483364142656
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,2,0.15858462220232336
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,2,0.1585846222023233
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1583730649116677
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1581564412377285
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1578104506205311
@@ -131,11 +131,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0179054039490098
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0166407325430775
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0158328303913348
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0143300153981429
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.013932724992716
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.01345790583263458
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0080125291263598
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.005366348520246
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0047886926854002
