@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.1173377434303443
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1167044899551415
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.11564969837315438
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1156496983731543
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149343878738307
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
@@ -142,8 +142,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0037680236022198
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0022623827135536
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0009038538236503
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0007780419901318
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.000768275750102755
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0007109560585514
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004802446709628
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
