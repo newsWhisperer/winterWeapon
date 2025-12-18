@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.2002650420966806
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1861089071717405
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.18297778115128982
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1829777811512898
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1779462496729382
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.177433434798287
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
@@ -117,10 +117,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0416211414797913
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.040962847829424
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0379690807799599
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0363117463234425
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.032723763662965914
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,3,0.0298230758700027
