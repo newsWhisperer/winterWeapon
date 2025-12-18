@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.177433434798287
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.17052531578217853
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1705253157821785
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1695219094449292
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1678033258122009
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1643394090357354
@@ -30,7 +30,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1293106082517409
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1289259143722097
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.128788984429299
@@ -63,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1115883153517071
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1115583341246694
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.11051407701397976
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1101262970913512
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
