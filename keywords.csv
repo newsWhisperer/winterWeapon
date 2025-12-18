@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.2002650420966806
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1861089071717405
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1827036040282554
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.18297778115128982
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1779462496729382
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.177433434798287
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1293106082517409
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.12923753191579265
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1289259143722097
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.128788984429299
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
