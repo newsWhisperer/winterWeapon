@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1484577274064823
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1428113513993403
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.13583967653459073
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.133095389164762
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
@@ -34,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1289259143722097
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.128788984429299
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1272485809497859
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1253793624593384
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.123252962489276
