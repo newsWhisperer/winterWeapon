@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1484577274064823
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1428113513993403
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.13583967653459073
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1358396765345907
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.133095389164762
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.013932724992716
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0134579058326345
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0080125291263598
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.00681064975740583
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.005366348520246
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0047886926854002
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0037680236022198
