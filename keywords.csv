@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1861089071717405
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1847270666222952
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1829777811512898
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1779462496729382
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.177433434798287
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004802446709628
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.057247505319205e-05
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,2.3294496518289042e-06
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,2.329449651828904e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.2089081165064023e-09
