@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1705253157821785
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1695219094449292
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1678033258122009
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1643394090357354
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1639212505816009
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636820292556658
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1484577274064823
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1428113513993403
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.14263284194037074
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1358396765345907
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.133095389164762
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
@@ -119,7 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0363117463234425
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.034818420655010396
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0348184206550103
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0327237636629659
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
