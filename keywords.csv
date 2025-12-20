@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1639212505816009
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636820292556658
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1633483364142656
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1586300467449173
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.16251732746045242
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,2,0.1585846222023233
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1583730649116677
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1581564412377285
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1484577274064823
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1428113513993403
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.14263284194037074
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1426328419403707
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1358396765345907
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.133095389164762
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
