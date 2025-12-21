@@ -115,9 +115,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0416211414797913
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0363117463234425
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.03552798525782261
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0348184206550103
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0327237636629659
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.02781182839805
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0236354932555212
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.021332572102599524
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0213325721025995
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0179054039490098
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0166407325430775
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
