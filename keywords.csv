@@ -34,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1289259143722097
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.128788984429299
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.12829564571648094
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1253793624593384
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.123252962489276
@@ -67,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1076740222332931
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1073079631252689
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1047169689731555
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1034428377329738
@@ -117,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0363117463234425
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.03552798525782261
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0355279852578226
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0348184206550103
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0327237636629659
