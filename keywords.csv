@@ -24,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1490663723992347
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1484577274064823
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.14287633329393085
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1428113513993403
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1358396765345907
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.133095389164762
@@ -58,7 +59,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1142379074283718
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,3,0.1139857252104009
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,1,0.1139633828668094
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1132619900450426
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1115883153517071
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1115583341246694
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0007780419901318
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0007682757501027
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.00060431264976869
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0006043126497686
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004802446709628
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.057247505319205e-05
