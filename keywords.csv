@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1428763332939308
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1428113513993403
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1358396765345907
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.13425162081771036
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1342516208177103
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.133095389164762
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
@@ -81,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
-'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0951967693711419
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0938084842505483
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.093306131050616
@@ -92,6 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0842007114867438
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
+'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.08271792896547062
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0794922789974894
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0793700475572136
