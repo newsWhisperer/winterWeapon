@@ -27,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1428763332939308
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1428113513993403
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1358396765345907
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.13425162081771036
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.133095389164762
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
@@ -36,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.128788984429299
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1282956457164809
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1253793624593384
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.123252962489276
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
-'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.09519676937114191
+'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0951967693711419
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,3,0.0945553515239206
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0938084842505483
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.093306131050616
