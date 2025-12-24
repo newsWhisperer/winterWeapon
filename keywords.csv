@@ -22,9 +22,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1560963706023884
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1521397236894392
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.151864667062119
-'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1498402297211676
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1495496921293365
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1484577274064823
+'Gas Putin',de,Russland,#a6190f,#a31223,3,0.14595250889935607
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1428763332939308
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1358396765345907
