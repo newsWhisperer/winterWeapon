@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1633483364142656
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1625173274604524
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,2,0.1585846222023233
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1583730649116677
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.1583730649116677
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1581564412377285
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1578104506205311
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1574935418616674
@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1180321504561717
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.11701603372249599
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1170160337224959
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1167044899551415
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1156496983731543
