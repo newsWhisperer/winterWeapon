@@ -5,6 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1829777811512898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1803650781158846
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.177433434798287
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.17611302523561118
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1705253157821785
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636820292556658
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1633483364142656
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1625173274604524
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,2,0.1585846222023233
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.1583730649116677
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1581564412377285
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1574935418616674
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0047886926854002
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0045613962422091
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0037680236022198
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.00207304030652056
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0020730403065205
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0007780419901318
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0007682757501027
