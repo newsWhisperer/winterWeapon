@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1847270666222952
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1829777811512898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1803650781158846
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.177433434798287
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.17611302523561118
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1761130252356111
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1739514527603621
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1705253157821785
