@@ -110,11 +110,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0564976354380105
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0544711975031105
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
-'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0506220473882064
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
+'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.04392883027997544
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0363117463234425
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0355279852578226
