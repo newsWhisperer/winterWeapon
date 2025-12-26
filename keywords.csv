@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1984390630274514
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1971152631310883
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.18926823162895093
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1892682316289509
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1829777811512898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1803650781158846
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1773784296890482
@@ -35,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1289259143722097
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,2,0.128788984429299
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1282956457164809
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1105140770139797
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1101262970913512
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.10947063676490415
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1073079631252689
