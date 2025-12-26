@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1984390630274514
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1971152631310883
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1954733835733337
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1892682316289509
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1829777811512898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1803650781158846
@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1105140770139797
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1101262970913512
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.10947063676490415
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.1094706367649041
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1073079631252689
