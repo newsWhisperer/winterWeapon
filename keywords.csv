@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1495496921293365
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.145952508899356
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.14338514700280117
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1433851470028011
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1428763332939308
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1358396765345907
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1342516208177103
@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,3,0.0298230758700027
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.02781182839805
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.023640054138342498
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0236354932555212
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0185827312872095
