@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1971152631310883
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20431773047960686
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1954733835733337
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1892682316289509
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1829961925084182
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1528895150430348
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1517387502917253
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1495496921293365
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.14535677806277497
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1453567780627749
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1449465334148517
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1433851470028011
