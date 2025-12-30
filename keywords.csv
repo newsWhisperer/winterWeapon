@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.013932724992716
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0134579058326345
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0121805130884214
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0068106497574058
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.00578905229379493
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0047886926854002
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0045613962422091
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0032028200618868
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0007780419901318
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0007682757501027
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.00051366575230331
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0005136657523033
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004802446709628
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.057247505319205e-05
