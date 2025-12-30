@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2043177304796068
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.19680349408948397
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1892682316289509
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1829961925084182
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1829777811512898
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.013932724992716
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0134579058326345
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0121805130884214
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.00578905229379493
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0057890522937949
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0047886926854002
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0045613962422091
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0032028200618868
