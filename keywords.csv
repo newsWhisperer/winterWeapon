@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20431773047960686
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1954733835733337
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2043177304796068
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1892682316289509
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1829961925084182
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1829777811512898
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.1713985319930993
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1695219094449292
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.16840260103733362
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1668814625057288
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1639212505816009
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636820292556658
