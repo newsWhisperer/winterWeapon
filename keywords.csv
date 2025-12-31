@@ -69,7 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1073079631252689
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1047169689731555
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1046146091115896
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.10347977105191784
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1034797710519178
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1034428377329738
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1017564079258379
@@ -145,8 +145,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0007780419901318
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0007682757501027
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0005136657523033
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004802446709628
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.00040820797031837996
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.057247505319205e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.980032204054568e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.2089081165064023e-09
