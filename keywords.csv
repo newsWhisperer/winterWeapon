@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1668814625057288
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1639212505816009
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636820292556658
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1626781768846082
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1625173274604524
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1621811250593068
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1581564412377285
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1433851470028011
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1428763332939308
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.14007663035191698
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1358396765345907
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1342516208177103
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.04630051787764392
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0463005178776439
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0439288302799754
