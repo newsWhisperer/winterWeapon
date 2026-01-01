@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1695219094449292
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1684026010373336
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1668814625057288
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.16490635228475742
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1649063522847574
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1639212505816009
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636820292556658
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1625173274604524
@@ -129,8 +129,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0185827312872095
-'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0179054039490098
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0166407325430775
+'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.015219593356658331
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.013932724992716
