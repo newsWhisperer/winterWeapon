@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1433851470028011
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1428763332939308
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.14007663035191698
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1400766303519169
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1358396765345907
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1342516208177103
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
@@ -126,8 +126,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,3,0.0298230758700027
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0236400541383424
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0236354932555212
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.02009016926719302
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0185827312872095
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0179054039490098
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0166407325430775
