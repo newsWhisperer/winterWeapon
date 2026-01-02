@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1968034940894839
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1829961925084182
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1803650781158846
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.17678017952151584
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1764572794985569
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1739514527603621
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
@@ -106,7 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0624931802175677
-'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.06050096707226682
+'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0605009670722668
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0564976354380105
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
