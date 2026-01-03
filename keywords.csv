@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1433851470028011
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1428763332939308
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1400766303519169
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1358396765345907
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1342516208177103
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
@@ -42,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1220465508394787
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1216450542948871
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.12086531579912935
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1206639013634559
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1201045903596005
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
