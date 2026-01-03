@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1220465508394787
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1216450542948871
-'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.12086531579912935
+'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1208653157991293
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1206639013634559
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1201045903596005
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
@@ -77,7 +77,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1012357798879442
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1007819889296811
-'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.1007772534777462
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
@@ -85,6 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.093306131050616
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0914054199033468
+'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.09061372545608426
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0842007114867438
