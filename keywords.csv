@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1282956457164809
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1270227665382862
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.12637489825523995
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1263748982552399
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1220465508394787
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0005136657523033
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,1.057247505319205e-05
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,8.986603795213243e-06
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.980032204054568e-06
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,1.2089081165064023e-09
