@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1428763332939308
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1358396765345907
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1342516208177103
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1321556225462716
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1300688401360233
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1282956457164809
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1270227665382862
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.12637489825523995
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1220465508394787
@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0459188033274918
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0439288302799754
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.039355440195997314
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0393554401959973
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0363117463234425
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0355279852578226
