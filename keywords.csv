@@ -93,9 +93,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0827179289654706
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.079887226612966
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0794922789974894
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0793700475572136
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.07706560169332052
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.074525725439021
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,3,0.0298230758700027
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.027965214113521014
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.027965214113521
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0236400541383424
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
