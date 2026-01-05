@@ -95,7 +95,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.079887226612966
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0793700475572136
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.07706560169332052
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0770656016933205
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.074525725439021
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.0741890875338908
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0032028200618868
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0020730403065205
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0007780419901318
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00081135069161203
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0007682757501027
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0005136657523033
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
