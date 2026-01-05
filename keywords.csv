@@ -21,13 +21,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1574935418616674
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1517387502917253
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1495496921293365
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1453567780627749
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1449465334148517
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1433851470028011
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1428763332939308
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1358396765345907
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1342516208177103
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1330512508988132
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1300688401360233
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0032028200618868
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0020730403065205
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00081135069161203
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.000811350691612
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0007682757501027
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0005136657523033
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
