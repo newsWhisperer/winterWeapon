@@ -25,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1433851470028011
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1428763332939308
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.13840785039413012
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1358396765345907
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1342516208177103
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1330512508988132
@@ -67,10 +68,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1073079631252689
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.10592671207302773
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1059267120730277
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1047169689731555
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1046146091115896
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1034797710519178
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1017564079258379
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
