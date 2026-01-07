@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1803650781158846
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1767801795215158
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1764572794985569
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1739514527603621
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1695219094449292
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1684026010373336
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1668814625057288
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1643055766841975
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1639212505816009
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636820292556658
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1625173274604524
@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1190467637624534
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.11809671783501056
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1180967178350105
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1180321504561717
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1175398827373987
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1170160337224959
