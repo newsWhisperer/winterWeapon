@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1739514527603621
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1718169400863523
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0134579058326345
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0121805130884214
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.011842816243808599
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0118428162438085
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0049206944497256
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0045613962422091
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0038873732152015
