@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,3,0.0298230758700027
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.025156308923244892
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0251563089232448
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0236400541383424
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0100663938072372
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0049206944497256
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0045613962422091
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0038873732152015
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0034542822329212746
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0032028200618868
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0020730403065205
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
