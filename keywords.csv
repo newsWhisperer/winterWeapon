@@ -123,8 +123,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,3,0.0298230758700027
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0295956575567587
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.025156308923244892
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0236400541383424
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0141446226616158
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0121805130884214
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.011439219957739326
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0114392199577393
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0100663938072372
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0049206944497256
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0045613962422091
