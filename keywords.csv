@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.18141279109668856
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1814127910966885
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1581564412377285
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1574935418616674
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1542104063985019
-'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1517387502917253
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1502497014917542
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.1499888525737733
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1449465334148517
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1433851470028011
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1428763332939308
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1342516208177103
+'Gas Putin',de,Russland,#a6190f,#a31223,3,0.13392876274796647
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1330512508988132
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1300688401360233
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
