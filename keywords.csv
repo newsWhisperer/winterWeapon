@@ -17,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1581564412377285
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1574935418616674
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1542104063985019
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1514490104741214
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1502497014917542
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,1,0.1499888525737733
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.147636712886839
@@ -28,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1339287627479664
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1330512508988132
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1300688401360233
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1295543871888059
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1289259143722097
@@ -119,7 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0355279852578226
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.03345212416659771
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0334521241665977
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,3,0.0298230758700027
