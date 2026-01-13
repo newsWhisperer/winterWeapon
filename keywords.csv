@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1502497014917542
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.147636712886839
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1449465334148517
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.14492655397342158
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1449265539734215
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1433851470028011
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1428763332939308
@@ -109,10 +109,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0624931802175677
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0621636710101862
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0605009670722668
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0531759506549501
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0480234251223089
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.045199558056707584
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0439288302799754
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0363117463234425
