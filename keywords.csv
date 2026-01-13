@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1784129472491756
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1718169400863523
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.1713985319930993
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1702387187981629
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1689839636555139
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1684026010373336
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1668814625057288
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.000811350691612
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0007682757501027
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.000436615889457805
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0004366158894578
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001500160275718
