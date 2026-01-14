@@ -112,7 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0480234251223089
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.045199558056707584
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0451995580567075
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0446654633026981
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0439288302799754
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0363117463234425
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0004366158894578
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001500160275718
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.00027752862343603
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,8.986603795213243e-06
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.980032204054568e-06
