@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1718169400863523
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.17148378058241728
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.1713985319930993
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1702387187981629
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1621811250593068
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1587584430784074
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1581564412377285
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1574935418616674
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1542104063985019
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1514490104741214
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1502497014917542
@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0621636710101862
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0605009670722668
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.05356924818493255
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0535692481849325
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0480234251223089
