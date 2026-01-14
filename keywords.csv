@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.116064280054402
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1156496983731543
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
-'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.1149343878738307
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1142379074283718
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1139857252104008
@@ -72,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1047169689731555
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1046146091115896
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
+'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.10264520469275609
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1017564079258379
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1012357798879442
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0004366158894578
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.00027752862343603
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.000277528623436
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,8.986603795213243e-06
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.980032204054568e-06
