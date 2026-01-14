@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1047169689731555
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1046146091115896
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
-'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.10264520469275609
+'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.102645204692756
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1017564079258379
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,1,0.1015023053952166
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1012357798879442
@@ -106,9 +106,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0624931802175677
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0621636710101862
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0605009670722668
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.05356924818493255
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0480234251223089
