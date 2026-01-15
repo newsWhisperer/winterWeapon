@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1514490104741214
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1502497014917542
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.147636712886839
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1449465334148517
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1449265539734215
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1439565196001899
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1433851470028011
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1282956457164809
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1270227665382862
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.12320455340262394
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1220465508394787
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1216450542948871
@@ -127,7 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0236400541383424
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.021382862584758078
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.021382862584758
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0185827312872095
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0152195933566583
