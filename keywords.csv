@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.17862292994805132
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1786229299480513
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
@@ -105,6 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0634496744895022
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0621636710101862
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,2,0.0605033943875872
@@ -123,7 +124,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0334521241665977
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0298230758700026
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0251563089232448
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0236400541383424
