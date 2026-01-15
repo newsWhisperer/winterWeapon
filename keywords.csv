@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.20065301719413436
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2006530171941343
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1786229299480513
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
@@ -125,9 +125,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0251563089232448
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0236400541383424
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.021382862584758078
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0185827312872095
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0152195933566583
