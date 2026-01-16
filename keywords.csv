@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2006530171941343
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1786229299480513
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.18405776772857085
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1282956457164809
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1270227665382862
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.12320455340262394
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1220465508394787
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1216450542948871
