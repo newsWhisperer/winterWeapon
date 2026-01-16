@@ -84,6 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.093306131050616
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0917360710087538
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,2,0.09109535159412807
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
@@ -129,7 +130,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.021382862584758
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0185827312872095
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0152195933566583
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0141446226616158
