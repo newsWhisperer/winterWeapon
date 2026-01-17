@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.216428810524105
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.21282368233258603
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.2101644158669985
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1840577677285708
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.17798580076778187
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1779858007677818
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
