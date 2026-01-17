@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.216428810524105
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.21016441586699858
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.2101644158669985
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1840577677285708
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.17798580076778187
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1718169400863523
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1714837805824172
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1702387187981629
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1689839636555139
