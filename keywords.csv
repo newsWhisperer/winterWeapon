@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.21282368233258603
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.212823682332586
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.2101644158669985
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1840577677285708
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1779858007677818
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1639212505816009
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636820292556658
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1621811250593068
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.16078535019806908
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1587584430784074
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1581564412377285
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1542104063985019
