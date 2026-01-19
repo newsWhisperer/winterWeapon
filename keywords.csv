@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.2101644158669985
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.19040361998269809
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.190403619982698
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1840577677285708
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.17878976848694872
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
