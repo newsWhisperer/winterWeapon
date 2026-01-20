@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1413334632639912
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1342516208177103
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1339287627479664
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.13242769107047384
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1324276910704738
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1300688401360233
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0049206944497256
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0045613962422091
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0034542822329212
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0032028200618868
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.00302242705260378
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0020730403065205
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.000811350691612
