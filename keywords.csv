@@ -92,7 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0827179289654706
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
-'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.08037270879533251
+'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0803727087953325
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.079887226612966
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0770656016933205
@@ -122,10 +122,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0355279852578226
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0334521241665977
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.028434305541608043
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0236400541383424
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0235036318968734
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.021382862584758
