@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0141446226616158
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0121805130884214
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.009723336964078405
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0097233369640784
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0085564347361516
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0049206944497256
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0038771868058777
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0030224270526037
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0020730403065205
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.000811350691612
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0006896480878702
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0004366158894578
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
