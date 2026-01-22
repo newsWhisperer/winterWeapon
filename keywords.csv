@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1893802675692851
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.17984198243389232
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1787897684869487
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1342516208177103
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1339287627479664
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1324276910704738
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.13218990514194642
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1321899051419464
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1300688401360233
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
