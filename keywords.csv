@@ -76,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.102645204692756
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,2,0.1012357798879442
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.10093024667159525
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1007819889296811
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
@@ -102,7 +103,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0742204769964928
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0740939893254743
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.0705052164124958
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.070135159185834
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
@@ -123,7 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.03019878746914921
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0301987874691492
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.028434305541608
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0236400541383424
