@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1282956457164809
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.127712831267991
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1270227665382862
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.12628230015975891
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1262823001597589
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
@@ -120,10 +120,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0379656438072933
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0363117463234425
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0355279852578226
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.03019878746914921
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.028434305541608
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0236400541383424
