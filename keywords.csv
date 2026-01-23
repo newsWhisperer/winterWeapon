@@ -96,8 +96,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0803727087953325
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.079887226612966
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.07968200643932243
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0770656016933205
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.074525725439021
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0740939893254743
@@ -105,7 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.06428752544701888
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0634496744895022
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0621636710101862
