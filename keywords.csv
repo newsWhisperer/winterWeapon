@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1798419824338923
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.18509510234153573
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1787897684869487
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0085564347361516
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0049206944497256
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0034542822329212
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.003295608784996045
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.003295608784996
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0030224270526037
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0020730403065205
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
