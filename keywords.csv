@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.20381571454520658
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2038157145452065
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1850951023415357
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.18314110858971333
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1787897684869487
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1718169400863523
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.171205221870251
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1702387187981629
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1684026010373336
