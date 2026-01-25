@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.2038157145452065
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1850951023415357
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1831411085897133
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1787897684869487
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.17369341736342553
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1718169400863523
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0121805130884214
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.012022929262373428
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0120229292623734
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0097233369640784
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0085564347361516
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0049206944497256
