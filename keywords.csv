@@ -9,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1718169400863523
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1702387187981629
+'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1684026010373336
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1643055766841975
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636820292556658
@@ -16,9 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.160785350198069
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1587584430784074
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1552886566601614
-'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1542104063985019
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1541275999523809
-'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.15259337362820555
+'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1525933736282055
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1514490104741214
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1508864245132355
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.147636712886839
