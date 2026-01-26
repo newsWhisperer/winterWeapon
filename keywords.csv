@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1339287627479664
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1324276910704738
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1323399282135569
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1321899051419464
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1300688401360233
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.12265459151351157
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1216450542948871
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.121461297607863
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1208653157991293
