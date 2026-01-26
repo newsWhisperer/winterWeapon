@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1339287627479664
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1324276910704738
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1323399282135569
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1300688401360233
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1289259143722097
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1139857252104008
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1115883153517071
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1115583341246694
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1105140770139797
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.028434305541608
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0236400541383424
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.021382862584758
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.020128102112342387
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201281021123423
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0152195933566583
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
