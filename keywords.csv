@@ -127,10 +127,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0301987874691492
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.028434305541608
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.021382862584758
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201281021123423
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.020094046017591
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.018325448197044302
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0152195933566583
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0005862008746896
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.00037112350603913
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0003711235060391
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.000277528623436
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,7.638613225931257e-06
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.980032204054568e-06
