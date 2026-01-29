@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1900376466596278
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1834157352519313
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1831411085897133
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1787897684869487
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1758189843487768
@@ -12,13 +13,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1684026010373336
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1643055766841975
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1636820292556658
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1621811250593068
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1602199326683586
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1587584430784074
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1552886566601614
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1541275999523809
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.15268809587740825
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1526880958774082
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1525933736282055
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.1520621142605424
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1514490104741214
