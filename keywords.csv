@@ -2,9 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1900376466596278
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1831411085897133
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1787897684869487
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.17581898434877682
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1758189843487768
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1736934173634255
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1718169400863523
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.1520621142605424
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1514490104741214
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1508864245132355
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1480894647589117
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.147636712886839
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1449265539734215
