@@ -97,7 +97,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0827179289654706
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0803727087953325
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.079887226612966
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0796820064393224
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
@@ -106,6 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.0705052164124958
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0679041426210211
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0634496744895022
