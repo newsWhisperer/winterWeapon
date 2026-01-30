@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1787897684869487
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1758189843487768
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.17464236088173354
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1746423608817335
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1718169400863523
@@ -27,9 +27,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.147636712886839
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1413334632639912
+'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.13562126716334155
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1339287627479664
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1324276910704738
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1323399282135569
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1289259143722097
