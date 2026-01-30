@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1903838130477804
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.22496328751918476
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1834157352519313
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1831411085897133
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.18127109316113718
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1812710931611371
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1787897684869487
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1758189843487768
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1755373275735805
