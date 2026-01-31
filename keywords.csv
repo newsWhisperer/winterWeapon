@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1718169400863523
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1702387187981629
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1643055766841975
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1621811250593068
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1602199326683586
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1587584430784074
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1541940506558578
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1541275999523809
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1526880958774082
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1525933736282055
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1201045903596005
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1192026645859341
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.11905670157779233
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.1190567015777923
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1190467637624534
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1180321504561717
