@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.22496328751918476
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2249632875191847
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1834157352519313
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1831411085897133
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1812710931611371
@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1480894647589117
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.147636712886839
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1413334632639912
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1339287627479664
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1324276910704738
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1282956457164809
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.127712831267991
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1270227665382862
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.12508638377439252
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
