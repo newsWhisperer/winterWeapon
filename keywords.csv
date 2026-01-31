@@ -29,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1339287627479664
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1324276910704738
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1316153342370272
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1289259143722097
@@ -36,7 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1282956457164809
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.127712831267991
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1270227665382862
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.12508638377439252
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1250863837743925
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,2,0.1231359168417876
@@ -89,7 +90,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,2,0.091095351594128
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.087253193220032
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0864929467369622
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0842007114867438
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
