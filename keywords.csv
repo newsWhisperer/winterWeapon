@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.194891680914429
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.18856963934820137
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1834157352519313
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1831411085897133
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1812710931611371
@@ -112,12 +113,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0621636710101862
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,2,0.0605033943875872
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0605009670722668
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.05483231331607687
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0548323133160768
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0535692481849325
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0480234251223089
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.0451995580567075
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0439288302799754
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0379656438072933
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
