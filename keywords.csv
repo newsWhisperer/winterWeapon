@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2249632875191847
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.22345037166403425
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1834157352519313
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1831411085897133
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1812710931611371
@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201281021123423
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0170799391149523
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.015726645967487653
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0157266459674876
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0152195933566583
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
