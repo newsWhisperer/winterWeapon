@@ -73,7 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1073079631252689
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1059267120730277
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1047169689731555
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.10466560431551945
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1046656043155194
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1046146091115896
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.102645204692756
@@ -119,13 +119,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0480234251223089
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0439288302799754
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.043641000212661846
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0379656438072933
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0308649843749261
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0294738900897626
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.028434305541608
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201281021123423
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
