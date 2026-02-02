@@ -16,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1621811250593068
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1602199326683586
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1587584430784074
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.15841937095381314
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1541940506558578
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1541275999523809
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1526880958774082
@@ -25,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1508864245132355
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1499461567494734
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1480894647589117
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.147636712886839
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1339287627479664
