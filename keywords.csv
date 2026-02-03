@@ -14,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1643055766841975
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1621811250593068
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.16097280617573048
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1602199326683586
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1587584430784074
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1584193709538131
@@ -22,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1526880958774082
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1525933736282055
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.1520621142605424
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1514490104741214
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1508864245132355
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1499461567494734
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1480894647589117
@@ -119,7 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0480234251223089
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0439288302799754
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.043641000212661846
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0436410002126618
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0379656438072933
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
