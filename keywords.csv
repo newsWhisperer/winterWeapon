@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.194891680914429
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.19114024276810482
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1911402427681048
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1834157352519313
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1831411085897133
@@ -129,10 +129,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.028434305541608
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201281021123423
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0170799391149523
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0157266459674876
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0152195933566583
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.014517948247709455
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0120229292623734
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0103534361251581
