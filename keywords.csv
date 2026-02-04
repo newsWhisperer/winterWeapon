@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.194891680914429
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1911402427681048
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1834157352519313
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1831411085897133
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1812710931611371
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1787897684869487
@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1324276910704738
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1321328725995161
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1316153342370272
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.12955282712146104
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.129552827121461
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1289259143722097
