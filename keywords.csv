@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1541275999523809
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1526880958774082
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1525933736282055
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.1520621142605424
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1508864245132355
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1499461567494734
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1480894647589117
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.1324276910704738
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1321328725995161
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1316153342370272
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.12955282712146104
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1289259143722097
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0157266459674876
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0152195933566583
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.014517948247709455
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0145179482477094
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0120229292623734
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0103534361251581
