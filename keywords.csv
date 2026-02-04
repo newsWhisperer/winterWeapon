@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1812710931611371
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1803235533100237
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1787897684869487
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,2,0.1758189843487768
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1718169400863523
@@ -24,8 +23,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1525933736282055
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1508864245132355
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1499461567494734
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.14944615169646028
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1480894647589117
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.14624633547441884
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1462463354744188
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1339287627479664
