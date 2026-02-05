@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1525933736282055
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1508864245132355
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1499461567494734
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.14944615169646028
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1494461516964602
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1480894647589117
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1462463354744188
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
@@ -89,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0917360710087538
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,2,0.091095351594128
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.09065843865392588
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0864929467369622
@@ -102,7 +103,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.074525725439021
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0740939893254743
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.0705052164124958
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
