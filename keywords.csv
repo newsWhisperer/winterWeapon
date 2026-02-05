@@ -92,7 +92,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0906584386539258
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0864929467369622
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0842007114867438
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
@@ -103,6 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.074525725439021
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.07366901972641787
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.0705052164124958
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
