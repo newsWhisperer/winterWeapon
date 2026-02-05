@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.194891680914429
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.19389715443727445
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1938971544372744
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1911402427681048
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
@@ -30,7 +30,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1339287627479664
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1321328725995161
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1316153342370272
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,2,0.129552827121461
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
@@ -62,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1139857252104008
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.11232307910147311
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1115583341246694
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1105140770139797
