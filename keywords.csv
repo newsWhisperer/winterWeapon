@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.194891680914429
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.19389715443727445
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1911402427681048
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
@@ -7,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1812710931611371
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1803235533100237
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1787897684869487
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1728303346320876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1718169400863523
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
@@ -89,7 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0917360710087538
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,2,0.091095351594128
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.09065843865392588
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0906584386539258
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0864929467369622
