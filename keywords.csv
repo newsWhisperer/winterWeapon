@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.19539794135288907
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1938971544372744
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1911402427681048
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1831411085897133
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1812710931611371
@@ -37,7 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1270227665382862
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1250863837743925
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.12375058144521565
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1226545915135115
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.121650248048951
