@@ -123,7 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0436410002126618
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.03227079723619931
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0308649843749261
@@ -144,9 +144,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0028012674672466
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004982707434861
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0004199358101241
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0003711235060391
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.000356945438605485
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.000277528623436
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,7.638613225931257e-06
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.980032204054568e-06
