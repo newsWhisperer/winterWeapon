@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1803235533100237
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1801673037772646
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1787897684869487
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.17361054706755266
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1736105470675526
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1718169400863523
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
@@ -126,8 +126,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0308649843749261
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.028434305541608
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.026235236718687185
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0201281021123423
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0157266459674876
