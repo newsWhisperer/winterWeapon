@@ -8,13 +8,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1803235533100237
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1801673037772646
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1787897684869487
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.17361054706755266
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1718169400863523
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1708536068870831
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1673388729088406
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1621811250593068
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1609728061757304
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1587584430784074
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1584193709538131
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1541940506558578
