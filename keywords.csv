@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1587584430784074
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1584193709538131
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1582262353135201
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.15554696407339944
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1555469640733994
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1541940506558578
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1541275999523809
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1526880958774082
@@ -88,8 +88,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0932000562501684
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0917360710087538
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,3,0.09110188694674602
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,2,0.091095351594128
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0906584386539258
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0882366993531595
