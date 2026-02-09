@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1831411085897133
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1812710931611371
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1803235533100237
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1801673037772646
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1787897684869487
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1736105470675526
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1621811250593068
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1587584430784074
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1584193709538131
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.15822623531352015
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1541940506558578
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1541275999523809
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1526880958774082
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.028434305541608
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0262352367186871
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.017408916795490954
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0174089167954909
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0157266459674876
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0145179482477094
