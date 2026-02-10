@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1494461516964602
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1480894647589117
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1465569988524458
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1462463354744188
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1270227665382862
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1250863837743925
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.12490994015325597
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0932000562501684
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0917360710087538
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,3,0.09110188694674602
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,3,0.091101886946746
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,2,0.091095351594128
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
