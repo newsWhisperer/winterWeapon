@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.195397941352889
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1938971544372744
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1831411085897133
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1812710931611371
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1801673037772646
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1801327742408647
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1787897684869487
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1736105470675526
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1270227665382862
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1250863837743925
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.12490994015325597
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1249099401532559
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
