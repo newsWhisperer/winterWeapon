@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.21494077423182043
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.2149407742318204
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1938971544372744
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
@@ -102,7 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0796820064393224
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.074525725439021
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0768355231616294
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.0705052164124958
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
