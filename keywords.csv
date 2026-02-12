@@ -129,8 +129,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.028434305541608
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0262352367186871
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0174089167954909
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0157266459674876
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.015097609276167264
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0145179482477094
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0041825902822667
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0034542822329212
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0028012674672466
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0025690629947131447
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0025690629947131
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004982707434861
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
