@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1938971544372744
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.18735679130041077
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1873567913004107
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1831411085897133
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1812710931611371
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1801673037772646
@@ -15,13 +15,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1673388729088406
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1587584430784074
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.15854913097107143
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1584193709538131
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1582262353135201
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1555469640733994
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1541940506558578
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1541275999523809
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1526880958774082
-'Erdgas Russland',de,Russland,#a6190f,#b32233,2,0.1525933736282055
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1508864245132355
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1499461567494734
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1465569988524458
