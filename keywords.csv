@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1938971544372744
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.18735679130041077
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1831411085897133
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1812710931611371
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1801673037772646
@@ -12,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1673388729088406
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1621811250593068
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1587584430784074
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1584193709538131
