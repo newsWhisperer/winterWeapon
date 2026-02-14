@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.2149407742318204
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2071169912716832
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20173540151796907
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.201735401517969
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1873567913004107
@@ -140,8 +140,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0084148514194666
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0041825902822667
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0034542822329212
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0028012674672466
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0025690629947131
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0023810773471596098
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004982707434861
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
