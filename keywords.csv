@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.2149407742318204
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2071169912716832
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20173540151796907
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1873567913004107
@@ -13,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1673388729088406
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1587584430784074
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
