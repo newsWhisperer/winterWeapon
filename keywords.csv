@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1798033322801469
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1759740616743774
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1742614359376199
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.17356173209130338
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1716180992518008
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1582262353135201
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1541940506558578
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1539727840592508
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.15333560149579697
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1533356014957969
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1508864245132355
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1499461567494734
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1465569988524458
