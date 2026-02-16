@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2071169912716832
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.20264977809704732
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.2026497780970473
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.201735401517969
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1582262353135201
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1541940506558578
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1539727840592508
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1526880958774082
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.15333560149579697
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1508864245132355
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1499461567494734
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1465569988524458
