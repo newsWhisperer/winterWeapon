@@ -8,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1812710931611371
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1801327742408647
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1798033322801469
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.17597406167437749
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1742614359376199
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1716180992518008
@@ -16,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1587584430784074
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1584193709538131
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1582262353135201
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1541940506558578
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1539727840592508
@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1289259143722097
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.12886834192535812
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1288683419253581
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1271792439419911
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1270227665382862
