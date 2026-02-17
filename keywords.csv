@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1798033322801469
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1759740616743774
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1742614359376199
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.17356173209130338
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1735617320913033
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
@@ -51,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.1190567015777923
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1184909033357714
+'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.11837873900596897
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1180321504561717
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1170160337224959
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
@@ -63,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1139857252104008
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1123230791014731
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
-'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1115583341246694
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1105140770139797
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1101262970913512
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.1101199330532418
