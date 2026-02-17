@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2071169912716832
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.21835398758093072
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.2026497780970473
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.201735401517969
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.1190567015777923
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1184909033357714
-'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.11837873900596897
+'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1180321504561717
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1170160337224959
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
