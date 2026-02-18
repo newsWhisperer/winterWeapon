@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2146960670272223
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.2026497780970473
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.201735401517969
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.19198373197313895
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1873567913004107
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1812710931611371
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1533356014957969
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1508864245132355
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1499461567494734
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.14853421410740117
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1485342141074011
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1465569988524458
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
