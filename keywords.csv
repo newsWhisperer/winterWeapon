@@ -1,8 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.2026497780970473
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.201735401517969
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.19766243274567852
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.19198373197313895
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1919837319731389
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1873567913004107
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1812710931611371
@@ -16,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1678362598756609
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1587584430784074
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1539727840592508
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1533356014957969
