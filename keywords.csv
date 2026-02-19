@@ -103,6 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0768355231616294
+'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.07518069746597222
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.0705052164124958
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
@@ -112,8 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0621636710101862
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,2,0.0605033943875872
-'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0605009670722668
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.05771852122786793
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0577185212278679
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0548323133160768
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0535692481849325
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
