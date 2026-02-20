@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1187624720142177
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1184909033357714
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.11832876866412152
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1183287686641215
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1180321504561717
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1167044899551415
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0025690629947131
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0023810773471596
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004982707434861
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00042353013196318504
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0003154549801332
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0003034036228145
