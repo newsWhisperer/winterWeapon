@@ -24,7 +24,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1485342141074011
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1465569988524458
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
-'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.14094288977551392
+'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409428897755139
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.13941474908172763
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1329586549595237
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
@@ -72,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.108240045135795
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1073079631252689
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1047169689731555
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1046656043155194
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1046146091115896
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
