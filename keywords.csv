@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.2026497780970473
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.19739228990875268
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1973922899087526
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1950271312902736
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1919837319731389
@@ -116,9 +116,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0577185212278679
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0548323133160768
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0535692481849325
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.050315980899417106
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,1,0.0480234251223089
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0439288302799754
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0436410002126618
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
