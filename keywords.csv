@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409428897755139
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1394147490817276
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1329586549595237
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1289259143722097
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.116064280054402
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1156496983731543
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.11541509671559513
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1139857252104008
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1123230791014731
@@ -116,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0577185212278679
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0548323133160768
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0535692481849325
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.050315980899417106
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0503159808994171
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0439288302799754
