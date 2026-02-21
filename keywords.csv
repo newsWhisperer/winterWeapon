@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.2026497780970473
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1975163528338267
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.19739228990875268
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1950271312902736
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1919837319731389
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0025690629947131
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0023810773471596
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00042353013196318504
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004235301319631
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0003154549801332
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0003034036228145
