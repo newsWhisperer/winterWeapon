@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1678362598756609
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035007
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1539727840592508
@@ -129,11 +129,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.028434305541608
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0189549585292514
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0157266459674876
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0150976092761671
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0145179482477094
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.01336764907236446
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0102194898730173
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0088004207063843
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0085564347361516
