@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1840824974232207
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.183755792605349
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1801327742408647
+'Blackout',de,Other,#545557,#6b6c6e,3,0.17981037210596748
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1798033322801469
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1742614359376199
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1735617320913033
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1728023495364323
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1678362598756609
@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1293124221364135
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1289259143722097
-'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.12862862893935778
+'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1286286289393577
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.128125564272918
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.127998816264923
