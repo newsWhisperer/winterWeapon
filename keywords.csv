@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1843616602330962
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1840824974232207
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.183755792605349
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1801327742408647
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1798103721059674
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1798033322801469
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1678362598756609
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.16114477871454663
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1539727840592508
@@ -118,7 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0535692481849325
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.047719153764504536
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0477191537645045
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0439288302799754
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0436410002126618
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
