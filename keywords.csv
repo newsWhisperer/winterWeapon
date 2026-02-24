@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1973922899087526
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1919837319731389
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.18869726008246485
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1886972600824648
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1843616602330962
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1801327742408647
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.028434305541608
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0189549585292514
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.01611171474986369
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0150976092761671
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0145179482477094
