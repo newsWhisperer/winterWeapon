@@ -13,13 +13,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1735617320913033
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1678362598756609
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.16114477871454663
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1611447787145466
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1539727840592508
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1533356014957969
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1522210087514546
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1508864245132355
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1485342141074011
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1465569988524458
