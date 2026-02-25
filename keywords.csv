@@ -62,7 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1154150967155951
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1139857252104008
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.11369932646187027
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1136993264618702
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1123230791014731
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1105140770139797
@@ -99,8 +99,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0827179289654706
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0803727087953325
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0796820064393224
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.07722805501887858
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0768355231616294
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0751806974659722
