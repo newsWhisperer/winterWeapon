@@ -100,7 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0803727087953325
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.07722805501887858
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0772280550188785
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0768355231616294
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0751806974659722
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0041825902822667
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.002936139897983
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0025690629947131
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0023810773471596
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0020239157450856597
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004235301319631
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
