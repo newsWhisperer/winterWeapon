@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1183287686641215
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1180321504561717
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1167044899551415
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1160791432112054
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.116064280054402
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1156496983731543
@@ -63,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1154150967155951
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1139857252104008
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.11369932646187027
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1123230791014731
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1105140770139797
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.028434305541608
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.01611171474986369
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0161117147498636
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0150976092761671
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0145179482477094
