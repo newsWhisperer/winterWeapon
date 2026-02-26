@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.20450394854080442
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2045039485408044
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.2026497780970473
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1973922899087526
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
@@ -145,8 +145,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004235301319631
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0003034036228145
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.000277528623436
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0002681367331132
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.000257893079392325
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,7.638613225931257e-06
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.6830273734463829e-06
