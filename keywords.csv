@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1465569988524458
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409428897755139
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1397995311818955
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1286286289393577
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1192026645859341
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.1190567015777923
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.11883000650461117
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1184909033357714
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1183287686641215
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0102194898730173
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0085564347361516
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0084148514194666
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0074803576004266546
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0074803576004266
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0041825902822667
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.002936139897983
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0025690629947131
