@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1192026645859341
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.1190567015777923
-'Gazprom',de,Russland,#a6190f,#A33223,2,0.11884156238006989
+'Gazprom',de,Russland,#a6190f,#A33223,2,0.1188415623800698
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1188300065046111
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1184909033357714
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
@@ -70,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.1101199330532418
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.108240045135795
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1073079631252689
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1046656043155194
@@ -85,6 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0957205286739833
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0932000562501684
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.09290412836542575
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0917360710087538
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,2,0.091095351594128
