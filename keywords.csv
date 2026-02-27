@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1226545915135115
-'Gazprom',de,Russland,#a6190f,#A33223,2,0.121650248048951
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1216450542948871
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.121461297607863
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1208653157991293
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1192026645859341
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.1190567015777923
+'Gazprom',de,Russland,#a6190f,#A33223,2,0.11884156238006989
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1188300065046111
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1184909033357714
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
@@ -92,7 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0900380352620735
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0882366993531595
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,3,0.08693319845018864
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0869331984501886
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0842007114867438
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
