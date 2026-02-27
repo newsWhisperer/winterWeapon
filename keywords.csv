@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.2026497780970473
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1973922899087526
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1886972600824648
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1798033322801469
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1783325412596837
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1742614359376199
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1740524913824902
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1735617320913033
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1192026645859341
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.1190567015777923
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.11883000650461117
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1188300065046111
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1184909033357714
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1183287686641215
