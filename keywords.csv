@@ -80,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1009302466715952
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1007819889296811
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.09954789236406683
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0957205286739833
@@ -89,7 +90,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0917360710087538
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,2,0.091095351594128
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0900380352620735
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0882366993531595
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0869331984501886
