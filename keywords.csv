@@ -57,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1160791432112054
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.116064280054402
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.1156496983731543
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1154150967155951
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
@@ -80,8 +79,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.1009302466715952
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.1007819889296811
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.09954789236406683
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.0995478923640668
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.09845225861718115
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0957205286739833
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0932000562501684
