@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1740524913824902
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1735617320913033
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
-'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1691789054387266
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1611447787145466
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1603206892704969
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1485342141074011
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1465569988524458
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
+'Gaskrise',de,Other,#545557,#6b7c6e,1,0.14380226462291762
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409428897755139
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
@@ -84,7 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0957205286739833
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0932000562501684
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.09290412836542575
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0929041283654257
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0917360710087538
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,2,0.091095351594128
