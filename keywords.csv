@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Blackout',de,Other,#545557,#6b6c6e,3,0.19415554265370866
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1886972600824648
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,2,0.1885696393482013
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1843616602330962
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1801327742408647
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1798103721059674
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1798033322801469
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1783325412596837
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1772866264224397
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.0995478923640668
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.09845225861718115
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0984522586171811
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0957205286739833
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0932000562501684
