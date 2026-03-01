@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1798033322801469
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1783325412596837
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1772866264224397
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.17580373827424964
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1758037382742496
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1740524913824902
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1735617320913033
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0073026387065466
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0041825902822667
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.002936139897983
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0025690629947131
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.002183703545506135
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0020239157450856
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004235301319631
