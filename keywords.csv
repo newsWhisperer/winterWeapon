@@ -25,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1465569988524458
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1438022646229176
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.14309592802641544
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409428897755139
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
@@ -34,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.127998816264923
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1271792439419911
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1270227665382862
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1250863837743925
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1249099401532559
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0073026387065466
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0041825902822667
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.002936139897983
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.002183703545506135
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0021837035455061
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0020239157450856
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004235301319631
