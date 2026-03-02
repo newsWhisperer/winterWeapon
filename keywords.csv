@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0984522586171811
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.09607467723625213
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0960746772362521
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0957205286739833
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0932000562501684
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0929041283654257
@@ -118,9 +118,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490607430436877
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0477191537645045
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0458338909571926
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0439288302799754
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0436410002126618
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.03925883731361371
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
