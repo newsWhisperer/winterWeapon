@@ -62,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1139857252104008
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1136993264618702
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1123230791014731
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1105140770139797
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1101262970913512
@@ -83,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0984522586171811
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.09607467723625213
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0957205286739833
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0932000562501684
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0929041283654257
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0041825902822667
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.002936139897983
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0020239157450856
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0018561480136801848
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0018561480136801
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004235301319631
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
