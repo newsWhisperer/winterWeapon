@@ -115,7 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,2,0.0605033943875872
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0548323133160768
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.04906074304368772
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490607430436877
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0477191537645045
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0458338909571926
@@ -140,8 +140,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0073026387065466
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0041825902822667
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.002936139897983
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0021837035455061
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0020239157450856
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0018561480136801848
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004235301319631
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
