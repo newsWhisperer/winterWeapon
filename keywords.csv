@@ -28,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1430959280264154
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1330895561589375
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1286286289393577
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
@@ -43,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1216450542948871
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.121461297607863
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1208653157991293
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1206639013634559
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1201045903596005
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1192026645859341
