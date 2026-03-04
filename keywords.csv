@@ -3,12 +3,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1886972600824648
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.18705100253311216
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1843616602330962
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1801327742408647
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1798033322801469
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1783325412596837
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1772866264224397
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1758037382742496
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1740524913824902
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0085564347361516
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0074803576004266
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0073026387065466
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.003555201739926695
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0035552017399266
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.002936139897983
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0017203283833227
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
