@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1972573385283796
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.19452220227760778
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1886972600824648
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1843616602330962
@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1430959280264154
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1330895561589375
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1286286289393577
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
@@ -57,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1160791432112054
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.116064280054402
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.11567637773509687
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1154150967155951
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
