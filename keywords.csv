@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1611447787145466
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1603206892704969
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1602842984459711
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1438022646229176
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1430959280264154
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.13627294587992236
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1286286289393577
@@ -91,7 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
 'Gasknappheit',de,Other,#545557,#4b7c7e,2,0.0882366993531595
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0869331984501886
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.08609123467085592
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0860912346708559
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0846159785094567
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0842007114867438
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
