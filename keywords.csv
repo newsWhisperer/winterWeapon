@@ -40,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1226545915135115
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.12220643804624169
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1216450542948871
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.121461297607863
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1208653157991293
@@ -55,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1180321504561717
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1160791432112054
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.116064280054402
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1156763777350968
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1154150967155951
