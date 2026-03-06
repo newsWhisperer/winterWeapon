@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1533356014957969
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1522210087514546
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1508864245132355
-'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1492947526751167
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1485342141074011
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1465569988524458
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1292375319157926
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1286286289393577
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
+'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.128125564272918
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.127998816264923
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1271792439419911
@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1226545915135115
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.12220643804624169
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1222064380462416
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1216450542948871
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.121461297607863
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1208653157991293
