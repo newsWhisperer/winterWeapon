@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1438022646229176
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1430959280264154
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.13759178867907546
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1375917886790754
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1286286289393577
@@ -101,13 +101,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0774310488550088
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0772280550188785
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0768355231616294
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0751806974659722
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.0705052164124958
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.06621028468738499
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
