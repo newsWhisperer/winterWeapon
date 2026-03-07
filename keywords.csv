@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1772866264224397
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1611447787145466
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1602842984459711
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.15779001743812485
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1577900174381248
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.15556191554372825
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1539727840592508
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1533356014957969
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1522210087514546
