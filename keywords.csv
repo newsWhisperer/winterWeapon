@@ -4,6 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1886972600824648
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1870510025331121
+'Gaskrise',de,Other,#545557,#6b7c6e,1,0.18448217992947996
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1843616602330962
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1801327742408647
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1783325412596837
@@ -22,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1485342141074011
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1465569988524458
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
-'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1438022646229176
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1430959280264154
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1375917886790754
@@ -107,7 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.0705052164124958
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.06621028468738499
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0662102846873849
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
