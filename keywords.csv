@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1972573385283796
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1935170899641416
+'Blackout',de,Other,#545557,#6b6c6e,3,0.19080241593094083
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1886972600824648
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1870510025331121
-'Gaskrise',de,Other,#545557,#6b7c6e,1,0.18448217992947996
+'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1844821799294799
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1843616602330962
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1801327742408647
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1783325412596837
