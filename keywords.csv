@@ -10,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1783325412596837
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1772866264224397
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.16923699546188276
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
@@ -63,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1139857252104008
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1136993264618702
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1105140770139797
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1101262970913512
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.1101199330532418
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
