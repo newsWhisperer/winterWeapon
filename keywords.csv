@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1783325412596837
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1772866264224397
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.16923699546188276
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,2,0.1692369954618827
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
@@ -110,9 +110,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0662102846873849
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
-'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0631671480732331
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0621636710101862
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,2,0.0605033943875872
+'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.05549225586224814
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0548323133160768
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0490607430436877
