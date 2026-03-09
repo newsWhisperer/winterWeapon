@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1438514761426003
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1430959280264154
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1375917886790754
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
 'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1286286289393577
@@ -55,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1184909033357714
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1183287686641215
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.11830315537721409
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1180321504561717
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1156763777350968
