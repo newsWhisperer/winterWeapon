@@ -10,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1783325412596837
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1772866264224397
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.16956861219988653
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
@@ -19,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1533356014957969
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1522210087514546
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1521524421284237
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1508864245132355
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.150388211150654
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1485342141074011
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1465569988524458
@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1184909033357714
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1183287686641215
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.11830315537721409
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.118303155377214
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1180321504561717
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1156763777350968
