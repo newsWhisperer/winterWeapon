@@ -21,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1522210087514546
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1521524421284237
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1508864245132355
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.15038821115065404
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1485342141074011
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1465569988524458
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
@@ -43,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1226545915135115
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1222064380462416
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1216450542948871
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.121461297607863
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1208653157991293
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1201045903596005
@@ -89,7 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0869331984501886
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0860912346708559
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.08470752631866527
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0846159785094567
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0842007114867438
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
