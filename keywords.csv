@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.219426112327164
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2148947619240658
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.21419375820536213
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1908024159309408
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1886972600824648
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1783325412596837
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1772866264224397
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1698300444623895
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.16956861219988653
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1695686121998865
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
