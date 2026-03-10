@@ -16,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1555619155437282
+'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.15519585550754494
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1533356014957969
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1522210087514546
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1521524421284237
@@ -26,10 +27,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1438514761426003
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1430959280264154
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.13732808902351046
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1373280890235104
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
-'Energieminister',de,Politik,#1f2dc4,#2451d9,2,0.1286286289393577
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1283274949605741
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.128125564272918
