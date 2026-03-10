@@ -15,13 +15,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1603052924134959
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1577900174381248
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1555619155437282
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1533356014957969
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1522210087514546
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1521524421284237
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.150388211150654
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1485342141074011
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.14816879891331514
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1465569988524458
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1438514761426003
