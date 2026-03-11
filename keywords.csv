@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1908024159309408
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1886972600824648
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1870510025331121
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.18604390310473498
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1844821799294799
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1801327742408647
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1783325412596837
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1772866264224397
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1695686121998865
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1521524421284237
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1485342141074011
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1481687989133151
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.14812494902457893
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1481249490245789
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1438514761426003
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1430959280264154
