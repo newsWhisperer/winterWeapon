@@ -56,7 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.118303155377214
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1180321504561717
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.11700166158713454
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1170016615871345
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1156763777350968
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
@@ -127,7 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.028434305541608
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.020090169267193
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.017076643877114047
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0161117147498636
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0150976092761671
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
