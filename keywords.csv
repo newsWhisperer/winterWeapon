@@ -86,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0917360710087538
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0886649905902289
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0869331984501886
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0860912346708559
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0795685691106118
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0795200778126431
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.07836554200169457
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0774310488550088
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0772280550188785
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
@@ -127,7 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.028434305541608
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.017076643877114047
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.017076643877114
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0161117147498636
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0150976092761671
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
