@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1533356014957969
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1522210087514546
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1485342141074011
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.14819314080916013
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1481931408091601
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1481687989133151
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1481249490245789
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1460029851874992
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.000277528623436
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0002681367331132
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0002578930793923
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,7.638613225931257e-06
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,6.492821242041568e-06
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.4305732674294254e-06
