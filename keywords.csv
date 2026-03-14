@@ -28,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1438514761426003
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1430959280264154
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.13804487224991768
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1373280890235104
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
@@ -101,7 +102,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0774310488550088
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.0772280550188785
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0751806974659722
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
