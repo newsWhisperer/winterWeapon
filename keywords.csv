@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1860439031047349
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.185830771175352
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1783325412596837
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1772866264224397
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.17383040064089192
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1695686121998865
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1645595895148793
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035
@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1438514761426003
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1430959280264154
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.13972021408305893
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.1397202140830589
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1380448722499176
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1373280890235104
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
