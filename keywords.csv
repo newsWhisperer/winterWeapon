@@ -78,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0984522586171811
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0960746772362521
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0957205286739833
@@ -93,6 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0846159785094567
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0842007114867438
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.08398444982460394
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0827179289654706
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.001577725811628
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.000360000612168635
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003600006121686
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.000277528623436
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0002681367331132
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0002578930793923
