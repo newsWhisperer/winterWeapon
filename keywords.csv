@@ -92,7 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0846159785094567
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0842007114867438
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.08398444982460394
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0839844498246039
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0827179289654706
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003600006121686
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.000277528623436
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0002681367331132
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0002578930793923
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.000219209117483455
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,6.492821242041568e-06
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.4305732674294254e-06
