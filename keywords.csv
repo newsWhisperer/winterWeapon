@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.1101199330532418
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.10871942655754327
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1087194265575432
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1073079631252689
@@ -103,6 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0774310488550088
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
+'Baltic Pipe',de,Other,#545557,#6b6c6e,2,0.0767623091258243
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0751806974659722
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
@@ -140,7 +141,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0063572579005646
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0035552017399266
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.002936139897983
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0017203283833227
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.001577725811628
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004082079703183
