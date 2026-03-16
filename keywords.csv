@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.128125564272918
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.127998816264923
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1271792439419911
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1270227665382862
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1263451294567973
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1249099401532559
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.1101199330532418
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.10871942655754327
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1073079631252689
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003600006121686
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.000277528623436
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0002681367331132
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.000219209117483455
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0002192091174834
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,6.492821242041568e-06
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.4305732674294254e-06
