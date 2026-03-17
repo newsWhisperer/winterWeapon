@@ -114,8 +114,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0621636710101862
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,2,0.0605033943875872
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0554922558622481
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.05142788522944912
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0477191537645045
