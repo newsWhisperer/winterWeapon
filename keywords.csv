@@ -25,13 +25,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1481931408091601
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1481687989133151
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1481249490245789
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.14496969066998383
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1442345757448888
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1438514761426003
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1430959280264154
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.1397202140830589
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1380448722499176
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1373280890235104
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
@@ -115,7 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0621636710101862
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0554922558622481
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.05142788522944912
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0514278852294491
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0477191537645045
