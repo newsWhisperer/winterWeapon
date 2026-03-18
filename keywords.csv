@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2141937582053621
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2120931381272343
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20710929964697158
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1908024159309408
@@ -73,7 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1046656043155194
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1046146091115896
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.10282537107483228
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1028253710748322
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.102645204692756
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
