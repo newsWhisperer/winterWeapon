@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1870510025331121
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1860439031047349
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1747171932525493
-'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1744500687599187
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1738304006408919
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1699768233184652
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1695686121998865
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1555619155437282
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1522210087514546
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1485342141074011
+'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1482830084459309
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1481931408091601
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1481687989133151
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1481249490245789
