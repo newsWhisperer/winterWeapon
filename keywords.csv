@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.165670508675722
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1645595895148793
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1632622562714273
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1612866616283945
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.160831235716488
@@ -29,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1449696906699838
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1442345757448888
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1438514761426003
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.14357513783071318
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1430959280264154
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1380448722499176
@@ -85,7 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0917360710087538
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
-'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.08892241774485116
+'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0889224177448511
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0869331984501886
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0860912346708559
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
