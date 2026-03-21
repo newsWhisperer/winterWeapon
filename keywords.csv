@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.23031252754692672
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2303125275469267
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2071092996469715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1949129094572065
@@ -71,7 +71,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1073079631252689
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1046656043155194
-'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.1046146091115896
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1028253710748322
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.102645204692756
@@ -86,6 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0917360710087538
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
+'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.08892241774485116
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0869331984501886
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0860912346708559
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
