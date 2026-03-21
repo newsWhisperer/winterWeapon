@@ -31,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1435751378307131
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1430959280264154
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.14005640431949296
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1380448722499176
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
@@ -84,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0917360710087538
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.0894284590924516
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0889224177448511
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0869331984501886
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0860912346708559
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.002936139897983
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.001577725811628
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.000496991774770555
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004969917747705
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003600006121686
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.000277528623436
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0002681367331132
