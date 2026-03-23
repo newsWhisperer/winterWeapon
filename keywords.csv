@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1555619155437282
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.154145506670892
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1522210087514546
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.14990145734906432
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1499014573490643
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1485342141074011
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1482830084459309
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1481931408091601
@@ -143,7 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.002936139897983
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.001577725811628
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004969917747705
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.00042244300855492505
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003600006121686
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.000277528623436
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0002681367331132
