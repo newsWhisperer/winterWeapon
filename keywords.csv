@@ -2,6 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2303125275469267
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2071092996469715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.19562483155722607
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1949129094572065
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1886972600824648
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1684993501016364
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1645595895148793
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.16217609763035
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1612866616283945
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.160831235716488
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1603738147212102
