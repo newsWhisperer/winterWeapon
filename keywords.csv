@@ -41,10 +41,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.127998816264923
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1271792439419911
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1263451294567973
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.12605186967501
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.1234130819706
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1226545915135115
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1222064380462416
@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0587133822196346
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0554922558622481
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.05283958535865827
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0528395853586582
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0514278852294491
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
