@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2303125275469267
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2071092996469715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.19562483155722607
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.195624831557226
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1949129094572065
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1886972600824648
@@ -81,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.0960746772362521
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.0957205286739833
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.09461294728395475
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.0939073825276485
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0917360710087538
@@ -106,7 +107,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,2,0.0751806974659722
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.0705052164124958
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0662102846873849
