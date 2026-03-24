@@ -48,9 +48,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1226545915135115
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1222064380462416
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.12203951680566043
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.121461297607863
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1208653157991293
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1201045903596005
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1194442183645032
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1188415623800698
@@ -117,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0514278852294491
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
-'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.04806850748291088
+'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0477191537645045
 'Energieknappheit',de,Other,#545557,#6b6c6e,1,0.0439288302799754
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0436410002126618
