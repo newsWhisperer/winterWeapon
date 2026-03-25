@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2303125275469267
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.21793331374402
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2071092996469715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.195624831557226
@@ -48,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1226545915135115
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1222064380462416
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.12203951680566043
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1220395168056604
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.121461297607863
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1208653157991293
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
@@ -98,7 +99,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0827179289654706
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0803727087953325
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.0795685691106118
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,1,0.0783803142764919
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0774310488550088
