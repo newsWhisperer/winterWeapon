@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.24304867992709037
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2303125275469267
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.21793331374402
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2071092996469715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.195624831557226
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1949129094572065
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1886972600824648
@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,2,0.0917360710087538
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0889224177448511
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.08693319845018858
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0869331984501885
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0860912346708559
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0846159785094567
