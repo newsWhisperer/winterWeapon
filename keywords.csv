@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1581727313490451
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1555619155437282
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.15449329199129094
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1544932919912909
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.154145506670892
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1522210087514546
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1499014573490643
@@ -67,11 +67,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1136993264618702
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.1101199330532418
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.11007723865647856
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1087194265575432
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1073079631252689
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1046656043155194
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1031805938728148
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1028253710748322
