@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1136993264618702
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.1101199330532418
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.11007723865647856
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1100772386564785
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1087194265575432
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004224430085549
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003600006121686
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.000277528623436
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0002681367331132
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.00022791622314622
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0002192091174834
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001555338980557
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.4305732674294254e-06
