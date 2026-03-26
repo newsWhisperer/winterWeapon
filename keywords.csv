@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2430486799270903
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2303125275469267
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2186159491731109
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.21793331374402
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2071092996469715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2004887789133373
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1949129094572065
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1886972600824648
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004224430085549
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003600006121686
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.000277528623436
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.00022791622314622
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0002279162231462
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0002192091174834
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001555338980557
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.4305732674294254e-06
