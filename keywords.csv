@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2430486799270903
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2303125275469267
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2186159491731109
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.22918540921649908
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.21793331374402
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2071092996469715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
@@ -89,7 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0889224177448511
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0869331984501885
-'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.08654008066146414
+'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0860912346708559
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0846159785094567
