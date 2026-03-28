@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2430486799270903
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2303125275469267
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.22918540921649908
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.229185409216499
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.21793331374402
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2108028715246405
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2071092996469715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1949129094572065
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1886972600824648
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1870510025331121
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1867990198206954
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1747171932525493
