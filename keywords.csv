@@ -89,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0889224177448511
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0869331984501885
+'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.08654008066146414
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0860912346708559
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0846159785094567
@@ -110,7 +111,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0662102846873849
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0658163915267574
-'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0656353007781931
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0587133822196346
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0528395853586582
@@ -127,7 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0315199126996402
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.02054378575381178
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0205437857538117
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.017076643877114
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0161117147498636
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0150976092761671
