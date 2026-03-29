@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2430486799270903
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2303125275469267
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.229185409216499
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.21793331374402
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.21608397261544612
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2108028715246405
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2071092996469715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1738304006408919
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1716797730867542
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.1695686121998865
-'Gaskrise',de,Other,#545557,#6b7c6e,2,0.16898012106793014
+'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1684993501016364
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1645595895148793
