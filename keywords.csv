@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2303125275469267
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.229185409216499
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.21793331374402
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.21608397261544612
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2160839726154461
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2108028715246405
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2071092996469715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1555619155437282
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1544932919912909
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.154145506670892
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1499014573490643
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1482536574387364
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1481931408091601
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1449696906699838
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.128125564272918
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.127998816264923
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.12786628374670467
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1271792439419911
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1263451294567973
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.12605186967501
