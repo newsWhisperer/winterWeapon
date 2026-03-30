@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.21793331374402
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2160839726154461
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2108028715246405
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.20798414803862553
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2079841480386255
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2071092996469715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
@@ -22,10 +22,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.160831235716488
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1603738147212102
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1581727313490451
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1555619155437282
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1544932919912909
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.154145506670892
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.15304050528305196
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1482536574387364
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1481931408091601
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1449696906699838
