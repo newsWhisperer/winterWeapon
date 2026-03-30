@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.21793331374402
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2160839726154461
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2108028715246405
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.20798414803862553
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2071092996469715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1949129094572065
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1870510025331121
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1867990198206954
@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.128125564272918
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.127998816264923
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.12786628374670467
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1278662837467046
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1271792439419911
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1263451294567973
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.12605186967501
