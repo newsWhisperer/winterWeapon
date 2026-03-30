@@ -10,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1870510025331121
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1867990198206954
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.18062766723450158
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1747171932525493
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1738304006408919
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1716797730867542
@@ -21,11 +22,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1612866616283945
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.160831235716488
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1603738147212102
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1585491309710714
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1555619155437282
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1544932919912909
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.154145506670892
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.15304050528305196
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1530405052830519
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1482536574387364
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1481931408091601
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1449696906699838
