@@ -3,14 +3,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.229185409216499
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.21793331374402
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2160839726154461
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.21351649715314527
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2108028715246405
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2079841480386255
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2071092996469715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1870510025331121
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1867990198206954
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.18062766723450158
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1806276672345015
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1747171932525493
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1738304006408919
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1716797730867542
