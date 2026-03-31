@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.21793331374402
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2160839726154461
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2135164971531452
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2108028715246405
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1867990198206954
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.185543346682417
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1806276672345015
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1747171932525493
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1738304006408919
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1645595895148793
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1612866616283945
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.160831235716488
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.16046713821216896
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1604671382121689
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1603738147212102
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1544932919912909
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.154145506670892
