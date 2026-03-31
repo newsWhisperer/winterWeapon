@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.229185409216499
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.21793331374402
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2160839726154461
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2135164971531452
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2108028715246405
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2089848778340241
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2079841480386255
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2071092996469715
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
@@ -56,7 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1194442183645032
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1188415623800698
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1188300065046111
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.11869167907760686
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1186916790776068
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1184909033357714
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.118303155377214
