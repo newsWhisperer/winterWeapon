@@ -28,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1530405052830519
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1482536574387364
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1481931408091601
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.14761710020583962
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1449696906699838
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1435751378307131
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1430959280264154
@@ -47,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1226545915135115
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1222064380462416
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1220395168056604
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.121461297607863
