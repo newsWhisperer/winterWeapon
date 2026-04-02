@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.24680392315170058
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2468039231517005
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2135164971531452
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2108028715246405
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2089848778340241
@@ -145,8 +145,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.001577725811628
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004224430085549
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003600006121686
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.000282218813347345
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.000277528623436
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0002279162231462
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0002192091174834
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0001555338980557
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.4305732674294254e-06
