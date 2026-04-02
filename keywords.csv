@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.160831235716488
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1604671382121689
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1603738147212102
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.15801187468005445
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1580118746800544
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1544932919912909
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.154145506670892
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1530405052830519
@@ -93,12 +93,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0860912346708559
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0846159785094567
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0842007114867438
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0839844498246039
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0827179289654706
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.08106665930918677
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0803727087953325
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
