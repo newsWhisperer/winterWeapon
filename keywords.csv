@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2468039231517005
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.21473729467894542
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2135164971531452
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2108028715246405
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2089848778340241
@@ -75,7 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1046656043155194
-'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.10449501755470397
+'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1028253710748322
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.102645204692756
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
