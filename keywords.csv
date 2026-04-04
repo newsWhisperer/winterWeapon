@@ -10,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1981682309993035
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.1867990198206954
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1809239903922303
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1806276672345015
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1747171932525493
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1716797730867542
@@ -47,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1232045534026239
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1222064380462416
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1220395168056604
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.121461297607863
@@ -121,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0477191537645045
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0436410002126618
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0392588373136137
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.03743417482827695
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0374341748282769
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0354142922791668
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
