@@ -94,7 +94,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0846159785094567
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0839844498246039
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0827179289654706
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
@@ -106,6 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0751806974659722
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.07153679735091331
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0073835814332549
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0063572579005646
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0030219214789376
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.002121361076292675
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0021213610762926
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.001577725811628
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0004224430085549
