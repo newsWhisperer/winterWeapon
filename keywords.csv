@@ -39,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
-'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.128125564272918
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.127998816264923
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1278662837467046
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1271792439419911
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
+'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.12323576898681901
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1222064380462416
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1220395168056604
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.121461297607863
@@ -103,7 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0751806974659722
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.07452768447022752
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0745276844702275
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0715367973509133
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
