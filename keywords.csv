@@ -2,10 +2,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2750622222840564
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2408361799237407
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2147372946789454
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.21211303579594443
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2089848778340241
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2121130357959444
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20703446898564
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2016442198685979
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1981682309993035
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1945222022776077
