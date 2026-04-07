@@ -54,10 +54,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1208653157991293
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1194442183645032
+'Gas Putin',de,Russland,#a6190f,#a31223,3,0.11930543147176932
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1188415623800698
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1188300065046111
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1186916790776068
-'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1184909033357714
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.118303155377214
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
@@ -92,7 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0846159785094567
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.08458984322002273
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0845898432200227
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0827179289654706
