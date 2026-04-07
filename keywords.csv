@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2750622222840564
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2796853798505388
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2408361799237407
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2147372946789454
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2121130357959444
@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,1,0.1208653157991293
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1194442183645032
-'Gas Putin',de,Russland,#a6190f,#a31223,3,0.11930543147176932
+'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1193054314717693
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1188415623800698
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1188300065046111
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1186916790776068
