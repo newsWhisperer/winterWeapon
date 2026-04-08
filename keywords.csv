@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1820402576188206
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1809239903922303
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1806276672345015
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1716797730867542
+'Blackout',de,Other,#545557,#6b6c6e,3,0.1736077048510138
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1684993501016364
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0145179482477094
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.013694957537384
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.009808141454783245
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0098081414547832
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0085564347361516
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0074803576004266
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0073835814332549
