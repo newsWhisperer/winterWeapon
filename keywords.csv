@@ -20,10 +20,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1684993501016364
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1645595895148793
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.16221783251302865
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1612866616283945
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.160831235716488
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1604671382121689
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1603738147212102
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1580118746800544
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1544932919912909
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.154145506670892
