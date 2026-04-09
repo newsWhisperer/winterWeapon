@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1684993501016364
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1645595895148793
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.16324871794298546
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1632487179429854
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1622178325130286
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1612866616283945
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.160831235716488
@@ -39,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.13027132014850124
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.127998816264923
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1278662837467046
@@ -83,7 +84,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.0946129472839547
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.0939073825276485
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0936019430952555
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
