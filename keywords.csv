@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2796853798505388
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2408361799237407
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.21607577108764742
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2160757710876474
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2121130357959444
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20703446898564
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
@@ -111,12 +111,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0662102846873849
+'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.06563697528558382
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0559439327977437
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.055760823843408
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0528395853586582
-'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.049538469243544
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0477191537645045
