@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2408361799237407
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2160757710876474
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2121130357959444
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.21089985188830823
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20703446898564
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2016442198685979
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2011158541134672
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1981682309993035
@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1380448722499176
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.13769372238413533
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1376937223841353
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
