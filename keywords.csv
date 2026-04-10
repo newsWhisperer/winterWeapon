@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1632487179429854
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1622178325130286
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1612866616283945
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.160831235716488
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1604671382121689
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1580118746800544
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1380448722499176
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.13769372238413533
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
