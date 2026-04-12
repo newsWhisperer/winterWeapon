@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.308181782872958
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2408361799237407
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.23694024520790685
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.216810176905538
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2160757710876474
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2121130357959444
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.185483078637794
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.182489920440317
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1820402576188206
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.18122310416336812
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1812231041633681
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1809239903922303
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1806276672345015
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1736077048510138
