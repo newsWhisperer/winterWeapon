@@ -34,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1435751378307131
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1400504283517632
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1380448722499176
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1376937223841353
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
@@ -54,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1220395168056604
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.121461297607863
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1194442183645032
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1193054314717693
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1188415623800698
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1188300065046111
