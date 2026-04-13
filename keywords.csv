@@ -40,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.13487152402643765
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1302713201485012
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.127998816264923
@@ -63,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.118303155377214
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1154150967155951
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1139857252104008
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1136993264618702
