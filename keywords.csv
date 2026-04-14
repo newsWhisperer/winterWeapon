@@ -116,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0559439327977437
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.055760823843408
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,1,0.0528395853586582
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.05440961210031402
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0477191537645045
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0145179482477094
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.011640713906776401
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0116407139067764
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0098081414547832
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0074803576004266
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0073835814332549
