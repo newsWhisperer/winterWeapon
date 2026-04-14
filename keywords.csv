@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1820402576188206
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1812231041633681
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1809239903922303
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1806276672345015
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1736077048510138
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.17212139578568988
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1684993501016364
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
@@ -116,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0559439327977437
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.055760823843408
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.05440961210031402
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.054409612100314
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0477191537645045
