@@ -9,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Energieversorgung',de,Other,#545557,#6b6c7e,2,0.1945222022776077
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.191721182346676
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.18552629258639095
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.185483078637794
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1835794623630942
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.183316959105062
@@ -18,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1736077048510138
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1721213957856898
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1684993501016364
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1632487179429854
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1622178325130286
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0073835814332549
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0072729695257288
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0063572579005646
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.00256863325709696
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0025686332570969
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0021213610762926
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0013410669398837
