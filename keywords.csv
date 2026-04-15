@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1139857252104008
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1136993264618702
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.11215416149437035
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1121541614943703
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1087194265575432
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0073835814332549
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0072729695257288
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0063572579005646
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0030219214789376
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.00256863325709696
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0021213610762926
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0013410669398837
