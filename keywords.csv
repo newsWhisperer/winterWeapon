@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1632487179429854
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1622178325130286
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.160831235716488
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1580118746800544
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1544932919912909
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1409516963091868
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1400504283517632
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1380448722499176
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1376937223841353
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0145179482477094
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.00989460682075994
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0098946068207599
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0098081414547832
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0074803576004266
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0073835814332549
