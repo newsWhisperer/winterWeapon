@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2121130357959444
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
-'Energieversorgung',de,Other,#545557,#6b6c7e,2,0.1945222022776077
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.19443247366030672
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1944324736603067
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.191721182346676
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1855262925863909
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1835794623630942
