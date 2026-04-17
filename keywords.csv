@@ -43,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1348715240264376
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1302713201485012
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.127998816264923
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1278662837467046
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1271792439419911
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1263451294567973
@@ -70,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1121541614943703
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.11044917382518454
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1087194265575432
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
