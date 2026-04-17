@@ -69,7 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1121541614943703
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.11044917382518454
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1104491738251845
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1087194265575432
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0063572579005646
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0025686332570969
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0021213610762926
-'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0016704305297626
+'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0014198659502982099
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0013410669398837
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003899009913452
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003600006121686
