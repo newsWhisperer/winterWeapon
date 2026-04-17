@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2228409409385002
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.216810176905538
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2160757710876474
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.20980083542655273
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2098008354265527
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1944324736603067
@@ -131,8 +131,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.017076643877114
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0150976092761671
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0145179482477094
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644747
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.012340256010552988
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0098946068207599
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0098081414547832
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0074803576004266
