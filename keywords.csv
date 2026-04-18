@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.3123821908965598
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.3114093631711667
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2369402452079068
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2228409409385002
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.216810176905538
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1944324736603067
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.191721182346676
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.18761328449694584
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1876132844969458
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1855262925863909
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1835794623630942
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.182489920440317
