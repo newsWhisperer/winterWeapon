@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2020393844294425
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.19331160257391172
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1933116025739117
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.191721182346676
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1876132844969458
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1835794623630942
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0002358993299206
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0002279162231462
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0001863277498608
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.4305732674294254e-06
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.2159872773150115e-06
