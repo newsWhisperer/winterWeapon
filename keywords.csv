@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.216810176905538
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2160757710876474
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2098008354265527
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2020393844294425
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.20197728672551626
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1933116025739117
