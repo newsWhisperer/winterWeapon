@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2160757710876474
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2098008354265527
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2036828156922582
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20203938442944253
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2020393844294425
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.191721182346676
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0003590765572716
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0002358993299206
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0002279162231462
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0002192091174834
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.00018632774986089
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.4305732674294254e-06
