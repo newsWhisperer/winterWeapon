@@ -84,7 +84,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,2,0.0946129472839547
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0936019430952555
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0889224177448511
@@ -97,9 +96,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0827179289654706
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0803727087953325
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.07986168163096719
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.07724197079469416
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0772419707946941
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0751806974659722
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
