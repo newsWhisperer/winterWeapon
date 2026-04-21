@@ -16,12 +16,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.182489920440317
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1812231041633681
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1809239903922303
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.17760875817280808
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1773227765218124
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1770288775469949
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1768651577306903
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1736077048510138
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1721213957856898
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1693235824803435
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1632487179429854
