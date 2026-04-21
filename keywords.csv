@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2228409409385002
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.216810176905538
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2160757710876474
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.20988170227694938
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2098817022769493
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2098008354265527
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2020393844294425
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2019772867255162
@@ -25,12 +25,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1632487179429854
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.15928819486245954
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1580118746800544
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1544932919912909
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1482536574387364
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.1476171002058396
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1449696906699838
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1441327035815032
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1435751378307131
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
