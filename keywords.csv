@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.3114093631711667
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2833082623318553
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2369402452079068
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2228409409385002
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.216810176905538
@@ -96,7 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0827179289654706
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0803727087953325
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.07986168163096719
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0798616816309671
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0772419707946941
