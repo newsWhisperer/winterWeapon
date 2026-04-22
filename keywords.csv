@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1933116025739117
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,3,0.191721182346676
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.18749546686172236
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1842547375043801
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.18414077060956358
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1841407706095635
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1835794623630942
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1809239903922303
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.177608758172808
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1773227765218124
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1770288775469949
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1768651577306903
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1736077048510138
