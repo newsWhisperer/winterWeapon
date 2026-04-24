@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.177608758172808
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1770288775469949
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1769904271561061
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1736077048510138
+'Blackout',de,Other,#545557,#6b6c6e,3,0.17111863412336173
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1694360545996545
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0662102846873849
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.06580569017548998
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0658056901754899
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
