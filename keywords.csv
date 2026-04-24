@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1592881948624595
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1580118746800544
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1544932919912909
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.15123647907108675
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1512364790710867
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1482536574387364
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.1476171002058396
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1449696906699838
@@ -137,8 +137,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0098081414547832
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0074803576004266
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0073835814332549
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0063572579005646
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.00555368421547991
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0025686332570969
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0021213610762926
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0014198659502982
