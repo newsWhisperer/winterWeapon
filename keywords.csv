@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1842547375043801
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1841407706095635
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1835794623630942
-'Blackout',de,Other,#545557,#6b6c6e,3,0.18222112082303926
+'Blackout',de,Other,#545557,#6b6c6e,3,0.1822211208230392
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.177608758172808
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1770288775469949
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1769904271561061
@@ -144,8 +144,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0014198659502982
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0013410669398837
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0006314458426434
-'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003600006121686
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0003590765572716
+'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.00030600052034331
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0002358993299206
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0002279162231462
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0001863277498608
