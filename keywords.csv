@@ -116,8 +116,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0633138814764664
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0559439327977437
-'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0546027297907379
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.054409612100314
+'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.05136284532212721
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0473967002668967
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0013410669398837
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0006314458426434
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003060005203433
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.00030521507368086
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0003052150736808
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0002358993299206
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0002279162231462
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0001863277498608
