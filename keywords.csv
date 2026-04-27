@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1842547375043801
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1841407706095635
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1835794623630942
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1835019522104237
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1822211208230392
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1817256886471427
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.177608758172808
@@ -28,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1592881948624595
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,2,0.1580118746800544
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1539354068333957
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1512364790710867
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1482536574387364
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.1476171002058396
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1449696906699838
@@ -99,7 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.07674350368266022
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0767435036826602
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0751806974659722
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0745276844702275
