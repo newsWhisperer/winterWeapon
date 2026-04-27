@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2228409409385002
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.216810176905538
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2160757710876474
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.21055768238529707
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.210557682385297
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2098817022769493
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2020393844294425
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2019772867255162
@@ -88,7 +88,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0889224177448511
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0869331984501885
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.07674350368266022
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0751806974659722
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0745276844702275
