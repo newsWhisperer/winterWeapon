@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2639676611638952
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.23843694108022
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2369402452079068
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2228409409385002
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.216810176905538
@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1046656043155194
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.10414711900576545
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1029819826666715
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1028253710748322
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.102645204692756
