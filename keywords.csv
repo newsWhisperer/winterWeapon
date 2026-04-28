@@ -104,7 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0745276844702275
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0715367973509133
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.07092236750958991
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.0709223675095899
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0689070954128086
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0074803576004266
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0073835814332549
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0055536842154799
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048706465831579145
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0025686332570969
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0019531719148487
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0014198659502982
