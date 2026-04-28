@@ -91,7 +91,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0834376558936352
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0827179289654706
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0803727087953325
@@ -105,6 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0745276844702275
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0715367973509133
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.07092236750958991
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0689070954128086
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003060005203433
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0003052150736808
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0002358993299206
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.00019372878967426998
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0001937287896742
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0001863277498608
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.2159872773150115e-06
