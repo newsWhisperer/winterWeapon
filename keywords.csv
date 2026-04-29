@@ -42,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
+'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.13168931745109114
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1302713201485012
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1278662837467046
@@ -72,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1104491738251845
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
-'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1084558852365778
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1046656043155194
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
