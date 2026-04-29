@@ -101,7 +101,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0767435036826602
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0751806974659722
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,2,0.0745276844702275
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0715367973509133
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.0709223675095899
@@ -114,6 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.06334871179969338
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0633138814764664
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0559439327977437
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.054409612100314
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0013410669398837
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0006314458426434
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003060005203433
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.00025943281262868004
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0002594328126286
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0002358993299206
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0001937287896742
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0001863277498608
