@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2140368967650261
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.210557682385297
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2098817022769493
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2019772867255162
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.20460998371668876
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1933116025739117
@@ -42,7 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
-'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.13168931745109114
+'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1302713201485012
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1278662837467046
