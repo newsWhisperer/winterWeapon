@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
-'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.13431009347804623
+'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1302713201485012
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
@@ -125,8 +125,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0392588373136137
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0360339914298224
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0318190486040353
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.02704619131343
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0174622178907399
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.017076643877114
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0150976092761671
