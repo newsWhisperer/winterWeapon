@@ -33,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1449696906699838
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1441412454224719
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.14252950198237918
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1400504283517632
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123402560105529
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0098081414547832
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00848693523656572
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0084104157976459
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0074803576004266
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0073835814332549
