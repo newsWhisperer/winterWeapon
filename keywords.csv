@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2440090812818233
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2369402452079068
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.22601779772591343
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2228409409385002
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.22045579499220766
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2204557949922076
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.216810176905538
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.2160757710876474
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.210557682385297
