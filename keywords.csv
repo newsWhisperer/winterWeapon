@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1933116025739117
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1874954668617223
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.18704111553033026
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1842547375043801
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1841407706095635
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1837213157359027
@@ -33,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1449696906699838
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1441412454224719
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
+'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.14252950198237918
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1400504283517632
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
@@ -48,7 +49,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1278662837467046
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1271792439419911
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1263451294567973
-'Nord Stream',de,Sabotage,#8723a6,#7713a6,2,0.12605186967501
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
