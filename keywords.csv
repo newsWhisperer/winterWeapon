@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2369402452079068
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.22601779772591343
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2260177977259134
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2228409409385002
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2204557949922076
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.216810176905538
@@ -69,11 +69,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1139857252104008
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1136993264618702
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1121541614943703
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1104491738251845
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.10482781181566929
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1046656043155194
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
