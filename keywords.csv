@@ -106,7 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0689070954128086
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.06833247438632203
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.068332474386322
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0662102846873849
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0658056901754899
@@ -127,10 +127,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0315404325425032
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.02704619131343
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0174622178907399
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.017076643877114
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0150976092761671
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.014842885207128915
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123402560105529
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0084869352365657
