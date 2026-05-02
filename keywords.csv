@@ -130,13 +130,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.017076643877114
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0150976092761671
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.014842885207128915
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0148428852071289
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123402560105529
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0084869352365657
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0084104157976459
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0074803576004266
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0073835814332549
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.00635830396036261
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048706465831579
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0025686332570969
