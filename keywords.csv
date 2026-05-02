@@ -73,7 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1104491738251845
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.10482781181566929
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1048278118156692
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1046656043155194
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
@@ -94,7 +94,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,2,0.0827179289654706
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0803727087953325
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0798616816309671
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
@@ -107,6 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0689070954128086
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.06833247438632203
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0662102846873849
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0658056901754899
