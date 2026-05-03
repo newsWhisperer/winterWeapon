@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.216810176905538
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.210557682385297
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2098817022769493
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.20720949767564126
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1995242207948721
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1933116025739117
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1874954668617223
@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1592881948624595
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1539354068333957
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1482536574387364
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.14777151640970632
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1477715164097063
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.1476171002058396
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1449696906699838
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1441412454224719
