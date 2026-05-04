@@ -115,7 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0633487117996933
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0559439327977437
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.05471688925499643
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0547168892549964
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.054409612100314
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
@@ -135,8 +135,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123402560105529
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0084869352365657
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0084104157976459
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0073835814332549
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0063583039603626
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.006276044218266665
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048706465831579
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0025686332570969
