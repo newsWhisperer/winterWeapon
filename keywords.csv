@@ -27,10 +27,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1629638299946746
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1592881948624595
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1539354068333957
+'Brownout',de,Other,#3d9a9c,#3fa1c5,2,0.15143993689890112
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1482536574387364
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1477715164097063
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.1476171002058396
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.14672114182627144
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1467211418262714
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1449696906699838
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1441412454224719
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
@@ -142,7 +143,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0025686332570969
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0019531719148487
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0014198659502982
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0013410669398837
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0006314458426434
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003060005203433
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0002594328126286
