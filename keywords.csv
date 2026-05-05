@@ -30,12 +30,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1482536574387364
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1477715164097063
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.1476171002058396
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.14672114182627144
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1449696906699838
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1441412454224719
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1400504283517632
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1380448722499176
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1376937223841353
