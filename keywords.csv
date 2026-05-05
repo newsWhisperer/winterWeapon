@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2369402452079068
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.2264264365146713
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2260177977259134
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2228409409385002
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2204557949922076
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.22026589342672076
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.216810176905538
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.210557682385297
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2098817022769493
@@ -113,7 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0642875254470188
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0633487117996933
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.061256322748276304
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0612563227482763
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0559439327977437
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0547168892549964
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.054409612100314
