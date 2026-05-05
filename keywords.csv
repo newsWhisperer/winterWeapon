@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1629638299946746
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1592881948624595
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.1539354068333957
-'Brownout',de,Other,#3d9a9c,#3fa1c5,2,0.15143993689890112
+'Brownout',de,Other,#3d9a9c,#3fa1c5,2,0.1514399368989011
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1482536574387364
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1477715164097063
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,3,0.1476171002058396
@@ -39,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1380448722499176
-'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1376937223841353
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1356212671633415
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1186916790776068
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.118303155377214
+'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.118089769026515
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
