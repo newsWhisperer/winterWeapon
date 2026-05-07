@@ -36,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1386577420706319
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1380448722499176
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
@@ -61,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1188300065046111
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1186916790776068
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.118303155377214
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.118089769026515
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
@@ -142,7 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048706465831579
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0025686332570969
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0019531719148487
-'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0012068860577534699
+'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0012068860577534
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0006314458426434
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003060005203433
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0002594328126286
