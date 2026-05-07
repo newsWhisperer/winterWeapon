@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.210557682385297
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.2072094976756412
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.2052769667517563
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.20487337580461676
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2048733758046167
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
@@ -85,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0946129472839547
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0889224177448511
@@ -93,6 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.08042100519136149
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0803727087953325
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
