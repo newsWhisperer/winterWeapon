@@ -80,7 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1029819826666715
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1028253710748322
-'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.102645204692756
+'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
