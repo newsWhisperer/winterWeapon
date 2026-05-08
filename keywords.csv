@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1933116025739117
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1842547375043801
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1842971146059958
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1841407706095635
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1835019522104237
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1825056500142821
@@ -92,7 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.08042100519136149
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0804210051913614
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0803727087953325
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
