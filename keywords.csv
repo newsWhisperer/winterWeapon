@@ -60,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1193054314717693
 'Gazprom',de,Russland,#a6190f,#A33223,2,0.1188415623800698
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1188300065046111
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,3,0.1186916790776068
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.118089769026515
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1028253710748322
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.10088869221596578
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.1006214152525347
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.0988125329557294
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
@@ -115,7 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0633487117996933
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0612563227482763
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0559439327977437
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.054794411629965976
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0547944116299659
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0547168892549964
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.054409612100314
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
