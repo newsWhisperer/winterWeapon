@@ -48,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,2,0.1278662837467046
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.12681016631525033
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1263451294567973
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1254751351749636
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
@@ -74,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1081023573506924
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1048278118156692
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1046656043155194
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1029819826666715
