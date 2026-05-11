@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2151719037535887
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.210557682385297
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2093900376995833
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.20782656249844034
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2078265624984403
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.2072094976756412
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.2052769667517563
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
@@ -114,11 +114,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0633487117996933
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0612563227482763
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0559439327977437
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0547944116299659
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0547168892549964
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.054409612100314
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.05206787433603485
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
