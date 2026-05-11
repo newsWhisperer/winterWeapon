@@ -78,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1029819826666715
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,2,0.1028253710748322
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.1008886922159657
@@ -87,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0889224177448511
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.08740185041360736
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.08474072801237
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
@@ -118,7 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0547944116299659
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0547168892549964
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.054409612100314
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.05206787433603485
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0520678743360348
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
