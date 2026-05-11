@@ -26,10 +26,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1632487179429854
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1629638299946746
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1592881948624595
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.15782911622097762
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1539354068333957
 'Brownout',de,Other,#3d9a9c,#3fa1c5,2,0.1514399368989011
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1482536574387364
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1477715164097063
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1467211418262714
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1449696906699838
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1441412454224719
@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1104491738251845
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.10868644618469891
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1086864461846989
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1081023573506924
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1048278118156692
