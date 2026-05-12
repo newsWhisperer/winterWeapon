@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2374394603697072
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2250609480670263
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2228409409385002
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2228409409385002
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2204557949922076
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2202658934267207
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2151719037535887
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1835019522104237
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1825056500142821
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.177608758172808
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.17326376525153758
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1732637652515375
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1693499228692985
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
