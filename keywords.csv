@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.2072094976756412
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.19569350404668515
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1956935040466851
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1933116025739117
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0006314458426434
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003060005203433
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0002594328126286
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0002358993299206
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.00020051443043251
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0001863277498608
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0001399690505395
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.2159872773150115e-06
