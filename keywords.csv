@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1629638299946746
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.15853344381490875
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1585334438149087
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1578291162209776
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1539354068333957
 'Brownout',de,Other,#3d9a9c,#3fa1c5,2,0.1514399368989011
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123402560105529
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0084869352365657
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0084104157976459
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0063583039603626
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.006358303960362599
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0062760442182666
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048706465831579
