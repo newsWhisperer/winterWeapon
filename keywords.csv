@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2374394603697072
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2228409409385002
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2204557949922076
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2202658934267207
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2078265624984403
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.2072094976756412
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.20182427631425112
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008185154024269
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1956935040466851
@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.10314583913422791
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1031458391342279
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1029819826666715
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
