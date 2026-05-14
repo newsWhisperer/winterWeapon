@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1302713201485012
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1268101663152503
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1263451294567973
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1254751351749636
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
@@ -70,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1104491738251845
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.11003889636796275
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1086864461846989
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1081023573506924
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123402560105529
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0084869352365657
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0084104157976459
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.006358303960362599
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0063583039603625
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0062760442182666
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048706465831579
