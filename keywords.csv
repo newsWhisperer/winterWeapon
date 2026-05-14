@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2374394603697072
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2250609480670263
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2228409409385002
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2204557949922076
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2202658934267207
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2078265624984403
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.2072094976756412
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.20081851540242693
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1956935040466851
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
@@ -69,7 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1104491738251845
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.11003889636796275
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1100388963679627
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1086864461846989
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1081023573506924
