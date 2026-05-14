@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2078265624984403
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.2072094976756412
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.20182427631425112
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008185154024269
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1956935040466851
@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1585334438149087
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1578291162209776
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1539354068333957
-'Brownout',de,Other,#3d9a9c,#3fa1c5,2,0.1514399368989011
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1482536574387364
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1467211418262714
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1449696906699838
@@ -47,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1302713201485012
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.12872397636406593
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1263451294567973
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1254751351749636
