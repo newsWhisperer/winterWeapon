@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1933116025739117
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.18579750820574237
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1857975082057423
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1842971146059958
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1835019522104237
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1825056500142821
@@ -86,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.09039921387866508
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0889224177448511
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0874018504136073
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
@@ -105,7 +106,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.0709223675095899
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.07031070462065
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,1,0.0689070954128086
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.068728952715349
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.068332474386322
