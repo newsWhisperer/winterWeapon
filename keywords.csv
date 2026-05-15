@@ -15,12 +15,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1933116025739117
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.18579750820574237
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1842971146059958
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1835019522104237
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1825056500142821
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.18102186001812898
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1810218600181289
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.177608758172808
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1732637652515375
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1700872129245104
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1693499228692985
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
