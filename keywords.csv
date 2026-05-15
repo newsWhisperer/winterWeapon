@@ -29,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1585334438149087
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1578291162209776
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1539354068333957
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.1518102111276214
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1482536574387364
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1467211418262714
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1449696906699838
@@ -46,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1302713201485012
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.12872397636406593
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.1287239763640659
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1263451294567973
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1254751351749636
@@ -141,7 +142,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0048706465831579
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0025686332570969
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0019531719148487
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0010258531490903
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0006314458426434
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003060005203433
