@@ -131,9 +131,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.02704619131343
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0150976092761671
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
-'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0145151472955468
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0123402560105529
+'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.012337875201214779
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0107239845621505
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0084869352365657
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0084104157976459
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0003060005203433
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0002594328126286
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0002005144304325
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.00015837858738167998
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0001583785873816
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0001399690505395
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.2159872773150115e-06
