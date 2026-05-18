@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2318526197909609
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.24875311682231674
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2228409409385002
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2202658934267207
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2151719037535887
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1825056500142821
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1810218600181289
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.177608758172808
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.17687328943890374
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1768732894389037
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1700872129245104
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
