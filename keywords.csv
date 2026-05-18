@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.24875311682231674
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2487531168223167
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2228409409385002
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2202658934267207
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2151719037535887
@@ -119,11 +119,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0547944116299659
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0547168892549964
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.054409612100314
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0520678743360348
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0473967002668967
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.04440770818562958
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0436410002126618
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
