@@ -19,11 +19,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1842971146059958
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1835019522104237
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1825056500142821
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1810218600181289
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.177608758172808
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1768732894389037
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1700872129245104
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.16804571101540958
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1629638299946746
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.1595855914636136
