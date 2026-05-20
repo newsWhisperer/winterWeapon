@@ -11,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008185154024269
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.19449647837839468
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1933116025739117
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
@@ -25,13 +26,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1680457110154095
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1676852822426724
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1664201371814131
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1629638299946746
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1578291162209776
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.1518102111276214
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1495690438229259
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1467211418262714
-'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.14514496228952609
+'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.145144962289526
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1449696906699838
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1441412454224719
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
