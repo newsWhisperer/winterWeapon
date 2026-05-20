@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008185154024269
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1956935040466851
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1933116025739117
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1825056500142821
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.177608758172808
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1768732894389037
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1758286531171017
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1700872129245104
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1680457110154095
