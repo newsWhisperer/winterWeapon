@@ -28,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1676852822426724
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1629638299946746
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1578291162209776
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1557211631182985
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.1518102111276214
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1495690438229259
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1467211418262714
@@ -62,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.1188300065046111
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.118089769026515
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.11688965072741
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1148680152998432
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1136993264618702
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0480023878780821
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0473967002668967
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.04710941586674693
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0471094158667469
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0444077081856295
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0436410002126618
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
