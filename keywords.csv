@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2487531168223167
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2228409409385002
+'Blackout',de,Other,#545557,#6b6c6e,3,0.2205874631015853
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2202658934267207
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2151719037535887
-'Blackout',de,Other,#545557,#6b6c6e,3,0.2109083020446458
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.210557682385297
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2078265624984403
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.2072094976756412
