@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1825056500142821
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1768732894389037
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1755180774150964
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.17243029697488096
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1724302969748809
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1700872129245104
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1684695857916694
@@ -69,12 +69,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1133728018847599
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.11084153103043694
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1104491738251845
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1100388963679627
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1086864461846989
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1081023573506924
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1078490199978575
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1031458391342279
