@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2487531168223167
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.23847335457295699
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2384733545729569
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2228409409385002
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2205874631015853
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2202658934267207
@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1857975082057423
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1835019522104237
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.18319179171961406
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1825056500142821
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.177608758172808
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1768732894389037
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1755180774150964
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1700872129245104
