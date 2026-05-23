@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2487531168223167
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2384733545729569
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.22705901357821973
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2270590135782197
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2228409409385002
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2205874631015853
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2202658934267207
@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1941974853230633
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1933116025739117
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,3,0.1835019522104237
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.183191791719614
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1825056500142821
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1768732894389037
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1676852822426724
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1629638299946746
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1578291162209776
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.15597700437886017
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1557211631182985
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.1518102111276214
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1495690438229259
