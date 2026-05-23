@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2487531168223167
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2384733545729569
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.22705901357821973
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2228409409385002
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2205874631015853
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2202658934267207
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2151719037535887
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2078265624984403
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.2072094976756412
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0123378752012147
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0107239845621505
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.010489217608969965
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0104892176089699
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0084869352365657
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0084104157976459
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0063583039603625
