@@ -26,10 +26,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1676852822426724
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1629638299946746
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1578291162209776
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.15597700437886017
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1559770043788601
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1557211631182985
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.1518102111276214
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1495690438229259
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1494548051495364
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1467211418262714
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.145144962289526
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.131936237249487
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1309951108083863
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1302713201485012
