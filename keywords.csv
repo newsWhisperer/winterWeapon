@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1684695857916694
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1676852822426724
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1629638299946746
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.16070359383178479
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1607035938317847
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1578291162209776
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1559770043788601
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1557211631182985
@@ -114,8 +114,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0658056901754899
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0633487117996933
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0547944116299659
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.054596480029739304
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.054409612100314
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
