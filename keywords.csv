@@ -32,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.1518102111276214
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1494548051495364
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1467211418262714
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.14661855624827683
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.145144962289526
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1449696906699838
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,2,0.1441412454224719
@@ -68,7 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1136993264618702
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1133728018847599
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1116086191156198
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1108415310304369
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1104491738251845
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1100388963679627
@@ -115,7 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0547944116299659
-'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.054596480029739304
+'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.054409612100314
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
