@@ -102,7 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0751806974659722
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
-'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.07326762747603263
+'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.0709223675095899
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.07031070462065
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
@@ -120,10 +120,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0480023878780821
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0473967002668967
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0444077081856295
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0436410002126618
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.04125207469636979
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0406430634867348
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
