@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1684695857916694
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1676852822426724
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,2,0.1629638299946746
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1607035938317847
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1578291162209776
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1559770043788601
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1386577420706319
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1385194054954734
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
@@ -123,7 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0473967002668967
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0444077081856295
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0436410002126618
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.04125207469636979
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0412520746963697
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0406430634867348
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
