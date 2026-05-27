@@ -56,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1220395168056604
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.121461297607863
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1193054314717693
@@ -77,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1081023573506924
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.10373382928481134
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1031458391342279
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.1029819826666715
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0107239845621505
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0084869352365657
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0084104157976459
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.007578459722480739
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0075784597224807
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0063583039603625
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0053346375855266
