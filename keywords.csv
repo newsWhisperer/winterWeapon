@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1676852822426724
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1644648771878249
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.16380530619528777
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1638053061952877
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1578291162209776
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1559770043788601
@@ -91,7 +91,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0874018504136073
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.08474072801237
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0847075263186652
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0804210051913614
@@ -103,6 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.07200139737086542
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.0709223675095899
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.07031070462065
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
