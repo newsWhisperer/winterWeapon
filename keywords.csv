@@ -22,13 +22,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1676852822426724
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1644648771878249
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.16380530619528777
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1578291162209776
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1559770043788601
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1557211631182985
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.1518102111276214
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1506442138479261
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1494548051495364
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1467211418262714
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1466185562482768
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.145144962289526
@@ -117,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0547944116299659
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.049848530285266895
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0488699975883405
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0473967002668967
