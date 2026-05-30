@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.183191791719614
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1825056500142821
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1814164680755592
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1792495225246038
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1768732894389037
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1755180774150964
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1749448484331624
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1724302969748809
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.02704619131343
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012982982884742034
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012982982884742
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0123378752012147
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0107239845621505
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0084869352365657
