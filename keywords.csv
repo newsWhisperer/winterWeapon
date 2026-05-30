@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1983075531136226
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.183191791719614
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1825056500142821
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1814164680755592
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1792495225246038
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1786832525121398
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1768732894389037
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1749448484331624
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1724302969748809
@@ -120,7 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0473967002668967
-'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.04573991795008943
+'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0457399179500894
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0444077081856295
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0436410002126618
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0412520746963697
