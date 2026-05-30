@@ -6,19 +6,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2228409409385002
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2151719037535887
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.2072094976756412
-'Blackout',de,Other,#545557,#6b6c6e,3,0.2060872822727111
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008185154024269
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.200708664380256
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
+'Blackout',de,Other,#545557,#6b6c6e,3,0.1983075531136226
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.183191791719614
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1825056500142821
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1792495225246038
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1768732894389037
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1755180774150964
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.17494484843316244
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1749448484331624
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1724302969748809
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1676852822426724
