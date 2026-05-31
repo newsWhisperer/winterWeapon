@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1676852822426724
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1644648771878249
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,2,0.1638053061952877
-'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.16323497329426617
+'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1632349732942661
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1578291162209776
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,2,0.1559770043788601
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001704372658676
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0001583785873816
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0001399690505395
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.2159872773150115e-06
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,1.0335891857177598e-06
