@@ -13,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1983075531136226
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.18463188775140682
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.183191791719614
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1814164680755592
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1792495225246038
@@ -69,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1133728018847599
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1108415310304369
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1104491738251845
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1100388963679627
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1086864461846989
@@ -124,7 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0444077081856295
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0412520746963697
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0406430634867348
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.03784591518076253
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0378459151807625
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0272594126611277
