@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.25008484048476887
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2500848404847688
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2285429607763489
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2270590135782197
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2258377995688315
@@ -122,9 +122,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0473967002668967
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0457399179500894
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0444077081856295
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0436410002126618
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0412520746963697
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0406430634867348
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.03784591518076253
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0272594126611277
