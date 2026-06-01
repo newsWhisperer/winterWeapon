@@ -135,9 +135,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0123378752012147
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0107239845621505
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0084104157976459
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0072138949510808
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.006441690764108595
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0064416907641085
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.00613181070841868
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0054045583663081
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0053346375855266
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0041400495956842
