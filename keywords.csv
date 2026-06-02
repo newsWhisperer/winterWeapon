@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2285429607763489
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2270590135782197
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2258377995688315
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2228409409385002
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.21766717979772518
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2151719037535887
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.2072094976756412
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.090399213878665
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0889224177448511
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0874018504136073
-'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.08680598838357084
+'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.0868059883835708
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,2,0.08474072801237
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0841114432405593
