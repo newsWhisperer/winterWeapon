@@ -121,9 +121,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0473967002668967
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0457399179500894
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0444077081856295
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0412520746963697
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0406430634867348
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.03789656695778508
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0378459151807625
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0054045583663081
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0053346375855266
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0041400495956842
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.002333353268532365
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0023333532685323
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0008719751767267
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0005367289662468
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0002601004422918
