@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2500848404847688
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.24025172713932622
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2285429607763489
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2270590135782197
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2258377995688315
@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1362729458799223
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
-'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.13258078372203108
+'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.132580783722031
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1309951108083863
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1307346402984275
