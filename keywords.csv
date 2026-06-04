@@ -5,14 +5,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2258377995688315
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2151719037535887
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.20738946296167188
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2073894629616718
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.2072094976756412
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008185154024269
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.200708664380256
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1983075531136226
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1941540747232176
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1814164680755592
