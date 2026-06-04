@@ -1,10 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.24025172713932622
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2402517271393262
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2285429607763489
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2270590135782197
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2258377995688315
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2151719037535887
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.20738946296167188
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.2072094976756412
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
@@ -14,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1983075531136226
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.183191791719614
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1814164680755592
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1792495225246038
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1786832525121398
