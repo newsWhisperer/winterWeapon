@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008185154024269
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1983075531136226
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1941540747232176
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.18631706116818803
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.186317061168188
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1860509372104293
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
+'Blackout',de,Other,#545557,#6b6c6e,3,0.18273777014657921
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1814164680755592
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1786832525121398
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1768732894389037
