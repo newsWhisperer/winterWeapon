@@ -14,12 +14,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1983075531136226
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1941540747232176
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.18631706116818803
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1860509372104293
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1814164680755592
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1786832525121398
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1768732894389037
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1749448484331624
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1724302969748809
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1644648771878249
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0473967002668967
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0412520746963697
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0406430634867348
-'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.038879305257575984
+'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.037896566957785
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0378459151807625
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
