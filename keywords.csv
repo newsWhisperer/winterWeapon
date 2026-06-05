@@ -94,7 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0804210051913614
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.07803994679686524
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0780399467968652
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0767435036826602
@@ -120,9 +120,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0473967002668967
-'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,2,0.0457399179500894
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0412520746963697
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0406430634867348
+'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.038879305257575984
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.037896566957785
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0378459151807625
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
