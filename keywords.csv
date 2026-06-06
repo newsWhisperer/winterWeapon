@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2285429607763489
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2270590135782197
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.2258377995688315
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.22418868190623403
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2151719037535887
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1827377701465792
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1814164680755592
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1768732894389037
-'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.16969937061046697
+'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1696993706104669
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1662117539901575
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1644648771878249
