@@ -12,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008185154024269
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1941540747232176
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.1870411155303302
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.186317061168188
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1860509372104293
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1827377701465792
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.182001035592085
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1814164680755592
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1768732894389037
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1696993706104669
@@ -38,7 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1423926911017443
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
-'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.13923497526599454
+'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1392349752659945
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1386577420706319
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1385194054954734
