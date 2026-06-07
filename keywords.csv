@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2270590135782197
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.224188681906234
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.2151719037535887
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2073894629616718
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.2072094976756412
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008185154024269
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1941540747232176
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.19239316273600493
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.186317061168188
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1860509372104293
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
@@ -43,7 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1385194054954734
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.13300203677073716
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1330020367707371
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.132580783722031
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1309951108083863
