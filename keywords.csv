@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1662117539901575
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1644648771878249
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1632349732942661
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1631823639979339
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1578291162209776
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1567137449062715
@@ -39,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1423926911017443
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1392349752659945
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.13870535439824383
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1386577420706319
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1385194054954734
