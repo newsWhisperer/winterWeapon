@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008185154024269
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1941540747232176
-'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.19239316273600493
+'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.186317061168188
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1860509372104293
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
@@ -19,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.182001035592085
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1814164680755592
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1768732894389037
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.17148069712622602
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1696993706104669
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1662117539901575
@@ -48,7 +49,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1309951108083863
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1307346402984275
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1302713201485012
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.1287239763640659
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
