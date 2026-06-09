@@ -38,7 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1423926911017443
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1392349752659945
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.13870535439824383
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1387053543982438
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1386577420706319
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1385194054954734
@@ -123,7 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0406430634867348
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.037896566957785
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0378459151807625
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.037120137903648126
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0353642934919142
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
