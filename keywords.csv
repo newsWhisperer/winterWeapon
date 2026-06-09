@@ -5,11 +5,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2073894629616718
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.2072094976756412
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008185154024269
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.19640014659572358
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1932700835147349
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.186317061168188
@@ -123,7 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0406430634867348
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.037896566957785
-'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.037120137903648126
+'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0353642934919142
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
