@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.186317061168188
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.18344076960636496
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1834407696063649
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1827377701465792
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.182001035592085
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1738935860230681
@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1662117539901575
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1644648771878249
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1578291162209776
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1567137449062715
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1466185562482768
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.145144962289526
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1423926911017443
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1392349752659945
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.13910576878783096
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1387506873001261
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1387053543982438
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1386577420706319
