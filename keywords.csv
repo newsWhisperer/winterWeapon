@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008185154024269
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1932700835147349
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.19720617598752466
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1875510618973195
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.186317061168188
@@ -113,7 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0658056901754899
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.05871963980804665
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0587196398080466
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0547944116299659
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
