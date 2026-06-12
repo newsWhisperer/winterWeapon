@@ -16,13 +16,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1834407696063649
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.182001035592085
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1740296847377877
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1738935860230681
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.171480697126226
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1696993706104669
 'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1682488069551344
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1676369016288649
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1662117539901575
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1644648771878249
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1567137449062715
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0107239845621505
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0064416907641085
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.00607652541379915
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0060765254137991
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0054045583663081
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0053346375855266
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0044302332368324
