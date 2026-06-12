@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008185154024269
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2005676434148876
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.19720617598752466
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1972061759875246
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1875510618973195
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.186317061168188
@@ -134,9 +134,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012982982884742
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0123378752012147
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0107239845621505
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.007148853427999
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0064416907641085
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.00607652541379915
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0054045583663081
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0053346375855266
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0044302332368324
