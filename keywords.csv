@@ -46,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1330020367707371
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.132580783722031
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
+'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1309951108083863
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1307346402984275
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.1291886944584781
@@ -65,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.118089769026515
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
-'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.1136993264618702
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1133728018847599
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1108415310304369
