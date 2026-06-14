@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2578672552359877
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.22675157154148676
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2267515715414867
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2087757424475052
@@ -124,9 +124,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.037896566957785
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0353642934919142
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.03035967946812707
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0272594126611277
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.02704619131343
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
