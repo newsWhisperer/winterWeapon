@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2270590135782197
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.20877574244750524
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2073894629616718
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2037875454529999
@@ -12,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1955143396202989
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1875510618973195
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.186317061168188
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1834407696063649
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.182001035592085
