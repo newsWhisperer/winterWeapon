@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1972061759875246
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1875510618973195
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.18505360367725407
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.185053603677254
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1834407696063649
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.182001035592085
@@ -143,9 +143,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0041400495956842
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0023333532685323
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0008719751767267
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.00037054789073431
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003296186763962
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0002601004422918
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0002594328126286
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0001583785873816
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001448716759874
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0001399690505395
