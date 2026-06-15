@@ -113,7 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0587196398080466
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.05593483664916642
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0547944116299659
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012982982884742
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0123378752012147
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0107239845621505
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.009115386877827925
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0064416907641085
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0060765254137991
