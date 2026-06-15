@@ -4,13 +4,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2087757424475052
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2073894629616718
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2037875454529999
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008185154024269
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1972061759875246
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.19060954287225973
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1875510618973195
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.185053603677254
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012982982884742
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0123378752012147
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.009115386877827925
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0091153868778279
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0064416907641085
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0060765254137991
