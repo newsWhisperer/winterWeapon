@@ -25,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1676369016288649
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1644648771878249
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.15960875796668356
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1567137449062715
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1466185562482768
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.145144962289526
@@ -41,7 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1385194054954734
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.13640114578168003
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.13640114578168
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1330020367707371
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.132580783722031
@@ -59,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1225202236091011
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.121461297607863
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1198880380048667
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1193054314717693
