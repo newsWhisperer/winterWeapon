@@ -41,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1385194054954734
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.13640114578168003
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1330020367707371
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.132580783722031
@@ -62,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1198880380048667
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1193054314717693
-'Gazprom',de,Russland,#a6190f,#A33223,2,0.1188415623800698
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.118089769026515
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
