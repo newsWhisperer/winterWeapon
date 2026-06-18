@@ -21,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1738935860230681
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.171480697126226
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1696993706104669
-'Gaskrise',de,Other,#545557,#6b7c6e,2,0.1689801210679301
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1676369016288649
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1644648771878249
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
@@ -30,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1466185562482768
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.145144962289526
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1445750909858338
+'Gaskrise',de,Other,#545557,#6b7c6e,1,0.14363325290774057
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1423926911017443
