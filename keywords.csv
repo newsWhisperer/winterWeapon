@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2819031680796218
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2646588780400923
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2267515715414867
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0091153868778279
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0060765254137991
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0054754371494922256
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0054754371494922
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0054045583663081
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0053346375855266
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0044302332368324
