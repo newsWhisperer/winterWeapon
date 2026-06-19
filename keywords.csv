@@ -2,12 +2,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2646588780400923
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2267515715414867
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.21656498400115376
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2069613010803794
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2054457859077771
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2046099837166887
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2008185154024269
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1972061759875246
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1906095428722597
@@ -101,7 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0720296938105145
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0720013973708654
-'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.07164474175447541
+'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0716447417544754
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.0709223675095899
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.07031070462065
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0701040313140424
