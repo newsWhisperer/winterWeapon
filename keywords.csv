@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2646588780400923
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2267515715414867
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.21656498400115376
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2165649840011537
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2069613010803794
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2054457859077771
@@ -20,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1740296847377877
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1738935860230681
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.171480697126226
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.17132553081462343
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1696993706104669
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1676369016288649
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1644648771878249
@@ -65,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1193054314717693
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.118089769026515
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1155202501562415
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1133728018847599
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1108415310304369
