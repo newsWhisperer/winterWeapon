@@ -73,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1105283993220228
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1100388963679627
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.1086864461846989
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1081023573506924
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.09238347925699407
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0874018504136073
