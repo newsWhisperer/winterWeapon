@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1387506873001261
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1386577420706319
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1385194054954734
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.13640114578168
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1193054314717693
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.11819153967115238
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.118089769026515
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1133728018847599
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
@@ -123,7 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.037896566957785
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.03499664896372458
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0349966489637245
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.030359679468127
