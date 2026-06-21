@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2799116813340784
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.25651297277033025
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2267515715414867
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2165649840011537
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1225202236091011
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.12089986623850724
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1208998662385072
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1198880380048667
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1193054314717693
