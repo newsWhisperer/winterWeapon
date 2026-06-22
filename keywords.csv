@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2565129727703302
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2650948347119235
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2267515715414867
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,2,0.2234213061591854
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1906095428722597
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1875510618973195
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.18679253362165396
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1867925336216539
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1834407696063649
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.182001035592085
