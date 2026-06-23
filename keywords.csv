@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1906095428722597
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1875510618973195
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.18732088657053908
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1867925336216539
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1834407696063649
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.182001035592085
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.179784107730046
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1761620531256659
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1740296847377877
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1738935860230681
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1644648771878249
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1596087579666835
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.15682429073937387
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1568242907393738
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1567137449062715
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1466185562482768
 'Energiesicherheit',de,Other,#545557,#6b6c6e,3,0.145144962289526
