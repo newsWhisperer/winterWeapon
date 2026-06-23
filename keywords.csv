@@ -72,7 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1105283993220228
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1100388963679627
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.10825918046678046
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1082591804667804
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1081023573506924
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
@@ -121,10 +121,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0473967002668967
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.037896566957785
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0349966489637245
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.032512111914117243
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.030359679468127
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0272594126611277
