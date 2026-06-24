@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1906095428722597
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1875510618973195
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.18732088657053908
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.187320886570539
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1867925336216539
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1834407696063649
@@ -127,8 +127,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0325121119141172
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.030359679468127
-'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0272594126611277
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.02704619131343
+'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.023620545761958545
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012982982884742
