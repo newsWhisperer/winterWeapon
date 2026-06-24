@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.12337396794609709
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.123373967946097
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1225202236091011
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1208998662385072
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1198880380048667
@@ -73,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1100388963679627
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1082591804667804
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.1081023573506924
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.1037338292848113
@@ -83,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.092383479256994
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.09203701874808855
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0874018504136073
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0871783829646545
