@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2650948347119235
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.23950734950513497
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2267515715414867
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,2,0.2234213061591854
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1740296847377877
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.171480697126226
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1712566976210013
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.17094216130142606
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.170942161301426
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1696993706104669
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1644648771878249
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
