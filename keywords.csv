@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1712566976210013
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.170942161301426
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1696993706104669
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1644648771878249
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1613948696292171
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1596087579666835
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1423926911017443
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.14009517560965118
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1392349752659945
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1391057687878309
@@ -127,7 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0325121119141172
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.02704619131343
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.02595574254790795
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0259557425479079
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
