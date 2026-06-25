@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.23950734950513497
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2395073495051349
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2267515715414867
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,2,0.2234213061591854
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
@@ -80,7 +80,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.092383479256994
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0920370187480885
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
@@ -90,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0804210051913614
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.07852595736844489
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0780399467968652
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
