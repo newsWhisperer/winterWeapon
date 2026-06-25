@@ -89,7 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0804210051913614
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.07852595736844489
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0785259573684448
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0780399467968652
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
@@ -126,8 +126,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0325121119141172
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.030359679468127
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.02704619131343
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.02595574254790795
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
