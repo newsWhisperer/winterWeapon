@@ -18,9 +18,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.182001035592085
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1761620531256659
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1740296847377877
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.1738935860230681
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.171480697126226
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1712566976210013
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.17094216130142606
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1696993706104669
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1644648771878249
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
@@ -72,7 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1105283993220228
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1100388963679627
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.10652328839676334
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1065232883967633
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.1037338292848113
