@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1834407696063649
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.182001035592085
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.17916566303755863
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1791656630375586
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1761620531256659
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1740296847377877
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.171480697126226
@@ -143,8 +143,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0041400495956842
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0023333532685323
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0008719751767267
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0003705478907343
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003296186763962
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.000314980707124155
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0002601004422918
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001448716759874
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0001399690505395
