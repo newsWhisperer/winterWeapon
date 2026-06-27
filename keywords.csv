@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1834407696063649
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.182001035592085
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1791656630375586
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.17856899080414704
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1761620531256659
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1740296847377877
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.171480697126226
@@ -119,7 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.040287195226862194
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0402871952268621
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0349966489637245
