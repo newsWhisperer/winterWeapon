@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2054457859077771
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,2,0.2039516143262167
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.19762594692205387
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1976259469220538
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1906095428722597
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1875510618973195
@@ -27,8 +27,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1613948696292171
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1596087579666835
+'Gaskrise',de,Other,#545557,#6b7c6e,1,0.15283833997157942
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1473898473379587
-'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1436332529077405
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1423926911017443
