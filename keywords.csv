@@ -79,7 +79,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.0979014903677285
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0920370187480885
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
@@ -87,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0871783829646545
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.0868059883835708
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.08321671681256922
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0804210051913614
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0785259573684448
@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0325121119141172
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.030047181619165825
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0300471816191658
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.02704619131343
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0259557425479079
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
