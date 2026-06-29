@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2395073495051349
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2267515715414867
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.22671531526118283
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2165649840011537
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1834407696063649
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.182001035592085
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1761620531256659
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.17533931218352494
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1753393121835249
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1740296847377877
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.171480697126226
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1712566976210013
