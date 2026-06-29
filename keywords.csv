@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1834407696063649
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.182001035592085
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.178568990804147
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1761620531256659
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.17533931218352494
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1740296847377877
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.171480697126226
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1712566976210013
@@ -46,7 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1309951108083863
-'Gaskrise',de,Other,#545557,#6b7c6e,1,0.13066266397584247
+'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1306626639758424
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.1291886944584781
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.1287239763640659
