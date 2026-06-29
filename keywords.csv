@@ -27,9 +27,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1613948696292171
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1596087579666835
-'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1528383399715794
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1473898473379587
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.14335000652639063
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1433500065263906
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1423926911017443
@@ -47,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1309951108083863
+'Gaskrise',de,Other,#545557,#6b7c6e,1,0.13066266397584247
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.1291886944584781
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.1287239763640659
