@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1181915396711523
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1133728018847599
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.11154987857943496
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1108074914459119
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1105283993220228
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
@@ -137,8 +137,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0060765254137991
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0054754371494922
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0054045583663081
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0053346375855266
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.004593874611361884
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0044302332368324
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0035190421563315
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0019833502782524
