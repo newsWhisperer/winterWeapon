@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2165649840011537
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.20930413624738206
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.209304136247382
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2069613010803794
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2054457859077771
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,2,0.2039516143262167
@@ -67,9 +67,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1181915396711523
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1133728018847599
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
+'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.11154987857943496
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1108074914459119
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1105283993220228
-'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1100388963679627
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1065232883967633
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
