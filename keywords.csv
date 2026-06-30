@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0060765254137991
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0054754371494922
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0053346375855266
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.004593874611361884
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0045938746113618
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0044302332368324
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0035190421563315
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0019833502782524
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0003149807071241
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0002601004422918
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001448716759874
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0001399690505395
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0001346217992743
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.000118973692958575
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,7.467681866810814e-07
