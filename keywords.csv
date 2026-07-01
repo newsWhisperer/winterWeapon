@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2267153152611828
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2176671797977251
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2165649840011537
-'Blackout',de,Other,#545557,#6b6c6e,3,0.21436988761272155
+'Blackout',de,Other,#545557,#6b6c6e,3,0.2143698876127215
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.209304136247382
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2069613010803794
@@ -104,7 +104,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0716447417544754
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.0709223675095899
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.07031070462065
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0701040313140424
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.068332474386322
@@ -113,6 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.05973844161693604
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0587196398080466
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
