@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1613948696292171
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1596087579666835
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.15369380035599617
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1536938003559961
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1473898473379587
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1433500065263906
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1309951108083863
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1306626639758424
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,2,0.1291886944584781
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.1287239763640659
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
@@ -70,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1108074914459119
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1105283993220228
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.10981039028970639
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1065232883967633
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
