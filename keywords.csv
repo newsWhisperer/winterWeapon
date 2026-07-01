@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.25816654600988453
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2581665460098845
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2267515715414867
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2267153152611828
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2165649840011537
@@ -50,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.1287239763640659
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
-'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1263451294567973
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1254751351749636
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1105283993220228
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.1098103902897063
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
+'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.10844346503827769
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1065232883967633
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
