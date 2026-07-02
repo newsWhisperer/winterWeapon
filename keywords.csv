@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1613948696292171
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1596087579666835
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.15531506160172923
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1536938003559961
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1473898473379587
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1433500065263906
@@ -70,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1105283993220228
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.1098103902897063
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
-'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.10844346503827769
+'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1084434650382776
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1065232883967633
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
@@ -135,7 +136,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0123378752012147
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0091153868778279
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0060765254137991
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0054754371494922
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0053346375855266
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0045938746113618
