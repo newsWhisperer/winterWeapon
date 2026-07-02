@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2581665460098845
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2652097891084018
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2267515715414867
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2267153152611828
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2165649840011537
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0019833502782524
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0008719751767267
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003296186763962
-'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.000267748601055485
+'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0002677486010554
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.000221085375948
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001448716759874
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0001346217992743
