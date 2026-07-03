@@ -123,10 +123,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0402871952268621
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
-'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0338200567165716
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0300471816191658
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.02793532512699962
+'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.02889706320908586
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0279353251269996
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.02704619131343
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0259557425479079
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
