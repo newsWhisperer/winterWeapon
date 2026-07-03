@@ -25,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1613948696292171
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1596087579666835
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.15585288346965626
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1553150616017292
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1536938003559961
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1495277782747047
@@ -36,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1400951756096511
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1392349752659945
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1391057687878309
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1387506873001261
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1386577420706319
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1105283993220228
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.1098103902897063
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.10941537990945602
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.109415379909456
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1084434650382776
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1065232883967633
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
