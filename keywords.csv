@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1596087579666835
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1558528834696562
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1553150616017292
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.15470158525327224
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1547015852532722
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1536938003559961
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1495277782747047
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1473898473379587
@@ -97,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0755840550831234
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0751806974659722
+'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.07510129850333132
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
@@ -119,7 +120,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
-'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0402871952268621
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
