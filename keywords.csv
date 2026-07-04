@@ -120,15 +120,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0480685074829108
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.041006064283082164
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0402871952268621
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0300471816191658
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0279353251269996
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0259557425479079
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.024045056357949658
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
