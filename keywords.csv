@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2652097891084018
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2803965157421415
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2267515715414867
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2267153152611828
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2165649840011537
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0300471816191658
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0259557425479079
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.024045056357949658
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0240450563579496
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
