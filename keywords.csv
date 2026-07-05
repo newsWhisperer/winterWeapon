@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1254751351749636
-'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.12460504160204591
+'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1246050416020459
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
@@ -90,7 +90,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.0832167168125692
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0804210051913614
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0785259573684448
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0780399467968652
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
@@ -110,6 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.068332474386322
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.06674706376317807
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0662102846873849
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
