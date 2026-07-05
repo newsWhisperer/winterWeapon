@@ -2,13 +2,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2803965157421415
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2267515715414867
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2267153152611828
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2165649840011537
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2143698876127215
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.209304136247382
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2069613010803794
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2054457859077771
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,2,0.2039516143262167
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2026742500373443
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1906095428722597
@@ -97,7 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0755840550831234
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0751806974659722
-'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.07510129850333132
+'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0751012985033313
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
