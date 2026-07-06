@@ -101,7 +101,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0720296938105145
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0720013973708654
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0716447417544754
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.0709223675095899
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.07031070462065
@@ -114,6 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.06150121776523559
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.059738441616936
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0587196398080466
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0002677486010554
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.000221085375948
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0001346217992743
-'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.00012314092458929
+'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001231409245892
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0001189736929585
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,7.467681866810814e-07
