@@ -44,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.13640114578168
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.132580783722031
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.13208100274923246
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1309951108083863
@@ -76,7 +77,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1065232883967633
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.1037338292848113
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
@@ -113,7 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.06150121776523559
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0615012177652355
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.059738441616936
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0587196398080466
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
