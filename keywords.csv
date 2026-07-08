@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.24226770653378
+'Blackout',de,Other,#545557,#6b6c6e,3,0.23716621947081326
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2267153152611828
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2229527947757809
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2151206262695656
-'Blackout',de,Other,#545557,#6b6c6e,3,0.2143698876127215
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2128376440834667
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.209304136247382
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0091153868778279
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0054754371494922
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.00453444194769761
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0044302332368324
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0039047934196575
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0035190421563315
