@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1065232883967633
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
-'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.10368260227447966
+'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1036826022744796
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0091153868778279
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0054754371494922
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0053346375855266
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.00453444194769761
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0044302332368324
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0039047934196575
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0035190421563315
