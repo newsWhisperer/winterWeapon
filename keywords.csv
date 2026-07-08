@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.24226770653378008
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2267153152611828
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2229527947757809
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2151206262695656
@@ -9,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2069613010803794
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2054457859077771
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,2,0.2039516143262167
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2018242763142511
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1906095428722597
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.187320886570539
