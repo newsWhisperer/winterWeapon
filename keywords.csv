@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.24226770653378
-'Blackout',de,Other,#545557,#6b6c6e,3,0.23716621947081326
+'Blackout',de,Other,#545557,#6b6c6e,3,0.2371662194708132
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2267153152611828
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2229527947757809
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2151206262695656
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.000221085375948
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0001346217992743
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001231409245892
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,0.0001011276390147
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,8.595849316249499e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,7.467681866810814e-07
