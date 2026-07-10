@@ -65,10 +65,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1193054314717693
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1181915396711523
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.11642786085229082
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.1123916328515662
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1105283993220228
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.1098103902897063
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.109415379909456
