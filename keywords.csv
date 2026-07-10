@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1193054314717693
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1181915396711523
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.11642786085229082
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1164278608522908
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.1123916328515662
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003296186763962
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.0002677486010554
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.000221085375948
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0001346217992743
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001231409245892
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.000114428529383155
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,8.595849316249499e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,7.467681866810814e-07
