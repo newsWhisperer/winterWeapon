@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.24226770653378
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2371662194708132
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2267153152611828
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2229527947757809
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.209304136247382
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2069613010803794
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.205928000553713
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2054457859077771
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1906095428722597
@@ -123,7 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.03424411594283279
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0342441159428327
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0300471816191658
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
