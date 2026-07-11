@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2069613010803794
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.205928000553713
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2054457859077771
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.19650339944663833
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1965033994466383
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1906095428722597
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.187320886570539
@@ -81,9 +81,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.09210192551995632
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0887348052666707
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0871783829646545
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.0868059883835708
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.0832167168125692
