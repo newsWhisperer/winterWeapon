@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
-'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.09210192551995632
+'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0921019255199563
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0887348052666707
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.0868059883835708
@@ -138,8 +138,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0061820240968694
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0046541215770683
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0044302332368324
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0039047934196575
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075395
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0035190421563315
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0019833502782524
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0008719751767267
