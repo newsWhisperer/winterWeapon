@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1834407696063649
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1761620531256659
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.17560689975439228
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1756068997543922
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.171480697126226
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1712566976210013
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.170942161301426
@@ -124,9 +124,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0342441159428327
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0322707972361993
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0300471816191658
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.027430177650769404
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0259557425479079
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0240450563579496
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
