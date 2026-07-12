@@ -51,12 +51,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1306626639758424
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.12800065093600063
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1254751351749636
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1246050416020459
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.123373967946097
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.122551130800581
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1225202236091011
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1208998662385072
@@ -79,7 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.09333883174625035
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0933388317462503
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0921019255199563
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
