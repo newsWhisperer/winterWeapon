@@ -69,7 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1131636256508142
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.1123916328515662
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.1098103902897063
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.109415379909456
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1084434650382776
@@ -80,6 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.09333883174625035
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0921019255199563
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0342441159428327
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0300471816191658
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.027430177650769404
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0274301776507694
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0259557425479079
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0240450563579496
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
