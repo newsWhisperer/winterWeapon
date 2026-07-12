@@ -59,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.122551130800581
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1225202236091011
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.12113936974522926
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1208998662385072
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1198880380048667
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
@@ -86,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0887348052666707
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.0868059883835708
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,1,0.0832167168125692
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0804210051913614
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0783814809358752
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0259557425479079
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0240450563579496
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.02331565100315399
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0233156510031539
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.012982982884742
