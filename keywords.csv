@@ -9,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.205928000553713
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2054457859077771
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1965033994466383
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.19638118047832348
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1906095428722597
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1904146970164012
@@ -21,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.171480697126226
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1712566976210013
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.170942161301426
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1630685493022293
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1613948696292171
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1596087579666835
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1558528834696562
@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1306626639758424
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.12800065093600063
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1280006509360006
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1254751351749636
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1246050416020459
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
