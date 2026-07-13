@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1834407696063649
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1761620531256659
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1756068997543922
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.171480697126226
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1712566976210013
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.170942161301426
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1613948696292171
@@ -30,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1536938003559961
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1495277782747047
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1473898473379587
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1459086075572921
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.122551130800581
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1225202236091011
-'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.12113936974522926
+'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1211393697452292
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1208998662385072
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,2,0.1198880380048667
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
