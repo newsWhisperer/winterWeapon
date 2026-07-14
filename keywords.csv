@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1246925242284332
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1246050416020459
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
-'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.12417233142369828
+'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1241723314236982
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.122551130800581
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1225202236091011
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0039047934196575
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0035190421563315
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.003291215832881775
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0019833502782524
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0008719751767267
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0003296186763962
