@@ -53,9 +53,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1280006509360006
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1254751351749636
+'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.12469252422843326
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1246050416020459
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
-'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1237505814452156
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.122551130800581
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1225202236091011
