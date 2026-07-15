@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2435566649144367
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2267153152611828
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.23402316933564174
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2229527947757809
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2203485771772841
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2151206262695656
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0110355354520307
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.007748078846153715
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0077480788461537
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0052547204823389
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0046541215770683
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
