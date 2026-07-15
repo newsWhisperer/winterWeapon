@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1536938003559961
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1495277782747047
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,2,0.1473898473379587
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.14663912680319208
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.146639126803192
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0110355354520307
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0091153868778279
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.007748078846153715
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0052547204823389
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0046541215770683
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
