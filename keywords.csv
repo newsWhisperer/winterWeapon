@@ -98,11 +98,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0751806974659722
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0751012985033313
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
+'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0743254914740605
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0720296938105145
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0716447417544754
-'Gas Klimawandel',de,Klimawandel,#578223,#217c25,1,0.0709223675095899
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.07031070462065
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
@@ -118,7 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.050211723836839604
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0502117238368396
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
