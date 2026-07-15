@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2435566649144367
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.23402316933564174
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2340231693356417
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2229527947757809
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2203485771772841
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2151206262695656
@@ -115,10 +115,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0615012177652355
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.059738441616936
-'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0587196398080466
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
+'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.050211723836839604
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
