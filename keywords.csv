@@ -3,11 +3,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2229527947757809
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2213525045321099
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2203485771772841
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2151206262695656
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2069613010803794
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.205928000553713
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2054457859077771
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.20461744232913076
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1965033994466383
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1963811804783234
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.1940813697366682
@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0804210051913614
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.07933800698431275
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0793380069843127
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0783814809358752
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0780399467968652
