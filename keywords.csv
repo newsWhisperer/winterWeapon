@@ -113,10 +113,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0615012177652355
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.059738441616936
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.05272608010045018
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0502117238368396
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0342441159428327
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.02614016437629093
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0261401643762909
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0259557425479079
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0240450563579496
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
