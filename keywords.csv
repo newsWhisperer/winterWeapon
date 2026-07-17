@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2229527947757809
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.22205323711711364
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2220532371171136
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2213525045321099
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2203485771772841
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202774935849581
@@ -124,8 +124,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0342441159428327
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0300471816191658
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.02614016437629093
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0259557425479079
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0240450563579496
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
