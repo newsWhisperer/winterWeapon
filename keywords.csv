@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2213525045321099
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2203485771772841
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202774935849581
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.21401152555941377
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2140115255594137
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2069613010803794
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1613948696292171
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1596087579666835
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1558528834696562
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1553150616017292
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1547015852532722
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1536938003559961
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1495277782747047
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.13640114578168
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.132580783722031
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.13216781736146982
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.1320810027492324
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
