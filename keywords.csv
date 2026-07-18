@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2229527947757809
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2220532371171136
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2213525045321099
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2203485771772841
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202774935849581
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.21401152555941377
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2069613010803794
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0259557425479079
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0233156510031539
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.02043829790425716
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0204382979042571
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0110355354520307
