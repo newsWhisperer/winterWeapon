@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2054457859077771
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2046174423291307
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2043191614414207
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.19713770737209213
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1971377073720921
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1965033994466383
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1867925336216539
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.000221085375948
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001231409245892
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,0.0001144285293831
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,8.595849316249499e-05
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,7.306471918812074e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,7.467681866810814e-07
