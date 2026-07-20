@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2054457859077771
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2046174423291307
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2043191614414207
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.20213420099776064
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.2021342009977606
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1971377073720921
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1965033994466383
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
@@ -95,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0755840550831234
-'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0751806974659722
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0751012985033313
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0743254914740605
@@ -108,6 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.068332474386322
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
+'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.06690389284607637
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.066747063763178
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0662102846873849
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
