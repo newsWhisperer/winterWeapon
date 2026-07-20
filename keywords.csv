@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2220532371171136
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2213525045321099
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2203485771772841
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202774935849581
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2140115255594137
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.20733310018591022
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2069613010803794
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.205928000553713
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0077480788461537
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0052547204823389
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0039560033405080545
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.003956003340508
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0039047934196575
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0032912158328817
