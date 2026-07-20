@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1965033994466383
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
-'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,3,0.1834407696063649
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1761620531256659
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1756068997543922
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.170942161301426
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1620625112387206
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1613948696292171
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1596087579666835
+'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,1,0.15592496916541015
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1558528834696562
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1547015852532722
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1536938003559961
@@ -107,7 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.068332474386322
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
-'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.06690389284607637
+'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0669038928460763
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.066747063763178
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0662102846873849
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
