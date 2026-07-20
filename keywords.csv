@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202774935849581
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2140115255594137
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.20733310018591022
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2073331001859102
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2069613010803794
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,1,0.205928000553713
@@ -13,13 +13,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2043191614414207
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.2021342009977606
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1971377073720921
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.19708458500264162
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1965033994466383
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1761620531256659
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1756068997543922
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.170942161301426
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1658939377313025
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1620625112387206
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1613948696292171
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1596087579666835
