@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2043191614414207
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.2021342009977606
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1971377073720921
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.19708458500264162
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1970845850026416
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1965033994466383
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1923931627360049
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.1846318877514068
@@ -135,8 +135,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0110355354520307
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0077480788461537
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0052547204823389
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.004466512409988065
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.003956003340508
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0039047934196575
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
