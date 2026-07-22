@@ -61,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.122551130800581
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1225202236091011
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1211393697452292
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.12006878676745512
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1196223187075936
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1193054314717693
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
@@ -98,7 +99,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0751012985033313
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0743254914740605
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.0736690197264178
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0720296938105145
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0716447417544754
@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
-'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.061714293927552503
+'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0617142939275525
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.059738441616936
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0567350041987013
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
