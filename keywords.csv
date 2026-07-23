@@ -84,7 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0921019255199563
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0887348052666707
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.08852544115490059
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0885254411549005
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.0868059883835708
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
@@ -105,7 +105,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0686578844126572
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.068332474386322
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0669038928460763
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0662102846873849
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
@@ -113,6 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0617142939275525
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.059738441616936
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.057734938412384265
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0567350041987013
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
