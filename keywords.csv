@@ -75,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1084434650382776
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1065232883967633
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
-'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,2,0.1041471190057654
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1036826022744796
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.1019049973041367
@@ -85,6 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0921019255199563
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0887348052666707
+'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.08852544115490059
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.0868059883835708
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
