@@ -88,8 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.0868059883835708
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0804210051913614
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.07933800698431269
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0793380069843126
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0783814809358752
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0780399467968652
@@ -104,6 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0716447417544754
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0686578844126572
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.068332474386322
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0679234569557462
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0669038928460763
