@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1547015852532722
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1536938003559961
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.150650966533499
-'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.146639126803192
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
@@ -46,13 +45,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,2,0.1321678173614698
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.1320810027492324
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
-'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.13168099797564212
+'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1316809979756421
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1309951108083863
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1306626639758424
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1280006509360006
+'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1250933027827132
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1246925242284332
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1246050416020459
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
