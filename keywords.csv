@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.24164029182896285
+'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,2,0.2416402918289628
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202774935849581
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2163888988522934
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2140115255594137
@@ -90,7 +90,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0793380069843126
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0783814809358752
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0783655420016945
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0780399467968652
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
@@ -106,6 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0686578844126572
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.068332474386322
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0669038928460763
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.06676072570144033
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0662102846873849
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
