@@ -106,7 +106,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.068332474386322
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0669038928460763
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0667607257014403
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0662102846873849
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
@@ -114,6 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.059738441616936
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0577349384123842
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0567350041987013
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.05627874198427716
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0527260801004501
