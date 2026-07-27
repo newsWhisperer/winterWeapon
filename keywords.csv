@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.22484957061439054
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202774935849581
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2163888988522934
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2140115255594137
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2122437430216105
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2113032893103689
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1178590807600371
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1164278608522908
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.1123916328515662
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.11234264475724932
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1123426447572493
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.109415379909456
