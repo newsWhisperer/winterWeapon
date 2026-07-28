@@ -37,7 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1392349752659945
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1387506873001261
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.13867135618049384
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1386713561804938
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.13640114578168
@@ -100,6 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0720296938105145
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0716447417544754
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0707277953743956
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0686578844126572
@@ -110,7 +111,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0617142939275525
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.059738441616936
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0577349384123842
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0567350041987013
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0562787419842771
