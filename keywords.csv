@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1852901753386807
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1761620531256659
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1756068997543922
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,3,0.170942161301426
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1651694542716809
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1620625112387206
@@ -29,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1536938003559961
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.150650966533499
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1490300770514681
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1453015721062121
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.003956003340508
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0039047934196575
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0037965355484897998
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0037965355484897
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0030975634579494
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0019833502782524
