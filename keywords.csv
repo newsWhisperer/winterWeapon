@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1893186562662782
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1852901753386807
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1756068997543922
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.17001161872824458
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1700116187282445
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1651694542716809
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1620625112387206
@@ -66,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1181915396711523
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1178590807600371
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1164278608522908
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.1123916328515662
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1123426447572493
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
@@ -80,6 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.1019049973041367
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.09896392172444718
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0921019255199563
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
