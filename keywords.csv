@@ -72,7 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.109415379909456
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1084434650382776
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1065232883967633
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.10519229506773593
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1051922950677359
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1036826022744796
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0039047934196575
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0037965355484897
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0030975634579494
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.00293295893925699
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0019833502782524
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0008719751767267
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0002801758749367
