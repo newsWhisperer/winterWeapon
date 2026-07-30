@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202774935849581
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.21775610907694765
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2122437430216105
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2113032893103689
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
@@ -17,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1904937359418383
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1893186562662782
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1852901753386807
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1756068997543922
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1700116187282445
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1651694542716809
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
