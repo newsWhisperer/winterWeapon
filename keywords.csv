@@ -126,9 +126,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0342441159428327
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0261401643762909
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0259557425479079
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0233156510031539
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.022062381165721713
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0204382979042571
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0039047934196575
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0037965355484897
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.00293295893925699
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0029329589392569
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0019833502782524
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0008719751767267
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0002801758749367
