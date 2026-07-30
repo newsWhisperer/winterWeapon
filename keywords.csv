@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2202774935849581
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.21775610907694765
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2177561090769476
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2122437430216105
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2113032893103689
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2104643617174006
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0233156510031539
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0220623811657217
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0204382979042571
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.017372553218618535
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0110355354520307
