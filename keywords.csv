@@ -18,9 +18,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1904937359418383
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1893186562662782
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1852901753386807
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1700116187282445
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1651694542716809
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1640123059190078
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1620625112387206
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1620505720554467
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1558528834696562
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0039047934196575
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0037965355484897
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.002793045098368365
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0027930450983683
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0019833502782524
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0008719751767267
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0002801758749367
