@@ -80,7 +80,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.0989639217244471
-'Strommangellage',de,Other,#545557,#5b7c5e,1,0.092356719221072
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0921019255199563
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0887348052666707
@@ -89,6 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,2,0.0865400806614641
 'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0793380069843126
+'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0785032113379112
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0783814809358752
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0780399467968652
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
