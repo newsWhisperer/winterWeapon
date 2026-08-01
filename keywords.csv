@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1558528834696562
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1547015852532722
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1536938003559961
-'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.15345375412206574
+'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1534537541220657
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.150650966533499
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1490300770514681
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1453015721062121
@@ -132,8 +132,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0173725532186185
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0141384411644746
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0110355354520307
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.009380205134226095
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0077480788461537
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0039047934196575
