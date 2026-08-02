@@ -110,7 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0617142939275525
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.058082603228373705
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0580826032283737
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0577349384123842
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0567350041987013
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0562787419842771
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001231409245892
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,9.7264249975635e-05
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,7.306471918812074e-05
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,7.467681866810814e-07
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,6.347529586789192e-07
