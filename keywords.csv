@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2376442550017598
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.2373858195101165
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.23440265002264
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2177561090769476
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2133599409138135
@@ -96,7 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0751012985033313
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0743254914740605
-'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.07355912856224447
+'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0735591285622444
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0720296938105145
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0716447417544754
