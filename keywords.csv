@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1036826022744796
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.1019049973041367
-'Gas Putin',de,Russland,#a6190f,#a31223,2,0.10141051675100389
+'Gas Putin',de,Russland,#a6190f,#a31223,2,0.1014105167510038
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.0989639217244471
@@ -125,9 +125,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0342441159428327
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0261401643762909
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0233156510031539
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.022969214719847267
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0220623811657217
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0173725532186185
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0149657513729027
