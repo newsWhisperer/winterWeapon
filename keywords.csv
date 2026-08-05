@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.23440265002264
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2177561090769476
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.215956696583599
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2133599409138135
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.21328460161015309
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2074823190244493
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2073331001859102
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.2069613010803794
