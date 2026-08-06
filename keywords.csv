@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.26923091426820345
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.2692309142682034
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2177561090769476
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.215956696583599
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2133599409138135
@@ -68,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1123426447572493
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.109415379909456
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1084434650382776
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1065232883967633
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1051922950677359
@@ -79,6 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.0989639217244471
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0930030729230376
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0921019255199563
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Erdgas fördern',de,Quelle,#3d9a9c,#56a2b3,2,0.0887348052666707
