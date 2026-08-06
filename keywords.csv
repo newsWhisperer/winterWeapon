@@ -1,8 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.26923091426820345
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2177561090769476
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.215956696583599
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2133599409138135
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.21328460161015309
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.213284601610153
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2074823190244493
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2073331001859102
 'Schattenflotte',de,Russland,#a6190f,#b32233,1,0.2069613010803794
@@ -32,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1423926911017443
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1400951756096511
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,2,0.1400564043194929
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1399605047968592
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1387506873001261
