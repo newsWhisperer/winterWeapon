@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2344845309052607
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2177561090769476
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.215956696583599
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2133599409138135
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.213284601610153
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2074823190244493
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2073331001859102
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2043191614414207
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2039594915683689
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1970845850026416
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.19085357932219602
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1904937359418383
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1897079245617911
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1893186562662782
