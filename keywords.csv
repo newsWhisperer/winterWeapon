@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.2692309142682034
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.23448453090526075
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2344845309052607
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2177561090769476
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.215956696583599
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.2133599409138135
@@ -112,13 +112,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0617142939275525
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0580826032283737
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0577349384123842
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0567350041987013
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0562787419842771
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0527260801004501
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0482247535688961
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0429799952613136
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
