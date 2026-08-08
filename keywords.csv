@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2043191614414207
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2039594915683689
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1970845850026416
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.19085357932219602
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.190853579322196
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1904937359418383
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1897079245617911
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1893186562662782
@@ -102,7 +102,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0707277953743956
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
-'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0686578844126572
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0669038928460763
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0667742737954939
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0667607257014403
@@ -110,6 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0617142939275525
+'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.05865923175075862
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0580826032283737
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0577349384123842
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0562787419842771
