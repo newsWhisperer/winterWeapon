@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2504522566861937
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2523858431832646
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2177561090769476
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2081418881910497
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2074823190244493
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1784602370080196
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1620625112387206
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.15788193567541375
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1578819356754137
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1566064162471296
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1558528834696562
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1557295885630075
