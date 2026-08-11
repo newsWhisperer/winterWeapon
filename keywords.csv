@@ -23,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1784602370080196
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1620625112387206
+'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.15788193567541375
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1566064162471296
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1558528834696562
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1557295885630075
@@ -58,7 +59,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1241723314236982
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1211393697452292
-'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,1,0.1200687867674551
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1190480636715689
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1181915396711523
@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.1123916328515662
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1123426447572493
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.11117507044690911
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1111750704469091
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1084434650382776
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1065232883967633
