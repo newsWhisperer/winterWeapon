@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.2240181313831943
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.2177561090769476
-'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2081418881910497
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2074823190244493
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2073331001859102
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20667213202697182
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2066721320269718
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2056119177433833
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.2053943530546183
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.20467259996239223
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2046174423291306
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2043191614414207
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2039594915683689
