@@ -4,6 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,2,0.2081418881910497
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2074823190244493
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2073331001859102
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.20667213202697182
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2056119177433833
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.2053943530546183
@@ -13,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.1970845850026416
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1947968633087768
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1915526260294712
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1907889259140845
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1904937359418383
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1897079245617911
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.1893186562662782
@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0585184739191648
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0580826032283737
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0577349384123842
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.05704664684622426
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0570466468462242
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0562787419842771
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
