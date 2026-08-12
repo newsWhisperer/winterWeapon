@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1557295885630075
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,2,0.1547015852532722
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1536938003559961
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.15091285372047947
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1509128537204794
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1490300770514681
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
@@ -103,7 +103,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0667742737954939
-'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0667607257014403
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0656369752855838
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
@@ -112,6 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0585184739191648
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0580826032283737
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0577349384123842
+'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.05704664684622426
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0562787419842771
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
