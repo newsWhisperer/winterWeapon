@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2066721320269718
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2056119177433833
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.20542261282633648
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.2053943530546183
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2046725999623922
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2046174423291306
@@ -137,9 +137,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0077480788461537
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0039047934196575
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0037965355484897
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0033626028394318
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.003227055216216245
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.002374088333613
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0019833502782524
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0008719751767267
