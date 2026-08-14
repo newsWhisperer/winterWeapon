@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1915526260294712
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1904937359418383
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1897079245617911
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.18906177197323204
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.189061771973232
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1885167170960591
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1852901753386807
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1784602370080196
@@ -97,7 +97,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0743254914740605
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0735591285622444
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
-'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0720296938105145
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0716447417544754
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0707277953743956
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0697147654236315
@@ -107,6 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0617142939275525
+'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.06152526973893732
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0586592317507586
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0585184739191648
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0580826032283737
