@@ -53,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1280006509360006
+'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.12597903042296013
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1250933027827132
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1246925242284332
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1246050416020459
@@ -70,7 +71,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.1095397730599801
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1084434650382776
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1065232883967633
-'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1051922950677359
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1036826022744796
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,1,0.102645204692756
@@ -106,7 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0617142939275525
-'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.06152526973893732
+'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0615252697389373
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0586592317507586
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0585184739191648
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0580826032283737
