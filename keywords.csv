@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1897079245617911
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1885167170960591
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1852901753386807
-'Blackout',de,Other,#545557,#6b6c6e,3,0.17909744542698272
+'Blackout',de,Other,#545557,#6b6c6e,3,0.1790974454269827
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1784602370080196
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1710289677068383
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
@@ -64,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1190480636715689
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1178590807600371
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.1123916328515662
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1123426447572493
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1111750704469091
@@ -77,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.0989639217244471
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.09568290292383128
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.093108807100983
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0930030729230376
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0921019255199563
