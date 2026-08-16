@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.0989639217244471
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.09568290292383128
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0956829029238312
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.093108807100983
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0930030729230376
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0921019255199563
@@ -110,7 +110,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0585184739191648
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0583416839927462
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0580826032283737
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0577349384123842
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0570466468462242
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0562787419842771
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
@@ -118,6 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0527260801004501
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.04907469765052657
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0482247535688961
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0429799952613136
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
