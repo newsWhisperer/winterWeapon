@@ -17,9 +17,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1897079245617911
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1885167170960591
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1852901753386807
-'Blackout',de,Other,#545557,#6b6c6e,3,0.1790974454269827
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1784602370080196
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1710289677068383
+'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1632527761772472
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,3,0.1620625112387206
@@ -117,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0527260801004501
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.04907469765052657
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0490746976505265
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0482247535688961
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0429799952613136
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
