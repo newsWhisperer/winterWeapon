@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blackout',de,Other,#545557,#6b6c6e,3,0.2074823190244493
+'Blackout',de,Other,#545557,#6b6c6e,3,0.20858385344350916
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2073331001859102
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2066721320269718
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1999056213531344
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1947968633087768
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.19458364271540546
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945836427154054
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1915526260294712
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1904937359418383
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1897079245617911
