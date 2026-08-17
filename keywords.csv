@@ -111,12 +111,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0583416839927462
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0580826032283737
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0570466468462242
-'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0562787419842771
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0527260801004501
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
+'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.048286975686635536
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0482247535688961
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0429799952613136
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0417134930029475
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0233156510031539
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0229692147198472
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0173725532186185
-'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.01594007039223389
+'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0159400703922338
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0127208886669672
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0121676899898034
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
