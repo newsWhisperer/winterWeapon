@@ -74,7 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.1014105167510038
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
-'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.10048024864603153
+'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1004802486460315
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.0989639217244471
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0956829029238312
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.093108807100983
@@ -117,9 +117,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0527260801004501
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
-'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0490746976505265
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0482247535688961
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0429799952613136
+'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.04171349300294752
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
