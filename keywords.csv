@@ -123,7 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.029107498551407793
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0291074985514077
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.0233156510031539
@@ -138,8 +138,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0039047934196575
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
-'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0033626028394318
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0032270552162162
+'Gasstreit',de,Other,#545557,#6b6c7e,1,0.00285821241351703
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.002374088333613
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0019833502782524
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0008719751767267
