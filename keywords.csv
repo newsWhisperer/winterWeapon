@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2073331001859102
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2066721320269718
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.2056119177433833
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,2,0.2046174423291306
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2043191614414207
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1885167170960591
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1852901753386807
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1784602370080196
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1755207000818758
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1710289677068383
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
