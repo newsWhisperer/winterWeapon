@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1423926911017443
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1399605047968592
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1387506873001261
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1386713561804938
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1377541245529125
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.132580783722031
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.1320810027492324
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.13191460684432882
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1316809979756421
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0039047934196575
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0028930119337837695
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0028930119337837
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.002858212413517
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.002374088333613
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0019833502782524
