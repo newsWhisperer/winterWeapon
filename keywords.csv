@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2448212087943873
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.24941344883886554
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2066721320269718
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2041861489335506
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2039594915683689
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1999056213531344
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.19919721903787857
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1991972190378785
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1947968633087768
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945836427154054
