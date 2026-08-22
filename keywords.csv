@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.24941344883886554
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2494134488388655
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2066721320269718
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
@@ -65,11 +65,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1190480636715689
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149262667161153
+'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1140965051372488
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1123426447572493
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1111750704469091
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1084434650382776
-'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1065232883967633
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1036826022744796
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.1014105167510038
