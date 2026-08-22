@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1947968633087768
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945836427154054
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1915526260294712
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1904937359418383
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.18960401327783527
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1885167170960591
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1868689459045062
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1852901753386807
@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0028930119337837
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.002858212413517
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.002374088333613
-'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0016858477365145398
+'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0016858477365145
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0008719751767267
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004597641841224
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0002381494936961
