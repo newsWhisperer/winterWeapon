@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2577422720616357
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2494134488388655
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2192472324652813
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2066721320269718
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2049233502654752
@@ -120,7 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0482869756866355
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0429799952613136
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.04200250894044155
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0420025089404415
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0417134930029475
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0409910405335616
