@@ -114,12 +114,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0570466468462242
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.05376913440670887
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0537691344067088
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0527260801004501
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0482869756866355
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0429799952613136
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.04200250894044155
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0417134930029475
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0409910405335616
@@ -128,7 +129,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0291074985514077
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0229692147198472
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0173725532186185
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0159400703922338
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0127208886669672
