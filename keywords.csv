@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2494134488388655
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.21924723246528138
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2192472324652813
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2066721320269718
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
@@ -114,6 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0570466468462242
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
+'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.05376913440670887
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0527260801004501
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
@@ -136,7 +137,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0079731743640921
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0068858970192306
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
-'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0039047934196575
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0028930119337837
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.002858212413517
