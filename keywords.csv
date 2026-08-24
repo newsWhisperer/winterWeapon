@@ -120,12 +120,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0482869756866355
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0429799952613136
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0420025089404415
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0417134930029475
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0409910405335616
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.036602222599375275
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0291074985514077
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.000227586310897
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001046697859008
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,5.973240751628684e-05
-'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,5.2789259613417236e-05
+'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,5.278925961341724e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,6.347529586789192e-07
