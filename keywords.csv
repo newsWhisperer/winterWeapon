@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1710289677068383
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1699683183526808
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.16708047581767949
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1660531908775224
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1578819356754137
@@ -45,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.132580783722031
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.1320810027492324
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1319146068443288
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1316809979756421
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0173725532186185
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0159400703922338
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0127208886669672
-'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.010642566491332888
+'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0106425664913328
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0079731743640921
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0068858970192306
