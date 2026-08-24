@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0409910405335616
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
-'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.036602222599375275
+'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0366022225993752
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0291074985514077
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
@@ -147,6 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0002381494936961
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.000227586310897
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001046697859008
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,5.973240751628684e-05
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,5.278925961341724e-05
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,5.077254638884381e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,6.347529586789192e-07
