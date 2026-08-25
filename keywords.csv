@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1566064162471296
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1557295885630075
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1536938003559961
-'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1509128537204794
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1490300770514681
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1452899416634935
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1309951108083863
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1306626639758424
+'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1293260306624075
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1280006509360006
