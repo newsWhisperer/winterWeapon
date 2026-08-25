@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2039594915683689
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1999056213531344
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1991972190378785
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.19873890401883026
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1987389040188302
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1947968633087768
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945836427154054
@@ -109,13 +109,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0615252697389373
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0586592317507586
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0585184739191648
-'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0583416839927462
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0580826032283737
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0570466468462242
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0537691344067088
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0527260801004501
+'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.05184065639383427
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0498485302852668
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0482869756866355
