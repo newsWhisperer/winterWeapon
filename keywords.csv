@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2237325212523903
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.21992573999767906
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.219925739997679
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2192472324652813
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
@@ -10,13 +10,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.2039594915683689
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1999056213531344
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1991972190378785
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.19873890401883026
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1947968633087768
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945836427154054
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1915526260294712
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1896040132778352
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1885167170960591
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1868689459045062
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1793707391840893
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1716717664981658
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1710289677068383
