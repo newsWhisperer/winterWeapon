@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1316809979756421
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1309951108083863
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1306626639758424
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1293260306624075
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1140965051372488
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1123426447572493
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.11149585918712836
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1111750704469091
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1084434650382776
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0106425664913328
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0079731743640921
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.00615304246634601
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.006153042466346
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0028930119337837
