@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1991972190378785
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1987389040188302
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.19649939601493172
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1964993960149317
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1947968633087768
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945836427154054
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1939264168598416
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0127208886669672
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0106425664913328
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0079731743640921
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0067771982094782844
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.006153042466346
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
