@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,2,0.1947968633087768
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945836427154054
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.19392641685984166
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1939264168598416
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1915526260294712
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1896040132778352
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1885167170960591
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0106425664913328
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0079731743640921
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0068858970192306
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.00615304246634601
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0028930119337837
