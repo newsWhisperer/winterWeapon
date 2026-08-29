@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1915526260294712
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1896040132778352
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1885167170960591
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.18389758529274802
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.183897585292748
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1827753257331018
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1793707391840893
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1716717664981658
@@ -121,11 +121,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0482869756866355
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0417134930029475
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0409910405335616
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0366022225993752
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0365329959721165
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.03484238445352736
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0291074985514077
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
