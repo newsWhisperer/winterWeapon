@@ -17,10 +17,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1915526260294712
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1896040132778352
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1885167170960591
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.18277532573310182
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.18389758529274802
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1827753257331018
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1793707391840893
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1716717664981658
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1710289677068383
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1699683183526808
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1670804758176794
