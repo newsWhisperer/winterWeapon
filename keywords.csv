@@ -125,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0366022225993752
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0365329959721165
-'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.03484238445352736
+'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0348423844535273
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0291074985514077
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
@@ -138,8 +138,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.006153042466346
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0045344419476976
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
-'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0028930119337837
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.002858212413517
+'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.002609075143716145
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.002374088333613
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0016858477365145
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0008719751767267
