@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1713295483064759
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1699683183526808
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.16973045953165025
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1697304595316502
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1670804758176794
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1660531908775224
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
@@ -61,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1241723314236982
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1211393697452292
-'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1190480636715689
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149262667161153
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1140965051372488
@@ -72,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1084434650382776
 'milden Winter',de,Wetter,#2d8f29,#4ea64b,3,0.1044950175547039
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.1036826022744796
+'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.10284104912083356
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.1014105167510038
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
