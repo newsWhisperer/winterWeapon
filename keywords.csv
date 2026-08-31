@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2237325212523903
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.23603341397362265
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.219925739997679
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2192472324652813
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
@@ -95,7 +95,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.076943494261758
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0755840550831234
 'Gasknappheit',de,Other,#545557,#4b7c7e,1,0.0750013894501855
-'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.07454407924645041
+'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0745440792464504
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0743254914740605
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0735591285622444
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
