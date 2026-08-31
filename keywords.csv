@@ -115,7 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0537691344067088
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0527260801004501
-'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.051867230287931325
+'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0518672302879313
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0518406563938342
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0482869756866355
@@ -149,4 +149,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001046697859008
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,5.278925961341724e-05
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,5.077254638884381e-05
-'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,6.347529586789192e-07
+'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,5.395400148770813e-07
