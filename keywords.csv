@@ -12,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1964993960149317
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1957476721250505
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945836427154054
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1939264168598416
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.192333288573501
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1896040132778352
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.186527086464353
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1827753257331018
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.17888031342177446
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1716717664981658
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1713295483064759
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1697304595316502
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1670804758176794
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1660531908775224
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.16557734881246025
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1578819356754137
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1566064162471296
