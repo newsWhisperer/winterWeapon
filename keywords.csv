@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2360334139736226
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.22862224722520758
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2286222472252075
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.219925739997679
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2192472324652813
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
@@ -114,11 +114,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0537691344067088
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0527260801004501
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0518672302879313
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0518406563938342
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0482869756866355
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.04511719808538259
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0417134930029475
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
