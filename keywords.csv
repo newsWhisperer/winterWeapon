@@ -87,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.0885694427085161
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0885254411549005
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.0868059883835708
-'Russland Erdöl',de,Russland,#a6190f,#b24335,2,0.0815128255783949
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0793380069843126
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0785032113379112
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0780399467968652
@@ -101,6 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0716447417544754
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0707277953743956
+'Russland Erdöl',de,Russland,#a6190f,#b24335,1,0.06928632174163567
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0688022684372917
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0667742737954939
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
