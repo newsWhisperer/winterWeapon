@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1896040132778352
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.186527086464353
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1827753257331018
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.17888031342177446
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1788803134217744
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1716717664981658
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1713295483064759
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1423926911017443
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1399605047968592
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1387506873001261
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1386352326360743
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1377541245529125
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.13640114578168
@@ -62,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1211393697452292
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.11828999274066315
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149262667161153
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1140965051372488
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1123426447572493
