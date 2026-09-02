@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2286222472252075
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.219925739997679
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2192472324652813
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.21921677551394286
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2192167755139428
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2049233502654752
@@ -59,10 +59,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1241723314236982
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1236494943831554
+'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.121238076708698
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1211393697452292
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1182899927406631
-'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.1149262667161153
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1140965051372488
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1123426447572493
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
