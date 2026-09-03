@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1987389040188302
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1964993960149317
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.19582378418685137
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1958237841868513
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1957476721250505
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945836427154054
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.192333288573501
@@ -44,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.132580783722031
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.1320810027492324
-'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1316893174510911
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1316809979756421
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1306626639758424
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1182899927406631
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1140965051372488
+'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.11358660983342743
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1123426447572493
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1114958591871283
