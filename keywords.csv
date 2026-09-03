@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2286222472252075
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.219925739997679
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2192472324652813
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2192167755139428
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2049233502654752
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1987389040188302
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1964993960149317
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.19582378418685137
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1957476721250505
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945836427154054
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.192333288573501
@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1578819356754137
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1566064162471296
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.15606035296017975
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1560603529601797
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1536938003559961
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1452899416634935
