@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2041861489335506
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1987389040188302
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
-'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.19794134310434172
+'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1979413431043417
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1964993960149317
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1958237841868513
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1957476721250505
@@ -16,13 +16,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.192333288573501
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.186527086464353
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1827753257331018
+'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1796345644450275
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1788803134217744
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1716717664981658
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1713295483064759
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1699683183526808
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1697304595316502
-'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1670804758176794
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1578819356754137
