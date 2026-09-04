@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945836427154054
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.192333288573501
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.186527086464353
-'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1827753257331018
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1796345644450275
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1788803134217744
+'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1784916250549547
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1716717664981658
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1713295483064759
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0067771982094782
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.006153042466346
-'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.00385427565554296
+'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0038542756555429
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.002858212413517
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0026090751437161
