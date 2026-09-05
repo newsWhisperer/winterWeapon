@@ -19,10 +19,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1788803134217744
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1784916250549547
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1716717664981658
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1713295483064759
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1699683183526808
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1697304595316502
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1687637642423227
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1578819356754137
@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0615252697389373
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0586592317507586
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0585184739191648
-'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.05848192817169794
+'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0584819281716979
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0580826032283737
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0570466468462242
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
