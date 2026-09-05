@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.24949024902406053
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2286222472252075
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.2192472324652813
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2072102725694557
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1957476721250505
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1945836427154054
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.186527086464353
-'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.18212305397168635
+'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1821230539716863
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1796345644450275
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1788803134217744
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1784916250549547
