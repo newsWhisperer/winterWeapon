@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.22523330041988368
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2174617183232445
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2072102725694557
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1979413431043417
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1964993960149317
+'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.19639986535690104
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1958237841868513
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1957476721250505
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.186527086464353
