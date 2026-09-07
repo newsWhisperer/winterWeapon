@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2174617183232445
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.2072102725694557
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2049233502654752
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2041861489335506
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.19968036668403732
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1987389040188302
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1979413431043417
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0365329959721165
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0296160267854982
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.024741373768696544
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0247413737686965
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0236205457619585
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0173725532186185
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0136990748333987
