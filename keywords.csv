@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2049233502654752
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2041861489335506
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.19968036668403732
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1996803666840373
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1987389040188302
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1979413431043417
@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1784916250549547
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1716717664981658
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.1699683183526808
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1697304595316502
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1687637642423227
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1452899416634935
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1452627091301115
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.14447308559977867
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1423926911017443
