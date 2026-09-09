@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1821230539716863
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1802190914241561
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1796345644450275
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.17891113888809554
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1789111388880955
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1788803134217744
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1784916250549547
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1727731162757801
@@ -101,7 +101,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.0716447417544754
 'Russland Erdöl',de,Russland,#a6190f,#b24335,1,0.0692863217416356
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0667742737954939
-'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0655775157379791
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0617142939275525
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0615252697389373
@@ -110,6 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0585184739191648
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0584819281716979
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0580826032283737
+'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.05634094837728223
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0518406563938342
