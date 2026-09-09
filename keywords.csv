@@ -16,9 +16,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1821230539716863
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1802190914241561
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1796345644450275
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.17891113888809554
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1788803134217744
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1784916250549547
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.17277311627578013
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1727731162757801
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1716717664981658
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1697304595316502
@@ -34,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1444730855997786
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1423926911017443
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1399605047968592
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1387506873001261
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1377541245529125
