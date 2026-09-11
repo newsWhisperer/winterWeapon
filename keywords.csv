@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2174617183232445
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2049233502654752
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2041861489335506
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.20370604057475783
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1996803666840373
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1987389040188302
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0251736227676734
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0247413737686965
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0203774938976647
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.014916685235825724
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0149166852358257
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0136990748333987
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0127208886669672
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0106425664913328
