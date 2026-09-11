@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2049233502654752
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2041861489335506
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.20370604057475783
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1996803666840373
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1987389040188302
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1789111388880955
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1788803134217744
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1784916250549547
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.17420122948854413
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1727731162757801
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1727217065234409
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
