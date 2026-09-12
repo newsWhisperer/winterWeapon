@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.24669451477533622
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2466945147753362
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2095861454842746
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
@@ -102,11 +102,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,1,0.0692863217416356
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0667742737954939
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
+'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.06502723146765371
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0617142939275525
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0615252697389373
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.0602686410682362
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0586592317507586
-'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0585184739191648
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0584819281716979
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0580826032283737
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0563409483772822
