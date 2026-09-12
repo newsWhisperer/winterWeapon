@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1425295019823791
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1399605047968592
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1387506873001261
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1377541245529125
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.13640114578168
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1348498789760953
@@ -63,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1211393697452292
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1182899927406631
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.11799159086997561
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1140965051372488
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1135866098334274
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1123426447572493
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0247413737686965
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0203774938976647
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0136990748333987
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.012829197450451845
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0128291974504518
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0127208886669672
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0106425664913328
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
