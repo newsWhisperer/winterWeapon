@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1796345644450275
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1789111388880955
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.1784916250549547
-'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.17654963140850824
+'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1765496314085082
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1742012294885441
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1727731162757801
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,2,0.1727217065234409
@@ -130,8 +130,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0251736227676734
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0247413737686965
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0203774938976647
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0149166852358257
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0136990748333987
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.012829197450451845
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0127208886669672
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0106425664913328
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
