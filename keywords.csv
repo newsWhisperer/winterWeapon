@@ -62,7 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1211393697452292
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1182899927406631
-'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.11799159086997561
+'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1179915908699756
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1140965051372488
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1135866098334274
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1123426447572493
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.000227586310897
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001046697859008
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,5.278925961341724e-05
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,4.315666443051724e-05
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,3.6683164765939656e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,4.586090126455191e-07
