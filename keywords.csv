@@ -50,7 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1280006509360006
-'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.12652837490800078
+'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1265283749080007
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1259790304229601
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1250933027827132
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1246925242284332
@@ -112,11 +112,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0563409483772822
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
-'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.0518406563938342
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0493897398192905
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0490376557447416
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0482869756866355
+'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.04796494793475906
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0463038542457024
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0451171980853825
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0438606934780564
