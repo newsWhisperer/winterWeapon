@@ -41,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.13640114578168
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1348498789760953
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.13361990346578004
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.132580783722031
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.1320810027492324
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1316809979756421
@@ -77,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,1,0.1005263186725377
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1004802486460315
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,1,0.0989639217244471
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0956829029238312
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.093108807100983
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0930030729230376
@@ -116,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0493897398192905
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0490376557447416
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0482869756866355
-'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.04796494793475906
+'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.047964947934759
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0463038542457024
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0451171980853825
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0438606934780564
