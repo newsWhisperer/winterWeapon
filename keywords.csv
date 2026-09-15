@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2316642905449247
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2145072808044905
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.21434452255903577
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2143445225590357
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1996803666840373
@@ -31,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1566064162471296
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1548048358759333
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.153860252323845
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.15099653882956363
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1504742584908925
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1452627091301115
@@ -63,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.121238076708698
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1211393697452292
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1182899927406631
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1179915908699756
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1140965051372488
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1135866098334274
