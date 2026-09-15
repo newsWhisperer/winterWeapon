@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.16015122829560052
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1578819356754137
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1566064162471296
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1548048358759333
@@ -50,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1293260306624075
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1280006509360006
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,2,0.1265283749080007
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1259790304229601
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1250933027827132
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0007411789002176
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004597641841224
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.000227586310897
-'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.000202427069641685
+'Proteste Gaspreis',de,Gesellschaft,#503396,#5a158f,1,0.0002024270696416
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,0.0001046697859008
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,5.278925961341724e-05
 'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,3.6683164765939656e-05
