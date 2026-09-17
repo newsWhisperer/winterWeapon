@@ -39,12 +39,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1410729473869253
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1399605047968592
+'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1386172481183268
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.13640114578168
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.136349710009588
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1348498789760953
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
-'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.13361990346578
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.132580783722031
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.1320810027492324
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1316809979756421
@@ -128,7 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0365329959721165
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0251736227676734
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.021030167703392024
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.021030167703392
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0203774938976647
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0136990748333987
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0128291974504518
