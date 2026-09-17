@@ -2,6 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.284437552534748
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2145072808044905
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2143445225590357
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2131598446635935
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
 'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1996803666840373
@@ -13,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1958237841868513
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1957476721250505
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.186527086464353
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.1861199466630512
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1802190914241561
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1796345644450275
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1789111388880955
@@ -37,7 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1452627091301115
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1444730855997786
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
-'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.14107294738692536
+'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1410729473869253
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1399605047968592
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.13640114578168
