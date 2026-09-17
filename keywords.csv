@@ -103,6 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,1,0.0692863217416356
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0667742737954939
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0652320681302611
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.06514979837257512
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0650272314676537
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0617142939275525
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0615252697389373
@@ -118,7 +119,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0482869756866355
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.047964947934759
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0463038542457024
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0451171980853825
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0438606934780564
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0417134930029475
 'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
