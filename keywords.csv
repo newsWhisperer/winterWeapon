@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.284437552534748
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.26127299965453576
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2434436258993182
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2145072808044905
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2131598446635935
@@ -87,7 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.0885694427085161
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0885254411549005
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.0868059883835708
-'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.08238057248525651
+'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0823805724852565
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0793380069843126
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0785032113379112
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0780399467968652
