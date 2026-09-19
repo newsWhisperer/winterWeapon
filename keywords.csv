@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1742012294885441
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1727731162757801
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
-'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.17002933168143172
+'AKW',de,Quelle,#3d9a9c,#24d7b3,3,0.1700293316814317
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1697304595316502
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
@@ -69,7 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1179915908699756
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1140965051372488
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1135866098334274
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.1123426447572493
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1114958591871283
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1084434650382776
@@ -79,6 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Putin',de,Russland,#a6190f,#a31223,2,0.1014105167510038
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1004802486460315
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0954912480436619
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.093108807100983
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0930030729230376
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0921019255199563
