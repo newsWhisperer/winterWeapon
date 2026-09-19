@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2612729996545357
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2434436258993182
+'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.22268312970635534
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2145072808044905
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2131598446635935
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2062884556398043
@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1504742584908925
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1452627091301115
-'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.14452592192921696
+'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1445259219292169
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1444730855997786
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1410729473869253
