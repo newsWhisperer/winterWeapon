@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.2729521377598118
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2255176156507841
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2226831297063553
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2145072808044905
@@ -35,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1452627091301115
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1445259219292169
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,1,0.1444730855997786
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Winter Gas',de,Wetter,#2d8f29,#318c15,2,0.1410729473869253
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1399605047968592
