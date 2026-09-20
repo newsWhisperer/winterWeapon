@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.2729521377598118
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2413634920306757
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.23215933209584003
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2255176156507841
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2226831297063553
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2145072808044905
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.153860252323845
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1509965388295636
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1504742584908925
-'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.14561697405126042
+'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1456169740512604
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1452627091301115
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1445259219292169
