@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2413634920306757
-'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.23215933209584003
+'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.23215933209584
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2255176156507841
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2226831297063553
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2145072808044905
@@ -111,13 +111,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0584819281716979
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0580826032283737
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0563409483772822
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0559348366491664
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0493897398192905
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0490376557447416
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0482869756866355
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.047964947934759
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.04754461115179144
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0463038542457024
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0438606934780564
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0417134930029475
