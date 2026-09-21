@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2145072808044905
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2131598446635935
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.19931331130629293
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1993133113062929
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1987389040188302
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.1979413431043417
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0203774938976647
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0136990748333987
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0128291974504518
-'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0127208886669672
+'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.01081275536692212
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0106425664913328
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0052300860963941
