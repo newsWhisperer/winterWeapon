@@ -117,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0490376557447416
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0482869756866355
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.047964947934759
-'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.04754461115179144
+'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0475446111517914
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0463038542457024
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0438606934780564
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0417134930029475
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.002858212413517
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0026090751437161
-'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.002374088333613
+'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0021679900835710497
 'Gasstopp',de,Russland,#a6190f,#a02b20,1,0.0016858477365145
 'COP26 Ukraine',de,Klimawandel,#578223,#388213,1,0.0007411789002176
 'Notfallszenario',de,Politik,#1f2dc4,#3441c9,1,0.0004597641841224
