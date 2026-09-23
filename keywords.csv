@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.196399865356901
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1958237841868513
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.186527086464353
+'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1806166727447598
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1802190914241561
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1796345644450275
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1789111388880955
@@ -23,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1757499377925352
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1727731162757801
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
-'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1697304595316502
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
