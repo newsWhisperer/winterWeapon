@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1348498789760953
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
 'Energiewirtschaft',de,Wirtschaft,#e6cd10,#94841e,3,0.1332664588100601
-'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.13258244447526824
+'Energieminister',de,Politik,#1f2dc4,#2451d9,3,0.1325824444752682
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.132580783722031
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,1,0.1320810027492324
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1316809979756421
@@ -108,11 +108,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0617142939275525
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0586592317507586
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0584819281716979
-'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0580826032283737
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0563409483772822
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0525965092780967
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
+'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.04967024274411764
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0493897398192905
 'Wohnung kalt',de,Gesellschaft,#6023a6,#5b259a,2,0.0490376557447416
 'Holzöfen',de,Quelle,#3d9a9c,#2ebd93,1,0.0482869756866355
