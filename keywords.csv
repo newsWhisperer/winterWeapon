@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2413634920306757
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.23215933209584
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2255176156507841
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2226831297063553
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2145072808044905
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2131598446635935
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.20816955822607436
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.2012188562967115
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1993133113062929
@@ -107,7 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.060898030491304
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0586592317507586
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0584819281716979
-'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.057177508616688834
+'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0571775086166888
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0563409483772822
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0525965092780967
