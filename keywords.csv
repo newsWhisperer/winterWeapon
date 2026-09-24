@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaslieferstopp',de,Russland,#a6190f,#9c3d1a,2,0.23215933209584
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2255176156507841
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2226831297063553
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.21673372347558026
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2145072808044905
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2131598446635935
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.20816955822607436
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2081695582260743
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.2012188562967115
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.1993133113062929
