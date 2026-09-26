@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.2226831297063553
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.2167337234755802
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2145072808044905
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2131598446635935
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2081695582260743
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasversorgung',de,Politik,#1f2dc4,#193ea6,3,0.196399865356901
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.1958237841868513
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1910329853223693
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.18917760995424315
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.186527086464353
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1806166727447598
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1802190914241561
