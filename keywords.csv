@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2131598446635935
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2081695582260743
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
-'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.20234396961034895
+'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2023439696103489
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.2012188562967115
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1987389040188302
 'Füllstand Gasspeicher',de,Politik,#1f2dc4,#2935a6,1,0.1981139815249969
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1785020301224943
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1765496314085082
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1757499377925352
-'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1727731162757801
+'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1745378865616858
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
