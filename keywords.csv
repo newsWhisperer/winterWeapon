@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1806166727447598
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1802190914241561
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1796345644450275
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,2,0.1789111388880955
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1785020301224943
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1765496314085082
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1757499377925352
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.16156487273230052
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1578819356754137
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1548048358759333
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1509965388295636
