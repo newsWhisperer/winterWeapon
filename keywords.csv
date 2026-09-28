@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2168493086838169
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.28019862829033526
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2131598446635935
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2081695582260743
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.16156487273230052
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1615648727323005
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1578819356754137
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1548048358759333
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1509965388295636
