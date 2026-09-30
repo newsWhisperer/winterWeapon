@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.253347195157896
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.21888947212365495
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2179621497822363
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2081695582260743
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
@@ -20,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1785020301224943
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1771924697782733
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1765496314085082
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.1757499377925352
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1745378865616858
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1306626639758424
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1293260306624075
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.12924714800512904
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.129247148005129
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1259790304229601
