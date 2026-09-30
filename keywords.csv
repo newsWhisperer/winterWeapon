@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1615648727323005
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1578819356754137
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1548048358759333
-'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.1509965388295636
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1504742584908925
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1456169740512604
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1306626639758424
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1293260306624075
+'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.12924714800512904
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1259790304229601
@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0584819281716979
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0571775086166888
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0563409483772822
-'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.05545744983841962
+'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0554574498384196
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0525965092780967
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
