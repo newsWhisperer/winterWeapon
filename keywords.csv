@@ -111,6 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0554574498384196
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0525965092780967
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.05256813309271157
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0496702427441176
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0493897398192905
@@ -119,12 +120,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.047964947934759
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0475446111517914
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0463038542457024
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0438606934780564
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0417134930029475
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0365329959721165
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.034855154640619786
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0348551546406197
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0318619642094689
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0251736227676734
