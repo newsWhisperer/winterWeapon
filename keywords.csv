@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.253347195157896
-'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.21888947212365495
+'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2188894721236549
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2179621497822363
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2081695582260743
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
@@ -121,10 +121,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0463038542457024
 'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0438606934780564
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0417134930029475
-'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.0410060642830821
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0388793052575759
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0365329959721165
+'AfD Blackouts',de,Politik,#1f2dc4,#1b3c8a,1,0.034855154640619786
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0318619642094689
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0251736227676734
