@@ -23,10 +23,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1765496314085082
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1745378865616858
 'Blackout',de,Other,#545557,#6b6c6e,3,0.1708203322492989
+'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.17025670182245542
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
-'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1615648727323005
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1578819356754137
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1548048358759333
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1504742584908925
@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0554574498384196
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0525965092780967
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.05256813309271157
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0525681330927115
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0496702427441176
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0493897398192905
