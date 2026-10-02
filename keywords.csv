@@ -79,7 +79,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1004802486460315
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.093108807100983
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0930030729230376
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0921019255199563
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
 'Nordstream',de,Sabotage,#a6190f,#8c2d0a,1,0.0897361937278316
@@ -87,10 +86,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine CO2',de,Klimawandel,#578223,#6f9e36,1,0.0885694427085161
 'Energiesparen',de,Gesellschaft,#6023a6,#8d3e9d,1,0.0885254411549005
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.0868059883835708
-'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.08497371346154595
+'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0849737134615459
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0823805724852565
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0811675608371126
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0793380069843126
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.07905261198458195
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0785032113379112
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
 'Lecks Ermittlungen',de,Sabotage,#8723a6,#873396,1,0.0755840550831234
