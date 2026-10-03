@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.253347195157896
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2188894721236549
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2179621497822363
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.20917732176489043
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2091773217648904
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2023439696103489
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.2012188562967115
@@ -132,9 +132,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0203774938976647
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0136990748333987
 'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0128291974504518
-'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0108127553669221
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0106425664913328
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
+'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.009190842061883786
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0044455731819349
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0038542756555429
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
