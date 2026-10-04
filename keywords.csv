@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.253347195157896
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.23849335906602978
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2188894721236549
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2179621497822363
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1771924697782733
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1765496314085082
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1745378865616858
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.17177053233684753
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1717705323368475
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1702567018224554
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
