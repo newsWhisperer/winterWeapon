@@ -50,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.132580783722031
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1316809979756421
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
+'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.13073088292966603
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1306626639758424
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1293260306624075
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.129247148005129
@@ -62,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1241723314236982
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1227369698798727
-'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,2,0.121238076708698
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1211393697452292
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1179915908699756
