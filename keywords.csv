@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
-'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.16375238522568208
+'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.163752385225682
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1578819356754137
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1548048358759333
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1504742584908925
@@ -38,10 +38,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'AKW',de,Quelle,#3d9a9c,#24d7b3,2,0.1445259219292169
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1399605047968592
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.139491858914428
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1394150802788865
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1386172481183268
 'LNG-Terminal',de,Quelle,#3d9a9c,#24b7b3,2,0.1364859384292599
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.13640114578168
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.136349710009588
 'Gasnetz',de,Quelle,#3d9a9c,#3fa1c5,1,0.1348498789760953
 'Elektroheizung',de,Quelle,#3d9a9c,#1fc1b5,1,0.1343100934780462
