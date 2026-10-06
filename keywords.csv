@@ -50,7 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Gaspreise',de,Politik,#1f2dc4,#2431a9,1,0.132580783722031
 'Fracking',de,Quelle,#3d9a9c,#2fb1c5,2,0.1316809979756421
 'Erdgas Wasserstoff',de,Quelle,#3d9a9c,#20797a,2,0.131328390825923
-'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.13073088292966603
+'Gas sparen',de,Gesellschaft,#6023a6,#4b158a,3,0.130730882929666
 'Gaskrise',de,Other,#545557,#6b7c6e,1,0.1306626639758424
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1293260306624075
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.129247148005129
@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.021030167703392
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0203774938976647
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0136990748333987
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.0128291974504518
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,1,0.01105483283288403
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0106425664913328
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0091908420618837
