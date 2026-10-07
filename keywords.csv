@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2384933590660297
-'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.21928263364877862
+'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2192826336487786
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2188894721236549
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2179621497822363
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
@@ -88,7 +88,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.0868059883835708
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0849737134615459
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0823805724852565
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0811675608371126
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0793380069843126
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0790526119845819
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0785032113379112
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz Gas',de,Politik,#1f2dc4,#4b1cba,1,0.0735591285622444
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
 'Russland Erdöl',de,Russland,#a6190f,#b24335,1,0.0692863217416356
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0689924267115457
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0667742737954939
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0661922797528272
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0650272314676537
