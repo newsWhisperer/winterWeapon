@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2192826336487786
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2188894721236549
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2179621497822363
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.20768512020612526
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2076851202061252
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2023439696103489
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.2012188562967115
@@ -100,13 +100,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
 'Russland Erdöl',de,Russland,#a6190f,#b24335,1,0.0692863217416356
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0689924267115457
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0667742737954939
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0661922797528272
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0650272314676537
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.060898030491304
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0586592317507586
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0584819281716979
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0571775086166888
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.057058162726169814
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0563409483772822
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0554574498384196
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
