@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2188894721236549
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2179621497822363
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2076851202061252
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2054226128263364
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.20284894090238592
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2023439696103489
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.2012188562967115
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1987389040188302
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1806166727447598
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1802190914241561
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,2,0.1785020301224943
-'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.17805078349470005
+'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1780507834947
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1771924697782733
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1765496314085082
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1745378865616858
