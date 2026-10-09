@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1771924697782733
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1765496314085082
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1745378865616858
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,2,0.1717705323368475
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1703021834611066
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1702567018224554
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.163752385225682
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1578819356754137
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1548048358759333
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.15050670748632036
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1504742584908925
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1456169740512604
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
@@ -56,7 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.129247148005129
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.12745924757970997
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1274592475797099
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1259790304229601
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1250933027827132
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1246925242284332
