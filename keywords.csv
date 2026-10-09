@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2188894721236549
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2179621497822363
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2076851202061252
-'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.20284894090238592
+'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2028489409023859
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2023439696103489
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.2012188562967115
 'Netzagentur',de,Politik,#1f2dc4,#2925b6,1,0.1987389040188302
@@ -56,13 +56,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.129247148005129
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
+'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.12745924757970997
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1259790304229601
 'Gas Atomausstieg',de,Quelle,#3d9a9c,#219059,1,0.1250933027827132
 'Energiekosten',de,Wirtschaft,#e6cd10,#9b9d27,3,0.1246925242284332
 'Gas Pipeline',de,Sabotage,#8723a6,#9723b6,3,0.1246050416020459
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1241723314236982
-'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1227369698798727
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1211393697452292
 'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1183787390059689
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1179915908699756
