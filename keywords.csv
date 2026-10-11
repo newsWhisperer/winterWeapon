@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.23267853341600567
+'Netzagentur',de,Politik,#1f2dc4,#2925b6,2,0.2326785334160056
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2192826336487786
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.2188894721236549
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2179621497822363
@@ -29,8 +29,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,2,0.1578819356754137
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1548048358759333
-'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1505067074863203
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1504742584908925
+'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.14968233636337225
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1456169740512604
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
 'Energiemarkt',de,Wirtschaft,#e6cd10,#abad37,2,0.1452627091301115
