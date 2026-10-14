@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.15908544529677932
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1590854452967793
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1548048358759333
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1517267256041201
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1504742584908925
@@ -89,7 +89,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#1f2dc4,#3055ba,2,0.0868059883835708
 'Klimaziele Fossile',de,Klimawandel,#578223,#336c45,2,0.0849737134615459
 'Pipeline Explosionen',de,Sabotage,#545557,#6b6c6e,1,0.0823805724852565
-'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0793380069843126
 'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0790526119845819
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0785032113379112
 'Heizlüfter',de,Gesellschaft,#6023a6,#8132db,1,0.0779760053574407
@@ -101,6 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,2,0.0732676274760326
 'Russland Erdöl',de,Russland,#a6190f,#b24335,1,0.0692863217416356
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0689924267115457
+'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.06833739593666573
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0661922797528272
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0650272314676537
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.060898030491304
