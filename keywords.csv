@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1780507834947
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1771924697782733
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1765496314085082
-'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.17493832771053267
+'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1749383277105326
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1702567018224554
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
 'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
@@ -129,8 +129,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0318619642094689
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0251736227676734
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.021030167703392
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0203774938976647
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.017875642547883198
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0136990748333987
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0106425664913328
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
