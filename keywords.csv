@@ -18,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1859311725240139
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.1842573914779477
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1806166727447598
+'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.17830861017180408
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1780507834947
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1771924697782733
 'Akw',de,Quelle,#3d9a9c,#14d7b3,3,0.1765496314085082
@@ -29,7 +30,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1590854452967793
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,1,0.1548048358759333
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1517267256041201
-'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.1504742584908925
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1496823363633722
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1456169740512604
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
@@ -130,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'mildem Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0288970632090858
 'Klimaschutz Gasverbrauch',de,Klimawandel,#578223,#235c35,1,0.0251736227676734
 'Holz Feinstaub',de,Quelle,#3d9a9c,#1ecd83,1,0.0203774938976647
-'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.017875642547883198
+'Baltic Pipe',de,Other,#545557,#6b6c6e,1,0.0178756425478831
 'Frieren Pullover',de,Gesellschaft,#6023a6,#6d2ebd,1,0.0136990748333987
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0106425664913328
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
