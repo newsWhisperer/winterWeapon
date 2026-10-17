@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blackout',de,Other,#545557,#6b6c6e,3,0.2393965556183002
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2179621497822363
 'Stromversorgung',de,Other,#3d9a9c,#23a1d5,3,0.213985931983518
+'Blackout',de,Other,#545557,#6b6c6e,3,0.2129841618210097
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.211173858222977
 'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2076851202061252
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2028489409023859
