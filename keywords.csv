@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0106425664913328
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0091908420618837
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.003928752204644665
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0039287522046446
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0038542756555429
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0026090751437161
@@ -148,5 +148,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasboom',de,Quelle,#3d9a9c,#24a7d3,1,0.000164431109623
 'Gas Auktionsmodell',de,Wirtschaft,#e6cd10,#c9cc33,1,7.5623920313328e-05
 'Gasfüllstand',de,Politik,#1f2dc4,#1925a6,1,4.487087067140465e-05
-'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,3.6683164765939656e-05
+'Energiesorge',de,Gesellschaft,#6023a6,#7142eb,1,3.118069005104871e-05
 'Gasmangelsicherung',de,Politik,#1f2dc4,#2552cf,1,4.586090126455191e-07
