@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohleausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1242195455467236
 'Laufzeitverlängerung',de,Quelle,#3d9a9c,#218069,1,0.1241723314236982
 'Gasheizung',de,Quelle,#3d9a9c,#1e9d83,2,0.1211393697452292
-'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.11948628815507356
+'Russland Abhängigkeit',de,Russland,#a6190f,#a02b10,3,0.1194862881550735
 'Energiewende Gas',de,Politik,#1f2dc4,#4b2cba,2,0.1179915908699756
 'Atomausstieg',de,Quelle,#3d9a9c,#34e7b3,1,0.1163377990254357
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1140965051372488
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromabschaltung',de,Other,#3d9a9c,#23a1d5,1,0.0106425664913328
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0091908420618837
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0044455731819349
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.003928752204644665
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0038542756555429
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0026090751437161
