@@ -19,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1850424006968098
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.1842573914779477
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1806166727447598
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.17944086649059116
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.178308610171804
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1780507834947
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1771924697782733
@@ -26,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiemärkte',de,Wirtschaft,#e6cd10,#abad47,2,0.1732847254945433
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1702567018224554
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1655773488124602
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1590854452967793
 'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1517267256041201
@@ -100,7 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Erdöl',de,Russland,#a6190f,#b24335,1,0.0692863217416356
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0689924267115457
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0650272314676537
-'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,1,0.062277873354627714
+'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,1,0.0622778733546277
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.060898030491304
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0589868765461658
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0589637077899031
