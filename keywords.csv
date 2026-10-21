@@ -98,13 +98,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0745440792464504
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0743254914740605
 'Russland Erdöl',de,Russland,#a6190f,#b24335,1,0.0692863217416356
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0689924267115457
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0650272314676537
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,1,0.0622778733546277
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.060898030491304
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0589868765461658
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0589637077899031
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0586592317507586
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.05864356270481385
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0584819281716979
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0571775086166888
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0565761908975109
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0475446111517914
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0463038542457024
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0417134930029475
-'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.041224522569657654
+'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0412245225696576
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
 'Gaspreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0365329959721165
 'Stromerzeugung Gaskraftwerk',de,Other,#545557,#5b5c8e,1,0.0318619642094689
