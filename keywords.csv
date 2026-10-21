@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
 'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1590854452967793
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.1517267256041201
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1496823363633722
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1456169740512604
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
@@ -54,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1293260306624075
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.129247148005129
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.12896771676350208
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1274592475797099
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1259790304229601
