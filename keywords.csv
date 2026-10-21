@@ -104,7 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0589868765461658
 'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0589637077899031
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0586592317507586
-'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.05864356270481385
+'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0586435627048138
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0584819281716979
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0571775086166888
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0565761908975109
@@ -112,7 +112,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0554574498384196
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0525965092780967
-'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0525681330927115
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0496702427441176
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0493897398192905
@@ -121,6 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie Waffe',de,Russland,#a6190f,#b24325,2,0.047964947934759
 'Energiepreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.0475446111517914
 'Gasspeicherverband',de,Other,#6b6c6e,#226e18,1,0.0463038542457024
+'G20 Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.04573301812880478
 'Holzdiebstahl',de,Quelle,#3d9a9c,#1ead83,1,0.0417134930029475
 'REPowerEU',de,Politik,#1f2dc4,#3b1c9a,1,0.0412245225696576
 'reduziert Temperatur',de,Gesellschaft,#6023a6,#7d2ead,3,0.0371201379036481
