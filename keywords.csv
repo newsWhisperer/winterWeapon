@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2161546893767566
+'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.21595991324297037
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2129841618210097
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.211173858222977
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2093791125021299
@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Wetter,#2d8f29,#18aa33,1,0.1293260306624075
 'Winter Kernkraft',de,Quelle,#3d9a9c,#2fa1b5,1,0.129247148005129
 'Flüssiggas',de,Quelle,#3d9a9c,#46a2a3,2,0.1291133537015679
-'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.12896771676350208
+'Doppelwumms',de,Politik,#1f2dc4,#3b1caa,1,0.128967716763502
 'Preisbremse',de,Politik,#1f2dc4,#4b1c8a,1,0.1282506747738492
 'Winter heizen',de,Wetter,#2d8f29,#5bba3d,3,0.1274592475797099
 'Gas Atomkraft',de,Quelle,#3d9a9c,#159799,1,0.1259790304229601
