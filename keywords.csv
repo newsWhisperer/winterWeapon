@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.26871908507726383
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2408688523327155
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2159599132429703
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2129841618210097
@@ -37,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasaustritt',de,Sabotage,#8723a6,#8733b6,1,0.1433377232913802
 'Gasmangel',de,Gesellschaft,#6023a6,#8132db,1,0.1418898874418297
 'Russland Gas',de,Russland,#a6190f,#b01b10,3,0.1399605047968592
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.139491858914428
 'Winter Gas',de,Wetter,#2d8f29,#318c15,3,0.1394150802788865
 'Gasmarkt',de,Wirtschaft,#e6cd10,#807314,2,0.1386172481183268
 'Gasmangellage',de,Politik,#1f2dc4,#2035b6,2,0.136349710009588
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0091908420618837
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0038542756555429
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0034894543739479
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.003200843513611375
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0032008435136113
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0024294805514894
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0022177138721586
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0018427915710353
