@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gazprom',de,Russland,#a6190f,#A33223,3,0.26871908507726383
+'Gazprom',de,Russland,#a6190f,#A33223,3,0.2687190850772638
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2408688523327155
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2159599132429703
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2129841618210097
@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1702567018224554
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1590854452967793
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.15770229493083382
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1496823363633722
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1456169740512604
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
