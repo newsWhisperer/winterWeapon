@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.24086885233271554
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2408688523327155
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2159599132429703
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2129841618210097
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.211173858222977
@@ -136,8 +136,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0091908420618837
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0038542756555429
-'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0037656982513075
 'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0034894543739479
+'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.003200843513611375
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0024294805514894
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0022177138721586
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0018427915710353
