@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.266083787937069
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.24086885233271554
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2159599132429703
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2129841618210097
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.211173858222977
@@ -111,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0525965092780967
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
-'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.05109006226288426
+'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0510900622628842
 'Gaspreisdeckel',de,Politik,#1f2dc4,#2b2c9a,1,0.0497096389459432
 'Temperaturabsenkung',de,Gesellschaft,#6023a6,#8d3ead,1,0.0496702427441176
 'BASF Gas',de,Wirtschaft,#e6cd10,#c1af49,1,0.0493897398192905
