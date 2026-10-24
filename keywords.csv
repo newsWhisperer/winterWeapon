@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1850424006968098
 'Übergewinnsteuer',de,Politik,#1f2dc4,#1b3c8a,3,0.1842573914779477
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1806166727447598
-'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.1794408664905911
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.178308610171804
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1780507834947
 'Krieg Gas',de,Russland,#a6190f,#b33329,3,0.1771924697782733
@@ -29,7 +28,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Industrie',de,Wirtschaft,#e6cd10,#b3a132,3,0.1702567018224554
 'Nord Stream',de,Sabotage,#8723a6,#7713a6,3,0.1681398266850222
 'Energieagentur',de,Politik,#1f2dc4,#4431b9,3,0.1645852833256041
-'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.15770229493083382
+'Schattenflotte',de,Russland,#a6190f,#b32233,3,0.1577022949308338
+'Gasverbrauch Industrie',de,Wirtschaft,#e6cd10,#908324,1,0.15387487151700244
 'Heizperiode',de,Gesellschaft,#6023a6,#8122cb,3,0.1496823363633722
 'Energiesicherheit',de,Other,#545557,#6b6c6e,2,0.1456169740512604
 'Gas Erneuerbare',de,Quelle,#3d9a9c,#118069,3,0.1452955600188968
