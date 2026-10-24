@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2687190850772638
-'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.22924137448280815
+'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2292413744828081
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2159599132429703
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2129841618210097
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.211173858222977
@@ -102,13 +102,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,1,0.0622778733546277
 'Energiepolitik Demonstrationen',de,Proteste,#4f4df4,#4f3de4,1,0.060898030491304
 'G20-Gipfel Gas',de,Politik,#1f2dc4,#3b2c9a,1,0.0589868765461658
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,1,0.0589637077899031
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0586592317507586
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0586435627048138
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0571775086166888
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0563409483772822
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0554574498384196
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.053269466621417634
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0525965092780967
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0510900622628842
