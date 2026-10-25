@@ -78,7 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1004802486460315
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0976279164787622
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.09366968497175861
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.0936696849717586
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.093108807100983
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0921019255199563
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
@@ -96,7 +96,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Import',de,Wirtschaft,#e6cd10,#8bad37,1,0.0745440792464504
 'Gas Klimawandel',de,Klimawandel,#578223,#217c25,2,0.0743254914740605
 'Russland Erdöl',de,Russland,#a6190f,#b24335,1,0.0692863217416356
-'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.0671947201868946
 'Strommangellage',de,Other,#545557,#5b7c5e,1,0.0671777746372245
 'Gas Waffe',de,Russland,#a6190f,#c24315,1,0.0650272314676537
 'Ukraine Klimawandel',de,Russland,#a6190f,#a25315,1,0.0622778733546277
@@ -105,6 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasimporteur',de,Wirtschaft,#e6cd10,#9b9d27,1,0.0586592317507586
 'Gaskonsum',de,Gesellschaft,#6023a6,#8d3ead,1,0.0586435627048138
 'Rakete Kraftwerk',de,Russland,#a6190f,#b32233,1,0.0571775086166888
+'Brownout',de,Other,#3d9a9c,#3fa1c5,1,0.057115512158860404
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0563409483772822
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0554574498384196
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
