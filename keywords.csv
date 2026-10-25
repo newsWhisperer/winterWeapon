@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2129841618210097
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.211173858222977
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2093791125021299
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2076851202061252
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.20675922614072365
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2028489409023859
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.2012188562967115
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2004412726923709
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaspreis',de,Gesellschaft,#6023a6,#5a158f,3,0.190331755250402
 'Wärmepumpe',de,Gesellschaft,#6023a6,#8122cb,3,0.1868820563193684
 'Erneuerbare Energie',de,Quelle,#3d9a9c,#34a7c3,3,0.1850424006968098
-'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.18489763678496365
+'Gas Ukraine',de,Russland,#a6190f,#b23325,3,0.1848976367849636
 'Bundesnetzagentur',de,Politik,#1f2dc4,#3451b9,3,0.1806166727447598
 'Erdgas Russland',de,Russland,#a6190f,#b32233,3,0.178308610171804
 'Energiepolitik',de,Politik,#1f2dc4,#2b2c8a,3,0.1780507834947
