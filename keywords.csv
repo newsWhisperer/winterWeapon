@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieknappheit',de,Other,#545557,#6b6c6e,2,0.0563409483772822
 'Energiewende Russland',de,Klimawandel,#578223,#235c35,1,0.0554574498384196
 'Winter frieren',de,Gesellschaft,#6023a6,#7d4e9d,1,0.0545964800297393
-'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.053269466621417634
+'milder Winter',de,Wetter,#2d8f29,#4ea64b,2,0.0532694666214176
 'Wintershall',de,Wirtschaft,#e6cd10,#b5a424,1,0.0525965092780967
 'Wintermonate',de,Wetter,#2d8f29,#28ba23,2,0.0513628453221272
 'Demonstration Energie',de,Gesellschaft,#503396,#6a259f,1,0.0510900622628842
@@ -136,8 +136,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP27 Russland',de,Klimawandel,#578223,#488223,1,0.0104871939210324
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0091908420618837
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0038542756555429
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0034894543739479
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0032008435136113
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0031160512178557147
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0024294805514894
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0022177138721586
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0018427915710353
