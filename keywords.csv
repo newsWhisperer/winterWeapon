@@ -71,7 +71,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1135866098334274
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
 'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1114958591871283
-'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.1098466529079513
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1084434650382776
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.1075491786718005
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1053664782706113
@@ -79,6 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'russisches Gas',de,Russland,#a6190f,#b32319,3,0.1011191148558195
 'Notfallplan Gas',de,Politik,#1f2dc4,#3b2caa,1,0.1004802486460315
 'Drohne Infrastruktur',de,Russland,#a6190f,#b32233,3,0.0976279164787622
+'Gasausstieg',de,Quelle,#3d9a9c,#3ebda3,2,0.09366968497175861
 'Strompreisbremse',de,Politik,#1f2dc4,#123aa6,1,0.093108807100983
 'Ölembargo',de,Politik,#1f2dc4,#193ea6,1,0.0921019255199563
 'Energie sparen',de,Gesellschaft,#6023a6,#3b159a,3,0.0906137254560842
@@ -137,7 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreisdeckel',de,Politik,#1f2dc4,#3b3c9a,1,0.0091908420618837
 'Kältetraining',de,Gesellschaft,#6023a6,#603a95,1,0.0038542756555429
 'Gasknappheit Stromausfall',de,Other,#545557,#5b6c7e,1,0.0032008435136113
-'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0031160512178557147
+'Kältewinter',de,Wetter,#2d8f29,#6baa4d,1,0.0031160512178557
 'Gasstreit',de,Other,#545557,#6b6c7e,1,0.0024294805514894
 'Gasembargo',de,Politik,#1f2dc4,#193ea6,1,0.0022177138721586
 'Stromabschaltung Stromversorgung',de,Other,#3d9a9c,#23a1d5,1,0.0018427915710353
