@@ -1,11 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gazprom',de,Russland,#a6190f,#A33223,3,0.2687190850772638
+'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,2,0.24492149530905905
 'Heizöl',de,Quelle,#3d9a9c,#3eadb3,3,0.2292413744828081
 'Energieversorgung',de,Other,#545557,#6b6c7e,3,0.2159599132429703
 'Blackout',de,Other,#545557,#6b6c6e,3,0.2129841618210097
 'Heizkosten',de,Gesellschaft,#6023a6,#7d3ebd,3,0.211173858222977
 'Energiekrise',de,Gesellschaft,#6023a6,#733ab5,3,0.2093791125021299
-'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.20675922614072365
+'Inflation',de,Gesellschaft,#6023a6,#6152fb,3,0.2067592261407236
 'LNG',de,Quelle,#3d9a9c,#14c7a3,3,0.2028489409023859
 'Gaslieferungen',de,Wirtschaft,#e6cd10,#968b38,2,0.2012188562967115
 'Energiepreise',de,Wirtschaft,#e6cd10,#d1bf49,3,0.2004412726923709
@@ -70,7 +71,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas Wirtschaft',de,Wirtschaft,#e6cd10,#abad17,3,0.1140965051372488
 'Russland Öltanker',de,Russland,#a6190f,#b25335,3,0.1135866098334274
 'Gaskonzern',de,Wirtschaft,#e6cd10,#d1d420,1,0.1115498785794349
-'Ölpreisdeckel',de,Politik,#1f2dc4,#193ea6,1,0.1114958591871283
 'kalter Winter',de,Wetter,#2d8f29,#186b15,2,0.1084434650382776
 'Notfallszenarien',de,Politik,#1f2dc4,#3441c9,1,0.1075491786718005
 'Gas Putin',de,Russland,#a6190f,#a31223,3,0.1053664782706113
